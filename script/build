@@ -123,7 +123,7 @@ getAddress = (select, document) ->
 
   address
 
-getTenKUrl = (symbol) ->
+downloadData = (symbol) ->
   options =
     uri: "http://www.sec.gov/cgi-bin/browse-edgar"
     qs:
@@ -152,7 +152,7 @@ getTenKUrl = (symbol) ->
         cash = getCash(reportDocument)
         earningsPerShare = getEarningPerShare(reportDocument)
         address = getAddress(select, document)
-        company = {symbol, name, profits, address, earningsPerShare, url: reportUrl, category}
+        company = {symbol, cash, name, profits, address, earningsPerShare, url: reportUrl, category}
         fs.writeFileSync(path.resolve(__dirname, '..', 'company', "#{symbol}.json"), JSON.stringify(company, null, 2))
 
         console.log name
@@ -162,11 +162,11 @@ getTenKUrl = (symbol) ->
         console.log cash
         console.log earningsPerShare
 
-createReport = (symbol) ->
+buildPage = (symbol) ->
   company = JSON.parse(fs.readFileSync(path.resolve(__dirname, '..', 'company', "#{symbol}.json")))
 
   template = Handlebars.compile(fs.readFileSync(path.resolve(__dirname, '..', 'company', 'company.hbs'), 'utf8'))
   fs.writeFileSync(path.resolve(__dirname, '..', 'company', "#{symbol}.html"), template(company))
 
-# getTenKUrl('orcl')
-createReport('orcl')
+# downloadData('orcl')
+buildPage('orcl')

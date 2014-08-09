@@ -25,6 +25,28 @@
         {{address.street1}}<br>
         {{address.city}}, {{address.state}} {{address.zip}}<br>
       </address>
+
+      <h2>Profits</h2>
+      <ul>
+        {{#each profits}}
+          <li>{{@key}}: ${{this}}</li>
+        {{/each}}
+      </ul>
+
+      <h2>Cash</h2>
+      <ul>
+        {{#each cash}}
+          <li>{{@key}}: ${{this}}</li>
+        {{/each}}
+      </ul>
+
+      <h2>Earnings Per Share</h2>
+      <ul>
+        {{#each earningsPerShare}}
+          <li>{{@key}}: ${{this}}</li>
+        {{/each}}
+      </ul>
+
     </div>
   </body>
 </html>
