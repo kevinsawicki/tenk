@@ -1,11 +1,12 @@
 #!/usr/bin/env coffee
 
-fs       = require 'fs-plus'
-Document = require('xmldom').DOMParser
-path     = require 'path'
-request  = require 'request'
-url      = require 'url'
-xpath    = require 'xpath'
+fs         = require 'fs-plus'
+Document   = require('xmldom').DOMParser
+Handlebars = require 'handlebars'
+path       = require 'path'
+request    = require 'request'
+url        = require 'url'
+xpath      = require 'xpath'
 
 currentYear = new Date().getFullYear()
 
@@ -161,4 +162,11 @@ getTenKUrl = (symbol) ->
         console.log cash
         console.log earningsPerShare
 
-getTenKUrl('orcl')
+createReport = (symbol) ->
+  company = JSON.parse(fs.readFileSync(path.resolve(__dirname, '..', 'companies', "#{symbol}.json")))
+
+  template = Handlebars.compile(fs.readFileSync(path.resolve(__dirname, '..', 'companies', 'company.hbs'), 'utf8'))
+  fs.writeFileSync(path.resolve(__dirname, '..', 'companies', "#{symbol}.html"), template(company))
+
+# getTenKUrl('orcl')
+createReport('orcl')
