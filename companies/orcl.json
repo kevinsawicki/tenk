@@ -12,5 +12,10 @@
     "state": "CA",
     "zip": "94065"
   },
+  "earningsPerShare": {
+    "2012": 1.99,
+    "2013": 2.29,
+    "2014": 2.42
+  },
   "url": "http://www.sec.gov/Archives/edgar/data/1341439/000119312514251351/orcl-20140531.xml"
 }
