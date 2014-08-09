@@ -153,7 +153,7 @@ getTenKUrl = (symbol) ->
         earningsPerShare = getEarningPerShare(reportDocument)
         address = getAddress(select, document)
         company = {symbol, name, profits, address, earningsPerShare, url: reportUrl, category}
-        fs.writeFileSync(path.resolve(__dirname, '..', 'companies', "#{symbol}.json"), JSON.stringify(company, null, 2))
+        fs.writeFileSync(path.resolve(__dirname, '..', 'company', "#{symbol}.json"), JSON.stringify(company, null, 2))
 
         console.log name
         console.log reportUrl
@@ -163,10 +163,10 @@ getTenKUrl = (symbol) ->
         console.log earningsPerShare
 
 createReport = (symbol) ->
-  company = JSON.parse(fs.readFileSync(path.resolve(__dirname, '..', 'companies', "#{symbol}.json")))
+  company = JSON.parse(fs.readFileSync(path.resolve(__dirname, '..', 'company', "#{symbol}.json")))
 
-  template = Handlebars.compile(fs.readFileSync(path.resolve(__dirname, '..', 'companies', 'company.hbs'), 'utf8'))
-  fs.writeFileSync(path.resolve(__dirname, '..', 'companies', "#{symbol}.html"), template(company))
+  template = Handlebars.compile(fs.readFileSync(path.resolve(__dirname, '..', 'company', 'company.hbs'), 'utf8'))
+  fs.writeFileSync(path.resolve(__dirname, '..', 'company', "#{symbol}.html"), template(company))
 
 # getTenKUrl('orcl')
 createReport('orcl')
