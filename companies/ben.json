@@ -1,0 +1,15 @@
+{
+  "symbol": "ben",
+  "name": "FRANKLIN RESOURCES INC",
+  "profits": {
+    "2011": 1923600000,
+    "2012": 1931400000,
+    "2013": 2150200000
+  },
+  "address": {
+    "street1": "ONE FRANKLIN PARKWAY",
+    "city": "SAN MATEO",
+    "state": "CA",
+    "zip": "94403"
+  }
+}

@@ -3,6 +3,7 @@
   "dependencies": {
     "request": "^2.40.0",
     "xpath": "0.0.7",
-    "xmldom": "^0.1.19"
+    "xmldom": "^0.1.19",
+    "fs-plus": "^2.2.6"
   }
 }

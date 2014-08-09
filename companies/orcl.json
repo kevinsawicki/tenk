@@ -1,0 +1,15 @@
+{
+  "symbol": "orcl",
+  "name": "ORACLE CORP",
+  "profits": {
+    "2012": 9981000000,
+    "2013": 10925000000,
+    "2014": 10955000000
+  },
+  "address": {
+    "street1": "500 ORACLE PARKWAY",
+    "city": "REDWOOD CITY",
+    "state": "CA",
+    "zip": "94065"
+  }
+}

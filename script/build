@@ -1,8 +1,10 @@
 #!/usr/bin/env coffee
 
+fs       = require 'fs-plus'
 Document = require('xmldom').DOMParser
-url      = require 'url'
+path     = require 'path'
 request  = require 'request'
+url      = require 'url'
 xpath    = require 'xpath'
 
 currentYear = new Date().getFullYear()
@@ -77,12 +79,12 @@ getAddress = (select, document) ->
 
   address
 
-getTenKUrl = (company) ->
+getTenKUrl = (symbol) ->
   options =
     uri: "http://www.sec.gov/cgi-bin/browse-edgar"
     qs:
       action: 'getcompany'
-      CIK:    company
+      CIK:    symbol
       count:  1
       output: 'atom'
       owner:  'exclude'
@@ -92,14 +94,21 @@ getTenKUrl = (company) ->
     document = new Document().parseFromString(body)
     select = xpath.useNamespaces(atom: 'http://www.w3.org/2005/Atom')
     filingHref = select("//atom:filing-href/text()", document)[0].toString()
+    name = select("//atom:conformed-name/text()", document)[0].toString()
     pageUrl = url.resolve(filingHref, '.')
 
     request pageUrl, (error, response, body='') ->
-      reportName = body.match(new RegExp("\"([^\"]*#{company.toLowerCase()}-\\d+\\.xml)\"", 'i'))[1]
+      reportName = body.match(new RegExp("\"([^\"]*#{symbol.toLowerCase()}-\\d+\\.xml)\"", 'i'))[1]
       reportUrl = url.resolve(pageUrl, reportName)
 
       request reportUrl, (error, response, body) ->
-        console.log getProfits(body)
-        console.log getAddress(select, document)
+        profits = getProfits(body)
+        address = getAddress(select, document)
+        company = {symbol, name, profits, address}
+        fs.writeFileSync(path.resolve(__dirname, '..', 'companies', "#{symbol}.json"), JSON.stringify(company, null, 2))
 
-getTenKUrl('ben')
+        console.log name
+        console.log address
+        console.log profits
+
+getTenKUrl('orcl')
