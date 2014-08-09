@@ -1,3 +1,7 @@
+.navbar-brand, .navbar-nav {
+  font-family: 'Special Elite', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+}
+
 .navbar {
   background: #DBD7D2;
 }
