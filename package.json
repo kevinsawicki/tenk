@@ -1,0 +1,8 @@
+{
+  "name": "tenk",
+  "dependencies": {
+    "request": "^2.40.0",
+    "xpath": "0.0.7",
+    "xmldom": "^0.1.19"
+  }
+}

@@ -1,0 +1,84 @@
+#!/usr/bin/env coffee
+
+Document = require('xmldom').DOMParser
+url      = require 'url'
+request  = require 'request'
+xpath    = require 'xpath'
+
+currentYear = new Date().getFullYear()
+
+isInLastFiveYears = (year) ->
+  currentYear - 5 <= year <= currentYear
+
+parseYear = (year) ->
+  year = parseInt(year)
+  return year if isInLastFiveYears(year)
+
+yearFromRange = (fromDate, toDate) ->
+  return if isNaN(fromDate)
+  return if isNaN(toDate)
+
+  day = 24 * 60 * 60 * 1000
+  days = (toDate - fromDate) / day
+  return unless 350 < days < 400
+
+  year = new Date(toDate).getFullYear()
+  return year if isInLastFiveYears(year)
+
+yearOfNode = (document, node) ->
+  contextRef = xpath.select('string(@contextRef)', node).toString()
+  return unless contextRef
+
+  [context] = xpath.select("//*[local-name()='context' and @id='#{contextRef}']", document)
+  if context
+    startDate = Date.parse(xpath.select("*[local-name()='period']/*[local-name()='startDate']/text()", context).toString())
+    endDate = Date.parse(xpath.select("*[local-name()='period']/*[local-name()='endDate']/text()", context).toString())
+    yearFromRange(startDate, endDate)
+
+getProfits = (xml) ->
+  document = new Document().parseFromString(xml)
+  profits = {}
+
+  elements = [
+    'NetIncomeLoss'
+    'NetIncomeLossAvailableToCommonStockholdersBasic'
+    'NetIncomeLossAvailableToCommonStockholdersDiluted'
+    'IncomeLossFromContinuingOperationsIncludingPortionAttributableToNoncontrollingInterest'
+    'ProfitLoss'
+    'IncomeLossAttributableToParent'
+  ]
+  for element in elements
+    nodes = xpath.select("//*[local-name()='#{element}']", document)
+    for node in nodes when node.prefix is 'us-gaap'
+      profit = parseFloat(node.firstChild?.data)
+      continue if isNaN(profit)
+
+      if year = yearOfNode(document, node)
+        profits[year] ?= profit
+
+  profits
+
+getTenKUrl = (company) ->
+  options =
+    uri: "http://www.sec.gov/cgi-bin/browse-edgar"
+    qs:
+      action: 'getcompany'
+      CIK:    company
+      count:  1
+      output: 'atom'
+      owner:  'exclude'
+      type:   '10-K'
+
+  request.get options, (error, response, body='') ->
+    document = new Document().parseFromString(body)
+    filingHref = xpath.select("//*[local-name()='filing-href']/text()", document)[0].toString()
+    pageUrl = url.resolve(filingHref, '.')
+
+    request pageUrl, (error, response, body='') ->
+      reportName = body.match(new RegExp("\"([^\"]*#{company.toLowerCase()}-\\d+\\.xml)\"", 'i'))[1]
+      reportUrl = url.resolve(pageUrl, reportName)
+
+      request reportUrl, (error, response, body) ->
+        console.log getProfits(body)
+
+getTenKUrl('ben')
