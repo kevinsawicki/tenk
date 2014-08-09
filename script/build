@@ -27,6 +27,12 @@ yearFromRange = (fromDate, toDate) ->
   year = new Date(toDate).getFullYear()
   return year if isInLastFiveYears(year)
 
+yearFromDate = (date) ->
+  return if isNaN(date)
+
+  year = new Date(date).getFullYear()
+  return year if isInLastFiveYears(year)
+
 yearOfNode = (document, node) ->
   contextRef = xpath.select('string(@contextRef)', node).toString()
   return unless contextRef
@@ -35,10 +41,13 @@ yearOfNode = (document, node) ->
   if context
     startDate = Date.parse(xpath.select("*[local-name()='period']/*[local-name()='startDate']/text()", context).toString())
     endDate = Date.parse(xpath.select("*[local-name()='period']/*[local-name()='endDate']/text()", context).toString())
-    yearFromRange(startDate, endDate)
+    if year = yearFromRange(startDate, endDate)
+      return year
 
-getProfits = (xml) ->
-  document = new Document().parseFromString(xml)
+    instant = Date.parse(xpath.select("*[local-name()='period']/*[local-name()='instant']/text()", context).toString())
+    yearFromDate(instant)
+
+getProfits = (document) ->
   profits = {}
 
   elements = [
@@ -59,6 +68,23 @@ getProfits = (xml) ->
         profits[year] ?= profit
 
   profits
+
+getCash = (document) ->
+  cashes = {}
+
+  elements = [
+    'CashAndCashEquivalentsAtCarryingValue'
+  ]
+  for element in elements
+    nodes = xpath.select("//*[local-name()='#{element}']", document)
+    for node in nodes when node.prefix is 'us-gaap'
+      cash = parseFloat(node.firstChild?.data)
+      continue if isNaN(cash)
+
+      if year = yearOfNode(document, node)
+        cashes[year] ?= cash
+
+  cashes
 
 getAddress = (select, document) ->
   address = {}
@@ -102,13 +128,17 @@ getTenKUrl = (symbol) ->
       reportUrl = url.resolve(pageUrl, reportName)
 
       request reportUrl, (error, response, body) ->
-        profits = getProfits(body)
+        reportDocument = new Document().parseFromString(body)
+        profits = getProfits(reportDocument)
+        cash = getCash(reportDocument)
         address = getAddress(select, document)
-        company = {symbol, name, profits, address}
+        company = {symbol, name, profits, address, url: reportUrl}
         fs.writeFileSync(path.resolve(__dirname, '..', 'companies', "#{symbol}.json"), JSON.stringify(company, null, 2))
 
         console.log name
+        console.log reportUrl
         console.log address
         console.log profits
+        console.log cash
 
 getTenKUrl('orcl')
