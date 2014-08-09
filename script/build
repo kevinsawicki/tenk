@@ -58,6 +58,25 @@ getProfits = (xml) ->
 
   profits
 
+getAddress = (select, document) ->
+  address = {}
+
+  [addressElement] = select('//atom:company-info/atom:addresses/atom:address[@type=\'business\']', document)
+  if not addressElement? or select('count(*)', addressElement) is 0
+    [addressElement] = select('//atom:company-info/atom:addresses/atom:address[@type=\'mailing\']', document)
+
+  address.street1 = select('atom:street1/text()', addressElement).toString()
+  street2 = select('atom:street2/text()', addressElement).toString()
+  if street2 and street2 isnt address.street1
+    address.street2 = street2
+
+  address.city = select('atom:city/text()', addressElement).toString()
+  address.state = select('atom:state/text()', addressElement).toString()
+  if zip = select('atom:zip/text()', addressElement).toString()
+    address.zip = zip
+
+  address
+
 getTenKUrl = (company) ->
   options =
     uri: "http://www.sec.gov/cgi-bin/browse-edgar"
@@ -71,7 +90,8 @@ getTenKUrl = (company) ->
 
   request.get options, (error, response, body='') ->
     document = new Document().parseFromString(body)
-    filingHref = xpath.select("//*[local-name()='filing-href']/text()", document)[0].toString()
+    select = xpath.useNamespaces(atom: 'http://www.w3.org/2005/Atom')
+    filingHref = select("//atom:filing-href/text()", document)[0].toString()
     pageUrl = url.resolve(filingHref, '.')
 
     request pageUrl, (error, response, body='') ->
@@ -80,5 +100,6 @@ getTenKUrl = (company) ->
 
       request reportUrl, (error, response, body) ->
         console.log getProfits(body)
+        console.log getAddress(select, document)
 
 getTenKUrl('ben')
