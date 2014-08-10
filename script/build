@@ -5,6 +5,7 @@ Handlebars = require 'handlebars'
 path       = require 'path'
 
 Handlebars.registerHelper 'google_map', ->
+  url = "https://www.google.com/maps/embed/v1/place"
   key = 'AIzaSyD4GWPKpSy_j68tCxxTjIhtxURnRwmdCdw'
   zoom = 10
   q = @address.street1
@@ -13,8 +14,9 @@ Handlebars.registerHelper 'google_map', ->
   q += " #{@address.state}"
   q += " #{@address.zip}" if @address.zip
   q = encodeURIComponent(q)
+
   new Handlebars.SafeString """
-    <iframe frameborder="0" class="google-map" src="https://www.google.com/maps/embed/v1/place?q=#{q}&key=#{key}&zoom=#{zoom}"></iframe>
+    <iframe frameborder="0" class="google-map" src="#{url}?q=#{q}&key=#{key}&zoom=#{zoom}"></iframe>
   """
 
 template = Handlebars.compile(fs.readFileSync(path.resolve(__dirname, '..', 'company', 'company.hbs'), 'utf8'))
