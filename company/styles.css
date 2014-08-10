@@ -17,3 +17,9 @@
 body {
   background: #F5F1EC;
 }
+
+.google-map {
+  border: 0;
+  height: 300px;
+  width: 100%;
+}

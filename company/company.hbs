@@ -21,11 +21,12 @@
 
     <div class="container">
       <h1>{{name}}</h1>
-      <address>
-        {{address.street1}}<br>
-        {{address.city}}, {{address.state}} {{address.zip}}<br>
-      </address>
 
+      <div class="row">
+        <div class="col-md-6 col-lg-6">{{google_map}}</div>
+      </div>
+
+      <br>
       <a href="{{htmlUrl}}">View official 10-K on sec.gov</a>
       <br>
       <a href="{{xmlUrl}}">Download XML from sec.gov</a>
