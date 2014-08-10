@@ -7,11 +7,11 @@
 }
 
 .navbar a {
-  color: #576777;
+  color: #222;
 }
 
 .navbar a:hover {
-  color: #3D4D5D;
+  color: #000;
 }
 
 body {
