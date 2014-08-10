@@ -1,5 +1,7 @@
 #!/usr/bin/env coffee
 
+_          = require 'underscore'
+async      = require 'async'
 fs         = require 'fs-plus'
 Document   = require('xmldom').DOMParser
 Handlebars = require 'handlebars'
@@ -123,13 +125,30 @@ getAddress = (select, document) ->
 
   address
 
-downloadData = (symbol) ->
+downloadTenK = ({pageUrl, symbol}, callback) ->
+  request pageUrl, (error, response, body='') ->
+    reportName = body.match(new RegExp("\"([^\"]*#{symbol.toLowerCase()}-\\d+\\.xml)\"", 'i'))?[1]
+    return callback(null, {}) unless reportName
+
+    xmlUrl = url.resolve(pageUrl, reportName)
+    request xmlUrl, (error, response, body) ->
+      return callback(error) if error?
+      if response.statusCode isnt 200
+        return callback(new Error("Request to #{xmlUrl} failed: #{response.statusCode}"))
+
+      reportDocument = new Document().parseFromString(body)
+      cash = getCash(reportDocument)
+      earningsPerShare = getEarningPerShare(reportDocument)
+      profit = getProfits(reportDocument)
+      callback(null, {cash, earningsPerShare, profit, xmlUrl})
+
+getTenKFeed = (symbol, callback) ->
   options =
     uri: "http://www.sec.gov/cgi-bin/browse-edgar"
     qs:
       action: 'getcompany'
       CIK:    symbol
-      count:  1
+      count:  10
       output: 'atom'
       owner:  'exclude'
       type:   '10-K'
@@ -137,31 +156,29 @@ downloadData = (symbol) ->
   request.get options, (error, response, body='') ->
     document = new Document().parseFromString(body)
     select = xpath.useNamespaces(atom: 'http://www.w3.org/2005/Atom')
-    htmlUrl = select("//atom:filing-href/text()", document)[0].toString()
+    callback(null, document, select)
+
+downloadSymbol = (symbol) ->
+  getTenKFeed symbol, (error, document, select) ->
     name = select("//atom:conformed-name/text()", document)[0].toString()
     category = select("//atom:assigned-sic-desc/text()", document)[0].toString()
-    pageUrl = url.resolve(htmlUrl, '.')
+    address = getAddress(select, document)
 
-    request pageUrl, (error, response, body='') ->
-      reportName = body.match(new RegExp("\"([^\"]*#{symbol.toLowerCase()}-\\d+\\.xml)\"", 'i'))[1]
-      xmlUrl = url.resolve(pageUrl, reportName)
+    urlsToDownload = select("//atom:filing-href/text()", document).map (htmlUrl) ->
+      pageUrl: url.resolve(htmlUrl.toString(), '.')
+      symbol: symbol
 
-      request xmlUrl, (error, response, body) ->
-        reportDocument = new Document().parseFromString(body)
-        profits = getProfits(reportDocument)
-        cash = getCash(reportDocument)
-        earningsPerShare = getEarningPerShare(reportDocument)
-        address = getAddress(select, document)
-        company = {symbol, name, category, xmlUrl, htmlUrl, cash, profits, address, earningsPerShare}
+    async.map urlsToDownload.reverse(), downloadTenK, (error, data) ->
+      if error?
+        console.error(error)
+      else
+        profit = _.extend({}, _.pluck(data, 'profit')...)
+        cash = _.extend({}, _.pluck(data, 'cash')...)
+        earningsPerShare = _.extend({}, _.pluck(data, 'earningsPerShare')...)
+        company = {symbol, name, category, address, profit, cash, earningsPerShare}
+        company.htmlUrl = select("//atom:filing-href/text()", document)[0].toString()
+        company.xmlUrl = _.last(data).xmlUrl
         fs.writeFileSync(path.resolve(__dirname, '..', 'company', "#{symbol}.json"), JSON.stringify(company, null, 2))
-
-        console.log name
-        console.log xmlUrl
-        console.log htmlUrl
-        console.log address
-        console.log profits
-        console.log cash
-        console.log earningsPerShare
 
 buildPage = (symbol) ->
   company = JSON.parse(fs.readFileSync(path.resolve(__dirname, '..', 'company', "#{symbol}.json")))
@@ -169,5 +186,5 @@ buildPage = (symbol) ->
   template = Handlebars.compile(fs.readFileSync(path.resolve(__dirname, '..', 'company', 'company.hbs'), 'utf8'))
   fs.writeFileSync(path.resolve(__dirname, '..', 'company', "#{symbol}.html"), template(company))
 
-# downloadData('orcl')
+downloadSymbol('orcl')
 buildPage('orcl')
