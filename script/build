@@ -137,26 +137,27 @@ downloadData = (symbol) ->
   request.get options, (error, response, body='') ->
     document = new Document().parseFromString(body)
     select = xpath.useNamespaces(atom: 'http://www.w3.org/2005/Atom')
-    filingHref = select("//atom:filing-href/text()", document)[0].toString()
+    htmlUrl = select("//atom:filing-href/text()", document)[0].toString()
     name = select("//atom:conformed-name/text()", document)[0].toString()
     category = select("//atom:assigned-sic-desc/text()", document)[0].toString()
-    pageUrl = url.resolve(filingHref, '.')
+    pageUrl = url.resolve(htmlUrl, '.')
 
     request pageUrl, (error, response, body='') ->
       reportName = body.match(new RegExp("\"([^\"]*#{symbol.toLowerCase()}-\\d+\\.xml)\"", 'i'))[1]
-      reportUrl = url.resolve(pageUrl, reportName)
+      xmlUrl = url.resolve(pageUrl, reportName)
 
-      request reportUrl, (error, response, body) ->
+      request xmlUrl, (error, response, body) ->
         reportDocument = new Document().parseFromString(body)
         profits = getProfits(reportDocument)
         cash = getCash(reportDocument)
         earningsPerShare = getEarningPerShare(reportDocument)
         address = getAddress(select, document)
-        company = {symbol, cash, name, profits, address, earningsPerShare, url: reportUrl, category}
+        company = {symbol, name, category, xmlUrl, htmlUrl, cash, profits, address, earningsPerShare}
         fs.writeFileSync(path.resolve(__dirname, '..', 'company', "#{symbol}.json"), JSON.stringify(company, null, 2))
 
         console.log name
-        console.log reportUrl
+        console.log xmlUrl
+        console.log htmlUrl
         console.log address
         console.log profits
         console.log cash

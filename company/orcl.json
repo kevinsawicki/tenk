@@ -1,12 +1,15 @@
 {
   "symbol": "orcl",
+  "name": "ORACLE CORP",
+  "category": "SERVICES-PREPACKAGED SOFTWARE",
+  "xmlUrl": "http://www.sec.gov/Archives/edgar/data/1341439/000119312514251351/orcl-20140531.xml",
+  "htmlUrl": "http://www.sec.gov/Archives/edgar/data/1341439/000119312514251351/0001193125-14-251351-index.htm",
   "cash": {
     "2011": 16163000000,
     "2012": 14955000000,
     "2013": 14613000000,
     "2014": 17769000000
   },
-  "name": "ORACLE CORP",
   "profits": {
     "2012": 9981000000,
     "2013": 10925000000,
@@ -22,7 +25,5 @@
     "2012": 1.99,
     "2013": 2.29,
     "2014": 2.42
-  },
-  "url": "http://www.sec.gov/Archives/edgar/data/1341439/000119312514251351/orcl-20140531.xml",
-  "category": "SERVICES-PREPACKAGED SOFTWARE"
+  }
 }
