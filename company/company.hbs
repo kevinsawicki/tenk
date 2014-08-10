@@ -34,6 +34,11 @@
       <a href="./{{symbol}}.json">Download JSON</a>
 
       <h2>Profits</h2>
+
+      <div class="row">
+        <div class="col-md-8 col-lg-8">{{profit_graph}}</div>
+      </div>
+
       <ul>
         {{#each profit}}
           <li>{{@key}}: ${{this}}</li>
