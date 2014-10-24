@@ -1,5 +1,9 @@
 {
   "name": "tenk",
+  "repository": {
+    "url": "https://github.com/kevinsawicki/tenk.git",
+    "type": "git"
+  },
   "dependencies": {
     "request": "^2.40.0",
     "xpath": "0.0.7",
