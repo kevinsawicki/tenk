@@ -5,13 +5,14 @@
     "type": "git"
   },
   "dependencies": {
-    "request": "^2.40.0",
-    "xpath": "0.0.7",
-    "xmldom": "^0.1.19",
+    "async": "^0.9.0",
+    "coffee-script": "^1.8.0",
+    "d3": "^3.4.11",
     "fs-plus": "^2.2.6",
     "handlebars": "^2.0.0-alpha.4",
-    "async": "^0.9.0",
+    "request": "^2.40.0",
     "underscore": "^1.6.0",
-    "d3": "^3.4.11"
+    "xmldom": "^0.1.19",
+    "xpath": "0.0.7"
   }
 }
