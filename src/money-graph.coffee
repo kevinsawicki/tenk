@@ -4,7 +4,7 @@ xmldom     = require 'xmldom'
 
 module.exports = ({data, cssClass}) ->
   width = 960
-  widthPadding = 40
+  widthPadding = 60
   height = 480
   heightPadding = 20
 
