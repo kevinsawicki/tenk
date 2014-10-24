@@ -39,6 +39,14 @@ svg {
   fill: #FFBA00;
 }
 
+.bar.cash {
+  fill: #10926E;
+}
+
+.bar.eps {
+  fill: #9C805E;
+}
+
 .axis path,
 .axis line {
   fill: none;
