@@ -29,3 +29,7 @@ svg {
   height: 300px;
   margin: 10px;
 }
+
+.heading {
+  font-family: 'Oxygen', serif;
+}
