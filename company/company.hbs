@@ -33,31 +33,22 @@
       <br>
       <a href="./{{symbol}}.json">Download JSON</a>
 
-      <h2>Profits</h2>
-
       <div class="row">
-        <div class="col-md-8 col-lg-8">{{profit_graph}}</div>
+        <div class="col-md-4 col-lg-4">
+          <h2>Profits</h2>
+          {{profit_graph}}
+        </div>
+
+        <div class="col-md-4 col-lg-4">
+          <h2>Cash</h2>
+          {{cash_graph}}
+        </div>
+
+        <div class="col-md-4 col-lg-4">
+          <h2>Earnings Per Share</h2>
+          {{eps_graph}}
+        </div>
       </div>
-
-      <ul>
-        {{#each profit}}
-          <li>{{@key}}: ${{this}}</li>
-        {{/each}}
-      </ul>
-
-      <h2>Cash</h2>
-      <ul>
-        {{#each cash}}
-          <li>{{@key}}: ${{this}}</li>
-        {{/each}}
-      </ul>
-
-      <h2>Earnings Per Share</h2>
-      <ul>
-        {{#each earningsPerShare}}
-          <li>{{@key}}: ${{this}}</li>
-        {{/each}}
-      </ul>
 
     </div>
   </body>
