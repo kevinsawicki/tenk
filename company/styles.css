@@ -34,3 +34,18 @@ svg {
   font-family: 'Oxygen', serif;
   text-align: center;
 }
+
+.bar.profit {
+  fill: #FFBA00;
+}
+
+.axis path,
+.axis line {
+  fill: none;
+  stroke: #333;
+  shape-rendering: crispEdges;
+}
+
+.x.axis path {
+  display: none;
+}
