@@ -4,6 +4,8 @@ fs         = require 'fs-plus'
 Handlebars = require 'handlebars'
 path       = require 'path'
 
+Handlebars.registerHelper 'cash_graph', require('../src/cash-graph')
+Handlebars.registerHelper 'eps_graph', require('../src/eps-graph')
 Handlebars.registerHelper 'google_map', require('../src/google-map')
 Handlebars.registerHelper 'profit_graph', require('../src/profit-graph')
 
