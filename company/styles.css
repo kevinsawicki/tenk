@@ -30,7 +30,11 @@ svg {
   margin: 10px;
 }
 
-.heading {
+.company-heading {
+  font-family: 'Oxygen', serif;
+}
+
+.graph-heading {
   font-family: 'Oxygen', serif;
   text-align: center;
 }
