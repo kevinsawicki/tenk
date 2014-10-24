@@ -4,7 +4,9 @@ xmldom     = require 'xmldom'
 
 module.exports = ({data, cssClass}) ->
   width = 960
+  widthPadding = 40
   height = 480
+  heightPadding = 20
 
   values = []
   values.push({year, value}) for year, value of data
@@ -20,7 +22,7 @@ module.exports = ({data, cssClass}) ->
   svg = d3.select('body')
     .html('')
     .append('svg')
-      .attr('viewBox', "0 0 #{width+40} #{height+20}")
+      .attr('viewBox', "0 0 #{width+widthPadding} #{height+heightPadding}")
     .append("g")
 
   x.domain(values.map ({year}) -> year)
@@ -28,12 +30,12 @@ module.exports = ({data, cssClass}) ->
 
   svg.append("g")
     .attr("class", "x axis")
-    .attr("transform", "translate(0," + height + ")")
+    .attr("transform", "translate(0,#{height})")
     .call(xAxis)
 
   svg.append("g")
     .attr("class", "y axis")
-    .attr("transform", "translate(" + width + ",0)")
+    .attr("transform", "translate(#{width},0)")
     .call(yAxis);
 
   svg.selectAll(cssClass)
