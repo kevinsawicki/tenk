@@ -3,10 +3,10 @@ Handlebars = require 'handlebars'
 xmldom     = require 'xmldom'
 
 module.exports = ({data, cssClass}) ->
-  width = 960
-  widthPadding = 60
-  height = 480
-  heightPadding = 20
+  width = 450
+  widthPadding = 50
+  height = 300
+  heightPadding = 50
 
   values = []
   values.push({year, value}) for year, value of data
