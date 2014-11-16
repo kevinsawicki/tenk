@@ -4,6 +4,9 @@
     "url": "https://github.com/kevinsawicki/tenk.git",
     "type": "git"
   },
+  "scripts": {
+    "start": "node node_modules/serve/bin/serve"
+  },
   "dependencies": {
     "async": "^0.9.0",
     "coffee-script": "^1.8.0",
@@ -11,6 +14,7 @@
     "fs-plus": "^2.2.6",
     "handlebars": "^2.0.0-alpha.4",
     "request": "^2.40.0",
+    "serve": "^1.4.0",
     "underscore": "^1.6.0",
     "xmldom": "^0.1.19",
     "xpath": "0.0.7"
