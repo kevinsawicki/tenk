@@ -1,0 +1,34 @@
+{
+  "symbol": "goog",
+  "name": "Google Inc.",
+  "category": "SERVICES-COMPUTER PROGRAMMING, DATA PROCESSING, ETC.",
+  "address": {
+    "street1": "1600 AMPHITHEATRE PARKWAY",
+    "city": "MOUNTAIN VIEW",
+    "state": "CA",
+    "zip": "94043"
+  },
+  "profit": {
+    "2009": 6520000000,
+    "2010": 8505000000,
+    "2011": 9737000000,
+    "2012": 10737000000,
+    "2013": 12920000000
+  },
+  "cash": {
+    "2009": 10198000000,
+    "2010": 13630000000,
+    "2011": 9983000000,
+    "2012": 14778000000,
+    "2013": 18898000000
+  },
+  "earningsPerShare": {
+    "2009": 20.62,
+    "2010": 26.69,
+    "2011": 30.17,
+    "2012": 32.81,
+    "2013": 38.82
+  },
+  "htmlUrl": "http://www.sec.gov/Archives/edgar/data/1288776/000128877614000020/0001288776-14-000020-index.htm",
+  "xmlUrl": "http://www.sec.gov/Archives/edgar/data/1288776/000128877614000020/goog-20131231.xml"
+}
