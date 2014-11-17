@@ -216,4 +216,4 @@ queue = async.queue (company, callback) ->
     callback(error)
 
 queue.push(company) for company in companies
-queue.concurrency = 1
+queue.concurrency = 25
