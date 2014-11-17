@@ -16,8 +16,12 @@ module.exports = ({data, cssClass}) ->
 
   xAxis = d3.svg.axis().scale(x).orient("bottom")
   moneyFormat = d3.format('$s')
+  subOneMoneyFormat = d3.format('$g')
   yAxis = d3.svg.axis().scale(y).orient("right").ticks(10).tickFormat (amount) ->
-    moneyFormat(amount).replace(/G/gi, 'B')
+    if amount < 1
+      subOneMoneyFormat(amount)
+    else
+      moneyFormat(amount).replace(/G/gi, 'B')
 
   svg = d3.select('body')
     .html('')
