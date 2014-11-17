@@ -200,9 +200,14 @@ writeCompany = (company, callback) ->
   companyJson = JSON.stringify(company, null, 2)
   fs.writeFile(companyPath, companyJson, callback)
 
+
 companies = JSON.parse(fs.readFileSync('companies.json'))
 companies.forEach (company) -> company.symbol = company.symbol.toLowerCase()
-companies = companies.filter ({symbol}) -> not fs.isFileSync(path.resolve(__dirname, '..', 'company', "#{symbol}.json"))
+
+if process.argv[2]
+  companies = companies.filter ({symbol}) -> symbol is process.argv[2]
+else
+  companies = companies.filter ({symbol}) -> not fs.isFileSync(path.resolve(__dirname, '..', 'company', "#{symbol}.json"))
 
 progress = new Progress('Download 10-K reports :current/:total [:bar] :percent :eta seconds remaining', {
   incomplete: ' '
