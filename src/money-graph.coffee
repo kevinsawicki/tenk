@@ -18,7 +18,7 @@ module.exports = ({data, cssClass}) ->
   moneyFormat = d3.format('$s')
   subOneMoneyFormat = d3.format('$g')
   yAxis = d3.svg.axis().scale(y).orient("right").ticks(10).tickFormat (amount) ->
-    if amount < 1
+    if -1 < amount < 1
       subOneMoneyFormat(amount)
     else
       moneyFormat(amount).replace(/G/gi, 'B')
