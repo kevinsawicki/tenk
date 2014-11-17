@@ -15,10 +15,15 @@
 }
 
 .navbar-icon {
+  background-image: url("/dime.png");
+  background-position: left top;
+  background-repeat: no-repeat;
+  background-size: cover;
   margin-top: -7px;
   margin-right: 5px;
   width: 32px;
   height: 32px;
+  vertical-align: middle;
   display: inline-block;
 }
 
