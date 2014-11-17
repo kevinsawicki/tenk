@@ -44,50 +44,11 @@ downloadExchange = (exchange, callback) ->
 
     callback(null, symbols)
 
-# Get the company id for a ticker symbol
-idForSymbol = (symbol, callback) ->
-  url = "http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&output=atom&start=0&count=1&CIK=#{symbol}"
-  request url, (error, response, body) ->
-    return callback(error) if error?
-
-    if response.headers['content-type'] is 'application/atom+xml'
-      dom = new DOMParser().parseFromString(body)
-      select = xpath.useNamespaces(atom: 'http://www.w3.org/2005/Atom')
-      id = parseInt(select('//atom:cik/text()', dom).toString())
-      if id < 0
-        callback(new Error("Negative id for #{symbol}: #{id}"))
-      else if isFinite(id)
-        callback(null, id)
-      else
-        callback(new Error("Non-finite id for #{symbol}: #{id}"))
-    else
-      callback(new Error("Non-XML response for #{symbol}: response.headers['content-type']"))
-
 downloadCompanies (error, companies) ->
-  return if error?
+  companies = companies.filter ({symbol}) -> symbol
+  companies.forEach (company) ->
+    delete company.sector   if company.sector is 'n/a'
+    delete company.industry if company.industry is 'n/a'
 
-  progress = new ProgressBar('Mapping symbols to ids for :current/:total companies [:bar] :percent :eta seconds remaining', {
-    incomplete: ' '
-    width: 20
-    total: companies.length
-  })
-
-  queue = async.queue (company, callback) ->
-    idForSymbol company.symbol, (error, id) ->
-      progress.tick(1)
-      return callback(error) if error?
-
-      if id
-        company.id = id
-        delete company.ipoYear unless company.ipoYear
-        companiesJson = JSON.stringify(companies, null, 2)
-        fs.writeFileSync('companies.json', companiesJson)
-
-      callback()
-
-  queue.push(company) for company in companies
-  queue.concurrency = 25
-  queue.drain = ->
-    companies = companies.filter ({id}) -> id > 0
-    companiesJson = JSON.stringify(companies, null, 2)
-    fs.writeFileSync('companies.json', companiesJson)
+  companiesJson = JSON.stringify(companies, null, 2)
+  fs.writeFileSync('companies.json', companiesJson)
