@@ -6,6 +6,7 @@ fs         = require 'fs-plus'
 Document   = require('xmldom').DOMParser
 Handlebars = require 'handlebars'
 path       = require 'path'
+Progress   = require 'progress'
 request    = require 'request'
 url        = require 'url'
 xpath      = require 'xpath'
@@ -137,6 +138,7 @@ downloadTenK = ({pageUrl, symbol}, callback) ->
         return callback(new Error("Request to #{xmlUrl} failed: #{response.statusCode}"))
 
       reportDocument = new Document().parseFromString(body)
+
       cash = getCash(reportDocument)
       earningsPerShare = getEarningPerShare(reportDocument)
       profit = getProfits(reportDocument)
@@ -154,33 +156,64 @@ getTenKFeed = (symbol, callback) ->
       type:   '10-K'
 
   request.get options, (error, response, body='') ->
+    return callback(error) if error?
+
+    if response.headers['content-type'] isnt 'application/atom+xml'
+      return callback(new Error("Non-XML feed returned for #{symbol}: #{response.headers['content-type']}"))
+
     document = new Document().parseFromString(body)
     select = xpath.useNamespaces(atom: 'http://www.w3.org/2005/Atom')
     callback(null, document, select)
 
-downloadSymbol = (symbol) ->
-  getTenKFeed symbol, (error, document, select) ->
-    name = select("//atom:conformed-name/text()", document)[0].toString()
-    category = select("//atom:assigned-sic-desc/text()", document)[0].toString()
+downloadSymbol = (company, callback) ->
+  getTenKFeed company.symbol, (error, document, select) ->
+    return callback(error) if error?
+
+    hrefs = select("//atom:filing-href/text()", document)
+    if hrefs.length is 0
+      return callback(new Error("No 10-K submissions for #{company.symbol}"))
+
     address = getAddress(select, document)
 
-    urlsToDownload = select("//atom:filing-href/text()", document).map (htmlUrl) ->
+    urlsToDownload = hrefs.map (htmlUrl) ->
       pageUrl: url.resolve(htmlUrl.toString(), '.')
-      symbol: symbol
+      symbol: company.symbol
 
     async.map urlsToDownload.reverse(), downloadTenK, (error, data) ->
-      if error?
-        console.error(error)
-      else
-        profit = _.extend({}, _.pluck(data, 'profit')...)
-        cash = _.extend({}, _.pluck(data, 'cash')...)
-        earningsPerShare = _.extend({}, _.pluck(data, 'earningsPerShare')...)
-        company = {symbol, name, category, address, profit, cash, earningsPerShare}
-        company.htmlUrl = select("//atom:filing-href/text()", document)[0].toString()
-        company.xmlUrl = _.last(data).xmlUrl
-        fs.writeFileSync(path.resolve(__dirname, '..', 'company', "#{symbol}.json"), JSON.stringify(company, null, 2))
+      return callback(error) if error?
 
-if symbol = process.argv[2]
-  downloadSymbol(symbol)
-else
-  console.error('Symbol argument required.')
+      profit = _.extend({}, _.pluck(data, 'profit')...)
+      cash = _.extend({}, _.pluck(data, 'cash')...)
+      earningsPerShare = _.extend({}, _.pluck(data, 'earningsPerShare')...)
+
+      company.category = select("//atom:assigned-sic-desc/text()", document)[0].toString()
+      company.address = address
+      company.profit = profit
+      company.cash = cash
+      company.earningsPerShare = earningsPerShare
+      company.htmlUrl = select("//atom:filing-href/text()", document)[0].toString()
+      company.xmlUrl = _.last(data).xmlUrl
+      writeCompany(company, callback)
+
+writeCompany = (company, callback) ->
+  companyPath = path.resolve(__dirname, '..', 'company', "#{company.symbol}.json")
+  companyJson = JSON.stringify(company, null, 2)
+  fs.writeFile(companyPath, companyJson, callback)
+
+companies = JSON.parse(fs.readFileSync('companies.json'))
+companies.forEach (company) -> company.symbol = company.symbol.toLowerCase()
+companies = companies.filter ({symbol}) -> not fs.isFileSync(path.resolve(__dirname, '..', 'company', "#{symbol}.json"))
+
+progress = new Progress('Download 10-K reports :current/:total [:bar] :percent :eta seconds remaining', {
+  incomplete: ' '
+  width: 20
+  total: companies.length
+})
+
+queue = async.queue (company, callback) ->
+  downloadSymbol company, (error) ->
+    progress.tick(1)
+    callback(error)
+
+queue.push(company) for company in companies
+queue.concurrency = 1
