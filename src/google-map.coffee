@@ -4,13 +4,15 @@ module.exports = ->
   url = "https://maps.googleapis.com/maps/api/staticmap"
   key = 'AIzaSyCCqr8B1aob1jObVpkEHyg0aLFTd3t337k'
   zoom = 8
-  q = @address.street1
-  q += " #{@address.street2}" if @address.street2
-  q += " #{@address.city}"
-  q += " #{@address.state}"
-  q += " #{@address.zip}" if @address.zip
-  q = encodeURIComponent(q)
+  height = 300
+  width = 350
+  markers = @address.street1
+  markers += " #{@address.street2}" if @address.street2
+  markers += " #{@address.city}"
+  markers += " #{@address.state}"
+  markers += " #{@address.zip}" if @address.zip
+  markers = encodeURIComponent(q)
 
   new Handlebars.SafeString """
-    <img class="google-map" src="https://maps.googleapis.com/maps/api/staticmap?markers=#{q}&zoom=#{zoom}&size=350x300&scale=2&key=#{key}">
+    <img class="google-map" src="#{url}?markers=#{markers}&zoom=#{zoom}&size=#{width}x#{height}&scale=2&key=#{key}">
   """
