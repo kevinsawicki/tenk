@@ -26,6 +26,7 @@ module.exports = ({data, cssClass}) ->
   svg = d3.select('body')
     .html('')
     .append('svg')
+      .attr('class', 'money-graph')
       .attr('viewBox', "0 0 #{width+widthPadding} #{height+heightPadding}")
     .append("g")
 

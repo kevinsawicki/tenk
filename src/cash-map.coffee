@@ -6,9 +6,7 @@ xmldom     = require 'xmldom'
 
 module.exports = ->
   width = 960
-  widthPadding = 50
   height = 500
-  heightPadding = 50
 
   projection = d3.geo.albersUsa().scale(1000).translate([width / 2, height / 2])
 
@@ -17,7 +15,8 @@ module.exports = ->
   svg = d3.select('body')
     .html('')
     .append('svg')
-      .attr('viewBox', "0 0 #{width+widthPadding} #{height+heightPadding}")
+      .attr('class', 'map-graph')
+      .attr('viewBox', "0 0 #{width} #{height}")
 
   svg.insert('path', '.graticule')
     .datum(topojson.feature(us, us.objects.land))
