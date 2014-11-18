@@ -78,6 +78,7 @@ getCash = (document) ->
 
   elements = [
     'CashAndCashEquivalentsAtCarryingValue'
+    'CashAndCashEquivalentsAtCarryingValueIncludingDiscontinuedOperations'
   ]
   for element in elements
     nodes = xpath.select("//*[local-name()='#{element}']", document)
