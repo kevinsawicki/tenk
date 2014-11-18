@@ -8,14 +8,23 @@
     <title>tenk.us</title>
   </head>
   <body>
-    <div class="container">
-      <div class="header-container">
-        <img src="dime.png" class="header-icon">
-        <h3 class="text-center">tenk.us</h3>
+    <nav class="navbar navbar-static-top" role="navigation">
+      <div class="container">
+        <div class="navbar-header">
+          <a class="navbar-brand" href="http://tenk.us">
+            <div class="navbar-icon"></div>
+            tenk.us
+          </a>
+        </div>
+        <ul class="nav navbar-nav navbar-right">
+          <li><a href="https://github.com/kevinsawicki/tenk/issues/new">Report Issue</a></li>
+        </ul>
       </div>
+    </nav>
 
+    <div class="container">
       <div class="row">
-        <div class="col-md-8 col-lg-8 col-md-offset-2 col-lg-offset-2">
+        <div class="col-md-10 col-lg-10 col-md-offset-1 col-lg-offset-1">
           {{cash_map}}
         </div>
       </div>
