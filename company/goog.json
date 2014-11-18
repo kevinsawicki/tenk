@@ -1,6 +1,10 @@
 {
   "symbol": "goog",
   "name": "Google Inc.",
+  "ipoYear": 2004,
+  "sector": "Technology",
+  "industry": "Computer Software: Programming, Data Processing",
+  "exchange": "nasdaq",
   "category": "SERVICES-COMPUTER PROGRAMMING, DATA PROCESSING, ETC.",
   "address": {
     "street1": "1600 AMPHITHEATRE PARKWAY",
