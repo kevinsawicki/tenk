@@ -209,17 +209,27 @@ if process.argv[2]
 else
   companies = companies.filter ({symbol}) -> not fs.isFileSync(path.resolve(__dirname, '..', 'company', "#{symbol}.json"))
 
-progress = new Progress('Download 10-K reports :current/:total [:bar] :percent :eta seconds remaining', {
+progress = new Progress('Downloading 10-K reports :current/:total [:bar] :percent :eta seconds remaining', {
   incomplete: ' '
   width: 20
   total: companies.length
 })
 
+errors = []
+logErrors = ->
+  errors.forEach ({company, error}) ->
+    console.error("#{company.symbol} failed: #{error.message}")
+  errors = []
+process.on 'SIGINT', ->
+  logErrors()
+  process.exit()
+
 queue = async.queue (company, callback) ->
   downloadSymbol company, (error) ->
     progress.tick(1)
-    console.error("#{company.symbol} failed: #{error.message}") if error?
+    errors.push({company, error}) if error
     callback(error)
 
 queue.push(company) for company in companies
 queue.concurrency = 25
+queue.drain = logErrors
