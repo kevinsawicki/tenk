@@ -1,3 +1,15 @@
+.header-icon {
+  height: 256px;
+  width: 256px;
+  margin: auto;
+  display: block;
+}
+
+.header-container {
+  font-family: 'Cutive', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  margin-top: 5em;
+}
+
 .navbar-brand, .navbar-nav {
   font-family: 'Cutive', 'Helvetica Neue', Helvetica, Arial, sans-serif;
 }
