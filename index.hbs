@@ -28,6 +28,32 @@
           {{cash_map}}
         </div>
       </div>
+
+      <div class="row">
+        <div class="col-md-10 col-lg-10 col-md-offset-1 col-lg-offset-1">
+          <table class="table table-striped">
+            <thead>
+              <tr>
+                <th>State</th>
+                <th>Profits</th>
+                <th>Cash</th>
+                <th>Earnings Per Share</th>
+              </tr>
+            </thead>
+
+            <tbody>
+              {{#each states}}
+                <tr>
+                  <td>{{state}}</td>
+                  <td>{{profit}}</td>
+                  <td>{{cash}}</td>
+                  <td>{{earningsPerShare}}</td>
+                </tr>
+              {{/each}}
+            </tbody>
+          </table>
+        </div>
+      </div>
     </div>
   </body>
 </html>
