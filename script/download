@@ -218,6 +218,7 @@ progress = new Progress('Download 10-K reports :current/:total [:bar] :percent :
 queue = async.queue (company, callback) ->
   downloadSymbol company, (error) ->
     progress.tick(1)
+    console.error(error.message) if error?
     callback(error)
 
 queue.push(company) for company in companies
