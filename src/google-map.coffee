@@ -1,18 +1,20 @@
-Handlebars = require 'handlebars'
+Handlebars  = require 'handlebars'
+querystring = require 'querystring'
 
 module.exports = ->
-  url = "https://maps.googleapis.com/maps/api/staticmap"
-  key = 'AIzaSyCCqr8B1aob1jObVpkEHyg0aLFTd3t337k'
-  zoom = 8
-  height = 300
-  width = 350
-  markers = @address.street1
-  markers += " #{@address.street2}" if @address.street2
-  markers += " #{@address.city}"
-  markers += " #{@address.state}"
-  markers += " #{@address.zip}" if @address.zip
-  markers = encodeURIComponent(q)
+  marker = @address.street1
+  marker += " #{@address.street2}" if @address.street2
+  marker += " #{@address.city}"
+  marker += " #{@address.state}"
+  marker += " #{@address.zip}" if @address.zip
+
+  query = querystring.stringify
+    key: 'AIzaSyCCqr8B1aob1jObVpkEHyg0aLFTd3t337k'
+    markers: marker
+    scale: 2
+    size: '350x300'
+    zoom: 8
 
   new Handlebars.SafeString """
-    <img class="google-map" src="#{url}?markers=#{markers}&zoom=#{zoom}&size=#{width}x#{height}&scale=2&key=#{key}">
+    <img class="google-map" src="https://maps.googleapis.com/maps/api/staticmap?#{query}">
   """
