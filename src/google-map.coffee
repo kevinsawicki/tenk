@@ -1,9 +1,9 @@
 Handlebars = require 'handlebars'
 
 module.exports = ->
-  url = "https://www.google.com/maps/embed/v1/place"
-  key = 'AIzaSyD4GWPKpSy_j68tCxxTjIhtxURnRwmdCdw'
-  zoom = 10
+  url = "https://maps.googleapis.com/maps/api/staticmap"
+  key = 'AIzaSyCCqr8B1aob1jObVpkEHyg0aLFTd3t337k'
+  zoom = 8
   q = @address.street1
   q += " #{@address.street2}" if @address.street2
   q += " #{@address.city}"
@@ -12,5 +12,5 @@ module.exports = ->
   q = encodeURIComponent(q)
 
   new Handlebars.SafeString """
-    <iframe frameborder="0" class="google-map" src="#{url}?q=#{q}&key=#{key}&zoom=#{zoom}"></iframe>
+    <img class="google-map" src="https://maps.googleapis.com/maps/api/staticmap?markers=#{q}&zoom=#{zoom}&size=350x300&scale=2&key=#{key}">
   """
