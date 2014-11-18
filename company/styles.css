@@ -43,6 +43,11 @@ body {
   margin: 10px;
 }
 
+.map-graph {
+  height: 500px;
+  width: 100%;
+}
+
 .land,
 .county-boundary,
 .state-boundary {
