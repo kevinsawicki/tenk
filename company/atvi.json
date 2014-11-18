@@ -1,0 +1,38 @@
+{
+  "symbol": "atvi",
+  "name": "Activision Blizzard, Inc",
+  "ipoYear": null,
+  "sector": "Technology",
+  "industry": "Computer Software: Prepackaged Software",
+  "exchange": "nasdaq",
+  "category": "SERVICES-PREPACKAGED SOFTWARE",
+  "address": {
+    "street1": "3100 OCEAN PARK BLVD",
+    "city": "SANTA MONICA",
+    "state": "CA",
+    "zip": "90405"
+  },
+  "profit": {
+    "2009": 112000000,
+    "2010": 418000000,
+    "2011": 1085000000,
+    "2012": 1149000000,
+    "2013": 1010000000
+  },
+  "cash": {
+    "2009": 2768000000,
+    "2010": 2812000000,
+    "2011": 3165000000,
+    "2012": 3959000000,
+    "2013": 4410000000
+  },
+  "earningsPerShare": {
+    "2009": 0.09,
+    "2010": 0.34,
+    "2011": 0.93,
+    "2012": 1.01,
+    "2013": 0.96
+  },
+  "htmlUrl": "http://www.sec.gov/Archives/edgar/data/718877/000104746914001688/0001047469-14-001688-index.htm",
+  "xmlUrl": "http://www.sec.gov/Archives/edgar/data/718877/000104746914001688/atvi-20131231.xml"
+}

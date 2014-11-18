@@ -1,0 +1,32 @@
+{
+  "symbol": "achn",
+  "name": "Achillion Pharmaceuticals, Inc.",
+  "ipoYear": 2006,
+  "sector": "Health Care",
+  "industry": "Major Pharmaceuticals",
+  "exchange": "nasdaq",
+  "category": "PHARMACEUTICAL PREPARATIONS",
+  "address": {
+    "street1": "300 GEORGE STREET",
+    "city": "NEW HAVEN",
+    "state": "CT",
+    "zip": "06511"
+  },
+  "profit": {
+    "2009": -25932000,
+    "2010": -25481000,
+    "2011": -44206000,
+    "2012": -47127000,
+    "2013": -58947000
+  },
+  "cash": {
+    "2009": 9712000,
+    "2010": 25373000,
+    "2011": 16110000,
+    "2012": 18526000,
+    "2013": 33457000
+  },
+  "earningsPerShare": {},
+  "htmlUrl": "http://www.sec.gov/Archives/edgar/data/1070336/000119312514089075/0001193125-14-089075-index.htm",
+  "xmlUrl": "http://www.sec.gov/Archives/edgar/data/1070336/000119312514089075/achn-20131231.xml"
+}

@@ -1,0 +1,38 @@
+{
+  "symbol": "birt",
+  "name": "Actuate Corporation",
+  "ipoYear": null,
+  "sector": "Technology",
+  "industry": "Computer Software: Prepackaged Software",
+  "exchange": "nasdaq",
+  "category": "SERVICES-PREPACKAGED SOFTWARE",
+  "address": {
+    "street1": "951 MARINERS ISLAND BOULEVARD",
+    "city": "SAN MATEO",
+    "state": "CA",
+    "zip": "94404"
+  },
+  "profit": {
+    "2009": 12179000,
+    "2010": 10647000,
+    "2011": 11987000,
+    "2012": 10303000,
+    "2013": 6801000
+  },
+  "cash": {
+    "2009": 53173000,
+    "2010": 33269000,
+    "2011": 38759000,
+    "2012": 37483000,
+    "2013": 41750000
+  },
+  "earningsPerShare": {
+    "2009": 0.27,
+    "2010": 0.24,
+    "2011": 0.25,
+    "2012": 0.21,
+    "2013": 0.14
+  },
+  "htmlUrl": "http://www.sec.gov/Archives/edgar/data/1062478/000119312514088985/0001193125-14-088985-index.htm",
+  "xmlUrl": "http://www.sec.gov/Archives/edgar/data/1062478/000119312514088985/birt-20131231.xml"
+}

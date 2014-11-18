@@ -1,0 +1,38 @@
+{
+  "symbol": "abax",
+  "name": "ABAXIS, Inc.",
+  "ipoYear": 1992,
+  "sector": "Capital Goods",
+  "industry": "Industrial Machinery/Components",
+  "exchange": "nasdaq",
+  "category": "MEASURING &amp;amp; CONTROLLING DEVICES, NEC",
+  "address": {
+    "street1": "3240 WHIPPLE",
+    "city": "UNION CITY",
+    "state": "CA",
+    "zip": "94587"
+  },
+  "profit": {
+    "2010": 13023000,
+    "2011": 14537000,
+    "2012": 13091000,
+    "2013": 27459000,
+    "2014": 14185000
+  },
+  "cash": {
+    "2009": 49237000,
+    "2010": 27857000,
+    "2011": 43471000,
+    "2012": 45843000,
+    "2013": 54910000,
+    "2014": 73589000
+  },
+  "earningsPerShare": {
+    "2010": 0.59,
+    "2011": 0.65,
+    "2012": 0.59,
+    "2013": 1.25,
+    "2014": 0.64
+  },
+  "htmlUrl": "http://www.sec.gov/Archives/edgar/data/881890/000114036114029715/0001140361-14-029715-index.htm"
+}

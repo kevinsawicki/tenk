@@ -1,0 +1,32 @@
+{
+  "symbol": "astm",
+  "name": "Aastrom Biosciences, Inc.",
+  "ipoYear": 1997,
+  "sector": "Health Care",
+  "industry": "Biotechnology: Biological Products (No Diagnostic Substances)",
+  "exchange": "nasdaq",
+  "category": "BIOLOGICAL PRODUCTS (NO DIAGNOSTIC SUBSTANCES)",
+  "address": {
+    "street1": "24 FRANKL LLOYD WRIGHT DR",
+    "city": "ANN ARBOR",
+    "state": "MI",
+    "zip": "48106"
+  },
+  "profit": {
+    "2009": -16061000,
+    "2010": -14558000,
+    "2011": -19668000,
+    "2012": -29474000,
+    "2013": -15622000
+  },
+  "cash": {
+    "2009": 17000000,
+    "2010": 31248000,
+    "2011": 5530000,
+    "2012": 13638000,
+    "2013": 8059000
+  },
+  "earningsPerShare": {},
+  "htmlUrl": "http://www.sec.gov/Archives/edgar/data/887359/000110465914019344/0001104659-14-019344-index.htm",
+  "xmlUrl": "http://www.sec.gov/Archives/edgar/data/887359/000110465914019344/astm-20131231.xml"
+}

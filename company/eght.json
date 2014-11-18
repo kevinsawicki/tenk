@@ -1,0 +1,39 @@
+{
+  "symbol": "eght",
+  "name": "8x8 Inc",
+  "ipoYear": null,
+  "sector": "Public Utilities",
+  "industry": "Telecommunications Equipment",
+  "exchange": "nasdaq",
+  "category": "TELEPHONE COMMUNICATIONS (NO RADIO TELEPHONE)",
+  "address": {
+    "street1": "2125 O'NEL DRIVE",
+    "city": "SAN JOSE",
+    "state": "CA",
+    "zip": "95131"
+  },
+  "profit": {
+    "2010": 3879000,
+    "2011": 6494000,
+    "2012": 69228000,
+    "2013": 13939000,
+    "2014": 2514000
+  },
+  "cash": {
+    "2009": 16376000,
+    "2010": 18056000,
+    "2011": 16474000,
+    "2012": 22426000,
+    "2013": 50305000,
+    "2014": 59159000
+  },
+  "earningsPerShare": {
+    "2010": 0.06,
+    "2011": 0.1,
+    "2012": 1.04,
+    "2013": 0.2,
+    "2014": 0.03
+  },
+  "htmlUrl": "http://www.sec.gov/Archives/edgar/data/1023731/000113626114000239/0001136261-14-000239-index.htm",
+  "xmlUrl": "http://www.sec.gov/Archives/edgar/data/1023731/000113626114000239/eght-20140331.xml"
+}

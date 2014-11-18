@@ -1,0 +1,37 @@
+{
+  "symbol": "aray",
+  "name": "Accuray Incorporated",
+  "ipoYear": 2007,
+  "sector": "Health Care",
+  "industry": "Medical/Dental Instruments",
+  "exchange": "nasdaq",
+  "category": "SURGICAL &amp;amp; MEDICAL INSTRUMENTS &amp;amp; APPARATUS",
+  "address": {
+    "street1": "1310 CHESAPEAKE TERRACE",
+    "city": "SUNNYVALE",
+    "state": "CA",
+    "zip": "94089"
+  },
+  "profit": {
+    "2010": 2841000,
+    "2011": -26682000,
+    "2012": -72042000,
+    "2013": -103219000,
+    "2014": -35448000
+  },
+  "cash": {
+    "2009": 36835000,
+    "2010": 45434000,
+    "2011": 95906000,
+    "2012": 143504000,
+    "2013": 73313000,
+    "2014": 92346000
+  },
+  "earningsPerShare": {
+    "2010": 0.05,
+    "2011": -0.44,
+    "2012": -1.02
+  },
+  "htmlUrl": "http://www.sec.gov/Archives/edgar/data/1138723/000104746914007280/0001047469-14-007280-index.htm",
+  "xmlUrl": "http://www.sec.gov/Archives/edgar/data/1138723/000104746914007280/aray-20140630.xml"
+}

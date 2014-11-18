@@ -1,0 +1,33 @@
+{
+  "symbol": "xlrn",
+  "name": "Acceleron Pharma Inc.",
+  "ipoYear": 2013,
+  "sector": "Health Care",
+  "industry": "Biotechnology: Biological Products (No Diagnostic Substances)",
+  "exchange": "nasdaq",
+  "category": "BIOLOGICAL PRODUCTS (NO DIAGNOSTIC SUBSTANCES)",
+  "address": {
+    "street1": "128 SYDNEY STREET",
+    "city": "CAMBRIDGE",
+    "state": "MA",
+    "zip": "02139"
+  },
+  "profit": {
+    "2011": 36266000,
+    "2012": -32582000,
+    "2013": -21898000
+  },
+  "cash": {
+    "2010": 34916000,
+    "2011": 65037000,
+    "2012": 39611000,
+    "2013": 113163000
+  },
+  "earningsPerShare": {
+    "2011": 0.8,
+    "2012": -24.84,
+    "2013": -4.15
+  },
+  "htmlUrl": "http://www.sec.gov/Archives/edgar/data/1280600/000104746914002530/0001047469-14-002530-index.htm",
+  "xmlUrl": "http://www.sec.gov/Archives/edgar/data/1280600/000104746914002530/xlrn-20131231.xml"
+}

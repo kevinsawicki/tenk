@@ -1,0 +1,31 @@
+{
+  "symbol": "avhi",
+  "name": "A V Homes, Inc.",
+  "ipoYear": null,
+  "sector": "Capital Goods",
+  "industry": "Homebuilding",
+  "exchange": "nasdaq",
+  "category": "OPERATIVE BUILDERS",
+  "address": {
+    "street1": "8601 N. SCOTTSDALE RD.",
+    "city": "SCOTTSDALE",
+    "state": "AZ",
+    "zip": "85253"
+  },
+  "profit": {
+    "2010": -35108000,
+    "2011": -165881000,
+    "2012": -90235000,
+    "2013": -9477000
+  },
+  "cash": {
+    "2009": 217132000,
+    "2010": 115502000,
+    "2011": 124316000,
+    "2012": 79815000,
+    "2013": 144727000
+  },
+  "earningsPerShare": {},
+  "htmlUrl": "http://www.sec.gov/Archives/edgar/data/39677/000144530514001069/0001445305-14-001069-index.htm",
+  "xmlUrl": "http://www.sec.gov/Archives/edgar/data/39677/000144530514001069/avhi-20131231.xml"
+}

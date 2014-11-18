@@ -1,0 +1,38 @@
+{
+  "symbol": "acnb",
+  "name": "ACNB Corporation",
+  "ipoYear": null,
+  "sector": "Finance",
+  "industry": "Major Banks",
+  "exchange": "nasdaq",
+  "category": "STATE COMMERCIAL BANKS",
+  "address": {
+    "street1": "16 LINCOLN SQUARE",
+    "city": "GETTYSBURG",
+    "state": "PA",
+    "zip": "17325"
+  },
+  "profit": {
+    "2009": 7219000,
+    "2010": 8419000,
+    "2011": 8502000,
+    "2012": 8886000,
+    "2013": 9315000
+  },
+  "cash": {
+    "2009": 24138000,
+    "2010": 24173000,
+    "2011": 22623000,
+    "2012": 51385000,
+    "2013": 18116000
+  },
+  "earningsPerShare": {
+    "2009": 1.22,
+    "2010": 1.42,
+    "2011": 1.43,
+    "2012": 1.49,
+    "2013": 1.56
+  },
+  "htmlUrl": "http://www.sec.gov/Archives/edgar/data/715579/000104746914001965/0001047469-14-001965-index.htm",
+  "xmlUrl": "http://www.sec.gov/Archives/edgar/data/715579/000104746914001965/acnb-20131231.xml"
+}

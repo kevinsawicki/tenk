@@ -1,0 +1,37 @@
+{
+  "symbol": "acfn",
+  "name": "Acorn Energy, Inc.",
+  "ipoYear": null,
+  "sector": "Consumer Services",
+  "industry": "Military/Government/Technical",
+  "exchange": "nasdaq",
+  "category": "SERVICES-ENGINEERING SERVICES",
+  "address": {
+    "street1": "3903 CENTERVILLE ROAD",
+    "city": "WILMINGTON",
+    "state": "DE",
+    "zip": "19807"
+  },
+  "profit": {
+    "2009": -5756000,
+    "2010": -25088000,
+    "2011": 35409000,
+    "2012": -16711000,
+    "2013": -29714000
+  },
+  "cash": {
+    "2010": 6549000,
+    "2011": 34280000,
+    "2012": 26147000,
+    "2013": 17279000
+  },
+  "earningsPerShare": {
+    "2009": -500,
+    "2010": -1.68,
+    "2011": 2.03,
+    "2012": -0.93,
+    "2013": -1.57
+  },
+  "htmlUrl": "http://www.sec.gov/Archives/edgar/data/880984/000088098414000004/0000880984-14-000004-index.htm",
+  "xmlUrl": "http://www.sec.gov/Archives/edgar/data/880984/000088098414000004/acfn-20131231.xml"
+}

@@ -1,0 +1,38 @@
+{
+  "symbol": "actg",
+  "name": "Acacia Research Corporation",
+  "ipoYear": null,
+  "sector": "Miscellaneous",
+  "industry": "Multi-Sector Companies",
+  "exchange": "nasdaq",
+  "category": "PATENT OWNERS &amp;amp; LESSORS",
+  "address": {
+    "street1": "500 NEWPORT CENTER DRIVE",
+    "city": "NEWPORT BEACH",
+    "state": "CA",
+    "zip": "92660"
+  },
+  "profit": {
+    "2009": -11290000,
+    "2010": 34051000,
+    "2011": 21106000,
+    "2012": 59453000,
+    "2013": -56434000
+  },
+  "cash": {
+    "2009": 51735000,
+    "2010": 102515000,
+    "2011": 314733000,
+    "2012": 221804000,
+    "2013": 126685000
+  },
+  "earningsPerShare": {
+    "2009": -0.38,
+    "2010": 1.05,
+    "2011": 0.51,
+    "2012": 1.22,
+    "2013": -1.18
+  },
+  "htmlUrl": "http://www.sec.gov/Archives/edgar/data/934549/000093454914000004/0000934549-14-000004-index.htm",
+  "xmlUrl": "http://www.sec.gov/Archives/edgar/data/934549/000093454914000004/actg-20131231.xml"
+}

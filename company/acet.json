@@ -1,0 +1,39 @@
+{
+  "symbol": "acet",
+  "name": "Aceto Corporation",
+  "ipoYear": null,
+  "sector": "Consumer Durables",
+  "industry": "Specialty Chemicals",
+  "exchange": "nasdaq",
+  "category": "WHOLESALE-CHEMICALS &amp;amp; ALLIED PRODUCTS",
+  "address": {
+    "street1": "4 TRI HARBOR COURT",
+    "city": "PORT WASHINGTON",
+    "state": "NY",
+    "zip": "11050"
+  },
+  "profit": {
+    "2010": 6581000,
+    "2011": 8968000,
+    "2012": 16981000,
+    "2013": 22328000,
+    "2014": 29000000
+  },
+  "cash": {
+    "2009": 57761000,
+    "2010": 30850000,
+    "2011": 28664000,
+    "2012": 24862000,
+    "2013": 33231000,
+    "2014": 42897000
+  },
+  "earningsPerShare": {
+    "2010": 0.26,
+    "2011": 0.35,
+    "2012": 0.64,
+    "2013": 0.83,
+    "2014": 1.04
+  },
+  "htmlUrl": "http://www.sec.gov/Archives/edgar/data/2034/000157104914004448/0001571049-14-004448-index.htm",
+  "xmlUrl": "http://www.sec.gov/Archives/edgar/data/2034/000157104914004448/acet-20140630.xml"
+}

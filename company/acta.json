@@ -1,0 +1,19 @@
+{
+  "symbol": "acta",
+  "name": "Actua Corporation",
+  "ipoYear": null,
+  "sector": "Technology",
+  "industry": "EDP Services",
+  "exchange": "nasdaq",
+  "category": "SERVICES-COMPUTER PROGRAMMING SERVICES",
+  "address": {
+    "street1": "555 E. LANCASTER AVENUE",
+    "city": "RADNOR",
+    "state": "PA",
+    "zip": "19087"
+  },
+  "profit": {},
+  "cash": {},
+  "earningsPerShare": {},
+  "htmlUrl": "http://www.sec.gov/Archives/edgar/data/1085621/000156459014000863/0001564590-14-000863-index.htm"
+}

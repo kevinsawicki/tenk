@@ -1,0 +1,28 @@
+{
+  "symbol": "axdx",
+  "name": "Accelerate Diagnostics, Inc.",
+  "ipoYear": null,
+  "sector": "Capital Goods",
+  "industry": "Biotechnology: Laboratory Analytical Instruments",
+  "exchange": "nasdaq",
+  "category": "LABORATORY ANALYTICAL INSTRUMENTS",
+  "address": {
+    "street1": "3950 S. COUNTRY CLUB ROAD #470",
+    "city": "TUCSON",
+    "state": "AZ",
+    "zip": "85714"
+  },
+  "profit": {
+    "2011": -378761,
+    "2012": -5310476,
+    "2013": -15281821
+  },
+  "cash": {
+    "2010": 283273,
+    "2011": 775856,
+    "2012": 12068747,
+    "2013": 30028961
+  },
+  "earningsPerShare": {},
+  "htmlUrl": "http://www.sec.gov/Archives/edgar/data/727207/000114420414018754/0001144204-14-018754-index.htm"
+}

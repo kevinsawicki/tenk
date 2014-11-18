@@ -1,0 +1,39 @@
+{
+  "symbol": "flws",
+  "name": "1-800 FLOWERS.COM, Inc.",
+  "ipoYear": 1999,
+  "sector": "Consumer Services",
+  "industry": "Other Specialty Stores",
+  "exchange": "nasdaq",
+  "category": "RETAIL-RETAIL STORES, NEC",
+  "address": {
+    "street1": "1600 STEWART AVE",
+    "city": "WESTBURY",
+    "state": "NY",
+    "zip": "11590"
+  },
+  "profit": {
+    "2010": -4220000,
+    "2011": 5722000,
+    "2012": 17646000,
+    "2013": 12321000,
+    "2014": 15372000
+  },
+  "cash": {
+    "2009": 29562000,
+    "2010": 27843000,
+    "2011": 21442000,
+    "2012": 28854000,
+    "2013": 154000,
+    "2014": 5203000
+  },
+  "earningsPerShare": {
+    "2010": -0.07,
+    "2011": 0.09,
+    "2012": 0.27,
+    "2013": 0.19,
+    "2014": 0.24
+  },
+  "htmlUrl": "http://www.sec.gov/Archives/edgar/data/1084869/000143774914016921/0001437749-14-016921-index.htm",
+  "xmlUrl": "http://www.sec.gov/Archives/edgar/data/1084869/000143774914016921/flws-20140629.xml"
+}

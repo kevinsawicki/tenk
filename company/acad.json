@@ -1,0 +1,37 @@
+{
+  "symbol": "acad",
+  "name": "ACADIA Pharmaceuticals Inc.",
+  "ipoYear": 1985,
+  "sector": "Health Care",
+  "industry": "Major Pharmaceuticals",
+  "exchange": "nasdaq",
+  "category": "PHARMACEUTICAL PREPARATIONS",
+  "address": {
+    "street1": "11085 TORREYANA ROAD",
+    "city": "SAN DIEGO",
+    "state": "CA",
+    "zip": "92121"
+  },
+  "profit": {
+    "2009": -45145000,
+    "2010": 15139000,
+    "2011": -22765000,
+    "2012": -20849000,
+    "2013": -37948000
+  },
+  "cash": {
+    "2009": 18122000,
+    "2010": 6849000,
+    "2011": 6889000,
+    "2012": 57899000,
+    "2013": 11707000
+  },
+  "earningsPerShare": {
+    "2009": -1.2,
+    "2010": 0.39,
+    "2011": -0.44,
+    "2012": -0.38
+  },
+  "htmlUrl": "http://www.sec.gov/Archives/edgar/data/1070494/000119312514073040/0001193125-14-073040-index.htm",
+  "xmlUrl": "http://www.sec.gov/Archives/edgar/data/1070494/000119312514073040/acad-20131231.xml"
+}

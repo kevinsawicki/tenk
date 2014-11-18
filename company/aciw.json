@@ -1,0 +1,38 @@
+{
+  "symbol": "aciw",
+  "name": "ACI Worldwide, Inc.",
+  "ipoYear": null,
+  "sector": "Technology",
+  "industry": "Computer Software: Prepackaged Software",
+  "exchange": "nasdaq",
+  "category": "SERVICES-PREPACKAGED SOFTWARE",
+  "address": {
+    "street1": "3520 KRAFT ROAD, SUITE 300",
+    "city": "NAPLES",
+    "state": "FL",
+    "zip": "34105"
+  },
+  "profit": {
+    "2009": 19626000,
+    "2010": 27195000,
+    "2011": 45852000,
+    "2012": 48846000,
+    "2013": 63868000
+  },
+  "cash": {
+    "2009": 125917000,
+    "2010": 171310000,
+    "2011": 197098000,
+    "2012": 76329000,
+    "2013": 95059000
+  },
+  "earningsPerShare": {
+    "2009": 0.57,
+    "2010": 0.81,
+    "2011": 1.37,
+    "2012": 1.26,
+    "2013": 1.63
+  },
+  "htmlUrl": "http://www.sec.gov/Archives/edgar/data/935036/000119312514076222/0001193125-14-076222-index.htm",
+  "xmlUrl": "http://www.sec.gov/Archives/edgar/data/935036/000119312514076222/aciw-20131231.xml"
+}
