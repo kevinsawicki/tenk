@@ -48,16 +48,10 @@ body {
   width: 100%;
 }
 
-.land,
-.state-boundary {
+.state {
   fill: none;
   stroke: #708090;
   stroke-width: 1px;
-}
-
-.county-boundary {
-  fill: none;
-  stroke: none;
 }
 
 .company-heading {
