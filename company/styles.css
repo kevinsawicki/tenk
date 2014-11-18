@@ -1,13 +1,13 @@
 .header-icon {
-  height: 256px;
-  width: 256px;
+  height: 128px;
+  width: 128px;
   margin: auto;
   display: block;
 }
 
 .header-container {
   font-family: 'Cutive', 'Helvetica Neue', Helvetica, Arial, sans-serif;
-  margin-top: 5em;
+  margin-top: 2em;
 }
 
 .navbar-brand, .navbar-nav {
@@ -53,6 +53,14 @@ svg {
   width: 100%;
   height: 300px;
   margin: 10px;
+}
+
+.land,
+.county-boundary,
+.state-boundary {
+  fill: none;
+  stroke: #708090;
+  stroke-width: 1px;
 }
 
 .company-heading {
