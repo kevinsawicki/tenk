@@ -49,11 +49,15 @@ body {
 }
 
 .land,
-.county-boundary,
 .state-boundary {
   fill: none;
   stroke: #708090;
   stroke-width: 1px;
+}
+
+.county-boundary {
+  fill: none;
+  stroke: none;
 }
 
 .company-heading {
