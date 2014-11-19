@@ -1,0 +1,36 @@
+{
+  "symbol": "asur",
+  "name": "Asure Software Inc",
+  "ipoYear": null,
+  "sector": "Technology",
+  "industry": "EDP Services",
+  "exchange": "nasdaq",
+  "category": "SERVICES-COMPUTER INTEGRATED SYSTEMS DESIGN",
+  "address": {
+    "street1": "110 WILD BASIN ROAD",
+    "city": "AUSTIN",
+    "state": "TX",
+    "zip": "78746"
+  },
+  "profit": {
+    "2010": -1137000,
+    "2011": -649000,
+    "2012": -3032000,
+    "2013": -1662000
+  },
+  "cash": {
+    "2009": 2263000,
+    "2010": 1070000,
+    "2011": 1067000,
+    "2012": 2177000,
+    "2013": 3938000
+  },
+  "earningsPerShare": {
+    "2010": -0.37,
+    "2011": -0.14,
+    "2012": -0.6,
+    "2013": -0.29
+  },
+  "htmlUrl": "http://www.sec.gov/Archives/edgar/data/884144/000118518514000654/0001185185-14-000654-index.htm",
+  "xmlUrl": "http://www.sec.gov/Archives/edgar/data/884144/000118518514000654/asur-20131231.xml"
+}

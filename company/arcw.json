@@ -1,0 +1,36 @@
+{
+  "symbol": "arcw",
+  "name": "ARC Group Worldwide, Inc.",
+  "ipoYear": null,
+  "sector": "Capital Goods",
+  "industry": "Metal Fabrications",
+  "exchange": "nasdaq",
+  "category": "MISCELLANEOUS FABRICATED METAL PRODUCTS",
+  "address": {
+    "street1": "7040 COUNTY ROAD 20",
+    "city": "LONGMONT",
+    "state": "CO",
+    "zip": "80504"
+  },
+  "profit": {
+    "2010": -452000,
+    "2011": -646000,
+    "2012": 4518000,
+    "2013": 3039000,
+    "2014": 4516000
+  },
+  "cash": {
+    "2009": 11785000,
+    "2010": 11643000,
+    "2011": 1740000,
+    "2012": 1448000,
+    "2013": 3601000,
+    "2014": 9384000
+  },
+  "earningsPerShare": {
+    "2012": 1.16,
+    "2013": 0.6
+  },
+  "htmlUrl": "http://www.sec.gov/Archives/edgar/data/826326/000144530514005019/0001445305-14-005019-index.htm",
+  "xmlUrl": "http://www.sec.gov/Archives/edgar/data/826326/000144530514005019/arcw-20140630.xml"
+}

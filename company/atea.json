@@ -1,0 +1,35 @@
+{
+  "symbol": "atea",
+  "name": "Astea International, Inc.",
+  "ipoYear": 1995,
+  "sector": "Technology",
+  "industry": "Computer Software: Prepackaged Software",
+  "exchange": "nasdaq",
+  "category": "SERVICES-PREPACKAGED SOFTWARE",
+  "address": {
+    "street1": "240 GIBRALTAR ROAD",
+    "city": "HORSHAM",
+    "state": "PA",
+    "zip": "19044"
+  },
+  "profit": {
+    "2010": -1570000,
+    "2011": 673000,
+    "2012": -238000,
+    "2013": -2996000
+  },
+  "cash": {
+    "2010": 2404000,
+    "2011": 2146000,
+    "2012": 2015000,
+    "2013": 1111000
+  },
+  "earningsPerShare": {
+    "2010": -0.52,
+    "2011": 0.1,
+    "2012": -0.15,
+    "2013": -0.92
+  },
+  "htmlUrl": "http://www.sec.gov/Archives/edgar/data/945989/000095015914000158/0000950159-14-000158-index.htm",
+  "xmlUrl": "http://www.sec.gov/Archives/edgar/data/945989/000095015914000158/atea-20131231.xml"
+}

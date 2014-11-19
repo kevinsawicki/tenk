@@ -1,0 +1,32 @@
+{
+  "symbol": "cald",
+  "name": "Callidus Software, Inc.",
+  "ipoYear": 2003,
+  "sector": "Technology",
+  "industry": "EDP Services",
+  "exchange": "nasdaq",
+  "category": "SERVICES-COMPUTER PROGRAMMING SERVICES",
+  "address": {
+    "street1": "6200 STONERIDGE MALL ROAD",
+    "city": "PLEASANTON",
+    "state": "CA",
+    "zip": "94588"
+  },
+  "profit": {
+    "2009": -17953000,
+    "2010": -12736000,
+    "2011": -15834000,
+    "2012": -27698000,
+    "2013": -21411000
+  },
+  "cash": {
+    "2009": 11565000,
+    "2010": 12830000,
+    "2011": 17383000,
+    "2012": 16400000,
+    "2013": 28295000
+  },
+  "earningsPerShare": {},
+  "htmlUrl": "http://www.sec.gov/Archives/edgar/data/1035748/000103574814000003/0001035748-14-000003-index.htm",
+  "xmlUrl": "http://www.sec.gov/Archives/edgar/data/1035748/000103574814000003/cald-20131231.xml"
+}

@@ -1,0 +1,32 @@
+{
+  "symbol": "bldr",
+  "name": "Builders FirstSource, Inc.",
+  "ipoYear": 2005,
+  "sector": "Consumer Services",
+  "industry": "RETAIL: Building Materials",
+  "exchange": "nasdaq",
+  "category": "RETAIL-LUMBER &amp;amp; OTHER BUILDING MATERIALS DEALERS",
+  "address": {
+    "street1": "2001 BRYAN STREET, SUITE 1600",
+    "city": "DALLAS",
+    "state": "TX",
+    "zip": "75201"
+  },
+  "profit": {
+    "2009": -61854000,
+    "2010": -95508000,
+    "2011": -64995000,
+    "2012": -56856000,
+    "2013": -42691000
+  },
+  "cash": {
+    "2009": 84098000,
+    "2010": 103234000,
+    "2011": 146833000,
+    "2012": 131432000,
+    "2013": 54696000
+  },
+  "earningsPerShare": {},
+  "htmlUrl": "http://www.sec.gov/Archives/edgar/data/1316835/000156459014000455/0001564590-14-000455-index.htm",
+  "xmlUrl": "http://www.sec.gov/Archives/edgar/data/1316835/000156459014000455/bldr-20131231.xml"
+}

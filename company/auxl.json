@@ -1,0 +1,37 @@
+{
+  "symbol": "auxl",
+  "name": "Auxilium Pharmaceuticals, Inc.",
+  "ipoYear": 2004,
+  "sector": "Health Care",
+  "industry": "Major Pharmaceuticals",
+  "exchange": "nasdaq",
+  "category": "PHARMACEUTICAL PREPARATIONS",
+  "address": {
+    "street1": "640 LEE ROAD",
+    "city": "CHESTERBROOK",
+    "state": "PA",
+    "zip": "19087"
+  },
+  "profit": {
+    "2009": -53457000,
+    "2010": -51231000,
+    "2011": -32916000,
+    "2012": -820000,
+    "2013": -18065000
+  },
+  "cash": {
+    "2009": 181977000,
+    "2010": 128207000,
+    "2011": 37535000,
+    "2012": 35857000,
+    "2013": 47749000
+  },
+  "earningsPerShare": {
+    "2010": -1.08,
+    "2011": -0.69,
+    "2012": 1.76,
+    "2013": -0.37
+  },
+  "htmlUrl": "http://www.sec.gov/Archives/edgar/data/1182129/000104746914001597/0001047469-14-001597-index.htm",
+  "xmlUrl": "http://www.sec.gov/Archives/edgar/data/1182129/000104746914001597/auxl-20131231.xml"
+}

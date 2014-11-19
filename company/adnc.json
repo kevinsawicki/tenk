@@ -1,0 +1,35 @@
+{
+  "symbol": "adnc",
+  "name": "Audience, Inc.",
+  "ipoYear": 2012,
+  "sector": "Technology",
+  "industry": "Semiconductors",
+  "exchange": "nasdaq",
+  "category": "SEMICONDUCTORS &amp;amp; RELATED DEVICES",
+  "address": {
+    "street1": "331 FAIRCHILD DRIVE",
+    "city": "MOUNTAIN VIEW",
+    "state": "CA",
+    "zip": "94043"
+  },
+  "profit": {
+    "2010": 4788000,
+    "2011": 8295000,
+    "2012": 15597000,
+    "2013": 2070000
+  },
+  "cash": {
+    "2009": 6446000,
+    "2010": 12095000,
+    "2011": 15983000,
+    "2012": 109606000,
+    "2013": 124691000
+  },
+  "earningsPerShare": {
+    "2011": 0.16,
+    "2012": 0.73,
+    "2013": 0.1
+  },
+  "htmlUrl": "http://www.sec.gov/Archives/edgar/data/1201663/000119312514100326/0001193125-14-100326-index.htm",
+  "xmlUrl": "http://www.sec.gov/Archives/edgar/data/1201663/000119312514100326/adnc-20131231.xml"
+}

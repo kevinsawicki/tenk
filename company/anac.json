@@ -1,0 +1,38 @@
+{
+  "symbol": "anac",
+  "name": "Anacor Pharmaceuticals, Inc.",
+  "ipoYear": 2010,
+  "sector": "Health Care",
+  "industry": "Major Pharmaceuticals",
+  "exchange": "nasdaq",
+  "category": "PHARMACEUTICAL PREPARATIONS",
+  "address": {
+    "street1": "1020 E. MEADOW CIRCLE",
+    "city": "PALO ALTO",
+    "state": "CA",
+    "zip": "94303"
+  },
+  "profit": {
+    "2009": -24839000,
+    "2010": -10058000,
+    "2011": -47944000,
+    "2012": -56087000,
+    "2013": 84765000
+  },
+  "cash": {
+    "2009": 8584000,
+    "2010": 21743000,
+    "2011": 15169000,
+    "2012": 10335000,
+    "2013": 114755000
+  },
+  "earningsPerShare": {
+    "2009": -17.55,
+    "2010": -2.71,
+    "2011": -1.71,
+    "2012": -1.76,
+    "2013": 2.16
+  },
+  "htmlUrl": "http://www.sec.gov/Archives/edgar/data/1411158/000104746914002522/0001047469-14-002522-index.htm",
+  "xmlUrl": "http://www.sec.gov/Archives/edgar/data/1411158/000104746914002522/anac-20131231.xml"
+}

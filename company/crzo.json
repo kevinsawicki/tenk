@@ -1,0 +1,38 @@
+{
+  "symbol": "crzo",
+  "name": "Carrizo Oil & Gas, Inc.",
+  "ipoYear": 1997,
+  "sector": "Energy",
+  "industry": "Oil & Gas Production",
+  "exchange": "nasdaq",
+  "category": "CRUDE PETROLEUM &amp;amp; NATURAL GAS",
+  "address": {
+    "street1": "500 DALLAS STREET",
+    "city": "HOUSTON",
+    "state": "TX",
+    "zip": "77002"
+  },
+  "profit": {
+    "2009": -204845000,
+    "2010": 9950000,
+    "2011": 36629000,
+    "2012": 55487000,
+    "2013": 43683000
+  },
+  "cash": {
+    "2009": 3837000,
+    "2010": 4128000,
+    "2011": 28112000,
+    "2012": 52095000,
+    "2013": 157439000
+  },
+  "earningsPerShare": {
+    "2009": -6.61,
+    "2010": 0.29,
+    "2011": 0.94,
+    "2012": 1.4,
+    "2013": 1.07
+  },
+  "htmlUrl": "http://www.sec.gov/Archives/edgar/data/1040593/000104059314000022/0001040593-14-000022-index.htm",
+  "xmlUrl": "http://www.sec.gov/Archives/edgar/data/1040593/000104059314000022/crzo-20131231.xml"
+}

@@ -1,0 +1,31 @@
+{
+  "symbol": "atos",
+  "name": "Atossa Genetics Inc.",
+  "ipoYear": 2012,
+  "sector": "Health Care",
+  "industry": "Medical/Dental Instruments",
+  "exchange": "nasdaq",
+  "category": "SURGICAL &amp;amp; MEDICAL INSTRUMENTS &amp;amp; APPARATUS",
+  "address": {
+    "street1": "4105 E MADISON STREET",
+    "city": "SEATTLE",
+    "state": "WA",
+    "zip": "98112"
+  },
+  "profit": {
+    "2010": -1086930,
+    "2011": -3442268,
+    "2012": -5079851,
+    "2013": -10784708
+  },
+  "cash": {
+    "2009": 0,
+    "2010": 10253,
+    "2011": 1910821,
+    "2012": 1725197,
+    "2013": 6342161
+  },
+  "earningsPerShare": {},
+  "htmlUrl": "http://www.sec.gov/Archives/edgar/data/1488039/000114420414018247/0001144204-14-018247-index.htm",
+  "xmlUrl": "http://www.sec.gov/Archives/edgar/data/1488039/000114420414018247/atos-20131231.xml"
+}

@@ -1,0 +1,38 @@
+{
+  "symbol": "abcd",
+  "name": "Cambium Learning Group, Inc.",
+  "ipoYear": null,
+  "sector": "Consumer Services",
+  "industry": "Publishing",
+  "exchange": "nasdaq",
+  "category": "MISCELLANEOUS PUBLISHING",
+  "address": {
+    "street1": "17855 NORTH DALLAS PARKWAY, SUITE 400",
+    "city": "DALLAS",
+    "state": "TX",
+    "zip": "75287"
+  },
+  "profit": {
+    "2009": -35765000,
+    "2010": -15950000,
+    "2011": -49441000,
+    "2012": -133783000,
+    "2013": -14253000
+  },
+  "cash": {
+    "2009": 13345000,
+    "2010": 11831000,
+    "2011": 63191000,
+    "2012": 51904000,
+    "2013": 67993000
+  },
+  "earningsPerShare": {
+    "2009": -1.63,
+    "2010": -0.36,
+    "2011": -1.07,
+    "2012": -2.71,
+    "2013": -0.3
+  },
+  "htmlUrl": "http://www.sec.gov/Archives/edgar/data/1466815/000156459014000629/0001564590-14-000629-index.htm",
+  "xmlUrl": "http://www.sec.gov/Archives/edgar/data/1466815/000156459014000629/abcd-20131231.xml"
+}

@@ -1,0 +1,31 @@
+{
+  "symbol": "atrs",
+  "name": "Antares Pharma, Inc.",
+  "ipoYear": null,
+  "sector": "Health Care",
+  "industry": "Medical/Dental Instruments",
+  "exchange": "nasdaq",
+  "category": "SURGICAL &amp;amp; MEDICAL INSTRUMENTS &amp;amp; APPARATUS",
+  "address": {
+    "street1": "100 PRINCETON SOUTH",
+    "city": "EWING",
+    "state": "NJ",
+    "zip": "08628"
+  },
+  "profit": {
+    "2010": -6091198,
+    "2011": -4387920,
+    "2012": -11427450,
+    "2013": -20506776
+  },
+  "cash": {
+    "2009": 13559088,
+    "2010": 9847813,
+    "2011": 19357932,
+    "2012": 52097064,
+    "2013": 39067236
+  },
+  "earningsPerShare": {},
+  "htmlUrl": "http://www.sec.gov/Archives/edgar/data/1016169/000119312514097968/0001193125-14-097968-index.htm",
+  "xmlUrl": "http://www.sec.gov/Archives/edgar/data/1016169/000119312514097968/atrs-20131231.xml"
+}

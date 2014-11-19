@@ -1,0 +1,33 @@
+{
+  "symbol": "afh",
+  "name": "Atlas Financial Holdings, Inc.",
+  "ipoYear": 2013,
+  "sector": "Finance",
+  "industry": "Property-Casualty Insurers",
+  "exchange": "nasdaq",
+  "category": "FIRE, MARINE &amp;amp; CASUALTY INSURANCE",
+  "address": {
+    "street1": "150 NORTHWEST POINT BOULEVARD",
+    "city": "ELK GROVE VILLAGE",
+    "state": "IL",
+    "zip": "60007"
+  },
+  "profit": {
+    "2011": -2470000,
+    "2012": 3166000,
+    "2013": 6180000
+  },
+  "cash": {
+    "2010": 19037000,
+    "2011": 23249000,
+    "2012": 19912000,
+    "2013": 9811000
+  },
+  "earningsPerShare": {
+    "2011": -0.54,
+    "2012": 0.38,
+    "2013": 0.92
+  },
+  "htmlUrl": "http://www.sec.gov/Archives/edgar/data/1539894/000153989414000007/0001539894-14-000007-index.htm",
+  "xmlUrl": "http://www.sec.gov/Archives/edgar/data/1539894/000153989414000007/afh-20131231.xml"
+}

@@ -1,0 +1,38 @@
+{
+  "symbol": "amgn",
+  "name": "Amgen Inc.",
+  "ipoYear": 1983,
+  "sector": "Health Care",
+  "industry": "Biotechnology: Biological Products (No Diagnostic Substances)",
+  "exchange": "nasdaq",
+  "category": "BIOLOGICAL PRODUCTS (NO DIAGNOSTIC SUBSTANCES)",
+  "address": {
+    "street1": "ONE AMGEN CENTER DRIVE",
+    "city": "THOUSAND OAKS",
+    "state": "CA",
+    "zip": "91320"
+  },
+  "profit": {
+    "2009": 4605000000,
+    "2010": 4627000000,
+    "2011": 3683000000,
+    "2012": 4345000000,
+    "2013": 5081000000
+  },
+  "cash": {
+    "2009": 2884000000,
+    "2010": 3287000000,
+    "2011": 6946000000,
+    "2012": 3257000000,
+    "2013": 3805000000
+  },
+  "earningsPerShare": {
+    "2009": 4.53,
+    "2010": 4.82,
+    "2011": 4.07,
+    "2012": 5.61,
+    "2013": 6.75
+  },
+  "htmlUrl": "http://www.sec.gov/Archives/edgar/data/318154/000031815414000004/0000318154-14-000004-index.htm",
+  "xmlUrl": "http://www.sec.gov/Archives/edgar/data/318154/000031815414000004/amgn-20131231.xml"
+}

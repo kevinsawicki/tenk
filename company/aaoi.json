@@ -1,0 +1,29 @@
+{
+  "symbol": "aaoi",
+  "name": "Applied Optoelectronics, Inc.",
+  "ipoYear": 2013,
+  "sector": "Technology",
+  "industry": "Semiconductors",
+  "exchange": "nasdaq",
+  "category": "SEMICONDUCTORS &amp;amp; RELATED DEVICES",
+  "address": {
+    "street1": "13115 JESS PIRTLE BLVD",
+    "city": "SUGAR LAND",
+    "state": "TX",
+    "zip": "77478"
+  },
+  "profit": {
+    "2011": -5328000,
+    "2012": -945000,
+    "2013": -1406000
+  },
+  "cash": {
+    "2010": 4492000,
+    "2011": 1768000,
+    "2012": 10723000,
+    "2013": 22006000
+  },
+  "earningsPerShare": {},
+  "htmlUrl": "http://www.sec.gov/Archives/edgar/data/1158114/000101968714000736/0001019687-14-000736-index.htm",
+  "xmlUrl": "http://www.sec.gov/Archives/edgar/data/1158114/000101968714000736/aaoi-20131231.xml"
+}

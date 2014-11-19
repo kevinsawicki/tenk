@@ -1,0 +1,38 @@
+{
+  "symbol": "bbsi",
+  "name": "Barrett Business Services, Inc.",
+  "ipoYear": 1993,
+  "sector": "Technology",
+  "industry": "Professional Services",
+  "exchange": "nasdaq",
+  "category": "SERVICES-HELP SUPPLY SERVICES",
+  "address": {
+    "street1": "8100 NE PARKWAY DRIVE",
+    "city": "VANCOUVER",
+    "state": "WA",
+    "zip": "98662"
+  },
+  "profit": {
+    "2009": -3945000,
+    "2010": 7353000,
+    "2011": 14318000,
+    "2012": 13131000,
+    "2013": 17892000
+  },
+  "cash": {
+    "2009": 36671000,
+    "2010": 30924000,
+    "2011": 49571000,
+    "2012": 45747000,
+    "2013": 93557000
+  },
+  "earningsPerShare": {
+    "2009": -0.38,
+    "2010": 0.71,
+    "2011": 1.42,
+    "2012": 1.7,
+    "2013": 2.52
+  },
+  "htmlUrl": "http://www.sec.gov/Archives/edgar/data/902791/000119312514100025/0001193125-14-100025-index.htm",
+  "xmlUrl": "http://www.sec.gov/Archives/edgar/data/902791/000119312514100025/bbsi-20131231.xml"
+}

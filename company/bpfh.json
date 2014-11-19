@@ -1,0 +1,38 @@
+{
+  "symbol": "bpfh",
+  "name": "Boston Private Financial Holdings, Inc.",
+  "ipoYear": null,
+  "sector": "Finance",
+  "industry": "Major Banks",
+  "exchange": "nasdaq",
+  "category": "STATE COMMERCIAL BANKS",
+  "address": {
+    "street1": "10 POST OFFICE SQ",
+    "city": "BOSTON",
+    "state": "MA",
+    "zip": "02109"
+  },
+  "profit": {
+    "2009": 5231000,
+    "2010": -10970000,
+    "2011": 39137000,
+    "2012": 53271000,
+    "2013": 70535000
+  },
+  "cash": {
+    "2009": 447082000,
+    "2010": 493433000,
+    "2011": 203354000,
+    "2012": 308744000,
+    "2013": 191881000
+  },
+  "earningsPerShare": {
+    "2009": -0.52,
+    "2010": -0.29,
+    "2011": 0.46,
+    "2012": 0.62,
+    "2013": 0.7
+  },
+  "htmlUrl": "http://www.sec.gov/Archives/edgar/data/821127/000082112714000057/0000821127-14-000057-index.htm",
+  "xmlUrl": "http://www.sec.gov/Archives/edgar/data/821127/000082112714000057/bpfh-20131231.xml"
+}

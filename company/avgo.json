@@ -1,0 +1,38 @@
+{
+  "symbol": "avgo",
+  "name": "Avago Technologies Limited",
+  "ipoYear": 2009,
+  "sector": "Technology",
+  "industry": "Semiconductors",
+  "exchange": "nasdaq",
+  "category": "SEMICONDUCTORS &amp;amp; RELATED DEVICES",
+  "address": {
+    "street1": "1 YISHUN AVENUE 7",
+    "city": "SINGAPORE",
+    "state": "U0",
+    "zip": "768923"
+  },
+  "profit": {
+    "2009": -44000000,
+    "2010": 415000000,
+    "2011": 552000000,
+    "2012": 563000000,
+    "2013": 552000000
+  },
+  "cash": {
+    "2009": 472000000,
+    "2010": 561000000,
+    "2011": 829000000,
+    "2012": 1084000000,
+    "2013": 985000000
+  },
+  "earningsPerShare": {
+    "2009": -0.2,
+    "2010": 1.74,
+    "2011": 2.25,
+    "2012": 2.3,
+    "2013": 2.23
+  },
+  "htmlUrl": "http://www.sec.gov/Archives/edgar/data/1441634/000144163413000013/0001441634-13-000013-index.htm",
+  "xmlUrl": "http://www.sec.gov/Archives/edgar/data/1441634/000144163413000013/avgo-20131103.xml"
+}

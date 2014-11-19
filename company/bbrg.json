@@ -1,0 +1,38 @@
+{
+  "symbol": "bbrg",
+  "name": "Bravo Brio Restaurant Group, Inc.",
+  "ipoYear": 2010,
+  "sector": "Consumer Services",
+  "industry": "Restaurants",
+  "exchange": "nasdaq",
+  "category": "RETAIL-EATING PLACES",
+  "address": {
+    "street1": "777 GOODALE BOULEVARD",
+    "city": "COLUMBUS",
+    "state": "OH",
+    "zip": "43212"
+  },
+  "profit": {
+    "2009": 3401000,
+    "2010": -1230000,
+    "2011": 76444000,
+    "2012": 16148000,
+    "2013": 7543000
+  },
+  "cash": {
+    "2009": 249000,
+    "2010": 2460000,
+    "2011": 10093000,
+    "2012": 13717000,
+    "2013": 7640000
+  },
+  "earningsPerShare": {
+    "2009": -1.13,
+    "2010": -0.54,
+    "2011": 3.96,
+    "2012": 0.82,
+    "2013": 0.39
+  },
+  "htmlUrl": "http://www.sec.gov/Archives/edgar/data/1495479/000149547914000005/0001495479-14-000005-index.htm",
+  "xmlUrl": "http://www.sec.gov/Archives/edgar/data/1495479/000149547914000005/bbrg-20131231.xml"
+}

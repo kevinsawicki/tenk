@@ -1,0 +1,29 @@
+{
+  "symbol": "tast",
+  "name": "Carrols Restaurant Group, Inc.",
+  "ipoYear": 2006,
+  "sector": "Consumer Services",
+  "industry": "Restaurants",
+  "exchange": "nasdaq",
+  "category": "RETAIL-EATING PLACES",
+  "address": {
+    "street1": "968 JAMES STREET",
+    "city": "SYRACUSE",
+    "state": "NY",
+    "zip": "13203"
+  },
+  "profit": {
+    "2009": 21835000,
+    "2010": 11916000,
+    "2011": 11218000,
+    "2012": -18888000,
+    "2013": -13519000
+  },
+  "cash": {},
+  "earningsPerShare": {
+    "2009": 1.01,
+    "2010": 0.55,
+    "2011": 0.52
+  },
+  "htmlUrl": "http://www.sec.gov/Archives/edgar/data/809248/000080924814000010/0000809248-14-000010-index.htm"
+}

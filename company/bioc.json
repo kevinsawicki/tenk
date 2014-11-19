@@ -1,0 +1,35 @@
+{
+  "symbol": "bioc",
+  "name": "Biocept, Inc.",
+  "ipoYear": 2014,
+  "sector": "Health Care",
+  "industry": "Medical Specialities",
+  "exchange": "nasdaq",
+  "category": "SERVICES-TESTING LABORATORIES",
+  "address": {
+    "street1": "826 NEWTOWN-YARDLEY ROAD",
+    "city": "NEWTOWN",
+    "state": "PA",
+    "zip": "18940-1721"
+  },
+  "profit": {
+    "2009": 2959000,
+    "2010": 2753000,
+    "2011": 2798000,
+    "2012": 3727000
+  },
+  "cash": {
+    "2009": 14570000,
+    "2010": 10443000,
+    "2011": 12575000,
+    "2012": 13915000
+  },
+  "earningsPerShare": {
+    "2009": 0.21,
+    "2010": 0.18,
+    "2011": 0.18,
+    "2012": 0.24
+  },
+  "htmlUrl": "http://www.sec.gov/Archives/edgar/data/822418/000110465913013229/0001104659-13-013229-index.htm",
+  "xmlUrl": "http://www.sec.gov/Archives/edgar/data/822418/000110465913013229/bioc-20121231.xml"
+}

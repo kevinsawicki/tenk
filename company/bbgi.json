@@ -1,0 +1,36 @@
+{
+  "symbol": "bbgi",
+  "name": "Beasley Broadcast Group, Inc.",
+  "ipoYear": 2000,
+  "sector": "Consumer Services",
+  "industry": "Broadcasting",
+  "exchange": "nasdaq",
+  "category": "RADIO BROADCASTING STATIONS",
+  "address": {
+    "street1": "3033 RIVIERA DRIVE",
+    "city": "NAPLES",
+    "state": "FL",
+    "zip": "34103"
+  },
+  "profit": {
+    "2010": 7985625,
+    "2011": 10100325,
+    "2012": 11031270,
+    "2013": 11546263
+  },
+  "cash": {
+    "2009": 5892777,
+    "2010": 10659663,
+    "2011": 13610069,
+    "2012": 11660648,
+    "2013": 14299013
+  },
+  "earningsPerShare": {
+    "2010": 0.36,
+    "2011": 0.45,
+    "2012": 0.49,
+    "2013": 0.51
+  },
+  "htmlUrl": "http://www.sec.gov/Archives/edgar/data/1099160/000119312514054147/0001193125-14-054147-index.htm",
+  "xmlUrl": "http://www.sec.gov/Archives/edgar/data/1099160/000119312514054147/bbgi-20131231.xml"
+}

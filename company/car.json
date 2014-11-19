@@ -1,0 +1,38 @@
+{
+  "symbol": "car",
+  "name": "Avis Budget Group, Inc.",
+  "ipoYear": null,
+  "sector": "Consumer Services",
+  "industry": "Rental/Leasing Companies",
+  "exchange": "nasdaq",
+  "category": "SERVICES-AUTO RENTAL &amp;amp; LEASING (NO DRIVERS)",
+  "address": {
+    "street1": "6 SYLVAN WAY",
+    "city": "PARSIPPANY",
+    "state": "X1",
+    "zip": "07054"
+  },
+  "profit": {
+    "2009": -47000000,
+    "2010": 61000000,
+    "2011": -29000000,
+    "2012": 294000000,
+    "2013": 16000000
+  },
+  "cash": {
+    "2009": 482000000,
+    "2010": 911000000,
+    "2011": 534000000,
+    "2012": 606000000,
+    "2013": 693000000
+  },
+  "earningsPerShare": {
+    "2009": -0.46,
+    "2010": 0.53,
+    "2011": -0.28,
+    "2012": 2.72,
+    "2013": 0.15
+  },
+  "htmlUrl": "http://www.sec.gov/Archives/edgar/data/723612/000072361214000041/0000723612-14-000041-index.htm",
+  "xmlUrl": "http://www.sec.gov/Archives/edgar/data/723612/000072361214000041/car-20131231.xml"
+}

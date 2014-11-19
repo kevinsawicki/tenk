@@ -1,0 +1,36 @@
+{
+  "symbol": "aria",
+  "name": "ARIAD Pharmaceuticals, Inc.",
+  "ipoYear": 1994,
+  "sector": "Health Care",
+  "industry": "Biotechnology: Biological Products (No Diagnostic Substances)",
+  "exchange": "nasdaq",
+  "category": "BIOLOGICAL PRODUCTS (NO DIAGNOSTIC SUBSTANCES)",
+  "address": {
+    "street1": "26 LANDSDOWNE ST",
+    "city": "CAMBRIDGE",
+    "state": "MA",
+    "zip": "02139"
+  },
+  "profit": {
+    "2009": -80008000,
+    "2010": 85248000,
+    "2011": -123603000,
+    "2012": -220872000,
+    "2013": -274158000
+  },
+  "cash": {
+    "2009": 40362000,
+    "2010": 103630000,
+    "2011": 306256000,
+    "2012": 119379000,
+    "2013": 237179000
+  },
+  "earningsPerShare": {
+    "2009": -0.86,
+    "2010": 0.75,
+    "2011": -0.93,
+    "2012": -1.34
+  },
+  "htmlUrl": "http://www.sec.gov/Archives/edgar/data/884731/000119312514172379/0001193125-14-172379-index.htm"
+}

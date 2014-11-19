@@ -1,0 +1,38 @@
+{
+  "symbol": "atri",
+  "name": "ATRION Corporation",
+  "ipoYear": null,
+  "sector": "Health Care",
+  "industry": "Medical/Dental Instruments",
+  "exchange": "nasdaq",
+  "category": "SURGICAL &amp;amp; MEDICAL INSTRUMENTS &amp;amp; APPARATUS",
+  "address": {
+    "street1": "ONE ALLENTOWN PARKWAY",
+    "city": "ALLEN",
+    "state": "TX",
+    "zip": "75002"
+  },
+  "profit": {
+    "2009": 16843000,
+    "2010": 20952000,
+    "2011": 26038000,
+    "2012": 23629000,
+    "2013": 26582000
+  },
+  "cash": {
+    "2009": 20694000,
+    "2010": 10670000,
+    "2011": 24590000,
+    "2012": 7999000,
+    "2013": 28559000
+  },
+  "earningsPerShare": {
+    "2009": 8.51,
+    "2010": 10.38,
+    "2011": 12.9,
+    "2012": 11.72,
+    "2013": 13.22
+  },
+  "htmlUrl": "http://www.sec.gov/Archives/edgar/data/701288/000115752314001075/0001157523-14-001075-index.htm",
+  "xmlUrl": "http://www.sec.gov/Archives/edgar/data/701288/000115752314001075/atri-20131231.xml"
+}

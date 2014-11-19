@@ -1,0 +1,41 @@
+{
+  "symbol": "amsc",
+  "name": "American Superconductor Corporation",
+  "ipoYear": 1991,
+  "sector": "Consumer Durables",
+  "industry": "Metal Fabrications",
+  "exchange": "nasdaq",
+  "category": "MOTORS &amp;amp; GENERATORS",
+  "address": {
+    "street1": "SIXTY FOUR JACKSON ROAD",
+    "city": "DEVENS",
+    "state": "MA",
+    "zip": "01434"
+  },
+  "profit": {
+    "2009": -16635000,
+    "2010": 16248000,
+    "2011": -186284000,
+    "2012": -136827000,
+    "2013": -66131000,
+    "2014": -56258000
+  },
+  "cash": {
+    "2009": 70674000,
+    "2010": 87594000,
+    "2011": 123783000,
+    "2012": 46279000,
+    "2013": 39243000,
+    "2014": 43114000
+  },
+  "earningsPerShare": {
+    "2009": -0.39,
+    "2010": 0.37,
+    "2011": -3.95,
+    "2012": -2.69,
+    "2013": -1.25,
+    "2014": -0.9
+  },
+  "htmlUrl": "http://www.sec.gov/Archives/edgar/data/880807/000156459014002420/0001564590-14-002420-index.htm",
+  "xmlUrl": "http://www.sec.gov/Archives/edgar/data/880807/000156459014002420/amsc-20140331.xml"
+}

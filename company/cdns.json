@@ -1,0 +1,38 @@
+{
+  "symbol": "cdns",
+  "name": "Cadence Design Systems, Inc.",
+  "ipoYear": null,
+  "sector": "Technology",
+  "industry": "Computer Software: Prepackaged Software",
+  "exchange": "nasdaq",
+  "category": "SERVICES-PREPACKAGED SOFTWARE",
+  "address": {
+    "street1": "2655 SEELY AVENUE BLDG 5",
+    "city": "SAN JOSE",
+    "state": "CA",
+    "zip": "95134"
+  },
+  "profit": {
+    "2009": -1856715000,
+    "2010": 126538000,
+    "2011": 72229000,
+    "2012": 439948000,
+    "2013": 164243000
+  },
+  "cash": {
+    "2009": 568255000,
+    "2010": 557409000,
+    "2011": 601602000,
+    "2012": 726357000,
+    "2013": 536260000
+  },
+  "earningsPerShare": {
+    "2009": -7.3,
+    "2010": 0.49,
+    "2011": 0.27,
+    "2012": 1.63,
+    "2013": 0.59
+  },
+  "htmlUrl": "http://www.sec.gov/Archives/edgar/data/813672/000081367214000008/0000813672-14-000008-index.htm",
+  "xmlUrl": "http://www.sec.gov/Archives/edgar/data/813672/000081367214000008/cdns-20131228.xml"
+}

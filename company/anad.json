@@ -1,0 +1,37 @@
+{
+  "symbol": "anad",
+  "name": "ANADIGICS, Inc.",
+  "ipoYear": 1995,
+  "sector": "Technology",
+  "industry": "Semiconductors",
+  "exchange": "nasdaq",
+  "category": "SEMICONDUCTORS &amp;amp; RELATED DEVICES",
+  "address": {
+    "street1": "141 MT. BETHEL ROAD",
+    "city": "WARREN",
+    "state": "NJ",
+    "zip": "07059"
+  },
+  "profit": {
+    "2009": -57083000,
+    "2010": 1260000,
+    "2011": -49323000,
+    "2012": -69853000,
+    "2013": -53979000
+  },
+  "cash": {
+    "2009": 83172000,
+    "2010": 97129000,
+    "2011": 32695000,
+    "2012": 24949000,
+    "2013": 20947000
+  },
+  "earningsPerShare": {
+    "2009": -0.92,
+    "2010": 0.02,
+    "2011": -0.73,
+    "2012": -0.99
+  },
+  "htmlUrl": "http://www.sec.gov/Archives/edgar/data/940332/000114036114010853/0001140361-14-010853-index.htm",
+  "xmlUrl": "http://www.sec.gov/Archives/edgar/data/940332/000114036114010853/anad-20131231.xml"
+}

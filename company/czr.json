@@ -1,0 +1,36 @@
+{
+  "symbol": "czr",
+  "name": "Caesars Entertainment Corporation",
+  "ipoYear": 2012,
+  "sector": "Consumer Services",
+  "industry": "Hotels/Resorts",
+  "exchange": "nasdaq",
+  "category": "HOTELS &amp;amp; MOTELS",
+  "address": {
+    "street1": "ONE CAESARS PALACE DRIVE",
+    "city": "LAS VEGAS",
+    "state": "NV",
+    "zip": "89109"
+  },
+  "profit": {
+    "2009": 827600000,
+    "2010": -831100000,
+    "2011": -725000000,
+    "2012": -1508100000,
+    "2013": -2948200000
+  },
+  "cash": {
+    "2009": 902100000,
+    "2010": 971100000,
+    "2011": 891200000,
+    "2012": 1757500000,
+    "2013": 2771200000
+  },
+  "earningsPerShare": {
+    "2009": 6.67,
+    "2010": -8.37,
+    "2011": -5.5
+  },
+  "htmlUrl": "http://www.sec.gov/Archives/edgar/data/858339/000085833914000014/0000858339-14-000014-index.htm",
+  "xmlUrl": "http://www.sec.gov/Archives/edgar/data/858339/000085833914000014/czr-20131231.xml"
+}

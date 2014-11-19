@@ -1,0 +1,35 @@
+{
+  "symbol": "arci",
+  "name": "Appliance Recycling Centers of America, Inc.",
+  "ipoYear": null,
+  "sector": "Consumer Services",
+  "industry": "Home Furnishings",
+  "exchange": "nasdaq",
+  "category": "RETAIL-HOME FURNITURE, FURNISHINGS &amp;amp; EQUIPMENT STORES",
+  "address": {
+    "street1": "7400 EXCELSIOR BLVD",
+    "city": "MINNEAPOLIS",
+    "state": "MN",
+    "zip": "55426-4502"
+  },
+  "profit": {
+    "2010": 2009000,
+    "2011": 4461000,
+    "2012": -3852000,
+    "2013": 3318000
+  },
+  "cash": {
+    "2010": 4401000,
+    "2011": 4401000,
+    "2012": 3174000,
+    "2013": 1948000
+  },
+  "earningsPerShare": {
+    "2010": 0.38,
+    "2011": 0.81,
+    "2012": -0.69,
+    "2013": 0.6
+  },
+  "htmlUrl": "http://www.sec.gov/Archives/edgar/data/862861/000086286114000011/0000862861-14-000011-index.htm",
+  "xmlUrl": "http://www.sec.gov/Archives/edgar/data/862861/000086286114000011/arci-20131228.xml"
+}

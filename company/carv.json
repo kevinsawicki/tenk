@@ -1,0 +1,39 @@
+{
+  "symbol": "carv",
+  "name": "Carver Bancorp, Inc.",
+  "ipoYear": null,
+  "sector": "Finance",
+  "industry": "Savings Institutions",
+  "exchange": "nasdaq",
+  "category": "SAVINGS INSTITUTION, FEDERALLY CHARTERED",
+  "address": {
+    "street1": "75 W 125TH ST",
+    "city": "NEW YORK",
+    "state": "NY",
+    "zip": "10027-4512"
+  },
+  "profit": {
+    "2010": -1021000,
+    "2011": -40115000,
+    "2012": -23407000,
+    "2013": 662000,
+    "2014": -836000
+  },
+  "cash": {
+    "2009": 13341000,
+    "2010": 38346000,
+    "2011": 44077000,
+    "2012": 91697000,
+    "2013": 104646000,
+    "2014": 122554000
+  },
+  "earningsPerShare": {
+    "2010": -0.79,
+    "2011": -242.25,
+    "2012": -14.26,
+    "2013": 0.18,
+    "2014": -0.23
+  },
+  "htmlUrl": "http://www.sec.gov/Archives/edgar/data/1016178/000101617814000017/0001016178-14-000017-index.htm",
+  "xmlUrl": "http://www.sec.gov/Archives/edgar/data/1016178/000101617814000017/carv-20140331.xml"
+}

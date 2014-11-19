@@ -1,0 +1,35 @@
+{
+  "symbol": "bjri",
+  "name": "BJ&#39;s Restaurants, Inc.",
+  "ipoYear": null,
+  "sector": "Consumer Services",
+  "industry": "Restaurants",
+  "exchange": "nasdaq",
+  "category": "RETAIL-EATING PLACES",
+  "address": {
+    "street1": "7755 CENTER AVENUE",
+    "city": "HUNTINGTON BEACH",
+    "state": "CA",
+    "zip": "92647"
+  },
+  "profit": {
+    "2009": 13038000,
+    "2010": 23162000,
+    "2012": 31409000,
+    "2013": 21022000
+  },
+  "cash": {
+    "2009": 44906000,
+    "2010": 31518000,
+    "2012": 22391000,
+    "2013": 22995000
+  },
+  "earningsPerShare": {
+    "2009": 0.49,
+    "2010": 0.86,
+    "2012": 1.12,
+    "2013": 0.75
+  },
+  "htmlUrl": "http://www.sec.gov/Archives/edgar/data/1013488/000119312514066983/0001193125-14-066983-index.htm",
+  "xmlUrl": "http://www.sec.gov/Archives/edgar/data/1013488/000119312514066983/bjri-20131231.xml"
+}

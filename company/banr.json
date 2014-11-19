@@ -1,0 +1,32 @@
+{
+  "symbol": "banr",
+  "name": "Banner Corporation",
+  "ipoYear": null,
+  "sector": "Finance",
+  "industry": "Major Banks",
+  "exchange": "nasdaq",
+  "category": "STATE COMMERCIAL BANKS",
+  "address": {
+    "street1": "10 S FIRST AVENUE",
+    "city": "WALLA WALLA",
+    "state": "WA",
+    "zip": "99362"
+  },
+  "profit": {
+    "2009": -35764000,
+    "2010": -61896000,
+    "2011": 5457000,
+    "2012": 64882000,
+    "2013": 46555000
+  },
+  "cash": {},
+  "earningsPerShare": {
+    "2009": -16.31,
+    "2010": -7.21,
+    "2011": -0.15,
+    "2012": 3.17,
+    "2013": 2.4
+  },
+  "htmlUrl": "http://www.sec.gov/Archives/edgar/data/946673/000094667314000004/0000946673-14-000004-index.htm",
+  "xmlUrl": "http://www.sec.gov/Archives/edgar/data/946673/000094667314000004/banr-20131231.xml"
+}

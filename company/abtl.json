@@ -1,0 +1,35 @@
+{
+  "symbol": "abtl",
+  "name": "Autobytel Inc.",
+  "ipoYear": 1999,
+  "sector": "Technology",
+  "industry": "Computer Software: Programming, Data Processing",
+  "exchange": "nasdaq",
+  "category": "SERVICES-COMPUTER PROGRAMMING, DATA PROCESSING, ETC.",
+  "address": {
+    "street1": "18872 MACARTHUR BLVD",
+    "city": "IRVINE",
+    "state": "CA",
+    "zip": "92612-1400"
+  },
+  "profit": {
+    "2010": -8564000,
+    "2011": 416000,
+    "2012": 1387000,
+    "2013": 38144000
+  },
+  "cash": {
+    "2009": 25097000,
+    "2010": 8819000,
+    "2011": 11209000,
+    "2012": 15296000,
+    "2013": 18930000
+  },
+  "earningsPerShare": {
+    "2011": 0.05,
+    "2012": 0.15,
+    "2013": 4.29
+  },
+  "htmlUrl": "http://www.sec.gov/Archives/edgar/data/1023364/000102336414000033/0001023364-14-000033-index.htm",
+  "xmlUrl": "http://www.sec.gov/Archives/edgar/data/1023364/000102336414000033/abtl-20131231.xml"
+}

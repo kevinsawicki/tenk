@@ -1,0 +1,38 @@
+{
+  "symbol": "bbnk",
+  "name": "Bridge Capital Holdings",
+  "ipoYear": null,
+  "sector": "Finance",
+  "industry": "Major Banks",
+  "exchange": "nasdaq",
+  "category": "NATIONAL COMMERCIAL BANKS",
+  "address": {
+    "street1": "55 ALMADEN BLVD., SUITE 200",
+    "city": "SAN JOSE",
+    "state": "CA",
+    "zip": "95113"
+  },
+  "profit": {
+    "2009": 1435000,
+    "2010": 2591000,
+    "2011": 7847000,
+    "2012": 13804000,
+    "2013": 14711000
+  },
+  "cash": {
+    "2009": 119153000,
+    "2010": 5294000,
+    "2011": 4806000,
+    "2012": 5659000,
+    "2013": 19127000
+  },
+  "earningsPerShare": {
+    "2009": -0.42,
+    "2010": 0.06,
+    "2011": 0.54,
+    "2012": 0.96,
+    "2013": 1.02
+  },
+  "htmlUrl": "http://www.sec.gov/Archives/edgar/data/1304740/000110465914018411/0001104659-14-018411-index.htm",
+  "xmlUrl": "http://www.sec.gov/Archives/edgar/data/1304740/000110465914018411/bbnk-20131231.xml"
+}

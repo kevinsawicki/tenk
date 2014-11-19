@@ -1,0 +1,41 @@
+{
+  "symbol": "bobe",
+  "name": "Bob Evans Farms, Inc.",
+  "ipoYear": null,
+  "sector": "Consumer Services",
+  "industry": "Restaurants",
+  "exchange": "nasdaq",
+  "category": "RETAIL-EATING PLACES",
+  "address": {
+    "street1": "8111 SMITH'S MILL ROAD",
+    "city": "NEW ALBANY",
+    "state": "OH",
+    "zip": "43054"
+  },
+  "profit": {
+    "2009": -5146000,
+    "2010": 70328000,
+    "2011": 54163000,
+    "2012": 72942000,
+    "2013": -821000,
+    "2014": 33685000
+  },
+  "cash": {
+    "2009": 32355000,
+    "2010": 17535000,
+    "2011": 57730000,
+    "2012": 35946000,
+    "2013": 9010000,
+    "2014": 7826000
+  },
+  "earningsPerShare": {
+    "2009": -0.17,
+    "2010": 2.29,
+    "2011": 1.79,
+    "2012": 2.48,
+    "2013": -0.03,
+    "2014": 1.27
+  },
+  "htmlUrl": "http://www.sec.gov/Archives/edgar/data/33769/000003376914000057/0000033769-14-000057-index.htm",
+  "xmlUrl": "http://www.sec.gov/Archives/edgar/data/33769/000003376914000057/bobe-20140425.xml"
+}

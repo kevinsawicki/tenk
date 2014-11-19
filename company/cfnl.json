@@ -1,0 +1,38 @@
+{
+  "symbol": "cfnl",
+  "name": "Cardinal Financial Corporation",
+  "ipoYear": 1998,
+  "sector": "Finance",
+  "industry": "Major Banks",
+  "exchange": "nasdaq",
+  "category": "NATIONAL COMMERCIAL BANKS",
+  "address": {
+    "street1": "8270 GREENSBORO DRIVE",
+    "city": "MCLEAN",
+    "state": "VA",
+    "zip": "22102"
+  },
+  "profit": {
+    "2009": 10325000,
+    "2010": 18442000,
+    "2011": 27998000,
+    "2012": 45297000,
+    "2013": 25510000
+  },
+  "cash": {
+    "2009": 24841000,
+    "2010": 14522000,
+    "2011": 6639000,
+    "2012": 7141000,
+    "2013": 4311000
+  },
+  "earningsPerShare": {
+    "2009": 0.38,
+    "2010": 0.63,
+    "2011": 0.95,
+    "2012": 1.53,
+    "2013": 0.83
+  },
+  "htmlUrl": "http://www.sec.gov/Archives/edgar/data/1060523/000104746914002387/0001047469-14-002387-index.htm",
+  "xmlUrl": "http://www.sec.gov/Archives/edgar/data/1060523/000104746914002387/cfnl-20131231.xml"
+}

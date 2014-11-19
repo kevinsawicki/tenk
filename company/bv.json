@@ -1,0 +1,31 @@
+{
+  "symbol": "bv",
+  "name": "Bazaarvoice, Inc.",
+  "ipoYear": 2012,
+  "sector": "Technology",
+  "industry": "Computer Software: Prepackaged Software",
+  "exchange": "nasdaq",
+  "category": "SERVICES-PREPACKAGED SOFTWARE",
+  "address": {
+    "street1": "3900 N. CAPITAL OF TEXAS HIGHWAY",
+    "city": "AUSTIN",
+    "state": "TX",
+    "zip": "78746"
+  },
+  "profit": {
+    "2011": -20057000,
+    "2012": -24329000,
+    "2013": -63752000,
+    "2014": -63166000
+  },
+  "cash": {
+    "2010": 16036000,
+    "2011": 15050000,
+    "2012": 74367000,
+    "2013": 25045000,
+    "2014": 31934000
+  },
+  "earningsPerShare": {},
+  "htmlUrl": "http://www.sec.gov/Archives/edgar/data/1330421/000119312514251125/0001193125-14-251125-index.htm",
+  "xmlUrl": "http://www.sec.gov/Archives/edgar/data/1330421/000119312514251125/bv-20140430.xml"
+}

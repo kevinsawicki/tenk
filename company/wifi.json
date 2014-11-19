@@ -1,0 +1,38 @@
+{
+  "symbol": "wifi",
+  "name": "Boingo Wireless, Inc.",
+  "ipoYear": 2011,
+  "sector": "Consumer Services",
+  "industry": "Telecommunications Equipment",
+  "exchange": "nasdaq",
+  "category": "COMMUNICATION SERVICES, NEC",
+  "address": {
+    "street1": "10960 WILSHIRE BLVD., SUITE 800",
+    "city": "LOS ANGELES",
+    "state": "CA",
+    "zip": "90024"
+  },
+  "profit": {
+    "2009": 748000,
+    "2010": 15574000,
+    "2011": 6295000,
+    "2012": 7295000,
+    "2013": -3793000
+  },
+  "cash": {
+    "2009": 22629000,
+    "2010": 25721000,
+    "2011": 93933000,
+    "2012": 58138000,
+    "2013": 27338000
+  },
+  "earningsPerShare": {
+    "2009": -0.78,
+    "2010": 1.81,
+    "2011": 0.19,
+    "2012": 0.21,
+    "2013": -0.11
+  },
+  "htmlUrl": "http://www.sec.gov/Archives/edgar/data/1169988/000104746914002511/0001047469-14-002511-index.htm",
+  "xmlUrl": "http://www.sec.gov/Archives/edgar/data/1169988/000104746914002511/wifi-20131231.xml"
+}

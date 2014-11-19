@@ -1,0 +1,38 @@
+{
+  "symbol": "athn",
+  "name": "athenahealth, Inc.",
+  "ipoYear": 2007,
+  "sector": "Miscellaneous",
+  "industry": "Business Services",
+  "exchange": "nasdaq",
+  "category": "SERVICES-BUSINESS SERVICES, NEC",
+  "address": {
+    "street1": "311 ARSENAL STREET",
+    "city": "WATERTOWN",
+    "state": "MA",
+    "zip": "02472"
+  },
+  "profit": {
+    "2009": 9276000,
+    "2010": 12704000,
+    "2011": 19046000,
+    "2012": 18732000,
+    "2013": 2594000
+  },
+  "cash": {
+    "2009": 30526000,
+    "2010": 35944000,
+    "2011": 57781000,
+    "2012": 154988000,
+    "2013": 65002000
+  },
+  "earningsPerShare": {
+    "2009": 0.28,
+    "2010": 0.37,
+    "2011": 0.54,
+    "2012": 0.52,
+    "2013": 0.07
+  },
+  "htmlUrl": "http://www.sec.gov/Archives/edgar/data/1131096/000113109614000006/0001131096-14-000006-index.htm",
+  "xmlUrl": "http://www.sec.gov/Archives/edgar/data/1131096/000113109614000006/athn-20131231.xml"
+}

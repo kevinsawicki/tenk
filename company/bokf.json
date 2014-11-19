@@ -1,0 +1,38 @@
+{
+  "symbol": "bokf",
+  "name": "BOK Financial Corporation",
+  "ipoYear": null,
+  "sector": "Finance",
+  "industry": "Major Banks",
+  "exchange": "nasdaq",
+  "category": "NATIONAL COMMERCIAL BANKS",
+  "address": {
+    "street1": "BANK OF OKLAHOMA TOWER",
+    "city": "TULSA",
+    "state": "OK",
+    "zip": "74192"
+  },
+  "profit": {
+    "2009": 200578000,
+    "2010": 246754000,
+    "2011": 285875000,
+    "2012": 351191000,
+    "2013": 316609000
+  },
+  "cash": {
+    "2009": 921216000,
+    "2010": 1269404000,
+    "2011": 986365000,
+    "2012": 1286239000,
+    "2013": 1087213000
+  },
+  "earningsPerShare": {
+    "2009": 2.96,
+    "2010": 3.63,
+    "2011": 4.18,
+    "2012": 5.15,
+    "2013": 4.61
+  },
+  "htmlUrl": "http://www.sec.gov/Archives/edgar/data/875357/000087535714000005/0000875357-14-000005-index.htm",
+  "xmlUrl": "http://www.sec.gov/Archives/edgar/data/875357/000087535714000005/bokf-20131231.xml"
+}

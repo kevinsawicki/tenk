@@ -1,0 +1,31 @@
+{
+  "symbol": "aubn",
+  "name": "Auburn National Bancorporation, Inc.",
+  "ipoYear": null,
+  "sector": "Finance",
+  "industry": "Major Banks",
+  "exchange": "nasdaq",
+  "category": "STATE COMMERCIAL BANKS",
+  "address": {
+    "street1": "100 N GAY ST",
+    "city": "AUBURN",
+    "state": "AL",
+    "zip": "36831-3110"
+  },
+  "profit": {
+    "2009": 2404000,
+    "2010": 5346000,
+    "2011": 0,
+    "2012": 0,
+    "2013": 0
+  },
+  "cash": {
+    "2009": 765000,
+    "2010": 804000,
+    "2011": 12395000,
+    "2012": 18762000
+  },
+  "earningsPerShare": {},
+  "htmlUrl": "http://www.sec.gov/Archives/edgar/data/750574/000119312514112523/0001193125-14-112523-index.htm",
+  "xmlUrl": "http://www.sec.gov/Archives/edgar/data/750574/000119312514112523/aubn-20131231.xml"
+}

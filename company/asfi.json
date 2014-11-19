@@ -1,0 +1,38 @@
+{
+  "symbol": "asfi",
+  "name": "Asta Funding, Inc.",
+  "ipoYear": 1995,
+  "sector": "Finance",
+  "industry": "Finance Companies",
+  "exchange": "nasdaq",
+  "category": "SHORT-TERM BUSINESS CREDIT INSTITUTIONS",
+  "address": {
+    "street1": "210 SYLVAN AVE",
+    "city": "ENGLEWOOD CLIFFS",
+    "state": "NJ",
+    "zip": "07632"
+  },
+  "profit": {
+    "2009": -90725000,
+    "2010": 3129000,
+    "2011": 10521000,
+    "2012": 10037000,
+    "2013": 2738000
+  },
+  "cash": {
+    "2009": 2385000,
+    "2010": 75301000,
+    "2011": 84347000,
+    "2012": 4953000,
+    "2013": 35179000
+  },
+  "earningsPerShare": {
+    "2009": -6.36,
+    "2010": 0.22,
+    "2011": 0.72,
+    "2012": 0.71,
+    "2013": 0.21
+  },
+  "htmlUrl": "http://www.sec.gov/Archives/edgar/data/1001258/000119312513473407/0001193125-13-473407-index.htm",
+  "xmlUrl": "http://www.sec.gov/Archives/edgar/data/1001258/000119312513473407/asfi-20130930.xml"
+}

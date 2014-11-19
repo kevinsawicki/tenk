@@ -1,0 +1,36 @@
+{
+  "symbol": "abcw",
+  "name": "Anchor BanCorp Wisconsin Inc.",
+  "ipoYear": 2014,
+  "sector": "Finance",
+  "industry": "Banks",
+  "exchange": "nasdaq",
+  "category": "SAVINGS INSTITUTIONS, NOT FEDERALLY CHARTERED",
+  "address": {
+    "street1": "25 WEST MAIN ST",
+    "city": "MADISON",
+    "state": "WI",
+    "zip": "53703"
+  },
+  "profit": {
+    "2010": -176914000,
+    "2011": -41178000,
+    "2012": -36738000,
+    "2013": -34172000
+  },
+  "cash": {
+    "2009": 433826000,
+    "2010": 512162000,
+    "2011": 107015000,
+    "2012": 191280000,
+    "2013": 143396000
+  },
+  "earningsPerShare": {
+    "2010": -8.97,
+    "2011": -2.57,
+    "2012": -2.37,
+    "2013": -2.27
+  },
+  "htmlUrl": "http://www.sec.gov/Archives/edgar/data/885322/000119312514108133/0001193125-14-108133-index.htm",
+  "xmlUrl": "http://www.sec.gov/Archives/edgar/data/885322/000119312514108133/abcw-20131231.xml"
+}

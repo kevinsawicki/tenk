@@ -1,0 +1,38 @@
+{
+  "symbol": "btui",
+  "name": "BTU International, Inc.",
+  "ipoYear": 1989,
+  "sector": "Technology",
+  "industry": "Industrial Machinery/Components",
+  "exchange": "nasdaq",
+  "category": "SPECIAL INDUSTRY MACHINERY, NEC",
+  "address": {
+    "street1": "23 ESQUIRE ROAD",
+    "city": "NORTH BILLERICA",
+    "state": "MA",
+    "zip": "01862"
+  },
+  "profit": {
+    "2009": -14565000,
+    "2010": 2181000,
+    "2011": -2722000,
+    "2012": -10997000,
+    "2013": -11468000
+  },
+  "cash": {
+    "2009": 25397000,
+    "2010": 22753000,
+    "2011": 18948000,
+    "2012": 20218000,
+    "2013": 13991000
+  },
+  "earningsPerShare": {
+    "2009": -1.58,
+    "2010": 0.24,
+    "2011": -0.29,
+    "2012": -1.16,
+    "2013": -1.2
+  },
+  "htmlUrl": "http://www.sec.gov/Archives/edgar/data/840883/000119312514097664/0001193125-14-097664-index.htm",
+  "xmlUrl": "http://www.sec.gov/Archives/edgar/data/840883/000119312514097664/btui-20131231.xml"
+}

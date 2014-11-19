@@ -1,0 +1,19 @@
+{
+  "symbol": "arcb",
+  "name": "ArcBest Corporation",
+  "ipoYear": null,
+  "sector": "Transportation",
+  "industry": "Trucking Freight/Courier Services",
+  "exchange": "nasdaq",
+  "category": "TRUCKING (NO LOCAL)",
+  "address": {
+    "street1": "3801 OLD GREENWOOD RD",
+    "city": "FORT SMITH",
+    "state": "AR",
+    "zip": "72903"
+  },
+  "profit": {},
+  "cash": {},
+  "earningsPerShare": {},
+  "htmlUrl": "http://www.sec.gov/Archives/edgar/data/894405/000144530514000790/0001445305-14-000790-index.htm"
+}

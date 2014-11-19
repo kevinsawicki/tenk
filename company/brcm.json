@@ -1,0 +1,38 @@
+{
+  "symbol": "brcm",
+  "name": "Broadcom Corporation",
+  "ipoYear": 1998,
+  "sector": "Technology",
+  "industry": "Semiconductors",
+  "exchange": "nasdaq",
+  "category": "SEMICONDUCTORS &amp;amp; RELATED DEVICES",
+  "address": {
+    "street1": "5300 CALIFORNIA AVENUE",
+    "city": "IRVINE",
+    "state": "CA",
+    "zip": "92617-3038"
+  },
+  "profit": {
+    "2009": 65000000,
+    "2010": 1082000000,
+    "2011": 927000000,
+    "2012": 719000000,
+    "2013": 424000000
+  },
+  "cash": {
+    "2009": 1397000000,
+    "2010": 1622000000,
+    "2011": 4146000000,
+    "2012": 1617000000,
+    "2013": 1657000000
+  },
+  "earningsPerShare": {
+    "2009": 0.13,
+    "2010": 2.13,
+    "2011": 1.72,
+    "2012": 1.29,
+    "2013": 0.74
+  },
+  "htmlUrl": "http://www.sec.gov/Archives/edgar/data/1054374/000105437414000012/0001054374-14-000012-index.htm",
+  "xmlUrl": "http://www.sec.gov/Archives/edgar/data/1054374/000105437414000012/brcm-20131231.xml"
+}

@@ -1,0 +1,39 @@
+{
+  "symbol": "ango",
+  "name": "AngioDynamics, Inc.",
+  "ipoYear": 2004,
+  "sector": "Health Care",
+  "industry": "Medical/Dental Instruments",
+  "exchange": "nasdaq",
+  "category": "SURGICAL &amp;amp; MEDICAL INSTRUMENTS &amp;amp; APPARATUS",
+  "address": {
+    "street1": "14 PLAZA DRIVE",
+    "city": "LATHAM",
+    "state": "NY",
+    "zip": "12110"
+  },
+  "profit": {
+    "2010": 12312000,
+    "2011": 8117000,
+    "2012": -5094000,
+    "2013": -612000,
+    "2014": 3088000
+  },
+  "cash": {
+    "2009": 27909000,
+    "2010": 58763000,
+    "2011": 45984000,
+    "2012": 23508000,
+    "2013": 21802000,
+    "2014": 16105000
+  },
+  "earningsPerShare": {
+    "2010": 0.5,
+    "2011": 0.33,
+    "2012": -0.2,
+    "2013": -0.02,
+    "2014": 0.09
+  },
+  "htmlUrl": "http://www.sec.gov/Archives/edgar/data/1275187/000144530514003694/0001445305-14-003694-index.htm",
+  "xmlUrl": "http://www.sec.gov/Archives/edgar/data/1275187/000144530514003694/ango-20140531.xml"
+}

@@ -1,0 +1,32 @@
+{
+  "symbol": "cdzi",
+  "name": "Cadiz, Inc.",
+  "ipoYear": null,
+  "sector": "Public Utilities",
+  "industry": "Water Supply",
+  "exchange": "nasdaq",
+  "category": "WATER SUPPLY",
+  "address": {
+    "street1": "550 SOUTH HOPE STREET",
+    "city": "LOS ANGELES",
+    "state": "CA",
+    "zip": "90071"
+  },
+  "profit": {
+    "2009": -14399000,
+    "2010": -15899000,
+    "2011": -16837000,
+    "2012": -19574000,
+    "2013": -22677000
+  },
+  "cash": {
+    "2009": 8878000,
+    "2010": 5911000,
+    "2011": 11370000,
+    "2012": 1685000,
+    "2013": 11887000
+  },
+  "earningsPerShare": {},
+  "htmlUrl": "http://www.sec.gov/Archives/edgar/data/727273/000072727314000003/0000727273-14-000003-index.htm",
+  "xmlUrl": "http://www.sec.gov/Archives/edgar/data/727273/000072727314000003/cdzi-20131231.xml"
+}

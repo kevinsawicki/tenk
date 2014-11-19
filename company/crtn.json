@@ -1,0 +1,19 @@
+{
+  "symbol": "crtn",
+  "name": "Cartesian, Inc.",
+  "ipoYear": null,
+  "sector": "Consumer Services",
+  "industry": "Professional Services",
+  "exchange": "nasdaq",
+  "category": "SERVICES-MANAGEMENT CONSULTING SERVICES",
+  "address": {
+    "street1": "7300 COLLEGE BLVD., SUITE 302",
+    "city": "OVERLAND PARK",
+    "state": "KS",
+    "zip": "66210"
+  },
+  "profit": {},
+  "cash": {},
+  "earningsPerShare": {},
+  "htmlUrl": "http://www.sec.gov/Archives/edgar/data/1094814/000114420414018734/0001144204-14-018734-index.htm"
+}

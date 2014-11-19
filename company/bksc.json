@@ -1,0 +1,38 @@
+{
+  "symbol": "bksc",
+  "name": "Bank of South Carolina Corp.",
+  "ipoYear": null,
+  "sector": "Finance",
+  "industry": "Major Banks",
+  "exchange": "nasdaq",
+  "category": "STATE COMMERCIAL BANKS",
+  "address": {
+    "street1": "256 MEETING ST",
+    "city": "CHARLESTON",
+    "state": "SC",
+    "zip": "29402"
+  },
+  "profit": {
+    "2009": 1869854,
+    "2010": 3110513,
+    "2011": 3189318,
+    "2012": 3666828,
+    "2013": 4076924
+  },
+  "cash": {
+    "2009": 9582502,
+    "2010": 24430785,
+    "2011": 52063476,
+    "2012": 31041848,
+    "2013": 22124096
+  },
+  "earningsPerShare": {
+    "2009": 0.43,
+    "2010": 0.7,
+    "2011": 0.72,
+    "2012": 0.82,
+    "2013": 0.92
+  },
+  "htmlUrl": "http://www.sec.gov/Archives/edgar/data/1007273/000138713114000823/0001387131-14-000823-index.htm",
+  "xmlUrl": "http://www.sec.gov/Archives/edgar/data/1007273/000138713114000823/bksc-20131231.xml"
+}

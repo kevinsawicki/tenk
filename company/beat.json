@@ -1,0 +1,29 @@
+{
+  "symbol": "beat",
+  "name": "BioTelemetry, Inc.",
+  "ipoYear": 2008,
+  "sector": "Health Care",
+  "industry": "Medical/Dental Instruments",
+  "exchange": "nasdaq",
+  "category": "SURGICAL &amp;amp; MEDICAL INSTRUMENTS &amp;amp; APPARATUS",
+  "address": {
+    "street1": "227 WASHINGTON STREET #210",
+    "city": "CONSHOHOCKEN",
+    "state": "PA",
+    "zip": "19428"
+  },
+  "profit": {
+    "2011": -61422000,
+    "2012": -12202000,
+    "2013": -7319000
+  },
+  "cash": {
+    "2010": 18705000,
+    "2011": 18531000,
+    "2012": 18298000,
+    "2013": 22151000
+  },
+  "earningsPerShare": {},
+  "htmlUrl": "http://www.sec.gov/Archives/edgar/data/1574774/000104746914001401/0001047469-14-001401-index.htm",
+  "xmlUrl": "http://www.sec.gov/Archives/edgar/data/1574774/000104746914001401/beat-20131231.xml"
+}

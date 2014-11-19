@@ -1,0 +1,28 @@
+{
+  "symbol": "arcp",
+  "name": "American Realty Capital Properties, Inc.",
+  "ipoYear": 2011,
+  "sector": "Consumer Services",
+  "industry": "Real Estate Investment Trusts",
+  "exchange": "nasdaq",
+  "category": "REAL ESTATE INVESTMENT TRUSTS",
+  "address": {
+    "street1": "405 PARK AVENUE",
+    "city": "NEW YORK",
+    "state": "NY",
+    "zip": "10022"
+  },
+  "profit": {
+    "2011": -4699000,
+    "2012": -39399000,
+    "2013": -406505000
+  },
+  "cash": {
+    "2010": 0,
+    "2011": 19331000,
+    "2012": 156873000,
+    "2013": 36738000
+  },
+  "earningsPerShare": {},
+  "htmlUrl": "http://www.sec.gov/Archives/edgar/data/1507385/000150738514000034/0001507385-14-000034-index.htm"
+}

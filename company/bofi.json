@@ -1,0 +1,39 @@
+{
+  "symbol": "bofi",
+  "name": "BofI Holding, Inc.",
+  "ipoYear": 2005,
+  "sector": "Finance",
+  "industry": "Savings Institutions",
+  "exchange": "nasdaq",
+  "category": "SAVINGS INSTITUTION, FEDERALLY CHARTERED",
+  "address": {
+    "street1": "4350 LA JOLLA VILLAGE DR.",
+    "city": "SAN DIEGO",
+    "state": "CA",
+    "zip": "92122"
+  },
+  "profit": {
+    "2010": 21128000,
+    "2011": 20579000,
+    "2012": 29476000,
+    "2013": 40291000,
+    "2014": 55956000
+  },
+  "cash": {
+    "2009": 9950000,
+    "2010": 18205000,
+    "2011": 9052000,
+    "2012": 35426000,
+    "2013": 201694000,
+    "2014": 155584000
+  },
+  "earningsPerShare": {
+    "2010": 2.31,
+    "2011": 1.88,
+    "2012": 2.45,
+    "2013": 3,
+    "2014": 3.87
+  },
+  "htmlUrl": "http://www.sec.gov/Archives/edgar/data/1299709/000129970914000121/0001299709-14-000121-index.htm",
+  "xmlUrl": "http://www.sec.gov/Archives/edgar/data/1299709/000129970914000121/bofi-20140630.xml"
+}

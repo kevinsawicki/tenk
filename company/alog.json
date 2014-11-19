@@ -1,0 +1,39 @@
+{
+  "symbol": "alog",
+  "name": "Analogic Corporation",
+  "ipoYear": 1972,
+  "sector": "Capital Goods",
+  "industry": "Electrical Products",
+  "exchange": "nasdaq",
+  "category": "INSTRUMENTS FOR MEAS &amp;amp; TESTING OF ELECTRICITY &amp;amp; ELEC SIGNALS",
+  "address": {
+    "street1": "8 CENTENNIAL DRIVE",
+    "city": "PEABODY",
+    "state": "MA",
+    "zip": "01960"
+  },
+  "profit": {
+    "2010": 15555000,
+    "2011": 17833000,
+    "2012": 43071000,
+    "2013": 31121000,
+    "2014": 34480000
+  },
+  "cash": {
+    "2009": 119855000,
+    "2010": 169254000,
+    "2011": 169656000,
+    "2012": 187011000,
+    "2013": 113033000,
+    "2014": 114540000
+  },
+  "earningsPerShare": {
+    "2010": 1.24,
+    "2011": 1.43,
+    "2012": 3.51,
+    "2013": 2.54,
+    "2014": 2.78
+  },
+  "htmlUrl": "http://www.sec.gov/Archives/edgar/data/6284/000119312514354592/0001193125-14-354592-index.htm",
+  "xmlUrl": "http://www.sec.gov/Archives/edgar/data/6284/000119312514354592/alog-20140731.xml"
+}

@@ -1,0 +1,39 @@
+{
+  "symbol": "apog",
+  "name": "Apogee Enterprises, Inc.",
+  "ipoYear": null,
+  "sector": "Capital Goods",
+  "industry": "Auto Parts:O.E.M.",
+  "exchange": "nasdaq",
+  "category": "GLASS PRODUCTS, MADE OF PURCHASED GLASS",
+  "address": {
+    "street1": "4400 WEST 78TH STREET",
+    "city": "MINNEAPOLIS",
+    "state": "MN",
+    "zip": "55435"
+  },
+  "profit": {
+    "2010": 31742000,
+    "2011": -10332000,
+    "2012": 4645000,
+    "2013": 19111000,
+    "2014": 27986000
+  },
+  "cash": {
+    "2009": 12994000,
+    "2010": 46929000,
+    "2011": 24302000,
+    "2012": 54027000,
+    "2013": 37767000,
+    "2014": 28465000
+  },
+  "earningsPerShare": {
+    "2010": 1.16,
+    "2011": -0.37,
+    "2012": 0.17,
+    "2013": 0.68,
+    "2014": 0.98
+  },
+  "htmlUrl": "http://www.sec.gov/Archives/edgar/data/6845/000000684514000009/0000006845-14-000009-index.htm",
+  "xmlUrl": "http://www.sec.gov/Archives/edgar/data/6845/000000684514000009/apog-20140301.xml"
+}

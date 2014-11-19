@@ -1,0 +1,34 @@
+{
+  "symbol": "artx",
+  "name": "Arotech Corporation",
+  "ipoYear": 1994,
+  "sector": "Miscellaneous",
+  "industry": "Industrial Machinery/Components",
+  "exchange": "nasdaq",
+  "category": "MISCELLANEOUS ELECTRICAL MACHINERY, EQUIPMENT &amp;amp; SUPPLIES",
+  "address": {
+    "street1": "1229 OAK VALLEY DRIVE",
+    "city": "ANN ARBOR",
+    "state": "MI",
+    "zip": "48108"
+  },
+  "profit": {
+    "2010": 917219,
+    "2011": -11527005,
+    "2012": -3016677,
+    "2013": 2152351
+  },
+  "cash": {
+    "2009": 1817412,
+    "2010": 5800485,
+    "2011": 2324163,
+    "2012": 1580627,
+    "2013": 5821325
+  },
+  "earningsPerShare": {
+    "2012": -0.21,
+    "2013": 0.13
+  },
+  "htmlUrl": "http://www.sec.gov/Archives/edgar/data/916529/000118518514000763/0001185185-14-000763-index.htm",
+  "xmlUrl": "http://www.sec.gov/Archives/edgar/data/916529/000118518514000763/artx-20131231.xml"
+}

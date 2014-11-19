@@ -1,0 +1,33 @@
+{
+  "symbol": "hawk",
+  "name": "Blackhawk Network Holdings, Inc.",
+  "ipoYear": 2013,
+  "sector": "Finance",
+  "industry": "Finance: Consumer Services",
+  "exchange": "nasdaq",
+  "category": "FINANCE SERVICES",
+  "address": {
+    "street1": "5918 STONERIDGE MALL ROAD",
+    "city": "PLEASANTON",
+    "state": "CA",
+    "zip": "94588"
+  },
+  "profit": {
+    "2011": 36499000,
+    "2012": 48165000,
+    "2013": 54104000
+  },
+  "cash": {
+    "2010": 61636000,
+    "2011": 153674000,
+    "2012": 172665000,
+    "2013": 550380000
+  },
+  "earningsPerShare": {
+    "2011": 0.71,
+    "2012": 0.93,
+    "2013": 1.04
+  },
+  "htmlUrl": "http://www.sec.gov/Archives/edgar/data/1411488/000119312514100983/0001193125-14-100983-index.htm",
+  "xmlUrl": "http://www.sec.gov/Archives/edgar/data/1411488/000119312514100983/hawk-20131228.xml"
+}

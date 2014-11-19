@@ -1,0 +1,38 @@
+{
+  "symbol": "blkb",
+  "name": "Blackbaud, Inc.",
+  "ipoYear": 2004,
+  "sector": "Technology",
+  "industry": "Computer Software: Prepackaged Software",
+  "exchange": "nasdaq",
+  "category": "SERVICES-PREPACKAGED SOFTWARE",
+  "address": {
+    "street1": "2000 DANIEL ISLAND DRIVE",
+    "city": "CHARLESTON",
+    "state": "SC",
+    "zip": "24992-7541"
+  },
+  "profit": {
+    "2009": 27520000,
+    "2010": 29187000,
+    "2011": 33220000,
+    "2012": 6583000,
+    "2013": 30472000
+  },
+  "cash": {
+    "2009": 22769000,
+    "2010": 28004000,
+    "2011": 52520000,
+    "2012": 13491000,
+    "2013": 11889000
+  },
+  "earningsPerShare": {
+    "2009": 0.64,
+    "2010": 0.68,
+    "2011": 0.76,
+    "2012": 0.15,
+    "2013": 0.68
+  },
+  "htmlUrl": "http://www.sec.gov/Archives/edgar/data/1280058/000128005814000005/0001280058-14-000005-index.htm",
+  "xmlUrl": "http://www.sec.gov/Archives/edgar/data/1280058/000128005814000005/blkb-20131231.xml"
+}

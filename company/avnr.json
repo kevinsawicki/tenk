@@ -1,0 +1,32 @@
+{
+  "symbol": "avnr",
+  "name": "Avanir Pharmaceuticals, Inc.",
+  "ipoYear": null,
+  "sector": "Health Care",
+  "industry": "Major Pharmaceuticals",
+  "exchange": "nasdaq",
+  "category": "PHARMACEUTICAL PREPARATIONS",
+  "address": {
+    "street1": "20 ENTERPRISE",
+    "city": "ALISO VIEJO",
+    "state": "CA",
+    "zip": "92656"
+  },
+  "profit": {
+    "2009": -21996016,
+    "2010": -26694148,
+    "2011": -60631563,
+    "2012": -59743827,
+    "2013": -75475863
+  },
+  "cash": {
+    "2009": 31486012,
+    "2010": 38771469,
+    "2011": 79542564,
+    "2012": 69778406,
+    "2013": 55259073
+  },
+  "earningsPerShare": {},
+  "htmlUrl": "http://www.sec.gov/Archives/edgar/data/858803/000119312513468821/0001193125-13-468821-index.htm",
+  "xmlUrl": "http://www.sec.gov/Archives/edgar/data/858803/000119312513468821/avnr-20130930.xml"
+}

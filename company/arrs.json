@@ -1,0 +1,38 @@
+{
+  "symbol": "arrs",
+  "name": "ARRIS Group, Inc.",
+  "ipoYear": null,
+  "sector": "Technology",
+  "industry": "Radio And Television Broadcasting And Communications Equipment",
+  "exchange": "nasdaq",
+  "category": "RADIO &amp;amp; TV BROADCASTING &amp;amp; COMMUNICATIONS EQUIPMENT",
+  "address": {
+    "street1": "3871 LAKEFIELD DRIVE",
+    "city": "SUWANEE",
+    "state": "GA",
+    "zip": "30024"
+  },
+  "profit": {
+    "2009": 90769000,
+    "2010": 64128000,
+    "2011": -17662000,
+    "2012": 53459000,
+    "2013": -48760000
+  },
+  "cash": {
+    "2009": 500565000,
+    "2010": 353121000,
+    "2011": 235875000,
+    "2012": 131703000,
+    "2013": 442438000
+  },
+  "earningsPerShare": {
+    "2009": 0.73,
+    "2010": 0.51,
+    "2011": -0.15,
+    "2012": 0.47,
+    "2013": -0.37
+  },
+  "htmlUrl": "http://www.sec.gov/Archives/edgar/data/1141107/000119312514079303/0001193125-14-079303-index.htm",
+  "xmlUrl": "http://www.sec.gov/Archives/edgar/data/1141107/000119312514079303/arrs-20131231.xml"
+}

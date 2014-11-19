@@ -1,0 +1,32 @@
+{
+  "symbol": "athx",
+  "name": "Athersys, Inc.",
+  "ipoYear": null,
+  "sector": "Health Care",
+  "industry": "Major Pharmaceuticals",
+  "exchange": "nasdaq",
+  "category": "PHARMACEUTICAL PREPARATIONS",
+  "address": {
+    "street1": "3201 CARNEGIE AVENUE",
+    "city": "CLEVELAND",
+    "state": "OH",
+    "zip": "44115-2634"
+  },
+  "profit": {
+    "2009": -15366000,
+    "2010": -11377000,
+    "2011": -13746000,
+    "2012": -14735000,
+    "2013": -30743000
+  },
+  "cash": {
+    "2009": 11167000,
+    "2010": 2105000,
+    "2011": 8785000,
+    "2012": 25533000,
+    "2013": 31948000
+  },
+  "earningsPerShare": {},
+  "htmlUrl": "http://www.sec.gov/Archives/edgar/data/1368148/000119312514097696/0001193125-14-097696-index.htm",
+  "xmlUrl": "http://www.sec.gov/Archives/edgar/data/1368148/000119312514097696/athx-20131231.xml"
+}

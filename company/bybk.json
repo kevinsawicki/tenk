@@ -1,0 +1,30 @@
+{
+  "symbol": "bybk",
+  "name": "Bay Bancorp, Inc.",
+  "ipoYear": null,
+  "sector": "Finance",
+  "industry": "Major Banks",
+  "exchange": "nasdaq",
+  "category": "STATE COMMERCIAL BANKS",
+  "address": {
+    "street1": "2328 WEST JOPPA ROAD",
+    "city": "LUTHERVILLE",
+    "state": "MD",
+    "zip": "21093"
+  },
+  "profit": {
+    "2012": -156757,
+    "2013": -449560
+  },
+  "cash": {
+    "2011": 15437408,
+    "2012": 19684829,
+    "2013": 23273060
+  },
+  "earningsPerShare": {
+    "2012": 0.01,
+    "2013": 0.39
+  },
+  "htmlUrl": "http://www.sec.gov/Archives/edgar/data/859222/000156276214000089/0001562762-14-000089-index.htm",
+  "xmlUrl": "http://www.sec.gov/Archives/edgar/data/859222/000156276214000089/bybk-20131231.xml"
+}

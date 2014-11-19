@@ -1,0 +1,32 @@
+{
+  "symbol": "clmt",
+  "name": "Calumet Specialty Products Partners, L.P.",
+  "ipoYear": 2006,
+  "sector": "Energy",
+  "industry": "Integrated oil Companies",
+  "exchange": "nasdaq",
+  "category": "PETROLEUM REFINING",
+  "address": {
+    "street1": "2780 WATERFRONT",
+    "city": "INDIANAPOLIS",
+    "state": "IN",
+    "zip": "46214"
+  },
+  "profit": {
+    "2009": 61785000,
+    "2010": 16701000,
+    "2011": 43000000,
+    "2012": 205700000,
+    "2013": 3500000
+  },
+  "cash": {
+    "2009": 49000,
+    "2010": 0,
+    "2011": 100000,
+    "2012": 32200000,
+    "2013": 121100000
+  },
+  "earningsPerShare": {},
+  "htmlUrl": "http://www.sec.gov/Archives/edgar/data/1340122/000134012214000008/0001340122-14-000008-index.htm",
+  "xmlUrl": "http://www.sec.gov/Archives/edgar/data/1340122/000134012214000008/clmt-20131231.xml"
+}

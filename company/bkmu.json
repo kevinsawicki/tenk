@@ -1,0 +1,38 @@
+{
+  "symbol": "bkmu",
+  "name": "Bank Mutual Corporation",
+  "ipoYear": null,
+  "sector": "Finance",
+  "industry": "Savings Institutions",
+  "exchange": "nasdaq",
+  "category": "SAVINGS INSTITUTION, FEDERALLY CHARTERED",
+  "address": {
+    "street1": "4949 W. BROWN DEER RD",
+    "city": "BROWN DEER",
+    "state": "WI",
+    "zip": "53223"
+  },
+  "profit": {
+    "2009": 13725000,
+    "2010": -72640000,
+    "2011": -47565000,
+    "2012": 6754000,
+    "2013": 10796000
+  },
+  "cash": {
+    "2009": 227658000,
+    "2010": 232832000,
+    "2011": 120935000,
+    "2012": 87059000,
+    "2013": 42456000
+  },
+  "earningsPerShare": {
+    "2009": 0.29,
+    "2010": -1.59,
+    "2011": -1.03,
+    "2012": 0.15,
+    "2013": 0.23
+  },
+  "htmlUrl": "http://www.sec.gov/Archives/edgar/data/1123270/000114420414014155/0001144204-14-014155-index.htm",
+  "xmlUrl": "http://www.sec.gov/Archives/edgar/data/1123270/000114420414014155/bkmu-20131231.xml"
+}

@@ -1,0 +1,35 @@
+{
+  "symbol": "bgfv",
+  "name": "Big 5 Sporting Goods Corporation",
+  "ipoYear": 2002,
+  "sector": "Consumer Services",
+  "industry": "Other Specialty Stores",
+  "exchange": "nasdaq",
+  "category": "RETAIL-MISCELLANEOUS SHOPPING GOODS STORES",
+  "address": {
+    "street1": "2525 EAST EL SEGUNDO BOULEVARD",
+    "city": "EL SEGUNDO",
+    "state": "CA",
+    "zip": "90245-4632"
+  },
+  "profit": {
+    "2010": 21811000,
+    "2011": 11673000,
+    "2012": 14915000,
+    "2013": 27946000
+  },
+  "cash": {
+    "2010": 5765000,
+    "2011": 5620000,
+    "2012": 7635000,
+    "2013": 9400000
+  },
+  "earningsPerShare": {
+    "2010": 1.02,
+    "2011": 0.54,
+    "2012": 0.7,
+    "2013": 1.28
+  },
+  "htmlUrl": "http://www.sec.gov/Archives/edgar/data/1156388/000119312514069244/0001193125-14-069244-index.htm",
+  "xmlUrl": "http://www.sec.gov/Archives/edgar/data/1156388/000119312514069244/bgfv-20131229.xml"
+}

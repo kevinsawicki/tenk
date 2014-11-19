@@ -1,0 +1,39 @@
+{
+  "symbol": "amwd",
+  "name": "American Woodmark Corporation",
+  "ipoYear": 1986,
+  "sector": "Basic Industries",
+  "industry": "Forest Products",
+  "exchange": "nasdaq",
+  "category": "MILLWOOD, VENEER, PLYWOOD &amp;amp; STRUCTURAL WOOD MEMBERS",
+  "address": {
+    "street1": "3102 SHAWNEE DRIVE",
+    "city": "WINCHESTER",
+    "state": "VA",
+    "zip": "22601"
+  },
+  "profit": {
+    "2010": -22341000,
+    "2011": -20018000,
+    "2012": -20786000,
+    "2013": 9758000,
+    "2014": 20461000
+  },
+  "cash": {
+    "2009": 82821000,
+    "2010": 53233000,
+    "2011": 55420000,
+    "2012": 66620000,
+    "2013": 96971000,
+    "2014": 135700000
+  },
+  "earningsPerShare": {
+    "2010": -1.58,
+    "2011": -1.4,
+    "2012": -1.45,
+    "2013": 0.67,
+    "2014": 1.34
+  },
+  "htmlUrl": "http://www.sec.gov/Archives/edgar/data/794619/000079461914000016/0000794619-14-000016-index.htm",
+  "xmlUrl": "http://www.sec.gov/Archives/edgar/data/794619/000079461914000016/amwd-20140430.xml"
+}

@@ -1,0 +1,32 @@
+{
+  "symbol": "carb",
+  "name": "Carbonite, Inc.",
+  "ipoYear": 2011,
+  "sector": "Technology",
+  "industry": "EDP Services",
+  "exchange": "nasdaq",
+  "category": "SERVICES-COMPUTER PROCESSING &amp;amp; DATA PREPARATION",
+  "address": {
+    "street1": "177 HUNTINGTON AVENUE",
+    "city": "BOSTON",
+    "state": "MA",
+    "zip": "02115"
+  },
+  "profit": {
+    "2009": -19225000,
+    "2010": -25763000,
+    "2011": -23536000,
+    "2012": -18936000,
+    "2013": -10605000
+  },
+  "cash": {
+    "2009": 28276000,
+    "2010": 13855000,
+    "2011": 59842000,
+    "2012": 40341000,
+    "2013": 50392000
+  },
+  "earningsPerShare": {},
+  "htmlUrl": "http://www.sec.gov/Archives/edgar/data/1340127/000119312514084500/0001193125-14-084500-index.htm",
+  "xmlUrl": "http://www.sec.gov/Archives/edgar/data/1340127/000119312514084500/carb-20131231.xml"
+}

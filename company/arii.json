@@ -1,0 +1,29 @@
+{
+  "symbol": "arii",
+  "name": "American Railcar Industries, Inc.",
+  "ipoYear": 2006,
+  "sector": "Capital Goods",
+  "industry": "Railroads",
+  "exchange": "nasdaq",
+  "category": "RAILROAD EQUIPMENT",
+  "address": {
+    "street1": "100 CLARK STREET",
+    "city": "ST. CHARLES",
+    "state": "MO",
+    "zip": "63301"
+  },
+  "profit": {
+    "2009": 15458000,
+    "2010": -27006000,
+    "2011": 4336000,
+    "2012": 63823000
+  },
+  "cash": {
+    "2009": 347290000,
+    "2010": 318758000,
+    "2011": 307172000,
+    "2012": 205045000
+  },
+  "earningsPerShare": {},
+  "htmlUrl": "http://www.sec.gov/Archives/edgar/data/1344596/000134459614000021/0001344596-14-000021-index.htm"
+}

@@ -1,0 +1,36 @@
+{
+  "symbol": "artw",
+  "name": "Art&#39;s-Way Manufacturing Co., Inc.",
+  "ipoYear": null,
+  "sector": "Capital Goods",
+  "industry": "Industrial Machinery/Components",
+  "exchange": "nasdaq",
+  "category": "FARM MACHINERY &amp;amp; EQUIPMENT",
+  "address": {
+    "street1": "P O BOX 288",
+    "city": "ARMSTRONG",
+    "state": "IA",
+    "zip": "50514"
+  },
+  "profit": {
+    "2010": 1053497,
+    "2011": 1248895,
+    "2012": 2665087,
+    "2013": 1551376
+  },
+  "cash": {
+    "2009": 387218,
+    "2010": 317103,
+    "2011": 118928,
+    "2012": 1546609,
+    "2013": 207950
+  },
+  "earningsPerShare": {
+    "2010": 0.26,
+    "2011": 0.31,
+    "2012": 0.66,
+    "2013": 0.38
+  },
+  "htmlUrl": "http://www.sec.gov/Archives/edgar/data/7623/000143774914002836/0001437749-14-002836-index.htm",
+  "xmlUrl": "http://www.sec.gov/Archives/edgar/data/7623/000143774914002836/artw-20131130.xml"
+}

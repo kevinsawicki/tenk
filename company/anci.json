@@ -1,0 +1,34 @@
+{
+  "symbol": "anci",
+  "name": "American Caresource Holdings Inc",
+  "ipoYear": null,
+  "sector": "Health Care",
+  "industry": "Hospital/Nursing Management",
+  "exchange": "nasdaq",
+  "category": "SERVICES-MISC HEALTH &amp;amp; ALLIED SERVICES, NEC",
+  "address": {
+    "street1": "5429 LYNDON B. JOHNSON FREEWAY",
+    "city": "DALLAS",
+    "state": "TX",
+    "zip": "75240"
+  },
+  "profit": {
+    "2010": 486000,
+    "2011": -7237000,
+    "2012": -3091000,
+    "2013": -3785000
+  },
+  "cash": {
+    "2009": 11868000,
+    "2010": 14512000,
+    "2011": 11315000,
+    "2012": 10705000,
+    "2013": 6207000
+  },
+  "earningsPerShare": {
+    "2010": 0.03,
+    "2011": -0.43
+  },
+  "htmlUrl": "http://www.sec.gov/Archives/edgar/data/1316645/000131664514000006/0001316645-14-000006-index.htm",
+  "xmlUrl": "http://www.sec.gov/Archives/edgar/data/1316645/000131664514000006/anci-20131231.xml"
+}

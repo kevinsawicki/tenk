@@ -1,0 +1,38 @@
+{
+  "symbol": "axti",
+  "name": "AXT Inc",
+  "ipoYear": 1998,
+  "sector": "Technology",
+  "industry": "Semiconductors",
+  "exchange": "nasdaq",
+  "category": "SEMICONDUCTORS &amp;amp; RELATED DEVICES",
+  "address": {
+    "street1": "4281 TECHNOLOGY DR.",
+    "city": "FREMONT",
+    "state": "CA",
+    "zip": "94538"
+  },
+  "profit": {
+    "2009": -1898000,
+    "2010": 18653000,
+    "2011": 20320000,
+    "2012": 3110000,
+    "2013": -7958000
+  },
+  "cash": {
+    "2009": 16934000,
+    "2010": 23724000,
+    "2011": 26156000,
+    "2012": 30634000,
+    "2013": 24961000
+  },
+  "earningsPerShare": {
+    "2009": -0.07,
+    "2010": 0.6,
+    "2011": 0.63,
+    "2012": 0.09,
+    "2013": -0.25
+  },
+  "htmlUrl": "http://www.sec.gov/Archives/edgar/data/1051627/000114036114012780/0001140361-14-012780-index.htm",
+  "xmlUrl": "http://www.sec.gov/Archives/edgar/data/1051627/000114036114012780/axti-20131231.xml"
+}

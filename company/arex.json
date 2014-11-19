@@ -1,0 +1,38 @@
+{
+  "symbol": "arex",
+  "name": "Approach Resources Inc.",
+  "ipoYear": 2007,
+  "sector": "Energy",
+  "industry": "Oil & Gas Production",
+  "exchange": "nasdaq",
+  "category": "CRUDE PETROLEUM &amp;amp; NATURAL GAS",
+  "address": {
+    "street1": "ONE RIDGMAR CENTRE",
+    "city": "FORT WORTH",
+    "state": "TX",
+    "zip": "76116"
+  },
+  "profit": {
+    "2009": -5229000,
+    "2010": 7462000,
+    "2011": 7242000,
+    "2012": 6384000,
+    "2013": 72256000
+  },
+  "cash": {
+    "2009": 2685000,
+    "2010": 23465000,
+    "2011": 301000,
+    "2012": 767000,
+    "2013": 58761000
+  },
+  "earningsPerShare": {
+    "2009": -0.25,
+    "2010": 0.34,
+    "2011": 0.25,
+    "2012": 0.18,
+    "2013": 1.85
+  },
+  "htmlUrl": "http://www.sec.gov/Archives/edgar/data/1405073/000119312514067265/0001193125-14-067265-index.htm",
+  "xmlUrl": "http://www.sec.gov/Archives/edgar/data/1405073/000119312514067265/arex-20131231.xml"
+}

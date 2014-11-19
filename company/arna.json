@@ -1,0 +1,38 @@
+{
+  "symbol": "arna",
+  "name": "Arena Pharmaceuticals, Inc.",
+  "ipoYear": 2000,
+  "sector": "Health Care",
+  "industry": "Major Pharmaceuticals",
+  "exchange": "nasdaq",
+  "category": "PHARMACEUTICAL PREPARATIONS",
+  "address": {
+    "street1": "6154 NANCY RIDGE DRIVE",
+    "city": "SAN DIEGO",
+    "state": "CA",
+    "zip": "92121"
+  },
+  "profit": {
+    "2009": -153204000,
+    "2010": -124534000,
+    "2011": -109224000,
+    "2012": -85477000,
+    "2013": -19435000
+  },
+  "cash": {
+    "2009": 94733000,
+    "2010": 150669000,
+    "2011": 57632000,
+    "2012": 156091000,
+    "2013": 221878000
+  },
+  "earningsPerShare": {
+    "2009": -1.82,
+    "2010": -1.14,
+    "2011": -0.8,
+    "2012": -0.45,
+    "2013": -0.09
+  },
+  "htmlUrl": "http://www.sec.gov/Archives/edgar/data/1080709/000119312514080400/0001193125-14-080400-index.htm",
+  "xmlUrl": "http://www.sec.gov/Archives/edgar/data/1080709/000119312514080400/arna-20131231.xml"
+}

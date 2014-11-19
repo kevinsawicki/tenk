@@ -1,0 +1,32 @@
+{
+  "symbol": "fold",
+  "name": "Amicus Therapeutics, Inc.",
+  "ipoYear": 2007,
+  "sector": "Health Care",
+  "industry": "Major Pharmaceuticals",
+  "exchange": "nasdaq",
+  "category": "PHARMACEUTICAL PREPARATIONS",
+  "address": {
+    "street1": "1 CEDAR BROOK DRIVE",
+    "city": "CRANBURY",
+    "state": "NJ",
+    "zip": "08512"
+  },
+  "profit": {
+    "2009": -6567000,
+    "2010": -54936000,
+    "2011": -44412000,
+    "2012": -48785000,
+    "2013": -59633000
+  },
+  "cash": {
+    "2009": 19339000,
+    "2010": 29572000,
+    "2011": 25668000,
+    "2012": 33971000,
+    "2013": 43640000
+  },
+  "earningsPerShare": {},
+  "htmlUrl": "http://www.sec.gov/Archives/edgar/data/1178879/000104746914001702/0001047469-14-001702-index.htm",
+  "xmlUrl": "http://www.sec.gov/Archives/edgar/data/1178879/000104746914001702/fold-20131231.xml"
+}

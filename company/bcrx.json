@@ -1,0 +1,32 @@
+{
+  "symbol": "bcrx",
+  "name": "BioCryst Pharmaceuticals, Inc.",
+  "ipoYear": 1994,
+  "sector": "Health Care",
+  "industry": "Biotechnology: Biological Products (No Diagnostic Substances)",
+  "exchange": "nasdaq",
+  "category": "BIOLOGICAL PRODUCTS (NO DIAGNOSTIC SUBSTANCES)",
+  "address": {
+    "street1": "2190 PARKWAY LAKE DR",
+    "city": "BIRMINGHAM",
+    "state": "AL",
+    "zip": "35244"
+  },
+  "profit": {
+    "2009": -13451000,
+    "2010": -33853000,
+    "2011": -56948000,
+    "2012": -39081000,
+    "2013": -30108000
+  },
+  "cash": {
+    "2009": 41125000,
+    "2010": 13622000,
+    "2011": 16444000,
+    "2012": 20891000,
+    "2013": 21164000
+  },
+  "earningsPerShare": {},
+  "htmlUrl": "http://www.sec.gov/Archives/edgar/data/882796/000119312514091609/0001193125-14-091609-index.htm",
+  "xmlUrl": "http://www.sec.gov/Archives/edgar/data/882796/000119312514091609/bcrx-20131231.xml"
+}

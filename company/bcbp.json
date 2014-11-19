@@ -1,0 +1,37 @@
+{
+  "symbol": "bcbp",
+  "name": "BCB Bancorp, Inc. (NJ)",
+  "ipoYear": 2005,
+  "sector": "Finance",
+  "industry": "Savings Institutions",
+  "exchange": "nasdaq",
+  "category": "SAVINGS INSTITUTION, FEDERALLY CHARTERED",
+  "address": {
+    "street1": "104-110 AVENUE C",
+    "city": "BAYONNE",
+    "state": "NJ",
+    "zip": "07002"
+  },
+  "profit": {
+    "2009": 3748000,
+    "2010": 14326000,
+    "2011": 6051000,
+    "2012": -2062000,
+    "2013": 9416000
+  },
+  "cash": {
+    "2009": 67347000,
+    "2010": 121127000,
+    "2011": 116101000,
+    "2012": 34147000,
+    "2013": 29844000
+  },
+  "earningsPerShare": {
+    "2009": 0.81,
+    "2010": 2.06,
+    "2011": 0.64,
+    "2012": -0.23,
+    "2013": 1.06
+  },
+  "htmlUrl": "http://www.sec.gov/Archives/edgar/data/1228454/000156276214000077/0001562762-14-000077-index.htm"
+}

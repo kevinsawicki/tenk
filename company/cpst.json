@@ -1,0 +1,33 @@
+{
+  "symbol": "cpst",
+  "name": "Capstone Turbine Corporation",
+  "ipoYear": 2000,
+  "sector": "Energy",
+  "industry": "Industrial Machinery/Components",
+  "exchange": "nasdaq",
+  "category": "ENGINES &amp;amp; TURBINES",
+  "address": {
+    "street1": "21211 NORDHOFF STREET",
+    "city": "CHATSWORTH",
+    "state": "CA",
+    "zip": "91311"
+  },
+  "profit": {
+    "2010": -67241000,
+    "2011": -38470000,
+    "2012": -18764000,
+    "2013": -22563000,
+    "2014": -16256000
+  },
+  "cash": {
+    "2009": 19519000,
+    "2010": 47270000,
+    "2011": 33456000,
+    "2012": 49952000,
+    "2013": 38817000,
+    "2014": 27859000
+  },
+  "earningsPerShare": {},
+  "htmlUrl": "http://www.sec.gov/Archives/edgar/data/1009759/000104746914005546/0001047469-14-005546-index.htm",
+  "xmlUrl": "http://www.sec.gov/Archives/edgar/data/1009759/000104746914005546/cpst-20140331.xml"
+}

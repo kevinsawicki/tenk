@@ -1,0 +1,38 @@
+{
+  "symbol": "aste",
+  "name": "Astec Industries, Inc.",
+  "ipoYear": 1986,
+  "sector": "Capital Goods",
+  "industry": "Construction/Ag Equipment/Trucks",
+  "exchange": "nasdaq",
+  "category": "CONSTRUCTION MACHINERY &amp;amp; EQUIP",
+  "address": {
+    "street1": "1725 SHEPHERD ROAD",
+    "city": "CHATTANOOGA",
+    "state": "TN",
+    "zip": "37421"
+  },
+  "profit": {
+    "2009": 3068000,
+    "2010": 32430000,
+    "2011": 40563000,
+    "2012": 40828000,
+    "2013": 39042000
+  },
+  "cash": {
+    "2009": 40429000,
+    "2010": 94597000,
+    "2011": 57505000,
+    "2012": 80929000,
+    "2013": 35564000
+  },
+  "earningsPerShare": {
+    "2009": 0.14,
+    "2010": 1.44,
+    "2011": 1.8,
+    "2012": 1.8,
+    "2013": 1.72
+  },
+  "htmlUrl": "http://www.sec.gov/Archives/edgar/data/792987/000079298714000012/0000792987-14-000012-index.htm",
+  "xmlUrl": "http://www.sec.gov/Archives/edgar/data/792987/000079298714000012/aste-20131231.xml"
+}

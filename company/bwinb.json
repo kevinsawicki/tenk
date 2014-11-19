@@ -1,0 +1,36 @@
+{
+  "symbol": "bwinb",
+  "name": "Baldwin & Lyons, Inc.",
+  "ipoYear": null,
+  "sector": "Finance",
+  "industry": "Property-Casualty Insurers",
+  "exchange": "nasdaq",
+  "category": "FIRE, MARINE &amp;amp; CASUALTY INSURANCE",
+  "address": {
+    "street1": "1099 N MERIDIAN ST",
+    "city": "INDIANAPOLIS",
+    "state": "IN",
+    "zip": "46204"
+  },
+  "profit": {
+    "2009": 44802000,
+    "2010": 25015000,
+    "2011": -28175000,
+    "2012": 31919000,
+    "2013": 36588000
+  },
+  "cash": {
+    "2009": 79504000,
+    "2010": 38223000,
+    "2011": 89726000,
+    "2012": 71549000,
+    "2013": 59297000
+  },
+  "earningsPerShare": {
+    "2009": 3.04,
+    "2010": 1.69,
+    "2011": -1.9
+  },
+  "htmlUrl": "http://www.sec.gov/Archives/edgar/data/9346/000000934614000004/0000009346-14-000004-index.htm",
+  "xmlUrl": "http://www.sec.gov/Archives/edgar/data/9346/000000934614000004/bwinb-20131231.xml"
+}

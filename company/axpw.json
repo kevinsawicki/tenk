@@ -1,0 +1,32 @@
+{
+  "symbol": "axpw",
+  "name": "Axion Power International, Inc.",
+  "ipoYear": null,
+  "sector": "Miscellaneous",
+  "industry": "Industrial Machinery/Components",
+  "exchange": "nasdaq",
+  "category": "MISCELLANEOUS ELECTRICAL MACHINERY, EQUIPMENT &amp;amp; SUPPLIES",
+  "address": {
+    "street1": "3601 CLOVER LANE",
+    "city": "NEW CASTLE",
+    "state": "PA",
+    "zip": "16105"
+  },
+  "profit": {
+    "2009": -14578427,
+    "2010": -6830854,
+    "2011": -8311890,
+    "2012": -8553281,
+    "2013": -11963038
+  },
+  "cash": {
+    "2009": 23279466,
+    "2010": 13330009,
+    "2011": 1987637,
+    "2012": 2004391,
+    "2013": 1169093
+  },
+  "earningsPerShare": {},
+  "htmlUrl": "http://www.sec.gov/Archives/edgar/data/1028153/000114420414019475/0001144204-14-019475-index.htm",
+  "xmlUrl": "http://www.sec.gov/Archives/edgar/data/1028153/000114420414019475/axpw-20131231.xml"
+}

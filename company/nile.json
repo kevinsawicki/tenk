@@ -1,0 +1,38 @@
+{
+  "symbol": "nile",
+  "name": "Blue Nile, Inc.",
+  "ipoYear": 2004,
+  "sector": "Consumer Services",
+  "industry": "Consumer Specialties",
+  "exchange": "nasdaq",
+  "category": "RETAIL-JEWELRY STORES",
+  "address": {
+    "street1": "411 FIRST AVE S",
+    "city": "SEATTLE",
+    "state": "WA",
+    "zip": "98104"
+  },
+  "profit": {
+    "2009": 11630000,
+    "2010": 12800000,
+    "2011": 11350000,
+    "2012": 8392000,
+    "2013": 10875000
+  },
+  "cash": {
+    "2009": 54451000,
+    "2010": 78149000,
+    "2011": 89391000,
+    "2012": 87017000,
+    "2013": 115942000
+  },
+  "earningsPerShare": {
+    "2009": 0.78,
+    "2010": 0.88,
+    "2011": 0.8,
+    "2012": 0.64,
+    "2013": 0.87
+  },
+  "htmlUrl": "http://www.sec.gov/Archives/edgar/data/1091171/000109117114000014/0001091171-14-000014-index.htm",
+  "xmlUrl": "http://www.sec.gov/Archives/edgar/data/1091171/000109117114000014/nile-20131229.xml"
+}

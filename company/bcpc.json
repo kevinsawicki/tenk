@@ -1,0 +1,38 @@
+{
+  "symbol": "bcpc",
+  "name": "Balchem Corporation",
+  "ipoYear": null,
+  "sector": "Basic Industries",
+  "industry": "Major Chemicals",
+  "exchange": "nasdaq",
+  "category": "CHEMICALS &amp;amp; ALLIED PRODUCTS",
+  "address": {
+    "street1": "P O BOX 600",
+    "city": "NEW HAMPTON",
+    "state": "NY",
+    "zip": "10958"
+  },
+  "profit": {
+    "2009": 26785000,
+    "2010": 33277000,
+    "2011": 38765000,
+    "2012": 40005000,
+    "2013": 44874000
+  },
+  "cash": {
+    "2009": 46432000,
+    "2010": 77253000,
+    "2011": 114781000,
+    "2012": 144737000,
+    "2013": 208747000
+  },
+  "earningsPerShare": {
+    "2009": 0.98,
+    "2010": 1.19,
+    "2011": 1.36,
+    "2012": 1.38,
+    "2013": 1.51
+  },
+  "htmlUrl": "http://www.sec.gov/Archives/edgar/data/9326/000114036114009932/0001140361-14-009932-index.htm",
+  "xmlUrl": "http://www.sec.gov/Archives/edgar/data/9326/000114036114009932/bcpc-20131231.xml"
+}

@@ -1,0 +1,32 @@
+{
+  "symbol": "asti",
+  "name": "Ascent Solar Technologies, Inc.",
+  "ipoYear": null,
+  "sector": "Technology",
+  "industry": "Semiconductors",
+  "exchange": "nasdaq",
+  "category": "SEMICONDUCTORS &amp;amp; RELATED DEVICES",
+  "address": {
+    "street1": "12300 GRANT STREET",
+    "city": "THORNTON",
+    "state": "CO",
+    "zip": "80241"
+  },
+  "profit": {
+    "2009": -20922717,
+    "2010": -31233718,
+    "2011": -105743860,
+    "2012": -28768398,
+    "2013": -30130951
+  },
+  "cash": {
+    "2009": 21717215,
+    "2010": 27303217,
+    "2011": 11298885,
+    "2012": 12621477,
+    "2013": 3318155
+  },
+  "earningsPerShare": {},
+  "htmlUrl": "http://www.sec.gov/Archives/edgar/data/1350102/000135010214000021/0001350102-14-000021-index.htm",
+  "xmlUrl": "http://www.sec.gov/Archives/edgar/data/1350102/000135010214000021/asti-20131231.xml"
+}

@@ -1,0 +1,38 @@
+{
+  "symbol": "awre",
+  "name": "Aware, Inc.",
+  "ipoYear": 1996,
+  "sector": "Technology",
+  "industry": "Semiconductors",
+  "exchange": "nasdaq",
+  "category": "SEMICONDUCTORS &amp;amp; RELATED DEVICES",
+  "address": {
+    "street1": "40 MIDDLESEX TURNPIKE",
+    "city": "BEDFORD",
+    "state": "MA",
+    "zip": "01730"
+  },
+  "profit": {
+    "2009": 982000,
+    "2010": 180000,
+    "2011": 2567000,
+    "2012": 72307000,
+    "2013": 2596000
+  },
+  "cash": {
+    "2009": 39669000,
+    "2010": 39949000,
+    "2011": 46577000,
+    "2012": 71074000,
+    "2013": 72660000
+  },
+  "earningsPerShare": {
+    "2009": 0.05,
+    "2010": 0.01,
+    "2011": 0.12,
+    "2012": 3.32,
+    "2013": 0.12
+  },
+  "htmlUrl": "http://www.sec.gov/Archives/edgar/data/1015739/000118811214000398/0001188112-14-000398-index.htm",
+  "xmlUrl": "http://www.sec.gov/Archives/edgar/data/1015739/000118811214000398/awre-20131231.xml"
+}

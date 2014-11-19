@@ -1,0 +1,30 @@
+{
+  "symbol": "blfs",
+  "name": "BioLife Solutions, Inc.",
+  "ipoYear": null,
+  "sector": "Health Care",
+  "industry": "Biotechnology: Electromedical & Electrotherapeutic Apparatus",
+  "exchange": "nasdaq",
+  "category": "ELECTROMEDICAL &amp;amp; ELECTROTHERAPEUTIC APPARATUS",
+  "address": {
+    "street1": "3303 MONTE VILLA PARKWAY",
+    "city": "BOTHELL",
+    "state": "WA",
+    "zip": "98021"
+  },
+  "profit": {
+    "2010": -1983630,
+    "2011": -1956639,
+    "2012": -1659586,
+    "2013": -1084160
+  },
+  "cash": {
+    "2009": 139151,
+    "2010": 3211,
+    "2011": 16864,
+    "2012": 196478,
+    "2013": 156273
+  },
+  "earningsPerShare": {},
+  "htmlUrl": "http://www.sec.gov/Archives/edgar/data/834365/000135448814002120/0001354488-14-002120-index.htm"
+}

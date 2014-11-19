@@ -1,0 +1,38 @@
+{
+  "symbol": "atni",
+  "name": "Atlantic Tele-Network, Inc.",
+  "ipoYear": null,
+  "sector": "Public Utilities",
+  "industry": "Telecommunications Equipment",
+  "exchange": "nasdaq",
+  "category": "TELEPHONE COMMUNICATIONS (NO RADIO TELEPHONE)",
+  "address": {
+    "street1": "600 CUMMINGS CENTER",
+    "city": "BEVERLY",
+    "state": "MA",
+    "zip": "01915"
+  },
+  "profit": {
+    "2009": 35539000,
+    "2010": 38454000,
+    "2011": 21794000,
+    "2012": 48932000,
+    "2013": 311716000
+  },
+  "cash": {
+    "2009": 90247000,
+    "2010": 37330000,
+    "2011": 48735000,
+    "2012": 136647000,
+    "2013": 356607000
+  },
+  "earningsPerShare": {
+    "2009": 2.33,
+    "2010": 2.51,
+    "2011": 1.42,
+    "2012": 3.15,
+    "2013": 19.85
+  },
+  "htmlUrl": "http://www.sec.gov/Archives/edgar/data/879585/000104746914002518/0001047469-14-002518-index.htm",
+  "xmlUrl": "http://www.sec.gov/Archives/edgar/data/879585/000104746914002518/atni-20131231.xml"
+}

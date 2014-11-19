@@ -1,0 +1,37 @@
+{
+  "symbol": "bmrn",
+  "name": "BioMarin Pharmaceutical Inc.",
+  "ipoYear": 1999,
+  "sector": "Health Care",
+  "industry": "Major Pharmaceuticals",
+  "exchange": "nasdaq",
+  "category": "PHARMACEUTICAL PREPARATIONS",
+  "address": {
+    "street1": "105 DIGITAL DRIVE",
+    "city": "NOVATO",
+    "state": "CA",
+    "zip": "94949"
+  },
+  "profit": {
+    "2009": -488000,
+    "2010": 205819000,
+    "2011": -53836000,
+    "2012": -114347000,
+    "2013": -176353000
+  },
+  "cash": {
+    "2009": 167171000,
+    "2010": 88079000,
+    "2011": 46272000,
+    "2012": 180527000,
+    "2013": 568781000
+  },
+  "earningsPerShare": {
+    "2009": 0,
+    "2010": 2,
+    "2011": -0.48,
+    "2012": -0.95
+  },
+  "htmlUrl": "http://www.sec.gov/Archives/edgar/data/1048477/000119312514070025/0001193125-14-070025-index.htm",
+  "xmlUrl": "http://www.sec.gov/Archives/edgar/data/1048477/000119312514070025/bmrn-20131231.xml"
+}

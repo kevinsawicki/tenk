@@ -1,0 +1,31 @@
+{
+  "symbol": "bcov",
+  "name": "Brightcove Inc.",
+  "ipoYear": 2012,
+  "sector": "Technology",
+  "industry": "EDP Services",
+  "exchange": "nasdaq",
+  "category": "SERVICES-COMPUTER PROCESSING &amp;amp; DATA PREPARATION",
+  "address": {
+    "street1": "290 CONGRESS STREET",
+    "city": "BOSTON",
+    "state": "MA",
+    "zip": "02210"
+  },
+  "profit": {
+    "2010": -17501000,
+    "2011": -17635000,
+    "2012": -13186000,
+    "2013": -10262000
+  },
+  "cash": {
+    "2009": 22554000,
+    "2010": 20341000,
+    "2011": 17227000,
+    "2012": 21708000,
+    "2013": 33047000
+  },
+  "earningsPerShare": {},
+  "htmlUrl": "http://www.sec.gov/Archives/edgar/data/1313275/000114420414014655/0001144204-14-014655-index.htm",
+  "xmlUrl": "http://www.sec.gov/Archives/edgar/data/1313275/000114420414014655/bcov-20131231.xml"
+}

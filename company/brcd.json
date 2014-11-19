@@ -1,0 +1,38 @@
+{
+  "symbol": "brcd",
+  "name": "Brocade Communications Systems, Inc.",
+  "ipoYear": 1999,
+  "sector": "Technology",
+  "industry": "Computer Communications Equipment",
+  "exchange": "nasdaq",
+  "category": "COMPUTER COMMUNICATIONS EQUIPMENT",
+  "address": {
+    "street1": "130 HOLGER WAY",
+    "city": "SAN JOSE",
+    "state": "CA",
+    "zip": "95134-1376"
+  },
+  "profit": {
+    "2009": -83189000,
+    "2010": 116523000,
+    "2011": 50610000,
+    "2012": 195181000,
+    "2013": 208623000
+  },
+  "cash": {
+    "2009": 334193000,
+    "2010": 333984000,
+    "2011": 414202000,
+    "2012": 713226000,
+    "2013": 986997000
+  },
+  "earningsPerShare": {
+    "2009": -0.21,
+    "2010": 0.26,
+    "2011": 0.11,
+    "2012": 0.43,
+    "2013": 0.46
+  },
+  "htmlUrl": "http://www.sec.gov/Archives/edgar/data/1009626/000100962613000127/0001009626-13-000127-index.htm",
+  "xmlUrl": "http://www.sec.gov/Archives/edgar/data/1009626/000100962613000127/brcd-20131026.xml"
+}

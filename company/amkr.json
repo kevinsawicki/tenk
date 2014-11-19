@@ -1,0 +1,38 @@
+{
+  "symbol": "amkr",
+  "name": "Amkor Technology, Inc.",
+  "ipoYear": 1998,
+  "sector": "Technology",
+  "industry": "Semiconductors",
+  "exchange": "nasdaq",
+  "category": "SEMICONDUCTORS &amp;amp; RELATED DEVICES",
+  "address": {
+    "street1": "1900 SOUTH PRICE ROAD",
+    "city": "CHANDLER",
+    "state": "AZ",
+    "zip": "85286"
+  },
+  "profit": {
+    "2009": 155980000,
+    "2010": 231971000,
+    "2011": 91808000,
+    "2012": 41818000,
+    "2013": 109296000
+  },
+  "cash": {
+    "2009": 404998000,
+    "2010": 404998000,
+    "2011": 434631000,
+    "2012": 413048000,
+    "2013": 610442000
+  },
+  "earningsPerShare": {
+    "2009": 0.85,
+    "2010": 1.26,
+    "2011": 0.48,
+    "2012": 0.26,
+    "2013": 0.58
+  },
+  "htmlUrl": "http://www.sec.gov/Archives/edgar/data/1047127/000104712714000006/0001047127-14-000006-index.htm",
+  "xmlUrl": "http://www.sec.gov/Archives/edgar/data/1047127/000104712714000006/amkr-20131231.xml"
+}

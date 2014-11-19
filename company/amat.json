@@ -1,0 +1,38 @@
+{
+  "symbol": "amat",
+  "name": "Applied Materials, Inc.",
+  "ipoYear": 1972,
+  "sector": "Technology",
+  "industry": "Semiconductors",
+  "exchange": "nasdaq",
+  "category": "SEMICONDUCTORS &amp;amp; RELATED DEVICES",
+  "address": {
+    "street1": "3050 BOWERS AVE",
+    "city": "SANTA CLARA",
+    "state": "CA",
+    "zip": "95054-3299"
+  },
+  "profit": {
+    "2009": -305000000,
+    "2010": 938000000,
+    "2011": 1926000000,
+    "2012": 109000000,
+    "2013": 256000000
+  },
+  "cash": {
+    "2009": 1576000000,
+    "2010": 1858000000,
+    "2011": 5960000000,
+    "2012": 1392000000,
+    "2013": 1711000000
+  },
+  "earningsPerShare": {
+    "2009": -0.23,
+    "2010": 0.7,
+    "2011": 1.46,
+    "2012": 0.09,
+    "2013": 0.21
+  },
+  "htmlUrl": "http://www.sec.gov/Archives/edgar/data/6951/000000695113000044/0000006951-13-000044-index.htm",
+  "xmlUrl": "http://www.sec.gov/Archives/edgar/data/6951/000000695113000044/amat-20131027.xml"
+}

@@ -1,0 +1,36 @@
+{
+  "symbol": "boch",
+  "name": "Bank of Commerce Holdings (CA)",
+  "ipoYear": null,
+  "sector": "Finance",
+  "industry": "Major Banks",
+  "exchange": "nasdaq",
+  "category": "STATE COMMERCIAL BANKS",
+  "address": {
+    "street1": "1901 CHURN CREEK ROAD",
+    "city": "REDDING",
+    "state": "CA",
+    "zip": "96002"
+  },
+  "profit": {
+    "2009": 6005000,
+    "2010": 6220000,
+    "2011": 7255000,
+    "2012": 7416000,
+    "2013": 7935000
+  },
+  "cash": {
+    "2009": 67887000,
+    "2010": 62234000,
+    "2011": 47315000,
+    "2012": 45068000,
+    "2013": 58515000
+  },
+  "earningsPerShare": {
+    "2009": 0.58,
+    "2010": 0.35,
+    "2011": 0.37
+  },
+  "htmlUrl": "http://www.sec.gov/Archives/edgar/data/702513/000119312514093985/0001193125-14-093985-index.htm",
+  "xmlUrl": "http://www.sec.gov/Archives/edgar/data/702513/000119312514093985/boch-20131231.xml"
+}

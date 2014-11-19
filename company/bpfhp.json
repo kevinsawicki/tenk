@@ -1,0 +1,19 @@
+{
+  "symbol": "bpfhp",
+  "name": "Boston Private Financial Holdings, Inc.",
+  "ipoYear": null,
+  "sector": "Finance",
+  "industry": "Major Banks",
+  "exchange": "nasdaq",
+  "category": "STATE COMMERCIAL BANKS",
+  "address": {
+    "street1": "10 POST OFFICE SQ",
+    "city": "BOSTON",
+    "state": "MA",
+    "zip": "02109"
+  },
+  "profit": {},
+  "cash": {},
+  "earningsPerShare": {},
+  "htmlUrl": "http://www.sec.gov/Archives/edgar/data/821127/000082112714000057/0000821127-14-000057-index.htm"
+}

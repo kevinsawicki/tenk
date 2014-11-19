@@ -1,0 +1,35 @@
+{
+  "symbol": "aeti",
+  "name": "American Electric Technologies, Inc.",
+  "ipoYear": null,
+  "sector": "Energy",
+  "industry": "Industrial Machinery/Components",
+  "exchange": "nasdaq",
+  "category": "ELECTRICAL INDUSTRIAL APPARATUS",
+  "address": {
+    "street1": "6410 LONG DRIVE",
+    "city": "HOUSTON",
+    "state": "TX",
+    "zip": "77087"
+  },
+  "profit": {
+    "2010": -1694000,
+    "2011": -5888000,
+    "2012": 2084000,
+    "2013": 4209000
+  },
+  "cash": {
+    "2009": 1497000,
+    "2010": 1364000,
+    "2011": 3749000,
+    "2012": 4477000,
+    "2013": 4148000
+  },
+  "earningsPerShare": {
+    "2011": -0.75,
+    "2012": 0.26,
+    "2013": 0.53
+  },
+  "htmlUrl": "http://www.sec.gov/Archives/edgar/data/1043186/000156459014001128/0001564590-14-001128-index.htm",
+  "xmlUrl": "http://www.sec.gov/Archives/edgar/data/1043186/000156459014001128/aeti-20131231.xml"
+}

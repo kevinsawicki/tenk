@@ -1,0 +1,38 @@
+{
+  "symbol": "acls",
+  "name": "Axcelis Technologies, Inc.",
+  "ipoYear": 2000,
+  "sector": "Technology",
+  "industry": "Industrial Machinery/Components",
+  "exchange": "nasdaq",
+  "category": "SPECIAL INDUSTRY MACHINERY, NEC",
+  "address": {
+    "street1": "108 CHERRY HILL DRIVE",
+    "city": "BEVERLY",
+    "state": "MA",
+    "zip": "01915"
+  },
+  "profit": {
+    "2009": -77468000,
+    "2010": -17573000,
+    "2011": 5077000,
+    "2012": -34034000,
+    "2013": -17144000
+  },
+  "cash": {
+    "2009": 45020000,
+    "2010": 45743000,
+    "2011": 46877000,
+    "2012": 44986000,
+    "2013": 46290000
+  },
+  "earningsPerShare": {
+    "2009": -0.75,
+    "2010": -0.17,
+    "2011": 0.05,
+    "2012": -0.32,
+    "2013": -0.16
+  },
+  "htmlUrl": "http://www.sec.gov/Archives/edgar/data/1113232/000104746914001681/0001047469-14-001681-index.htm",
+  "xmlUrl": "http://www.sec.gov/Archives/edgar/data/1113232/000104746914001681/acls-20131231.xml"
+}

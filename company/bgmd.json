@@ -1,0 +1,32 @@
+{
+  "symbol": "bgmd",
+  "name": "BG Medicine, Inc.",
+  "ipoYear": 2011,
+  "sector": "Health Care",
+  "industry": "Biotechnology: In Vitro & In Vivo Diagnostic Substances",
+  "exchange": "nasdaq",
+  "category": "IN VITRO &amp;amp; IN VIVO DIAGNOSTIC SUBSTANCES",
+  "address": {
+    "street1": "880 WINTER STREET",
+    "city": "WALTHAM",
+    "state": "MA",
+    "zip": "02451"
+  },
+  "profit": {
+    "2009": -17114000,
+    "2010": -18196000,
+    "2011": -17582000,
+    "2012": -23769000,
+    "2013": -15849000
+  },
+  "cash": {
+    "2009": 8343000,
+    "2010": 2425000,
+    "2011": 23874000,
+    "2012": 12786000,
+    "2013": 7751000
+  },
+  "earningsPerShare": {},
+  "htmlUrl": "http://www.sec.gov/Archives/edgar/data/1407038/000119312514118591/0001193125-14-118591-index.htm",
+  "xmlUrl": "http://www.sec.gov/Archives/edgar/data/1407038/000119312514118591/bgmd-20131231.xml"
+}

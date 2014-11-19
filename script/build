@@ -21,7 +21,7 @@ buildPage = (symbolPath) ->
   symbol = path.basename(symbolPath, path.extname(symbolPath))
   company = JSON.parse(fs.readFileSync(symbolPath, 'utf8'))
   companies.push(company)
-  # fs.writeFileSync(path.resolve(__dirname, '..', 'company', "#{symbol}.html"), companyTemplate(company))
+  fs.writeFileSync(path.resolve(__dirname, '..', 'company', "#{symbol}.html"), companyTemplate(company))
 
 fs.listSync(path.resolve(__dirname, '..', 'company'), ['.json']).forEach(buildPage)
 

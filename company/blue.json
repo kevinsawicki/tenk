@@ -1,0 +1,31 @@
+{
+  "symbol": "blue",
+  "name": "bluebird bio, Inc.",
+  "ipoYear": 2013,
+  "sector": "Health Care",
+  "industry": "Biotechnology: Biological Products (No Diagnostic Substances)",
+  "exchange": "nasdaq",
+  "category": "BIOLOGICAL PRODUCTS (NO DIAGNOSTIC SUBSTANCES)",
+  "address": {
+    "street1": "150 SECOND STREET",
+    "city": "CAMBRIDGE",
+    "state": "MA",
+    "zip": "02141"
+  },
+  "profit": {
+    "2011": -15598000,
+    "2012": -23670000,
+    "2013": -25321000
+  },
+  "cash": {
+    "2010": 9350000,
+    "2011": 25604000,
+    "2012": 67011000,
+    "2013": 206279000
+  },
+  "earningsPerShare": {
+    "2012": -13.79
+  },
+  "htmlUrl": "http://www.sec.gov/Archives/edgar/data/1293971/000119312514084683/0001193125-14-084683-index.htm",
+  "xmlUrl": "http://www.sec.gov/Archives/edgar/data/1293971/000119312514084683/blue-20131231.xml"
+}

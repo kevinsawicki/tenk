@@ -1,0 +1,38 @@
+{
+  "symbol": "chrw",
+  "name": "C.H. Robinson Worldwide, Inc.",
+  "ipoYear": 1997,
+  "sector": "Transportation",
+  "industry": "Oil Refining/Marketing",
+  "exchange": "nasdaq",
+  "category": "ARRANGEMENT OF TRANSPORTATION OF FREIGHT &amp;amp; CARGO",
+  "address": {
+    "street1": "14701 CHARLSON ROAD",
+    "city": "EDEN PRAIRIE",
+    "state": "MN",
+    "zip": "55347"
+  },
+  "profit": {
+    "2009": 360830000,
+    "2010": 387026000,
+    "2011": 431612000,
+    "2012": 593804000,
+    "2013": 415904000
+  },
+  "cash": {
+    "2009": 337308000,
+    "2010": 398607000,
+    "2011": 373669000,
+    "2012": 210019000,
+    "2013": 162047000
+  },
+  "earningsPerShare": {
+    "2009": 2.15,
+    "2010": 2.35,
+    "2011": 2.63,
+    "2012": 3.68,
+    "2013": 2.65
+  },
+  "htmlUrl": "http://www.sec.gov/Archives/edgar/data/1043277/000104327714000004/0001043277-14-000004-index.htm",
+  "xmlUrl": "http://www.sec.gov/Archives/edgar/data/1043277/000104327714000004/chrw-20131231.xml"
+}

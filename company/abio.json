@@ -1,0 +1,32 @@
+{
+  "symbol": "abio",
+  "name": "ARCA biopharma, Inc.",
+  "ipoYear": null,
+  "sector": "Health Care",
+  "industry": "Biotechnology: In Vitro & In Vivo Diagnostic Substances",
+  "exchange": "nasdaq",
+  "category": "IN VITRO &amp;amp; IN VIVO DIAGNOSTIC SUBSTANCES",
+  "address": {
+    "street1": "11080 CIRCLEPOINT ROAD",
+    "city": "WESTMINSTER",
+    "state": "CO",
+    "zip": "80020"
+  },
+  "profit": {
+    "2009": -9138000,
+    "2010": -8420000,
+    "2011": -5364000,
+    "2012": -4320000,
+    "2013": -6939000
+  },
+  "cash": {
+    "2009": 7763000,
+    "2010": 7025000,
+    "2011": 5943000,
+    "2012": 2920000,
+    "2013": 16756000
+  },
+  "earningsPerShare": {},
+  "htmlUrl": "http://www.sec.gov/Archives/edgar/data/907654/000156459014000934/0001564590-14-000934-index.htm",
+  "xmlUrl": "http://www.sec.gov/Archives/edgar/data/907654/000156459014000934/abio-20131231.xml"
+}

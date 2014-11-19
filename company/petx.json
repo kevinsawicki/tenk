@@ -1,0 +1,29 @@
+{
+  "symbol": "petx",
+  "name": "Aratana Therapeutics, Inc.",
+  "ipoYear": 2013,
+  "sector": "Health Care",
+  "industry": "Major Pharmaceuticals",
+  "exchange": "nasdaq",
+  "category": "PHARMACEUTICAL PREPARATIONS",
+  "address": {
+    "street1": "1901 OLATHE BOULEVARD",
+    "city": "KANSAS CITY",
+    "state": "KS",
+    "zip": "66103"
+  },
+  "profit": {
+    "2011": -3464000,
+    "2012": -11636000,
+    "2013": -4287000
+  },
+  "cash": {
+    "2010": 8150000,
+    "2011": 6002000,
+    "2012": 13973000,
+    "2013": 41084000
+  },
+  "earningsPerShare": {},
+  "htmlUrl": "http://www.sec.gov/Archives/edgar/data/1509190/000119312514116454/0001193125-14-116454-index.htm",
+  "xmlUrl": "http://www.sec.gov/Archives/edgar/data/1509190/000119312514116454/petx-20131231.xml"
+}

@@ -1,0 +1,38 @@
+{
+  "symbol": "bsft",
+  "name": "BroadSoft, Inc.",
+  "ipoYear": 2010,
+  "sector": "Technology",
+  "industry": "Computer Software: Prepackaged Software",
+  "exchange": "nasdaq",
+  "category": "SERVICES-PREPACKAGED SOFTWARE",
+  "address": {
+    "street1": "9737 WASHINGTONIAN BOULEVARD",
+    "city": "GAITHERSBURG",
+    "state": "MD",
+    "zip": "20878"
+  },
+  "profit": {
+    "2009": -7849000,
+    "2010": 7992000,
+    "2011": 32297000,
+    "2012": 12076000,
+    "2013": -8874000
+  },
+  "cash": {
+    "2009": 22869000,
+    "2010": 47254000,
+    "2011": 94072000,
+    "2012": 90545000,
+    "2013": 69866000
+  },
+  "earningsPerShare": {
+    "2009": -1.25,
+    "2010": 0.49,
+    "2011": 1.21,
+    "2012": 0.44,
+    "2013": -0.32
+  },
+  "htmlUrl": "http://www.sec.gov/Archives/edgar/data/1086909/000108690914000006/0001086909-14-000006-index.htm",
+  "xmlUrl": "http://www.sec.gov/Archives/edgar/data/1086909/000108690914000006/bsft-20131231.xml"
+}

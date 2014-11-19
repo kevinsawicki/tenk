@@ -1,0 +1,34 @@
+{
+  "symbol": "blmt",
+  "name": "BSB Bancorp, Inc.",
+  "ipoYear": 2011,
+  "sector": "Finance",
+  "industry": "Major Banks",
+  "exchange": "nasdaq",
+  "category": "STATE COMMERCIAL BANKS",
+  "address": {
+    "street1": "2 LEONARD STREET",
+    "city": "BELMONT",
+    "state": "MA",
+    "zip": "02478"
+  },
+  "profit": {
+    "2009": 1417000,
+    "2010": 1827000,
+    "2011": 299000,
+    "2012": 1401000,
+    "2013": 1960000
+  },
+  "cash": {
+    "2009": 16395000,
+    "2010": 20967000,
+    "2011": 22795000,
+    "2012": 52712000,
+    "2013": 38035000
+  },
+  "earningsPerShare": {
+    "2012": 0.16,
+    "2013": 0.22
+  },
+  "htmlUrl": "http://www.sec.gov/Archives/edgar/data/1522420/000119312514138656/0001193125-14-138656-index.htm"
+}

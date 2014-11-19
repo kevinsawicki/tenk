@@ -1,0 +1,38 @@
+{
+  "symbol": "apei",
+  "name": "American Public Education, Inc.",
+  "ipoYear": 2007,
+  "sector": "Consumer Services",
+  "industry": "Other Consumer Services",
+  "exchange": "nasdaq",
+  "category": "SERVICES-EDUCATIONAL SERVICES",
+  "address": {
+    "street1": "111 W CONGRESS STREET",
+    "city": "CHARLES TOWN",
+    "state": "WV",
+    "zip": "25414"
+  },
+  "profit": {
+    "2009": 23943000,
+    "2010": 29868000,
+    "2011": 40757000,
+    "2012": 42323000,
+    "2013": 42034000
+  },
+  "cash": {
+    "2009": 74866000,
+    "2010": 81352000,
+    "2011": 119006000,
+    "2012": 114901000,
+    "2013": 94820000
+  },
+  "earningsPerShare": {
+    "2009": 1.32,
+    "2010": 1.63,
+    "2011": 2.28,
+    "2012": 2.38,
+    "2013": 2.38
+  },
+  "htmlUrl": "http://www.sec.gov/Archives/edgar/data/1201792/000115752314000857/0001157523-14-000857-index.htm",
+  "xmlUrl": "http://www.sec.gov/Archives/edgar/data/1201792/000115752314000857/apei-20131231.xml"
+}

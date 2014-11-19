@@ -1,0 +1,32 @@
+{
+  "symbol": "ccbg",
+  "name": "Capital City Bank Group",
+  "ipoYear": null,
+  "sector": "Finance",
+  "industry": "Major Banks",
+  "exchange": "nasdaq",
+  "category": "STATE COMMERCIAL BANKS",
+  "address": {
+    "street1": "217 N MONROE ST",
+    "city": "TALLAHASSEE",
+    "state": "FL",
+    "zip": "32301"
+  },
+  "profit": {
+    "2009": -3471000,
+    "2010": -413000,
+    "2011": 4897000,
+    "2012": 108000,
+    "2013": 6045000
+  },
+  "cash": {},
+  "earningsPerShare": {
+    "2009": -0.2,
+    "2010": -0.02,
+    "2011": 0.29,
+    "2012": 0.01,
+    "2013": 0.35
+  },
+  "htmlUrl": "http://www.sec.gov/Archives/edgar/data/726601/000072660114000005/0000726601-14-000005-index.htm",
+  "xmlUrl": "http://www.sec.gov/Archives/edgar/data/726601/000072660114000005/ccbg-20131231.xml"
+}

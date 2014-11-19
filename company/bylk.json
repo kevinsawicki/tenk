@@ -1,0 +1,32 @@
+{
+  "symbol": "bylk",
+  "name": "Baylake Corp",
+  "ipoYear": null,
+  "sector": "Finance",
+  "industry": "Major Banks",
+  "exchange": "nasdaq",
+  "category": "STATE COMMERCIAL BANKS",
+  "address": {
+    "street1": "217 N FOURTH AVE",
+    "city": "STURGEON BAY",
+    "state": "WI",
+    "zip": "54235-0009"
+  },
+  "profit": {
+    "2009": 4329000,
+    "2010": 1137000,
+    "2011": 4476000,
+    "2012": 7642000,
+    "2013": 8009000
+  },
+  "cash": {},
+  "earningsPerShare": {
+    "2009": 0.55,
+    "2010": 0.14,
+    "2011": 0.57,
+    "2012": 0.96,
+    "2013": 1.01
+  },
+  "htmlUrl": "http://www.sec.gov/Archives/edgar/data/275119/000089710114000249/0000897101-14-000249-index.htm",
+  "xmlUrl": "http://www.sec.gov/Archives/edgar/data/275119/000089710114000249/bylk-20131231.xml"
+}

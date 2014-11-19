@@ -1,0 +1,31 @@
+{
+  "symbol": "atlo",
+  "name": "Ames National Corporation",
+  "ipoYear": null,
+  "sector": "Finance",
+  "industry": "Major Banks",
+  "exchange": "nasdaq",
+  "category": "NATIONAL COMMERCIAL BANKS",
+  "address": {
+    "street1": "PO BOX 846",
+    "city": "AMES",
+    "state": "IA",
+    "zip": "50010"
+  },
+  "profit": {
+    "2009": 9005786,
+    "2010": 12966274,
+    "2011": 13920807,
+    "2012": 14182308,
+    "2013": 13953644
+  },
+  "cash": {},
+  "earningsPerShare": {
+    "2010": 1.37,
+    "2011": 1.48,
+    "2012": 1.52,
+    "2013": 1.5
+  },
+  "htmlUrl": "http://www.sec.gov/Archives/edgar/data/1132651/000114036114012376/0001140361-14-012376-index.htm",
+  "xmlUrl": "http://www.sec.gov/Archives/edgar/data/1132651/000114036114012376/atlo-20131231.xml"
+}

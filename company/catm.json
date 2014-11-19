@@ -1,0 +1,38 @@
+{
+  "symbol": "catm",
+  "name": "Cardtronics, Inc.",
+  "ipoYear": 2007,
+  "sector": "Miscellaneous",
+  "industry": "Business Services",
+  "exchange": "nasdaq",
+  "category": "SERVICES-BUSINESS SERVICES, NEC",
+  "address": {
+    "street1": "3250 BRIARPARK DRIVE",
+    "city": "HOUSTON",
+    "state": "TX",
+    "zip": "77042"
+  },
+  "profit": {
+    "2009": 5277000,
+    "2010": 40959000,
+    "2011": 70233000,
+    "2012": 43591000,
+    "2013": 23816000
+  },
+  "cash": {
+    "2009": 10449000,
+    "2010": 3189000,
+    "2011": 5576000,
+    "2012": 13861000,
+    "2013": 86939000
+  },
+  "earningsPerShare": {
+    "2009": 0.13,
+    "2010": 0.98,
+    "2011": 1.6,
+    "2012": 0.97,
+    "2013": 0.52
+  },
+  "htmlUrl": "http://www.sec.gov/Archives/edgar/data/1277856/000127785614000002/0001277856-14-000002-index.htm",
+  "xmlUrl": "http://www.sec.gov/Archives/edgar/data/1277856/000127785614000002/catm-20131231.xml"
+}

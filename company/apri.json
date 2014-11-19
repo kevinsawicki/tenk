@@ -1,0 +1,32 @@
+{
+  "symbol": "apri",
+  "name": "Apricus Biosciences, Inc",
+  "ipoYear": null,
+  "sector": "Health Care",
+  "industry": "Major Pharmaceuticals",
+  "exchange": "nasdaq",
+  "category": "PHARMACEUTICAL PREPARATIONS",
+  "address": {
+    "street1": "11975 EL CAMINO REAL,",
+    "city": "SAN DIEGO,",
+    "state": "CA",
+    "zip": "92130"
+  },
+  "profit": {
+    "2009": -32042562,
+    "2010": -29508000,
+    "2011": -18117000,
+    "2012": -31771000,
+    "2013": -16938000
+  },
+  "cash": {
+    "2009": 480000,
+    "2010": 9146000,
+    "2011": 7435000,
+    "2012": 15130000,
+    "2013": 21405000
+  },
+  "earningsPerShare": {},
+  "htmlUrl": "http://www.sec.gov/Archives/edgar/data/1017491/000101749114000052/0001017491-14-000052-index.htm",
+  "xmlUrl": "http://www.sec.gov/Archives/edgar/data/1017491/000101749114000052/apri-20131231.xml"
+}

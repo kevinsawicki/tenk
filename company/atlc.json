@@ -1,0 +1,33 @@
+{
+  "symbol": "atlc",
+  "name": "Atlanticus Holdings Corporation",
+  "ipoYear": 1995,
+  "sector": "Finance",
+  "industry": "Finance: Consumer Services",
+  "exchange": "nasdaq",
+  "category": "PERSONAL CREDIT INSTITUTIONS",
+  "address": {
+    "street1": "FIVE CONCOURSE PARKWAY",
+    "city": "ATLANTA",
+    "state": "GA",
+    "zip": "30328"
+  },
+  "profit": {
+    "2011": 134017000,
+    "2012": 24451000,
+    "2013": -17741000
+  },
+  "cash": {
+    "2010": 85350000,
+    "2011": 144913000,
+    "2012": 67915000,
+    "2013": 50873000
+  },
+  "earningsPerShare": {
+    "2011": 5.21,
+    "2012": 1.27,
+    "2013": -1.29
+  },
+  "htmlUrl": "http://www.sec.gov/Archives/edgar/data/1464343/000146434314000006/0001464343-14-000006-index.htm",
+  "xmlUrl": "http://www.sec.gov/Archives/edgar/data/1464343/000146434314000006/atlc-20131231.xml"
+}

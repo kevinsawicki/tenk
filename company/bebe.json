@@ -1,0 +1,38 @@
+{
+  "symbol": "bebe",
+  "name": "bebe stores, inc.",
+  "ipoYear": 1998,
+  "sector": "Consumer Non-Durables",
+  "industry": "Apparel",
+  "exchange": "nasdaq",
+  "category": "WOMEN&amp;#39;S, MISSES&amp;#39;, AND JUNIORS OUTERWEAR",
+  "address": {
+    "street1": "400 VALLEY DR",
+    "city": "BRISBANE",
+    "state": "CA",
+    "zip": "94005"
+  },
+  "profit": {
+    "2010": -5165000,
+    "2011": -1779000,
+    "2012": 11721000,
+    "2013": -77420000,
+    "2014": -73382000
+  },
+  "cash": {
+    "2009": 91390000,
+    "2010": 194690000,
+    "2011": 95177000,
+    "2012": 104982000,
+    "2013": 86965000,
+    "2014": 94345000
+  },
+  "earningsPerShare": {
+    "2010": -0.06,
+    "2011": -0.02,
+    "2012": 0.14,
+    "2013": -0.94,
+    "2014": -0.93
+  },
+  "htmlUrl": "http://www.sec.gov/Archives/edgar/data/1059272/000105927214000061/0001059272-14-000061-index.htm"
+}

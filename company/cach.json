@@ -1,0 +1,35 @@
+{
+  "symbol": "cach",
+  "name": "Cache, Inc.",
+  "ipoYear": null,
+  "sector": "Consumer Services",
+  "industry": "Clothing/Shoe/Accessory Stores",
+  "exchange": "nasdaq",
+  "category": "RETAIL-WOMEN&amp;#39;S CLOTHING STORES",
+  "address": {
+    "street1": "256 WEST 38TH STREET",
+    "city": "NEW YORK",
+    "state": "NY",
+    "zip": "10018"
+  },
+  "profit": {
+    "2010": -22432000,
+    "2011": 2081000,
+    "2012": -12078000,
+    "2013": -34434000
+  },
+  "cash": {
+    "2010": 4609000,
+    "2011": 22509000,
+    "2012": 12360000,
+    "2013": 4513000
+  },
+  "earningsPerShare": {
+    "2010": -1.73,
+    "2011": 0.16,
+    "2012": -0.94,
+    "2013": -1.87
+  },
+  "htmlUrl": "http://www.sec.gov/Archives/edgar/data/350199/000104746914002945/0001047469-14-002945-index.htm",
+  "xmlUrl": "http://www.sec.gov/Archives/edgar/data/350199/000104746914002945/cach-20131228.xml"
+}

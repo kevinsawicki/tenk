@@ -1,0 +1,36 @@
+{
+  "symbol": "arwr",
+  "name": "Arrowhead Research Corporation",
+  "ipoYear": null,
+  "sector": "Health Care",
+  "industry": "Biotechnology: Commercial Physical & Biological Resarch",
+  "exchange": "nasdaq",
+  "category": "SERVICES-COMMERCIAL PHYSICAL &amp;amp; BIOLOGICAL RESEARCH",
+  "address": {
+    "street1": "225 SOUTH LAKE AVENUE",
+    "city": "PASADENA",
+    "state": "CA",
+    "zip": "91101"
+  },
+  "profit": {
+    "2009": -19308392,
+    "2010": -5774048,
+    "2011": -3128885,
+    "2012": -21125928,
+    "2013": -31143289
+  },
+  "cash": {
+    "2009": 2020224,
+    "2010": 6847162,
+    "2011": 7507389,
+    "2012": 3377288,
+    "2013": 19114444
+  },
+  "earningsPerShare": {
+    "2010": -0.9,
+    "2011": -0.44,
+    "2012": -1.9
+  },
+  "htmlUrl": "http://www.sec.gov/Archives/edgar/data/879407/000156459013001463/0001564590-13-001463-index.htm",
+  "xmlUrl": "http://www.sec.gov/Archives/edgar/data/879407/000156459013001463/arwr-20130930.xml"
+}

@@ -1,0 +1,38 @@
+{
+  "symbol": "bolt",
+  "name": "Bolt Technology Corporation",
+  "ipoYear": null,
+  "sector": "Energy",
+  "industry": "Metal Fabrications",
+  "exchange": "nasdaq",
+  "category": "OIL &amp;amp; GAS FILED MACHINERY &amp;amp; EQUIPMENT",
+  "address": {
+    "street1": "FOUR DUKE PL",
+    "city": "NORWALK",
+    "state": "CT",
+    "zip": "06854"
+  },
+  "profit": {
+    "2010": 4954000,
+    "2011": 5527000,
+    "2012": 1982000,
+    "2013": 6700000,
+    "2014": 8149000
+  },
+  "cash": {
+    "2009": 25696000,
+    "2010": 39468000,
+    "2011": 31683000,
+    "2012": 24613000,
+    "2013": 22816000,
+    "2014": 24245000
+  },
+  "earningsPerShare": {
+    "2010": 0.58,
+    "2011": 0.65,
+    "2012": 0.23,
+    "2013": 0.78,
+    "2014": 0.94
+  },
+  "htmlUrl": "http://www.sec.gov/Archives/edgar/data/354655/000114420414063195/0001144204-14-063195-index.htm"
+}

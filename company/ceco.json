@@ -1,0 +1,37 @@
+{
+  "symbol": "ceco",
+  "name": "Career Education Corporation",
+  "ipoYear": 1998,
+  "sector": "Consumer Services",
+  "industry": "Other Consumer Services",
+  "exchange": "nasdaq",
+  "category": "SERVICES-EDUCATIONAL SERVICES",
+  "address": {
+    "street1": "231 N. MARTINGALE ROAD",
+    "city": "SCHAUMBURG",
+    "state": "IL",
+    "zip": "60173"
+  },
+  "profit": {
+    "2009": 81219000,
+    "2010": 157773000,
+    "2011": 18573000,
+    "2012": -142796000,
+    "2013": -164263000
+  },
+  "cash": {
+    "2009": 258244000,
+    "2010": 172537000,
+    "2011": 171221000,
+    "2012": 112884000,
+    "2013": 318943000
+  },
+  "earningsPerShare": {
+    "2009": 0.95,
+    "2010": 1.97,
+    "2011": 0.25,
+    "2012": -2.15
+  },
+  "htmlUrl": "http://www.sec.gov/Archives/edgar/data/1046568/000119312514071178/0001193125-14-071178-index.htm",
+  "xmlUrl": "http://www.sec.gov/Archives/edgar/data/1046568/000119312514071178/ceco-20131231.xml"
+}

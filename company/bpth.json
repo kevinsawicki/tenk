@@ -1,0 +1,25 @@
+{
+  "symbol": "bpth",
+  "name": "Bio-Path Holdings, Inc.",
+  "ipoYear": null,
+  "sector": "Consumer Services",
+  "industry": "Other Specialty Stores",
+  "exchange": "nasdaq",
+  "category": "RETAIL-MISCELLANEOUS SHOPPING GOODS STORES",
+  "address": {
+    "street1": "2626 SOUTH LOOP, SUITE 180",
+    "city": "HOUSTON",
+    "state": "TX",
+    "zip": "77054"
+  },
+  "profit": {
+    "2010": -2081500,
+    "2011": -2363344,
+    "2012": -2582537,
+    "2013": -3266013
+  },
+  "cash": {},
+  "earningsPerShare": {},
+  "htmlUrl": "http://www.sec.gov/Archives/edgar/data/1133818/000114420414019417/0001144204-14-019417-index.htm",
+  "xmlUrl": "http://www.sec.gov/Archives/edgar/data/1133818/000114420414019417/bpth-20131231.xml"
+}

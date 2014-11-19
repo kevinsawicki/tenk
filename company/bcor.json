@@ -1,0 +1,36 @@
+{
+  "symbol": "bcor",
+  "name": "Blucora, Inc.",
+  "ipoYear": null,
+  "sector": "Technology",
+  "industry": "EDP Services",
+  "exchange": "nasdaq",
+  "category": "SERVICES-COMPUTER PROCESSING &amp;amp; DATA PREPARATION",
+  "address": {
+    "street1": "10900 NE 8TH STREET",
+    "city": "BELLEVUE",
+    "state": "WA",
+    "zip": "98004"
+  },
+  "profit": {
+    "2010": 4680000,
+    "2011": 21594000,
+    "2012": 22526000,
+    "2013": 24399000
+  },
+  "cash": {
+    "2009": 83750000,
+    "2010": 155645000,
+    "2011": 81897000,
+    "2012": 68278000,
+    "2013": 130225000
+  },
+  "earningsPerShare": {
+    "2010": 0.13,
+    "2011": 0.57,
+    "2012": 0.56,
+    "2013": 0.59
+  },
+  "htmlUrl": "http://www.sec.gov/Archives/edgar/data/1068875/000119312514072914/0001193125-14-072914-index.htm",
+  "xmlUrl": "http://www.sec.gov/Archives/edgar/data/1068875/000119312514072914/bcor-20131231.xml"
+}

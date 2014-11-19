@@ -1,0 +1,35 @@
+{
+  "symbol": "blmn",
+  "name": "Bloomin&#39; Brands, Inc.",
+  "ipoYear": 2012,
+  "sector": "Consumer Services",
+  "industry": "Restaurants",
+  "exchange": "nasdaq",
+  "category": "RETAIL-EATING PLACES",
+  "address": {
+    "street1": "2202 NORTH WEST SHORE BOULEVARD",
+    "city": "TAMPA",
+    "state": "FL",
+    "zip": "33607"
+  },
+  "profit": {
+    "2010": 52968000,
+    "2011": 100005000,
+    "2012": 49971000,
+    "2013": 208367000
+  },
+  "cash": {
+    "2009": 330957000,
+    "2010": 365536000,
+    "2011": 482084000,
+    "2012": 261690000,
+    "2013": 209871000
+  },
+  "earningsPerShare": {
+    "2010": 0.5,
+    "2011": 0.94,
+    "2012": 0.45
+  },
+  "htmlUrl": "http://www.sec.gov/Archives/edgar/data/1546417/000154641714000056/0001546417-14-000056-index.htm",
+  "xmlUrl": "http://www.sec.gov/Archives/edgar/data/1546417/000154641714000056/blmn-20131231.xml"
+}

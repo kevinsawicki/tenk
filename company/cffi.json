@@ -1,0 +1,35 @@
+{
+  "symbol": "cffi",
+  "name": "C&F Financial Corporation",
+  "ipoYear": null,
+  "sector": "Finance",
+  "industry": "Major Banks",
+  "exchange": "nasdaq",
+  "category": "STATE COMMERCIAL BANKS",
+  "address": {
+    "street1": "EIGHTH &amp; MAIN STREETS",
+    "city": "WEST POINT",
+    "state": "VA",
+    "zip": "23181"
+  },
+  "profit": {
+    "2009": 5526000,
+    "2010": 8110000,
+    "2011": 12976000,
+    "2012": 16382000,
+    "2013": 14402000
+  },
+  "cash": {
+    "2012": 25620000,
+    "2013": 148139000
+  },
+  "earningsPerShare": {
+    "2009": 1.44,
+    "2010": 2.26,
+    "2011": 3.76,
+    "2012": 5,
+    "2013": 4.36
+  },
+  "htmlUrl": "http://www.sec.gov/Archives/edgar/data/913341/000143774914003646/0001437749-14-003646-index.htm",
+  "xmlUrl": "http://www.sec.gov/Archives/edgar/data/913341/000143774914003646/cffi-20131231.xml"
+}

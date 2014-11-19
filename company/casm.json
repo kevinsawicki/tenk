@@ -1,0 +1,31 @@
+{
+  "symbol": "casm",
+  "name": "CAS Medical Systems, Inc.",
+  "ipoYear": null,
+  "sector": "Health Care",
+  "industry": "Medical/Dental Instruments",
+  "exchange": "nasdaq",
+  "category": "SURGICAL &amp;amp; MEDICAL INSTRUMENTS &amp;amp; APPARATUS",
+  "address": {
+    "street1": "44 EAST INDUSTRIAL ROAD",
+    "city": "BRANFORD",
+    "state": "CT",
+    "zip": "06405"
+  },
+  "profit": {
+    "2010": -1305077,
+    "2011": -6083064,
+    "2012": -7308318,
+    "2013": -10362208
+  },
+  "cash": {
+    "2009": 1186779,
+    "2010": 4492690,
+    "2011": 11387300,
+    "2012": 9245094,
+    "2013": 8190302
+  },
+  "earningsPerShare": {},
+  "htmlUrl": "http://www.sec.gov/Archives/edgar/data/764579/000107261314000183/0001072613-14-000183-index.htm",
+  "xmlUrl": "http://www.sec.gov/Archives/edgar/data/764579/000107261314000183/casm-20131231.xml"
+}
