@@ -58,16 +58,32 @@ body {
   fill: #61cd85;
 }
 
-.state.profit-one-million {
+.state.profit-one-hundred-million {
   fill: #a7e3bb;
+}
+
+.state.profit-ten-million {
+  fill: #caeed6;
+}
+
+.state.profit-one {
+  fill: #edf9f1;
 }
 
 .state.loss-one-billion {
   fill: #e15668;
 }
 
-.state.loss-one-million {
+.state.loss-one-hundred-million {
   fill: #ec95a1;
+}
+
+.state.loss-ten-million {
+  fill: #f3bfc6;
+}
+
+.state.loss-one {
+  fill: #fbe9ec;
 }
 
 .company-heading {

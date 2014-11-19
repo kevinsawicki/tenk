@@ -33,12 +33,20 @@ module.exports = ->
         profit = states[state]?.profit ? 0
         if profit > 1000000000
           'state profit-one-billion'
-        else if profit > 1000000
-          'state profit-one-million'
-        else if profit < -1000000
-          'state loss-one-million'
+        else if profit > 100000000
+          'state profit-one-hundred-million'
+        else if profit > 10000000
+          'state profit-ten-million'
+        else if profit > 0
+          'state profit-one'
+        else if profit < -10000000
+          'state loss-ten-million'
+        else if profit < -100000000
+          'state loss-one-hundred-million'
         else if profit < -1000000000
           'state loss-one-billion'
+        else if profit < 0
+          'state loss-one'
         else
           'state'
       .attr('d', path)
