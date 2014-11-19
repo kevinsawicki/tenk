@@ -54,6 +54,22 @@ body {
   stroke-width: 1px;
 }
 
+.state.profit-one-billion {
+  fill: #61cd85;
+}
+
+.state.profit-one-million {
+  fill: #a7e3bb;
+}
+
+.state.loss-one-billion {
+  fill: #e15668;
+}
+
+.state.loss-one-million {
+  fill: #ec95a1;
+}
+
 .company-heading {
   font-family: 'Oxygen', serif;
 }

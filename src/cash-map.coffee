@@ -2,6 +2,7 @@ d3         = require 'd3'
 Handlebars = require 'handlebars'
 topojson   = require 'topojson'
 us         = require '../maps/us.json'
+stateCodes = require '../maps/state-codes.json'
 xmldom     = require 'xmldom'
 
 module.exports = ->
@@ -19,12 +20,27 @@ module.exports = ->
       .attr('class', 'map-graph cash-graph')
       .attr('viewBox', "0 0 #{width} #{height}")
 
+  states = {}
+  @states.forEach (state) -> states[state.state] = state
+
   svg.append('g')
       .attr('class', 'states')
     .selectAll('path')
       .data(topojson.feature(us, us.objects.states).features)
     .enter().append('path')
-      .attr('class', ({id}) -> "state state-#{id}")
+      .attr 'class', ({id}) =>
+        state = stateCodes[id]
+        profit = states[state]?.profit ? 0
+        if profit > 1000000000
+          'state profit-one-billion'
+        else if profit > 1000000
+          'state profit-one-million'
+        else if profit < -1000000
+          'state loss-one-million'
+        else if profit < -1000000000
+          'state loss-one-billion'
+        else
+          'state'
       .attr('d', path)
 
   graph = d3.select('svg')
