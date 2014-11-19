@@ -34,16 +34,32 @@
 
     <div class="container">
       <div class="row">
-        <div class="col-md-10 col-lg-10 col-md-offset-1 col-lg-offset-1">
-          <ul class="nav nav-tabs">
-            <li role="presentation" class="active js-tab" data-map="profit"><a href="#">Profits</a></li>
-            <li role="presentation" class="js-tab" data-map="cash"><a href="#">Cash</a></li>
-            <li role="presentation" class="js-tab" data-map="eps"><a href="#" >Earnings Per Share</a></li>
-          </ul>
+        <div class="col-md-10 col-lg-10">
+          <h1>Profits</h1>
+        </div>
 
-          <div class="js-map-profit">{{profit_map}}</div>
-          <div class="js-map-cash hidden">{{cash_map}}</div>
-          <div class="js-map-eps hidden">{{eps_map}}</div>
+        <div class="col-md-10 col-lg-10 col-md-offset-1 col-lg-offset-1">
+          {{profit_map}}
+        </div>
+      </div>
+
+      <div class="row">
+        <div class="col-md-10 col-lg-10">
+          <h1>Cash</h1>
+        </div>
+
+        <div class="col-md-10 col-lg-10 col-md-offset-1 col-lg-offset-1">
+          {{cash_map}}
+        </div>
+      </div>
+
+      <div class="row">
+        <div class="col-md-10 col-lg-10">
+          <h1>Earnings Per Share</h1>
+        </div>
+
+        <div class="col-md-10 col-lg-10 col-md-offset-1 col-lg-offset-1">
+          {{eps_map}}
         </div>
       </div>
 
