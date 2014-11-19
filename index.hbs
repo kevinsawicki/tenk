@@ -4,6 +4,8 @@
     <link rel="stylesheet" href="http://netdna.bootstrapcdn.com/bootstrap/3.1.1/css/bootstrap.min.css">
     <link href='http://fonts.googleapis.com/css?family=Cutive' rel='stylesheet' type='text/css'>
     <link rel="stylesheet" href="company/styles.css">
+    <script src="https://code.jquery.com/jquery-2.1.1.min.js"></script>
+    <script src="./index.js"></script>
 
     <title>tenk.us</title>
   </head>
@@ -25,7 +27,15 @@
     <div class="container">
       <div class="row">
         <div class="col-md-10 col-lg-10 col-md-offset-1 col-lg-offset-1">
-          {{cash_map}}
+          <ul class="nav nav-tabs">
+            <li role="presentation" class="active js-tab" data-map="profit"><a href="#">Profits</a></li>
+            <li role="presentation" class="js-tab" data-map="cash"><a href="#">Cash</a></li>
+            <li role="presentation" class="js-tab" data-map="eps"><a href="#" >Earnings Per Share</a></li>
+          </ul>
+
+          <div class="js-map-profit">{{profit_map}}</div>
+          <div class="js-map-cash hidden">{{cash_map}}</div>
+          <div class="js-map-eps hidden">{{eps_map}}</div>
         </div>
       </div>
 

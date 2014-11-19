@@ -54,36 +54,60 @@ body {
   stroke-width: 1px;
 }
 
-.state.profit-one-billion {
+.state.profit-one-billion,
+.state.eps-5 {
   fill: #61cd85;
 }
 
-.state.profit-one-hundred-million {
+.state.profit-one-hundred-million,
+.state.eps-two {
   fill: #a7e3bb;
 }
 
-.state.profit-ten-million {
+.state.profit-ten-million,
+.state.eps-one {
   fill: #caeed6;
 }
 
-.state.profit-one {
+.state.profit-one,
+.state.eps {
   fill: #edf9f1;
 }
 
-.state.loss-one-billion {
+.state.loss-one-billion,
+.state.eps-five {
   fill: #e15668;
 }
 
-.state.loss-one-hundred-million {
+.state.loss-one-hundred-million,
+.state.eps-loss-two {
   fill: #ec95a1;
 }
 
-.state.loss-ten-million {
+.state.loss-ten-million,
+.state.eps.loss-one {
   fill: #f3bfc6;
 }
 
-.state.loss-one {
+.state.loss-one,
+.state.eps-loss {
   fill: #fbe9ec;
+}
+
+.state.cash-one-billion {
+  fill: #5aa3eb;
+}
+
+.state.cash-one-hundred-million {
+  fill: #83baf0;
+}
+
+.state.cash-ten-million {
+  fill: #acd1f5;
+}
+
+.state.cash-one {
+  fill: #d5e8fa;
 }
 
 .company-heading {

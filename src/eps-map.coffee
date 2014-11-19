@@ -30,15 +30,25 @@ module.exports = ->
     .enter().append('path')
       .attr 'class', ({id}) =>
         state = stateCodes[id]
-        cash = states[state]?.cash ? 0
-        if cash > 1000000000
-          'state cash-one-billion'
-        else if cash > 100000000
-          'state cash-one-hundred-million'
-        else if cash > 10000000
-          'state cash-ten-million'
+        eps = (states[state]?.earningsPerShare ? 0) / (states[state]?.companies ? 1)
+        if eps > 5
+          'state eps-five'
+        else if eps > 2
+          'state eps-two'
+        else if eps > 1
+          'state eps-one'
+        else if eps > 0
+          'state eps'
+        else if eps < -5
+          'state eps-loss-five'
+        else if eps < -2
+          'state eps-loss-two'
+        else if eps < -1
+          'state eps-loss-one'
+        else if eps < 0
+          'state eps-loss'
         else
-          'state cash-one'
+          'state'
       .attr('d', path)
 
   graph = d3.select('svg')

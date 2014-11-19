@@ -5,11 +5,13 @@ Handlebars = require 'handlebars'
 Humanize   = require 'humanize-plus'
 path       = require 'path'
 
-Handlebars.registerHelper 'cash_graph',   require('../src/cash-graph')
-Handlebars.registerHelper 'cash_map',   require('../src/cash-map')
-Handlebars.registerHelper 'eps_graph',    require('../src/eps-graph')
-Handlebars.registerHelper 'google_map',   require('../src/google-map')
-Handlebars.registerHelper 'profit_graph', require('../src/profit-graph')
+Handlebars.registerHelper 'cash_graph',   require '../src/cash-graph'
+Handlebars.registerHelper 'cash_map',     require '../src/cash-map'
+Handlebars.registerHelper 'eps_graph',    require '../src/eps-graph'
+Handlebars.registerHelper 'eps_map',      require '../src/eps-map'
+Handlebars.registerHelper 'google_map',   require '../src/google-map'
+Handlebars.registerHelper 'profit_graph', require '../src/profit-graph'
+Handlebars.registerHelper 'profit_map',   require '../src/profit-map'
 
 companyTemplate = Handlebars.compile(fs.readFileSync(path.resolve(__dirname, '..', 'company', 'company.hbs'), 'utf8'))
 
@@ -19,7 +21,7 @@ buildPage = (symbolPath) ->
   symbol = path.basename(symbolPath, path.extname(symbolPath))
   company = JSON.parse(fs.readFileSync(symbolPath, 'utf8'))
   companies.push(company)
-  fs.writeFileSync(path.resolve(__dirname, '..', 'company', "#{symbol}.html"), companyTemplate(company))
+  # fs.writeFileSync(path.resolve(__dirname, '..', 'company', "#{symbol}.html"), companyTemplate(company))
 
 fs.listSync(path.resolve(__dirname, '..', 'company'), ['.json']).forEach(buildPage)
 
