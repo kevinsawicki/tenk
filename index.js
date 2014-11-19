@@ -4,5 +4,6 @@ $(function() {
     $('.js-map-profit, .js-map-cash, .js-map-eps').addClass('hidden');
     $('.js-map-' + $(event.currentTarget).data('map')).removeClass('hidden');
     $(event.currentTarget).addClass('active');
+    return false;
   });
 });
