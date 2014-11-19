@@ -1,0 +1,35 @@
+{
+  "symbol": "amag",
+  "name": "AMAG Pharmaceuticals, Inc.",
+  "ipoYear": null,
+  "sector": "Health Care",
+  "industry": "Major Pharmaceuticals",
+  "exchange": "nasdaq",
+  "category": "PHARMACEUTICAL PREPARATIONS",
+  "address": {
+    "street1": "1100 WINTER STREET",
+    "city": "WALTHAM",
+    "state": "MA",
+    "zip": "02451"
+  },
+  "profit": {
+    "2009": -93351000,
+    "2010": -81153000,
+    "2011": -77069000,
+    "2012": -16750000,
+    "2013": -9602000
+  },
+  "cash": {
+    "2009": 50126000,
+    "2010": 112646000,
+    "2011": 63474000,
+    "2012": 46293000,
+    "2013": 26986000
+  },
+  "earningsPerShare": {
+    "2009": -5.46,
+    "2010": -3.9
+  },
+  "htmlUrl": "http://www.sec.gov/Archives/edgar/data/792977/000104746914000718/0001047469-14-000718-index.htm",
+  "xmlUrl": "http://www.sec.gov/Archives/edgar/data/792977/000104746914000718/amag-20131231.xml"
+}

@@ -1,0 +1,36 @@
+{
+  "symbol": "alks",
+  "name": "Alkermes plc",
+  "ipoYear": 1991,
+  "sector": "Health Care",
+  "industry": "Major Pharmaceuticals",
+  "exchange": "nasdaq",
+  "category": "PHARMACEUTICAL PREPARATIONS",
+  "address": {
+    "street1": "CONNAUGHT HOUSE",
+    "city": "DUBLIN 4",
+    "state": "L2",
+    "zip": "00000"
+  },
+  "profit": {
+    "2010": -39626000,
+    "2011": -45540000,
+    "2012": -113678000,
+    "2013": 24983000
+  },
+  "cash": {
+    "2009": 86893000,
+    "2010": 79324000,
+    "2011": 38394000,
+    "2012": 83601000,
+    "2013": 96961000
+  },
+  "earningsPerShare": {
+    "2010": -0.42,
+    "2011": -0.48,
+    "2012": -0.99,
+    "2013": 0.19
+  },
+  "htmlUrl": "http://www.sec.gov/Archives/edgar/data/1520262/000104746914001422/0001047469-14-001422-index.htm",
+  "xmlUrl": "http://www.sec.gov/Archives/edgar/data/1520262/000104746914001422/alks-20131231.xml"
+}

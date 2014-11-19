@@ -1,0 +1,27 @@
+{
+  "symbol": "adma",
+  "name": "ADMA Biologics Inc",
+  "ipoYear": null,
+  "exchange": "nasdaq",
+  "category": "BIOLOGICAL PRODUCTS (NO DIAGNOSTIC SUBSTANCES)",
+  "address": {
+    "street1": "C/O ADMA BIOLOGICS, INC.",
+    "city": "RAMSEY",
+    "state": "NJ",
+    "zip": "07446"
+  },
+  "profit": {
+    "2011": -5903460,
+    "2012": -7301313,
+    "2013": -15527246
+  },
+  "cash": {
+    "2010": 228971,
+    "2011": 87771,
+    "2012": 12535672,
+    "2013": 26149477
+  },
+  "earningsPerShare": {},
+  "htmlUrl": "http://www.sec.gov/Archives/edgar/data/1368514/000119380514000641/0001193805-14-000641-index.htm",
+  "xmlUrl": "http://www.sec.gov/Archives/edgar/data/1368514/000119380514000641/adma-20131231.xml"
+}

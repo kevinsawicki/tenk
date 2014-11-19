@@ -1,0 +1,35 @@
+{
+  "symbol": "adep",
+  "name": "Adept Technology, Inc.",
+  "ipoYear": null,
+  "sector": "Technology",
+  "industry": "Industrial Machinery/Components",
+  "exchange": "nasdaq",
+  "category": "SPECIAL INDUSTRY MACHINERY, NEC",
+  "address": {
+    "street1": "5960 INGLEWOOD DRIVE",
+    "city": "PLEASANTON",
+    "state": "CA",
+    "zip": "94588"
+  },
+  "profit": {
+    "2011": -6764000,
+    "2012": -3723000,
+    "2013": -10025000,
+    "2014": -339000
+  },
+  "cash": {
+    "2010": 8618000,
+    "2011": 8627000,
+    "2012": 8722000,
+    "2013": 6274000,
+    "2014": 7600000
+  },
+  "earningsPerShare": {
+    "2012": -0.4,
+    "2013": -0.99,
+    "2014": -0.07
+  },
+  "htmlUrl": "http://www.sec.gov/Archives/edgar/data/865415/000119312514320025/0001193125-14-320025-index.htm",
+  "xmlUrl": "http://www.sec.gov/Archives/edgar/data/865415/000119312514320025/adep-20140630.xml"
+}

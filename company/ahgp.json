@@ -1,0 +1,32 @@
+{
+  "symbol": "ahgp",
+  "name": "Alliance Holdings GP, L.P.",
+  "ipoYear": 2006,
+  "sector": "Energy",
+  "industry": "Coal Mining",
+  "exchange": "nasdaq",
+  "category": "BITUMINOUS COAL &amp;amp; LIGNITE SURFACE MINING",
+  "address": {
+    "street1": "P.O. BOX 22027",
+    "city": "TULSA",
+    "state": "OK",
+    "zip": "74121"
+  },
+  "profit": {
+    "2009": 114216000,
+    "2010": 174344000,
+    "2011": 214143000,
+    "2012": 196068000,
+    "2013": 233873000
+  },
+  "cash": {
+    "2009": 24361000,
+    "2010": 342237000,
+    "2011": 281469000,
+    "2012": 31111000,
+    "2013": 98375000
+  },
+  "earningsPerShare": {},
+  "htmlUrl": "http://www.sec.gov/Archives/edgar/data/1344980/000110465914014607/0001104659-14-014607-index.htm",
+  "xmlUrl": "http://www.sec.gov/Archives/edgar/data/1344980/000110465914014607/ahgp-20131231.xml"
+}

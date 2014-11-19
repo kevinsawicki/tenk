@@ -1,0 +1,36 @@
+{
+  "symbol": "afop",
+  "name": "Alliance Fiber Optic Products, Inc.",
+  "ipoYear": 2000,
+  "sector": "Technology",
+  "industry": "Semiconductors",
+  "exchange": "nasdaq",
+  "category": "SEMICONDUCTORS &amp;amp; RELATED DEVICES",
+  "address": {
+    "street1": "275 GIBRALTAR DRIVE",
+    "city": "SUNNYVALE",
+    "state": "CA",
+    "zip": "94089"
+  },
+  "profit": {
+    "2010": 6012000,
+    "2011": 4431000,
+    "2012": 9641000,
+    "2013": 18808000
+  },
+  "cash": {
+    "2009": 8525000,
+    "2010": 8040000,
+    "2011": 13820000,
+    "2012": 4793000,
+    "2013": 18603000
+  },
+  "earningsPerShare": {
+    "2010": 0.7,
+    "2011": 0.5,
+    "2012": 0.55,
+    "2013": 1.06
+  },
+  "htmlUrl": "http://www.sec.gov/Archives/edgar/data/1122342/000120677414000879/0001206774-14-000879-index.htm",
+  "xmlUrl": "http://www.sec.gov/Archives/edgar/data/1122342/000120677414000879/afop-20131231.xml"
+}

@@ -1,0 +1,38 @@
+{
+  "symbol": "adtn",
+  "name": "ADTRAN, Inc.",
+  "ipoYear": 1994,
+  "sector": "Public Utilities",
+  "industry": "Telecommunications Equipment",
+  "exchange": "nasdaq",
+  "category": "TELEPHONE &amp;amp; TELEGRAPH APPARATUS",
+  "address": {
+    "street1": "901 EXPLORER BLVD",
+    "city": "HUNTSVILLE",
+    "state": "AL",
+    "zip": "35806"
+  },
+  "profit": {
+    "2009": 74221000,
+    "2010": 113989000,
+    "2011": 138577000,
+    "2012": 47263000,
+    "2013": 45794000
+  },
+  "cash": {
+    "2009": 24135000,
+    "2010": 31677000,
+    "2011": 42979000,
+    "2012": 68457000,
+    "2013": 58298000
+  },
+  "earningsPerShare": {
+    "2009": 1.19,
+    "2010": 1.82,
+    "2011": 2.16,
+    "2012": 0.75,
+    "2013": 0.78
+  },
+  "htmlUrl": "http://www.sec.gov/Archives/edgar/data/926282/000119312514071988/0001193125-14-071988-index.htm",
+  "xmlUrl": "http://www.sec.gov/Archives/edgar/data/926282/000119312514071988/adtn-20131231.xml"
+}

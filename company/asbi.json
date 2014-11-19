@@ -1,0 +1,35 @@
+{
+  "symbol": "asbi",
+  "name": "Ameriana Bancorp",
+  "ipoYear": null,
+  "sector": "Finance",
+  "industry": "Savings Institutions",
+  "exchange": "nasdaq",
+  "category": "SAVINGS INSTITUTION, FEDERALLY CHARTERED",
+  "address": {
+    "street1": "2118 BUNDY AVENUE",
+    "city": "NEW CASTLE",
+    "state": "IN",
+    "zip": "47263"
+  },
+  "profit": {
+    "2010": 553000,
+    "2011": 1142000,
+    "2012": 1840000,
+    "2013": 2187000
+  },
+  "cash": {
+    "2009": 19588000,
+    "2010": 11747000,
+    "2011": 9709000,
+    "2012": 20853000,
+    "2013": 40867000
+  },
+  "earningsPerShare": {
+    "2011": 0.38,
+    "2012": 0.62,
+    "2013": 0.73
+  },
+  "htmlUrl": "http://www.sec.gov/Archives/edgar/data/855574/000119312514114221/0001193125-14-114221-index.htm",
+  "xmlUrl": "http://www.sec.gov/Archives/edgar/data/855574/000119312514114221/asbi-20131231.xml"
+}

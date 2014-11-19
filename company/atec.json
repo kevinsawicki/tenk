@@ -1,0 +1,32 @@
+{
+  "symbol": "atec",
+  "name": "Alphatec Holdings, Inc.",
+  "ipoYear": 2006,
+  "sector": "Health Care",
+  "industry": "Medical/Dental Instruments",
+  "exchange": "nasdaq",
+  "category": "SURGICAL &amp;amp; MEDICAL INSTRUMENTS &amp;amp; APPARATUS",
+  "address": {
+    "street1": "5818 EL CAMINO REAL",
+    "city": "CARLSBAD",
+    "state": "CA",
+    "zip": "92008"
+  },
+  "profit": {
+    "2009": -13289000,
+    "2010": -14355000,
+    "2011": -22181000,
+    "2012": -15459000,
+    "2013": -82227000
+  },
+  "cash": {
+    "2009": 10085000,
+    "2010": 23168000,
+    "2011": 20666000,
+    "2012": 22241000,
+    "2013": 21345000
+  },
+  "earningsPerShare": {},
+  "htmlUrl": "http://www.sec.gov/Archives/edgar/data/1350653/000135065314000005/0001350653-14-000005-index.htm",
+  "xmlUrl": "http://www.sec.gov/Archives/edgar/data/1350653/000135065314000005/atec-20131231.xml"
+}

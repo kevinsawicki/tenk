@@ -1,0 +1,38 @@
+{
+  "symbol": "advs",
+  "name": "Advent Software, Inc.",
+  "ipoYear": 1995,
+  "sector": "Technology",
+  "industry": "EDP Services",
+  "exchange": "nasdaq",
+  "category": "SERVICES-COMPUTER PROGRAMMING SERVICES",
+  "address": {
+    "street1": "600 TOWNSEND ST",
+    "city": "SAN FRANCISCO",
+    "state": "CA",
+    "zip": "94103"
+  },
+  "profit": {
+    "2009": 36883000,
+    "2010": 24153000,
+    "2011": 30170000,
+    "2012": 30415000,
+    "2013": 28802000
+  },
+  "cash": {
+    "2009": 57877000,
+    "2010": 81948000,
+    "2011": 65525000,
+    "2012": 58217000,
+    "2013": 33828000
+  },
+  "earningsPerShare": {
+    "2009": 0.72,
+    "2010": 0.47,
+    "2011": 0.58,
+    "2012": 0.6,
+    "2013": 0.56
+  },
+  "htmlUrl": "http://www.sec.gov/Archives/edgar/data/1002225/000104746914001313/0001047469-14-001313-index.htm",
+  "xmlUrl": "http://www.sec.gov/Archives/edgar/data/1002225/000104746914001313/advs-20131231.xml"
+}

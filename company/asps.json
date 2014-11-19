@@ -1,0 +1,38 @@
+{
+  "symbol": "asps",
+  "name": "Altisource Portfolio Solutions S.A.",
+  "ipoYear": null,
+  "sector": "Consumer Services",
+  "industry": "Other Consumer Services",
+  "exchange": "nasdaq",
+  "category": "SERVICES-MISCELLANEOUS BUSINESS SERVICES",
+  "address": {
+    "street1": "40, AVENUE MONTEREY",
+    "city": "GRAND DUCHY OF LUXEMBOURG",
+    "state": "N4",
+    "zip": "50"
+  },
+  "profit": {
+    "2009": 25971000,
+    "2010": 49271000,
+    "2011": 71112000,
+    "2012": 110627000,
+    "2013": 129973000
+  },
+  "cash": {
+    "2009": 30456000,
+    "2010": 22134000,
+    "2011": 32125000,
+    "2012": 105502000,
+    "2013": 130324000
+  },
+  "earningsPerShare": {
+    "2009": 1.08,
+    "2010": 1.96,
+    "2011": 2.92,
+    "2012": 4.74,
+    "2013": 5.63
+  },
+  "htmlUrl": "http://www.sec.gov/Archives/edgar/data/1462418/000110465914009378/0001104659-14-009378-index.htm",
+  "xmlUrl": "http://www.sec.gov/Archives/edgar/data/1462418/000110465914009378/asps-20131231.xml"
+}

@@ -1,0 +1,38 @@
+{
+  "symbol": "alxn",
+  "name": "Alexion Pharmaceuticals, Inc.",
+  "ipoYear": 1996,
+  "sector": "Health Care",
+  "industry": "Major Pharmaceuticals",
+  "exchange": "nasdaq",
+  "category": "PHARMACEUTICAL PREPARATIONS",
+  "address": {
+    "street1": "352 KNOTTER DRIVE",
+    "city": "CHESHIRE",
+    "state": "CT",
+    "zip": "06511"
+  },
+  "profit": {
+    "2009": 295166000,
+    "2010": 97030000,
+    "2011": 175315000,
+    "2012": 254822000,
+    "2013": 252895000
+  },
+  "cash": {
+    "2009": 157172000,
+    "2010": 267145000,
+    "2011": 540865000,
+    "2012": 989501000,
+    "2013": 529857000
+  },
+  "earningsPerShare": {
+    "2009": 1.73,
+    "2010": 0.54,
+    "2011": 0.96,
+    "2012": 1.34,
+    "2013": 1.29
+  },
+  "htmlUrl": "http://www.sec.gov/Archives/edgar/data/899866/000089986614000034/0000899866-14-000034-index.htm",
+  "xmlUrl": "http://www.sec.gov/Archives/edgar/data/899866/000089986614000034/alxn-20131231.xml"
+}

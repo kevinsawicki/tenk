@@ -1,0 +1,19 @@
+{
+  "symbol": "agncb",
+  "name": "American Capital Agency Corp.",
+  "ipoYear": null,
+  "sector": "Consumer Services",
+  "industry": "Real Estate Investment Trusts",
+  "exchange": "nasdaq",
+  "category": "REAL ESTATE INVESTMENT TRUSTS",
+  "address": {
+    "street1": "2 BETHESDA METRO CENTER 14TH FLOOR",
+    "city": "BETHESDA",
+    "state": "MD",
+    "zip": "20814"
+  },
+  "profit": {},
+  "cash": {},
+  "earningsPerShare": {},
+  "htmlUrl": "http://www.sec.gov/Archives/edgar/data/1423689/000142368914000008/0001423689-14-000008-index.htm"
+}

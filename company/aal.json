@@ -1,0 +1,19 @@
+{
+  "symbol": "aal",
+  "name": "American Airlines Group, Inc.",
+  "ipoYear": null,
+  "sector": "Transportation",
+  "industry": "Air Freight/Delivery Services",
+  "exchange": "nasdaq",
+  "category": "AIR TRANSPORTATION, SCHEDULED",
+  "address": {
+    "street1": "4333 AMON CARTER BLVD",
+    "city": "FORT WORTH",
+    "state": "TX",
+    "zip": "76155"
+  },
+  "profit": {},
+  "cash": {},
+  "earningsPerShare": {},
+  "htmlUrl": "http://www.sec.gov/Archives/edgar/data/6201/000000620114000004/0000006201-14-000004-index.htm"
+}

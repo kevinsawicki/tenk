@@ -1,0 +1,39 @@
+{
+  "symbol": "aosl",
+  "name": "Alpha and Omega Semiconductor Limited",
+  "ipoYear": 2010,
+  "sector": "Technology",
+  "industry": "Semiconductors",
+  "exchange": "nasdaq",
+  "category": "SEMICONDUCTORS &amp;amp; RELATED DEVICES",
+  "address": {
+    "street1": "475 OAKMEAD PARKWAY",
+    "city": "SUNNYVALE",
+    "state": "CA",
+    "zip": "94085"
+  },
+  "profit": {
+    "2010": 37824000,
+    "2011": 37827000,
+    "2012": 12917000,
+    "2013": -5575000,
+    "2014": -3308000
+  },
+  "cash": {
+    "2009": 60416000,
+    "2010": 119001000,
+    "2011": 86708000,
+    "2012": 82166000,
+    "2013": 92406000,
+    "2014": 117788000
+  },
+  "earningsPerShare": {
+    "2010": 3.24,
+    "2011": 1.61,
+    "2012": 0.52,
+    "2013": -0.22,
+    "2014": -0.13
+  },
+  "htmlUrl": "http://www.sec.gov/Archives/edgar/data/1387467/000138746714000104/0001387467-14-000104-index.htm",
+  "xmlUrl": "http://www.sec.gov/Archives/edgar/data/1387467/000138746714000104/aosl-20140630.xml"
+}

@@ -1,0 +1,19 @@
+{
+  "symbol": "amda",
+  "name": "Amedica Corporation",
+  "ipoYear": 2014,
+  "sector": "Health Care",
+  "industry": "Medical/Dental Instruments",
+  "exchange": "nasdaq",
+  "category": "SURGICAL &amp;amp; MEDICAL INSTRUMENTS &amp;amp; APPARATUS",
+  "address": {
+    "street1": "1885 WEST 2100 STREET",
+    "city": "SALT LAKE CITY",
+    "state": "UT",
+    "zip": "84119"
+  },
+  "profit": {},
+  "cash": {},
+  "earningsPerShare": {},
+  "htmlUrl": "http://www.sec.gov/Archives/edgar/data/1269026/000119312514124269/0001193125-14-124269-index.htm"
+}

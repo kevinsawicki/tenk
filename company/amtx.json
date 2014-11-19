@@ -1,0 +1,31 @@
+{
+  "symbol": "amtx",
+  "name": "Aemetis, Inc",
+  "ipoYear": null,
+  "sector": "Basic Industries",
+  "industry": "Major Chemicals",
+  "exchange": "nasdaq",
+  "category": "INDUSTRIAL ORGANIC CHEMICALS",
+  "address": {
+    "street1": "20400 STEVENS CREEK BLVD",
+    "city": "CUPERTINO",
+    "state": "CA",
+    "zip": "95014"
+  },
+  "profit": {
+    "2010": -8564209,
+    "2011": -18296359,
+    "2012": -4282265,
+    "2013": -24437209
+  },
+  "cash": {
+    "2009": 52178,
+    "2010": 683016,
+    "2011": 249466,
+    "2012": 290603,
+    "2013": 4925820
+  },
+  "earningsPerShare": {},
+  "htmlUrl": "http://www.sec.gov/Archives/edgar/data/738214/000135448814001121/0001354488-14-001121-index.htm",
+  "xmlUrl": "http://www.sec.gov/Archives/edgar/data/738214/000135448814001121/amtx-20131231.xml"
+}

@@ -1,0 +1,38 @@
+{
+  "symbol": "afam",
+  "name": "Almost Family Inc",
+  "ipoYear": null,
+  "sector": "Health Care",
+  "industry": "Medical/Nursing Services",
+  "exchange": "nasdaq",
+  "category": "SERVICES-SOCIAL SERVICES",
+  "address": {
+    "street1": "9510 ORMSBY STATION ROAD",
+    "city": "LOUISVILLE",
+    "state": "KY",
+    "zip": "40223"
+  },
+  "profit": {
+    "2009": 24564000,
+    "2010": 30713000,
+    "2011": 20802000,
+    "2012": 17284000,
+    "2013": 8048000
+  },
+  "cash": {
+    "2009": 19389000,
+    "2010": 47943000,
+    "2011": 33693000,
+    "2012": 26120000,
+    "2013": 12246000
+  },
+  "earningsPerShare": {
+    "2009": 2.93,
+    "2010": 3.37,
+    "2011": 2.24,
+    "2012": 1.86,
+    "2013": 0.89
+  },
+  "htmlUrl": "http://www.sec.gov/Archives/edgar/data/799231/000110465914019892/0001104659-14-019892-index.htm",
+  "xmlUrl": "http://www.sec.gov/Archives/edgar/data/799231/000110465914019892/afam-20131231.xml"
+}

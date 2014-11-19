@@ -1,0 +1,33 @@
+{
+  "symbol": "amrk",
+  "name": "A-Mark Precious Metals, Inc.",
+  "ipoYear": null,
+  "sector": "Basic Industries",
+  "industry": "Other Specialty Stores",
+  "exchange": "nasdaq",
+  "category": "WHOLESALE-JEWELRY, WATCHES, PRECIOUS STONES &amp;amp; METALS",
+  "address": {
+    "street1": "429 SANTA MONICA BLVD",
+    "city": "SANTA MONICA",
+    "state": "CA",
+    "zip": "90401"
+  },
+  "profit": {
+    "2012": -5000,
+    "2013": 12514000,
+    "2014": 8259000
+  },
+  "cash": {
+    "2011": 9377000,
+    "2012": 11273000,
+    "2013": 21565000,
+    "2014": 13193000
+  },
+  "earningsPerShare": {
+    "2012": 1.29,
+    "2013": 1.61,
+    "2014": 1.1
+  },
+  "htmlUrl": "http://www.sec.gov/Archives/edgar/data/1591588/000159158814000110/0001591588-14-000110-index.htm",
+  "xmlUrl": "http://www.sec.gov/Archives/edgar/data/1591588/000159158814000110/amrk-20140630.xml"
+}

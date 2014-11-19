@@ -1,0 +1,19 @@
+{
+  "symbol": "ambcw",
+  "name": "Ambac Financial Group, Inc.",
+  "ipoYear": null,
+  "sector": "Finance",
+  "industry": "Property-Casualty Insurers",
+  "exchange": "nasdaq",
+  "category": "SURETY INSURANCE",
+  "address": {
+    "street1": "ONE STATE ST PLZ",
+    "city": "NEW YORK",
+    "state": "NY",
+    "zip": "10004"
+  },
+  "profit": {},
+  "cash": {},
+  "earningsPerShare": {},
+  "htmlUrl": "http://www.sec.gov/Archives/edgar/data/874501/000119312514080373/0001193125-14-080373-index.htm"
+}

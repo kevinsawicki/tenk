@@ -1,0 +1,32 @@
+{
+  "symbol": "arlp",
+  "name": "Alliance Resource Partners, L.P.",
+  "ipoYear": 1999,
+  "sector": "Energy",
+  "industry": "Coal Mining",
+  "exchange": "nasdaq",
+  "category": "BITUMINOUS COAL &amp;amp; LIGNITE SURFACE MINING",
+  "address": {
+    "street1": "1717 SOUTH BOULDER AVENUE",
+    "city": "TULSA",
+    "state": "OK",
+    "zip": "74119"
+  },
+  "profit": {
+    "2009": 192157000,
+    "2010": 321017000,
+    "2011": 389353000,
+    "2012": 335571000,
+    "2013": 393490000
+  },
+  "cash": {
+    "2009": 21556000,
+    "2010": 339562000,
+    "2011": 273528000,
+    "2012": 28283000,
+    "2013": 93654000
+  },
+  "earningsPerShare": {},
+  "htmlUrl": "http://www.sec.gov/Archives/edgar/data/1086600/000110465914014605/0001104659-14-014605-index.htm",
+  "xmlUrl": "http://www.sec.gov/Archives/edgar/data/1086600/000110465914014605/arlp-20131231.xml"
+}

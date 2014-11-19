@@ -1,0 +1,37 @@
+{
+  "symbol": "algt",
+  "name": "Allegiant Travel Company",
+  "ipoYear": 2006,
+  "sector": "Transportation",
+  "industry": "Air Freight/Delivery Services",
+  "exchange": "nasdaq",
+  "category": "AIR TRANSPORTATION, SCHEDULED",
+  "address": {
+    "street1": "1201 N. TOWN CENTER DRIVE",
+    "city": "LAS VEGAS",
+    "state": "NV",
+    "zip": "89144"
+  },
+  "profit": {
+    "2009": 76331000,
+    "2010": 65702000,
+    "2011": 49398000,
+    "2012": 78597000,
+    "2013": 92273000
+  },
+  "cash": {
+    "2009": 90239000,
+    "2010": 113293000,
+    "2011": 150740000,
+    "2012": 89557000,
+    "2013": 97711000
+  },
+  "earningsPerShare": {
+    "2009": 3.81,
+    "2010": 3.36,
+    "2011": 2.59,
+    "2012": 4.1,
+    "2013": 4.85
+  },
+  "htmlUrl": "http://www.sec.gov/Archives/edgar/data/1362468/000136246814000022/0001362468-14-000022-index.htm"
+}

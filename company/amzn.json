@@ -1,0 +1,38 @@
+{
+  "symbol": "amzn",
+  "name": "Amazon.com, Inc.",
+  "ipoYear": 1997,
+  "sector": "Consumer Services",
+  "industry": "Catalog/Specialty Distribution",
+  "exchange": "nasdaq",
+  "category": "RETAIL-CATALOG &amp;amp; MAIL-ORDER HOUSES",
+  "address": {
+    "street1": "410 TERRY AVENUE NORTH",
+    "city": "SEATTLE",
+    "state": "WA",
+    "zip": "98109"
+  },
+  "profit": {
+    "2009": 902000000,
+    "2010": 1152000000,
+    "2011": 631000000,
+    "2012": -39000000,
+    "2013": 274000000
+  },
+  "cash": {
+    "2009": 3444000000,
+    "2010": 3777000000,
+    "2011": 5269000000,
+    "2012": 8084000000,
+    "2013": 8658000000
+  },
+  "earningsPerShare": {
+    "2009": 2.08,
+    "2010": 2.58,
+    "2011": 1.39,
+    "2012": -0.09,
+    "2013": 0.6
+  },
+  "htmlUrl": "http://www.sec.gov/Archives/edgar/data/1018724/000101872414000006/0001018724-14-000006-index.htm",
+  "xmlUrl": "http://www.sec.gov/Archives/edgar/data/1018724/000101872414000006/amzn-20131231.xml"
+}

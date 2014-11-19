@@ -1,0 +1,36 @@
+{
+  "symbol": "allb",
+  "name": "Alliance Bancorp, Inc. of Pennsylvania",
+  "ipoYear": null,
+  "sector": "Finance",
+  "industry": "Savings Institutions",
+  "exchange": "nasdaq",
+  "category": "SAVINGS INSTITUTIONS, NOT FEDERALLY CHARTERED",
+  "address": {
+    "street1": "541 LAWRENCE ROAD",
+    "city": "BROOMALL",
+    "state": "PA",
+    "zip": "19008"
+  },
+  "profit": {
+    "2010": 1080386,
+    "2011": 1149149,
+    "2012": 2541604,
+    "2013": 1407916
+  },
+  "cash": {
+    "2009": 74936103,
+    "2010": 61890788,
+    "2011": 95852198,
+    "2012": 112304936,
+    "2013": 45224010
+  },
+  "earningsPerShare": {
+    "2010": 0.2,
+    "2011": 0.22,
+    "2012": 0.48,
+    "2013": 0.29
+  },
+  "htmlUrl": "http://www.sec.gov/Archives/edgar/data/1500711/000114420414016620/0001144204-14-016620-index.htm",
+  "xmlUrl": "http://www.sec.gov/Archives/edgar/data/1500711/000114420414016620/allb-20131231.xml"
+}

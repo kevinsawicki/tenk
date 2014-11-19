@@ -1,0 +1,32 @@
+{
+  "symbol": "alny",
+  "name": "Alnylam Pharmaceuticals, Inc.",
+  "ipoYear": 2004,
+  "sector": "Health Care",
+  "industry": "Major Pharmaceuticals",
+  "exchange": "nasdaq",
+  "category": "PHARMACEUTICAL PREPARATIONS",
+  "address": {
+    "street1": "300 THIRD STREET",
+    "city": "CAMBRIDGE",
+    "state": "MA",
+    "zip": "02142"
+  },
+  "profit": {
+    "2009": -47590000,
+    "2010": -43515000,
+    "2011": -57649000,
+    "2012": -106014000,
+    "2013": -89225000
+  },
+  "cash": {
+    "2009": 137468000,
+    "2010": 74599000,
+    "2011": 70228000,
+    "2012": 51405000,
+    "2013": 53169000
+  },
+  "earningsPerShare": {},
+  "htmlUrl": "http://www.sec.gov/Archives/edgar/data/1178670/000119312514060913/0001193125-14-060913-index.htm",
+  "xmlUrl": "http://www.sec.gov/Archives/edgar/data/1178670/000119312514060913/alny-20131231.xml"
+}

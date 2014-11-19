@@ -1,0 +1,31 @@
+{
+  "symbol": "atrm",
+  "name": "Aetrium Incorporated",
+  "ipoYear": 1993,
+  "sector": "Capital Goods",
+  "industry": "Electrical Products",
+  "exchange": "nasdaq",
+  "category": "INSTRUMENTS FOR MEAS &amp;amp; TESTING OF ELECTRICITY &amp;amp; ELEC SIGNALS",
+  "address": {
+    "street1": "2350 HELEN STREET",
+    "city": "NORTH ST PAUL",
+    "state": "MN",
+    "zip": "55109"
+  },
+  "profit": {
+    "2010": -1901747,
+    "2011": -4747519,
+    "2012": -6111168,
+    "2013": -2915445
+  },
+  "cash": {
+    "2009": 9475871,
+    "2010": 10032660,
+    "2011": 5007946,
+    "2012": 3013152,
+    "2013": 1260347
+  },
+  "earningsPerShare": {},
+  "htmlUrl": "http://www.sec.gov/Archives/edgar/data/908598/000114420414017932/0001144204-14-017932-index.htm",
+  "xmlUrl": "http://www.sec.gov/Archives/edgar/data/908598/000114420414017932/atrm-20131231.xml"
+}

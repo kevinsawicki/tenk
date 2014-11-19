@@ -1,0 +1,37 @@
+{
+  "symbol": "alsk",
+  "name": "Alaska Communications Systems Group, Inc.",
+  "ipoYear": 1999,
+  "sector": "Public Utilities",
+  "industry": "Telecommunications Equipment",
+  "exchange": "nasdaq",
+  "category": "TELEPHONE COMMUNICATIONS (NO RADIO TELEPHONE)",
+  "address": {
+    "street1": "600 TELEPHONE AVENUE",
+    "city": "ANCHORAGE",
+    "state": "AK",
+    "zip": "99503"
+  },
+  "profit": {
+    "2009": 33777000,
+    "2010": -30688000,
+    "2011": 472000,
+    "2012": 17409000,
+    "2013": 156381000
+  },
+  "cash": {
+    "2009": 6271000,
+    "2010": 15316000,
+    "2011": 20490000,
+    "2012": 16839000,
+    "2013": 43039000
+  },
+  "earningsPerShare": {
+    "2010": -0.69,
+    "2011": 0.01,
+    "2012": 0.38,
+    "2013": 3.32
+  },
+  "htmlUrl": "http://www.sec.gov/Archives/edgar/data/1089511/000119312514116933/0001193125-14-116933-index.htm",
+  "xmlUrl": "http://www.sec.gov/Archives/edgar/data/1089511/000119312514116933/alsk-20131231.xml"
+}

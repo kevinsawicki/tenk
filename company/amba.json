@@ -1,0 +1,35 @@
+{
+  "symbol": "amba",
+  "name": "Ambarella, Inc.",
+  "ipoYear": 2012,
+  "sector": "Technology",
+  "industry": "Semiconductors",
+  "exchange": "nasdaq",
+  "category": "SEMICONDUCTORS &amp;amp; RELATED DEVICES",
+  "address": {
+    "street1": "3101 JAY STREET",
+    "city": "SANTA CLARA",
+    "state": "CA",
+    "zip": "95054"
+  },
+  "profit": {
+    "2011": 13929000,
+    "2012": 9821000,
+    "2013": 18188000,
+    "2014": 25654000
+  },
+  "cash": {
+    "2010": 26599000,
+    "2011": 41896000,
+    "2012": 58944000,
+    "2013": 100494000
+  },
+  "earningsPerShare": {
+    "2011": 0.54,
+    "2012": 0.32,
+    "2013": 0.64,
+    "2014": 0.93
+  },
+  "htmlUrl": "http://www.sec.gov/Archives/edgar/data/1280263/000119312514131361/0001193125-14-131361-index.htm",
+  "xmlUrl": "http://www.sec.gov/Archives/edgar/data/1280263/000119312514131361/amba-20140131.xml"
+}
