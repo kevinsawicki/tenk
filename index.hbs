@@ -35,6 +35,7 @@
             <thead>
               <tr>
                 <th>State</th>
+                <th>Companies</th>
                 <th>Profits</th>
                 <th>Cash</th>
                 <th>Earnings Per Share</th>
@@ -44,10 +45,11 @@
             <tbody>
               {{#each states}}
                 <tr>
+                  <td>{{companies}}</td>
                   <td>{{state}}</td>
-                  <td>{{profit}}</td>
-                  <td>{{cash}}</td>
-                  <td>{{earningsPerShare}}</td>
+                  <td>{{humanizedProfit}}</td>
+                  <td>{{humanizedCash}}</td>
+                  <td>{{humanizedEarningsPerShare}}</td>
                 </tr>
               {{/each}}
             </tbody>
