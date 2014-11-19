@@ -183,21 +183,18 @@ downloadSymbol = (company, callback) ->
     async.map urlsToDownload.reverse(), downloadTenK, (error, data) ->
       return callback(error) if error?
 
-      try
-        profit = _.extend({}, _.pluck(data, 'profit')...)
-        cash = _.extend({}, _.pluck(data, 'cash')...)
-        earningsPerShare = _.extend({}, _.pluck(data, 'earningsPerShare')...)
+      profit = _.extend({}, _.pluck(data, 'profit')...)
+      cash = _.extend({}, _.pluck(data, 'cash')...)
+      earningsPerShare = _.extend({}, _.pluck(data, 'earningsPerShare')...)
 
-        company.category = select("//atom:assigned-sic-desc/text()", document)[0].toString()
-        company.address = address
-        company.profit = profit
-        company.cash = cash
-        company.earningsPerShare = earningsPerShare
-        company.htmlUrl = select("//atom:filing-href/text()", document)[0].toString()
-        company.xmlUrl = _.last(data).xmlUrl
-        writeCompany(company, callback)
-      catch error
-        callback(error)
+      company.category = select("//atom:assigned-sic-desc/text()", document)[0].toString()
+      company.address = address
+      company.profit = profit
+      company.cash = cash
+      company.earningsPerShare = earningsPerShare
+      company.htmlUrl = select("//atom:filing-href/text()", document)[0].toString()
+      company.xmlUrl = _.last(data).xmlUrl
+      writeCompany(company, callback)
 
 writeCompany = (company, callback) ->
   companyPath = path.resolve(__dirname, '..', 'company', "#{company.symbol}.json")
