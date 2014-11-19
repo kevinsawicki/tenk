@@ -35,7 +35,7 @@ downloadExchange = (exchange, callback) ->
     symbols = []
     for line in lines
       segments = line.split('","')
-      symbol   = segments[0].substring(1) # Remove leading "
+      symbol   = segments[0].substring(1).trim() # Remove leading "
       name     = segments[1]
       ipoYear  = parseInt(segments[5])
       sector   = segments[6]

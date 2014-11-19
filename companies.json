@@ -1520,6 +1520,18 @@
     "exchange": "nasdaq"
   },
   {
+    "symbol": "APDN",
+    "name": "Applied DNA Sciences Inc",
+    "ipoYear": null,
+    "exchange": "nasdaq"
+  },
+  {
+    "symbol": "APDNW",
+    "name": "Applied DNA Sciences Inc",
+    "ipoYear": null,
+    "exchange": "nasdaq"
+  },
+  {
     "symbol": "AGTC",
     "name": "Applied Genetic Technologies Corporation",
     "ipoYear": 2014,
@@ -3118,7 +3130,7 @@
     "exchange": "nasdaq"
   },
   {
-    "symbol": "BLIN          ",
+    "symbol": "BLIN",
     "name": "Bridgeline Digital, Inc.",
     "ipoYear": null,
     "sector": "Technology",
@@ -4605,6 +4617,12 @@
     "ipoYear": 1996,
     "sector": "Technology",
     "industry": "EDP Services",
+    "exchange": "nasdaq"
+  },
+  {
+    "symbol": "CMPR",
+    "name": "Cimpress N.V",
+    "ipoYear": null,
     "exchange": "nasdaq"
   },
   {
@@ -6470,14 +6488,6 @@
     "exchange": "nasdaq"
   },
   {
-    "symbol": "DRTX",
-    "name": "Durata Therapeutics, Inc.",
-    "ipoYear": 2012,
-    "sector": "Health Care",
-    "industry": "Major Pharmaceuticals",
-    "exchange": "nasdaq"
-  },
-  {
     "symbol": "DRRX",
     "name": "Durect Corporation",
     "ipoYear": 2000,
@@ -7116,7 +7126,7 @@
     "exchange": "nasdaq"
   },
   {
-    "symbol": "ENZY          ",
+    "symbol": "ENZY",
     "name": "Enzymotec Ltd.",
     "ipoYear": 2013,
     "sector": "Consumer Durables",
@@ -7164,7 +7174,7 @@
     "exchange": "nasdaq"
   },
   {
-    "symbol": "EAC           ",
+    "symbol": "EAC",
     "name": "Erickson Incorporated",
     "ipoYear": 2012,
     "sector": "Capital Goods",
@@ -7596,7 +7606,7 @@
   {
     "symbol": "FGEN",
     "name": "FibroGen, Inc",
-    "ipoYear": null,
+    "ipoYear": 2014,
     "exchange": "nasdaq"
   },
   {
@@ -9012,7 +9022,7 @@
   {
     "symbol": "LAND",
     "name": "Gladstone Land Corporation",
-    "ipoYear": 1993,
+    "ipoYear": 2013,
     "sector": "Consumer Services",
     "industry": "Real Estate Investment Trusts",
     "exchange": "nasdaq"
@@ -9552,7 +9562,7 @@
     "exchange": "nasdaq"
   },
   {
-    "symbol": "HART          ",
+    "symbol": "HART",
     "name": "Harvard Apparatus Regenerative Technology, Inc.",
     "ipoYear": null,
     "sector": "Health Care",
@@ -10416,7 +10426,7 @@
     "exchange": "nasdaq"
   },
   {
-    "symbol": "IMNP          ",
+    "symbol": "IMNP",
     "name": "Immune Pharmaceuticals Inc.",
     "ipoYear": null,
     "sector": "Health Care",
@@ -11956,7 +11966,7 @@
   {
     "symbol": "LMRK",
     "name": "Landmark Infrastructure Partners LP",
-    "ipoYear": null,
+    "ipoYear": 2014,
     "exchange": "nasdaq"
   },
   {
@@ -13814,14 +13824,6 @@
     "exchange": "nasdaq"
   },
   {
-    "symbol": "MOVE",
-    "name": "Move, Inc.",
-    "ipoYear": null,
-    "sector": "Finance",
-    "industry": "Real Estate",
-    "exchange": "nasdaq"
-  },
-  {
     "symbol": "MRVC",
     "name": "MRV Communications, Inc.",
     "ipoYear": 1992,
@@ -14278,7 +14280,7 @@
   {
     "symbol": "NDRM",
     "name": "NeuroDerm Ltd.",
-    "ipoYear": null,
+    "ipoYear": 2014,
     "exchange": "nasdaq"
   },
   {
@@ -15795,7 +15797,7 @@
   },
   {
     "symbol": "PFIS",
-    "name": "Peoples Financial Services Corporation",
+    "name": "Peoples Financial Services Corp. ",
     "ipoYear": null,
     "sector": "Finance",
     "industry": "Major Banks",
@@ -18109,6 +18111,12 @@
     "ipoYear": 2001,
     "sector": "Health Care",
     "industry": "Biotechnology: Biological Products (No Diagnostic Substances)",
+    "exchange": "nasdaq"
+  },
+  {
+    "symbol": "EYES",
+    "name": "Second Sight Medical Products, Inc.",
+    "ipoYear": null,
     "exchange": "nasdaq"
   },
   {
@@ -20636,7 +20644,7 @@
     "exchange": "nasdaq"
   },
   {
-    "symbol": "TORM          ",
+    "symbol": "TORM",
     "name": "TOR Minerals International Inc",
     "ipoYear": 1988,
     "sector": "Basic Industries",
@@ -22064,7 +22072,7 @@
   {
     "symbol": "VA",
     "name": "Virgin America Inc.",
-    "ipoYear": null,
+    "ipoYear": 2014,
     "exchange": "nasdaq"
   },
   {
@@ -22105,14 +22113,6 @@
     "ipoYear": 1992,
     "sector": "Health Care",
     "industry": "Biotechnology: Electromedical & Electrotherapeutic Apparatus",
-    "exchange": "nasdaq"
-  },
-  {
-    "symbol": "VPRT",
-    "name": "Vistaprint N.V.",
-    "ipoYear": 2005,
-    "sector": "Miscellaneous",
-    "industry": "Publishing",
     "exchange": "nasdaq"
   },
   {
@@ -25670,7 +25670,7 @@
     "exchange": "amex"
   },
   {
-    "symbol": "SAND          ",
+    "symbol": "SAND",
     "name": "Sandstorm Gold Ltd",
     "ipoYear": null,
     "sector": "Basic Industries",
@@ -30786,7 +30786,7 @@
     "exchange": "nyse"
   },
   {
-    "symbol": "ECOM          ",
+    "symbol": "ECOM",
     "name": "ChannelAdvisor Corporation",
     "ipoYear": 2013,
     "sector": "Technology",
@@ -31370,7 +31370,7 @@
     "exchange": "nyse"
   },
   {
-    "symbol": "CBA           ",
+    "symbol": "CBA",
     "name": "ClearBridge American Energy MLP Fund Inc.",
     "ipoYear": 2013,
     "exchange": "nyse"
@@ -32932,12 +32932,6 @@
     "exchange": "nyse"
   },
   {
-    "symbol": "DRA/WD",
-    "name": "Diversified Real Asset Income Fund",
-    "ipoYear": null,
-    "exchange": "nyse"
-  },
-  {
     "symbol": "DNI",
     "name": "Dividend and Income Fund",
     "ipoYear": null,
@@ -33308,7 +33302,7 @@
     "exchange": "nyse"
   },
   {
-    "symbol": "DRE^L",
+    "symbol": "DRE^L/CL",
     "name": "Duke Realty Corporation",
     "ipoYear": null,
     "exchange": "nyse"
@@ -33436,7 +33430,7 @@
     "exchange": "nyse"
   },
   {
-    "symbol": "ECC           ",
+    "symbol": "ECC",
     "name": "Eagle Point Credit Company Inc.",
     "ipoYear": 2014,
     "exchange": "nyse"
@@ -33530,7 +33524,7 @@
     "exchange": "nyse"
   },
   {
-    "symbol": "ETX           ",
+    "symbol": "ETX",
     "name": "Eaton Vance Municipal Income Term Trust",
     "ipoYear": 2013,
     "exchange": "nyse"
@@ -33675,12 +33669,6 @@
     "ipoYear": null,
     "sector": "Health Care",
     "industry": "Industrial Specialties",
-    "exchange": "nyse"
-  },
-  {
-    "symbol": "EHIC",
-    "name": "eHi Car Services Limited",
-    "ipoYear": null,
     "exchange": "nyse"
   },
   {
@@ -34307,12 +34295,6 @@
   },
   {
     "symbol": "EQC^E",
-    "name": "Equity Commonwealth",
-    "ipoYear": null,
-    "exchange": "nyse"
-  },
-  {
-    "symbol": "EQCN/CL",
     "name": "Equity Commonwealth",
     "ipoYear": null,
     "exchange": "nyse"
@@ -35012,7 +34994,7 @@
     "exchange": "nyse"
   },
   {
-    "symbol": "FEI           ",
+    "symbol": "FEI",
     "name": "First Trust MLP and Energy Income Fund",
     "ipoYear": 2012,
     "exchange": "nyse"
@@ -36984,7 +36966,7 @@
     "exchange": "nyse"
   },
   {
-    "symbol": "ONE           ",
+    "symbol": "ONE",
     "name": "Higher One Holdings, Inc.",
     "ipoYear": 2010,
     "sector": "Miscellaneous",
@@ -38004,7 +37986,7 @@
     "exchange": "nyse"
   },
   {
-    "symbol": "STAR          ",
+    "symbol": "STAR",
     "name": "iStar Financial Inc.",
     "ipoYear": null,
     "sector": "Consumer Services",
@@ -38194,7 +38176,7 @@
     "exchange": "nyse"
   },
   {
-    "symbol": "JMI           ",
+    "symbol": "JMI",
     "name": "Javelin Mortgage Investment Corp.",
     "ipoYear": 2012,
     "sector": "Consumer Services",
@@ -44924,7 +44906,7 @@
     "exchange": "nyse"
   },
   {
-    "symbol": "REN           ",
+    "symbol": "REN",
     "name": "Resolute Energy Corporation",
     "ipoYear": null,
     "sector": "Energy",
@@ -45511,12 +45493,6 @@
     "symbol": "SMM",
     "name": "Salient Midstream & MLP Fund",
     "ipoYear": 2012,
-    "exchange": "nyse"
-  },
-  {
-    "symbol": "SMF",
-    "name": "Salient MLP and Energy Infrastructure Fund",
-    "ipoYear": 2011,
     "exchange": "nyse"
   },
   {
@@ -46424,7 +46400,7 @@
     "exchange": "nyse"
   },
   {
-    "symbol": "SPB           ",
+    "symbol": "SPB",
     "name": "Spectrum Brands Holdings, Inc.",
     "ipoYear": null,
     "sector": "Miscellaneous",
@@ -48629,7 +48605,7 @@
   },
   {
     "symbol": "TYC",
-    "name": "Tyco International, Ltd. (Switzerland)",
+    "name": "Tyco International plc",
     "ipoYear": null,
     "sector": "Consumer Services",
     "industry": "Other Consumer Services",
