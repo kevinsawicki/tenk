@@ -1,0 +1,38 @@
+{
+  "symbol": "esgr",
+  "name": "Enstar Group Limited",
+  "ipoYear": null,
+  "sector": "Finance",
+  "industry": "Property-Casualty Insurers",
+  "exchange": "nasdaq",
+  "category": "FIRE, MARINE &amp;amp; CASUALTY INSURANCE",
+  "address": {
+    "street1": "P.O. BOX HM 2267, WINDSOR PLACE, 3RD FL.",
+    "city": "HAMILTON",
+    "state": "D0",
+    "zip": "HM JX"
+  },
+  "profit": {
+    "2009": 135210000,
+    "2010": 174086000,
+    "2011": 153693000,
+    "2012": 168017000,
+    "2013": 208604000
+  },
+  "cash": {
+    "2009": 1266445000,
+    "2010": 799154000,
+    "2011": 850474000,
+    "2012": 654890000,
+    "2013": 643841000
+  },
+  "earningsPerShare": {
+    "2009": 10.01,
+    "2010": 12.91,
+    "2011": 11.03,
+    "2012": 10.22,
+    "2013": 12.62
+  },
+  "htmlUrl": "http://www.sec.gov/Archives/edgar/data/1363829/000119312514080274/0001193125-14-080274-index.htm",
+  "xmlUrl": "http://www.sec.gov/Archives/edgar/data/1363829/000119312514080274/esgr-20131231.xml"
+}

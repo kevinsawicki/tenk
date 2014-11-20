@@ -1,0 +1,31 @@
+{
+  "symbol": "envi",
+  "name": "Envivio, Inc.",
+  "ipoYear": 2012,
+  "sector": "Technology",
+  "industry": "Radio And Television Broadcasting And Communications Equipment",
+  "exchange": "nasdaq",
+  "category": "RADIO &amp;amp; TV BROADCASTING &amp;amp; COMMUNICATIONS EQUIPMENT",
+  "address": {
+    "street1": "400 OYSTER POINT BLVD., SUITE 325",
+    "city": "SOUTH SAN FRANCISCO",
+    "state": "CA",
+    "zip": "94080"
+  },
+  "profit": {
+    "2011": -2485000,
+    "2012": 138000,
+    "2013": -16935000,
+    "2014": -12188000
+  },
+  "cash": {
+    "2010": 4330000,
+    "2011": 10017000,
+    "2012": 27405000,
+    "2013": 51344000,
+    "2014": 47873000
+  },
+  "earningsPerShare": {},
+  "htmlUrl": "http://www.sec.gov/Archives/edgar/data/1174266/000119312514159731/0001193125-14-159731-index.htm",
+  "xmlUrl": "http://www.sec.gov/Archives/edgar/data/1174266/000119312514159731/envi-20140131.xml"
+}

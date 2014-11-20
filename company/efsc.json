@@ -1,0 +1,38 @@
+{
+  "symbol": "efsc",
+  "name": "Enterprise Financial Services Corporation",
+  "ipoYear": null,
+  "sector": "Finance",
+  "industry": "Major Banks",
+  "exchange": "nasdaq",
+  "category": "STATE COMMERCIAL BANKS",
+  "address": {
+    "street1": "150 NORTH MERAMEC",
+    "city": "CLAYTON",
+    "state": "MO",
+    "zip": "63105"
+  },
+  "profit": {
+    "2009": -47955000,
+    "2010": 5573000,
+    "2011": 25423000,
+    "2012": 28296000,
+    "2013": 33104000
+  },
+  "cash": {
+    "2009": 106966000,
+    "2010": 293668000,
+    "2011": 188143000,
+    "2012": 116370000,
+    "2013": 210569000
+  },
+  "earningsPerShare": {
+    "2009": -3.92,
+    "2010": 0.21,
+    "2011": 1.37,
+    "2012": 1.41,
+    "2013": 1.78
+  },
+  "htmlUrl": "http://www.sec.gov/Archives/edgar/data/1025835/000102583514000012/0001025835-14-000012-index.htm",
+  "xmlUrl": "http://www.sec.gov/Archives/edgar/data/1025835/000102583514000012/efsc-20131231.xml"
+}

@@ -1,0 +1,35 @@
+{
+  "symbol": "esmc",
+  "name": "Escalon Medical Corp.",
+  "ipoYear": null,
+  "sector": "Health Care",
+  "industry": "Biotechnology: Electromedical & Electrotherapeutic Apparatus",
+  "exchange": "nasdaq",
+  "category": "ELECTROMEDICAL &amp;amp; ELECTROTHERAPEUTIC APPARATUS",
+  "address": {
+    "street1": "435 DEVON PARK ROAD",
+    "city": "WAYNE",
+    "state": "PA",
+    "zip": "19087"
+  },
+  "profit": {
+    "2011": -5757648,
+    "2012": -5944797,
+    "2013": 2624469,
+    "2014": -381883
+  },
+  "cash": {
+    "2010": 2824203,
+    "2011": 1514514,
+    "2012": 890623,
+    "2013": 2654701,
+    "2014": 2009554
+  },
+  "earningsPerShare": {
+    "2011": -0.77,
+    "2012": -0.79,
+    "2013": 0.35,
+    "2014": -0.05
+  },
+  "htmlUrl": "http://www.sec.gov/Archives/edgar/data/862668/000086266814000009/0000862668-14-000009-index.htm"
+}

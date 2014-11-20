@@ -1,0 +1,38 @@
+{
+  "symbol": "entg",
+  "name": "Entegris, Inc.",
+  "ipoYear": 2000,
+  "sector": "Consumer Non-Durables",
+  "industry": "Plastic Products",
+  "exchange": "nasdaq",
+  "category": "PLASTICS PRODUCTS, NEC",
+  "address": {
+    "street1": "129 CONCORD ROAD",
+    "city": "BILLERICA",
+    "state": "MA",
+    "zip": "01821"
+  },
+  "profit": {
+    "2009": -57721000,
+    "2010": 84356000,
+    "2011": 123846000,
+    "2012": 68825000,
+    "2013": 74526000
+  },
+  "cash": {
+    "2009": 68700000,
+    "2010": 133954000,
+    "2011": 273593000,
+    "2012": 330419000,
+    "2013": 384426000
+  },
+  "earningsPerShare": {
+    "2009": -0.49,
+    "2010": 0.64,
+    "2011": 0.92,
+    "2012": 0.5,
+    "2013": 0.54
+  },
+  "htmlUrl": "http://www.sec.gov/Archives/edgar/data/1101302/000110130214000002/0001101302-14-000002-index.htm",
+  "xmlUrl": "http://www.sec.gov/Archives/edgar/data/1101302/000110130214000002/entg-20131231.xml"
+}

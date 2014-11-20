@@ -1,0 +1,38 @@
+{
+  "symbol": "emkr",
+  "name": "EMCORE Corporation",
+  "ipoYear": 1997,
+  "sector": "Technology",
+  "industry": "Semiconductors",
+  "exchange": "nasdaq",
+  "category": "SEMICONDUCTORS &amp;amp; RELATED DEVICES",
+  "address": {
+    "street1": "10420 RESEARCH ROAD, SE",
+    "city": "ALBUQUERQUE",
+    "state": "NM",
+    "zip": "87123"
+  },
+  "profit": {
+    "2009": -138801000,
+    "2010": -23694000,
+    "2011": -34219000,
+    "2012": -39171000,
+    "2013": 4988000
+  },
+  "cash": {
+    "2009": 14028000,
+    "2010": 19944000,
+    "2011": 15598000,
+    "2012": 9047000,
+    "2013": 16104000
+  },
+  "earningsPerShare": {
+    "2009": -1.75,
+    "2010": -1.14,
+    "2011": -1.54,
+    "2012": -1.66,
+    "2013": 0.19
+  },
+  "htmlUrl": "http://www.sec.gov/Archives/edgar/data/808326/000080832613000047/0000808326-13-000047-index.htm",
+  "xmlUrl": "http://www.sec.gov/Archives/edgar/data/808326/000080832613000047/emkr-20130930.xml"
+}

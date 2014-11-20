@@ -1,0 +1,38 @@
+{
+  "symbol": "endp",
+  "name": "Endo International plc",
+  "ipoYear": null,
+  "sector": "Health Care",
+  "industry": "Major Pharmaceuticals",
+  "exchange": "nasdaq",
+  "category": "PHARMACEUTICAL PREPARATIONS",
+  "address": {
+    "street1": "1400 ATWATER DRIVE",
+    "city": "MALVERN",
+    "state": "PA",
+    "zip": "19355"
+  },
+  "profit": {
+    "2009": 266336000,
+    "2010": 259006000,
+    "2011": 187613000,
+    "2012": -740337000,
+    "2013": -685339000
+  },
+  "cash": {
+    "2009": 708462000,
+    "2010": 449726000,
+    "2011": 526644000,
+    "2012": 529689000,
+    "2013": 526597000
+  },
+  "earningsPerShare": {
+    "2009": 2.27,
+    "2010": 2.23,
+    "2011": 1.61,
+    "2012": -6.4,
+    "2013": -6.05
+  },
+  "htmlUrl": "http://www.sec.gov/Archives/edgar/data/1100962/000144530514000793/0001445305-14-000793-index.htm",
+  "xmlUrl": "http://www.sec.gov/Archives/edgar/data/1100962/000144530514000793/endp-20131231.xml"
+}

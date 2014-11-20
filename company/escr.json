@@ -1,0 +1,33 @@
+{
+  "symbol": "escr",
+  "name": "Escalera Resources Co.",
+  "ipoYear": null,
+  "sector": "Energy",
+  "industry": "Oil & Gas Production",
+  "exchange": "nasdaq",
+  "category": "CRUDE PETROLEUM &amp;amp; NATURAL GAS",
+  "address": {
+    "street1": "1675 BROADWAY",
+    "city": "DENVER",
+    "state": "CO",
+    "zip": "80202"
+  },
+  "profit": {
+    "2011": 11687000,
+    "2012": -10327000,
+    "2013": -13073000
+  },
+  "cash": {
+    "2010": 2605000,
+    "2011": 8678000,
+    "2012": 4070000,
+    "2013": 2799000
+  },
+  "earningsPerShare": {
+    "2011": 0.71,
+    "2012": -1.25,
+    "2013": -1.48
+  },
+  "htmlUrl": "http://www.sec.gov/Archives/edgar/data/29834/000156459014004078/0001564590-14-004078-index.htm",
+  "xmlUrl": "http://www.sec.gov/Archives/edgar/data/29834/000156459014004078/escr-20131231.xml"
+}

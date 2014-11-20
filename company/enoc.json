@@ -1,0 +1,38 @@
+{
+  "symbol": "enoc",
+  "name": "EnerNOC, Inc.",
+  "ipoYear": 2007,
+  "sector": "Technology",
+  "industry": "Computer Software: Programming, Data Processing",
+  "exchange": "nasdaq",
+  "category": "SERVICES-COMPUTER PROGRAMMING, DATA PROCESSING, ETC.",
+  "address": {
+    "street1": "ONE MARINA PARK DRIVE",
+    "city": "BOSTON",
+    "state": "MA",
+    "zip": "02210"
+  },
+  "profit": {
+    "2009": -6829000,
+    "2010": 9577000,
+    "2011": -13383000,
+    "2012": -22293000,
+    "2013": 22088000
+  },
+  "cash": {
+    "2009": 119739000,
+    "2010": 153416000,
+    "2011": 87297000,
+    "2012": 115041000,
+    "2013": 149189000
+  },
+  "earningsPerShare": {
+    "2009": -0.32,
+    "2010": 0.39,
+    "2011": -0.52,
+    "2012": -0.84,
+    "2013": 0.8
+  },
+  "htmlUrl": "http://www.sec.gov/Archives/edgar/data/1244937/000119312514088616/0001193125-14-088616-index.htm",
+  "xmlUrl": "http://www.sec.gov/Archives/edgar/data/1244937/000119312514088616/enoc-20131231.xml"
+}

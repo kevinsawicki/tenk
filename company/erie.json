@@ -1,0 +1,38 @@
+{
+  "symbol": "erie",
+  "name": "Erie Indemnity Company",
+  "ipoYear": null,
+  "sector": "Finance",
+  "industry": "Specialty Insurers",
+  "exchange": "nasdaq",
+  "category": "INSURANCE AGENTS BROKERS &amp;amp; SERVICES",
+  "address": {
+    "street1": "100 ERIE INSURANCE PL",
+    "city": "ERIE",
+    "state": "PA",
+    "zip": "16530"
+  },
+  "profit": {
+    "2009": 108000000,
+    "2010": 162000000,
+    "2011": 169000000,
+    "2012": 160000000,
+    "2013": 163000000
+  },
+  "cash": {
+    "2009": 234000000,
+    "2010": 430000000,
+    "2011": 185000000,
+    "2012": 400000000,
+    "2013": 452000000
+  },
+  "earningsPerShare": {
+    "2009": 312.45,
+    "2010": 3.18,
+    "2011": 522,
+    "2012": 505,
+    "2013": 3.46
+  },
+  "htmlUrl": "http://www.sec.gov/Archives/edgar/data/922621/000092262114000008/0000922621-14-000008-index.htm",
+  "xmlUrl": "http://www.sec.gov/Archives/edgar/data/922621/000092262114000008/erie-20131231.xml"
+}

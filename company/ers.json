@@ -1,0 +1,30 @@
+{
+  "symbol": "ers",
+  "name": "Empire Resources, Inc.",
+  "ipoYear": null,
+  "sector": "Basic Industries",
+  "industry": "Metal Fabrications",
+  "exchange": "nasdaq",
+  "category": "WHOLESALE-METALS SERVICE CENTERS &amp;amp; OFFICES",
+  "address": {
+    "street1": "ONE PARKER PLAZA",
+    "city": "FORT LEE",
+    "state": "NJ",
+    "zip": "07024"
+  },
+  "profit": {
+    "2012": 3964000,
+    "2013": 2396000
+  },
+  "cash": {
+    "2011": 4274000,
+    "2012": 3136000,
+    "2013": 2477000
+  },
+  "earningsPerShare": {
+    "2012": 0.45,
+    "2013": 0.28
+  },
+  "htmlUrl": "http://www.sec.gov/Archives/edgar/data/1019272/000114420414019501/0001144204-14-019501-index.htm",
+  "xmlUrl": "http://www.sec.gov/Archives/edgar/data/1019272/000114420414019501/ers-20131231.xml"
+}

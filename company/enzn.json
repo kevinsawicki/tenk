@@ -1,0 +1,36 @@
+{
+  "symbol": "enzn",
+  "name": "Enzon Pharmaceuticals, Inc.",
+  "ipoYear": 1984,
+  "sector": "Health Care",
+  "industry": "Biotechnology: Biological Products (No Diagnostic Substances)",
+  "exchange": "nasdaq",
+  "category": "BIOLOGICAL PRODUCTS (NO DIAGNOSTIC SUBSTANCES)",
+  "address": {
+    "street1": "20 KINGSBRIDGE ROAD",
+    "city": "PISCATAWAY",
+    "state": "NJ",
+    "zip": "08854"
+  },
+  "profit": {
+    "2009": 683000,
+    "2010": 177243000,
+    "2011": -20763000,
+    "2012": -2783000,
+    "2013": 18150000
+  },
+  "cash": {
+    "2009": 50440000,
+    "2010": 397530000,
+    "2011": 104324000,
+    "2012": 77348000,
+    "2013": 6520000
+  },
+  "earningsPerShare": {
+    "2011": -0.4,
+    "2012": -0.06,
+    "2013": 0.41
+  },
+  "htmlUrl": "http://www.sec.gov/Archives/edgar/data/727510/000114420414015753/0001144204-14-015753-index.htm",
+  "xmlUrl": "http://www.sec.gov/Archives/edgar/data/727510/000114420414015753/enzn-20131231.xml"
+}

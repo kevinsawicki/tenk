@@ -1,0 +1,36 @@
+{
+  "symbol": "eac",
+  "name": "Erickson Incorporated",
+  "ipoYear": 2012,
+  "sector": "Capital Goods",
+  "industry": "Aerospace",
+  "exchange": "nasdaq",
+  "category": "AIRCRAFT &amp;amp; PARTS",
+  "address": {
+    "street1": "C/O ERICKSON INCORPORATED",
+    "city": "PORTLAND",
+    "state": "OR",
+    "zip": "97239"
+  },
+  "profit": {
+    "2010": -8251000,
+    "2011": 15870000,
+    "2012": 15230000,
+    "2013": 9657000
+  },
+  "cash": {
+    "2009": 3536000,
+    "2010": 1928000,
+    "2011": 268000,
+    "2012": 1468000,
+    "2013": 1881000
+  },
+  "earningsPerShare": {
+    "2010": -16176.47,
+    "2011": 6718.57,
+    "2012": 1.78,
+    "2013": 0.86
+  },
+  "htmlUrl": "http://www.sec.gov/Archives/edgar/data/1490165/000119312514098355/0001193125-14-098355-index.htm",
+  "xmlUrl": "http://www.sec.gov/Archives/edgar/data/1490165/000119312514098355/eac-20131231.xml"
+}

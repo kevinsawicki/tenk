@@ -1,0 +1,32 @@
+{
+  "symbol": "etrm",
+  "name": "EnteroMedics Inc.",
+  "ipoYear": 2007,
+  "sector": "Health Care",
+  "industry": "Biotechnology: Electromedical & Electrotherapeutic Apparatus",
+  "exchange": "nasdaq",
+  "category": "ELECTROMEDICAL &amp;amp; ELECTROTHERAPEUTIC APPARATUS",
+  "address": {
+    "street1": "2800 Patton Rd",
+    "city": "St Paul",
+    "state": "MN",
+    "zip": "55113"
+  },
+  "profit": {
+    "2009": -31929200,
+    "2010": -17347387,
+    "2011": -25997322,
+    "2012": -23460103,
+    "2013": -25780659
+  },
+  "cash": {
+    "2009": 14617594,
+    "2010": 30840560,
+    "2011": 28487688,
+    "2012": 22308781,
+    "2013": 23297479
+  },
+  "earningsPerShare": {},
+  "htmlUrl": "http://www.sec.gov/Archives/edgar/data/1371217/000119312514118800/0001193125-14-118800-index.htm",
+  "xmlUrl": "http://www.sec.gov/Archives/edgar/data/1371217/000119312514118800/etrm-20131231.xml"
+}
