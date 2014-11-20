@@ -20,6 +20,8 @@ companies = []
 buildPage = (symbolPath) ->
   symbol = path.basename(symbolPath, path.extname(symbolPath))
   company = JSON.parse(fs.readFileSync(symbolPath, 'utf8'))
+  company.humanizedCash = Humanize.compactInteger(company.cash?[2013] ? 0, 1)
+  company.humanizedName = company.name.replace(/,?\s+(inc\.?|company|corp(oration)?)$/i, '')
   companies.push(company)
   fs.writeFileSync(path.resolve(__dirname, '..', 'company', "#{symbol}.html"), companyTemplate(company))
 
@@ -28,7 +30,8 @@ fs.listSync(path.resolve(__dirname, '..', 'company'), ['.json']).forEach(buildPa
 indexTemplate = Handlebars.compile(fs.readFileSync(path.resolve(__dirname, '..', 'index.hbs'), 'utf8'))
 
 states = {}
-companies.forEach ({symbol, address, profit, cash, earningsPerShare}) ->
+sectors = {}
+companies.forEach ({symbol, address, profit, cash, earningsPerShare, sector}) ->
   profit = profit?[2013] ? 0
   cash = cash?[2013] ? 0
   earningsPerShare = earningsPerShare?[2013] ? 0
@@ -44,11 +47,40 @@ companies.forEach ({symbol, address, profit, cash, earningsPerShare}) ->
   states[address.state].earningsPerShare += earningsPerShare
   states[address.state].companies += 1
 
+  if sector
+    sectors[sector] ?=
+      name: sector
+      cash: 0
+    sectors[sector].cash += cash
+
 states = (value for key, value of states)
 states.forEach (state) ->
   state.humanizedCash = Humanize.compactInteger(state.cash, 1)
   state.humanizedProfit = Humanize.compactInteger(state.profit, 1)
   state.humanizedEarningsPerShare = Humanize.compactInteger(state.earningsPerShare, 1)
+
+sectors = (value for key,value of sectors)
+sectors.forEach (sector) ->
+  sector.humanizedCash = Humanize.compactInteger(sector.cash, 1)
+
+states.sort (state1, state2) -> state2.cash - state1.cash
+topCashStates = states[0...10]
+
+companies.sort (company1, company2) ->
+  (company2.cash?[2013] ? 0) - (company1.cash?[2013] ? 0)
+topCashCompanies = companies[0...10]
+
+sectors.sort (sector1, sector2) -> sector2.cash - sector1.cash
+topCashSectors = sectors[0...10]
+
 states.sort (state1, state2) -> state2.profit - state1.profit
 
-fs.writeFileSync(path.resolve(__dirname, '..', "index.html"), indexTemplate({states, companies: companies.length}))
+indexTemplateData = {
+  states
+  companies: companies.length
+  topCashStates
+  topCashCompanies
+  topCashSectors
+}
+
+fs.writeFileSync(path.resolve(__dirname, '..', "index.html"), indexTemplate(indexTemplateData))

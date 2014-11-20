@@ -2,7 +2,7 @@
 <html>
   <head>
     <link rel="stylesheet" href="http://netdna.bootstrapcdn.com/bootstrap/3.1.1/css/bootstrap.min.css">
-    <link href='http://fonts.googleapis.com/css?family=Cutive' rel='stylesheet' type='text/css'>
+    <link href='http://fonts.googleapis.com/css?family=Cutive|Oxygen' rel='stylesheet' type='text/css'>
     <link rel="stylesheet" href="company/styles.css">
     <script src="https://code.jquery.com/jquery-2.1.1.min.js"></script>
     <script src="./index.js"></script>
@@ -30,7 +30,7 @@
           <div class="col-md-8 col-lg-8">
             <h2>Profits, cash, and earnings per share</h2>
             <p>
-              {{companies}} companies that trade on the Nasdaq and New York Stock Exchange
+              {{companies}} companies that trade on the NASDAQ and New York Stock Exchange
               filed a 10-K report with the U.S Securities &amp; Exchange Commision last year.
             </p>
             <p>
@@ -52,13 +52,44 @@
         </div>
       </div>
 
-      <div class="row">
+      <div claass="row">
         <div class="col-md-10 col-lg-10">
           <h1>Cash</h1>
         </div>
+      </div>
 
+      <div claass="row">
         <div class="col-md-10 col-lg-10 col-md-offset-1 col-lg-offset-1">
           {{cash_map}}
+        </div>
+      </div>
+
+      <div claass="row">
+        <div class="col-md-4 col-lg-4">
+          <h3 class="overview-heading">Top States</h3>
+          <ol>
+            {{#each topCashStates}}
+            <li>{{state}} ${{humanizedCash}}</li>
+            {{/each}}
+          </ol>
+        </div>
+
+        <div class="col-md-4 col-lg-4">
+          <h3 class="overview-heading">Top Companies</h3>
+          <ol>
+            {{#each topCashCompanies}}
+            <li><a href="company/{{symbol}}.html">{{humanizedName}} ${{humanizedCash}}</a></li>
+            {{/each}}
+          </ol>
+        </div>
+
+        <div class="col-md-4 col-lg-4">
+          <h3 class="overview-heading">Top Sectors</h3>
+          <ol>
+            {{#each topCashSectors}}
+            <li>{{name}} ${{humanizedCash}}</li>
+            {{/each}}
+          </ol>
         </div>
       </div>
 
@@ -90,9 +121,9 @@
                 <tr>
                   <td>{{companies}}</td>
                   <td>{{state}}</td>
-                  <td>{{humanizedProfit}}</td>
-                  <td>{{humanizedCash}}</td>
-                  <td>{{humanizedEarningsPerShare}}</td>
+                  <td>${{humanizedProfit}}</td>
+                  <td>${{humanizedCash}}</td>
+                  <td>${{humanizedEarningsPerShare}}</td>
                 </tr>
               {{/each}}
             </tbody>
