@@ -49,6 +49,7 @@ downloadCompanies (error, companies) ->
   companies.forEach (company) ->
     delete company.sector   if company.sector is 'n/a'
     delete company.industry if company.industry is 'n/a'
+    delete company.ipoYear  unless isFinite(company.ipoYear)
 
   companiesJson = JSON.stringify(companies, null, 2)
   fs.writeFileSync('companies.json', companiesJson)
