@@ -1,0 +1,19 @@
+{
+  "symbol": "cmct",
+  "name": "CIM Commercial Trust Corporation",
+  "ipoYear": null,
+  "sector": "Consumer Services",
+  "industry": "Real Estate Investment Trusts",
+  "exchange": "nasdaq",
+  "category": "REAL ESTATE INVESTMENT TRUSTS",
+  "address": {
+    "street1": "17950 PRESTON RD",
+    "city": "DALLAS",
+    "state": "TX",
+    "zip": "75252"
+  },
+  "profit": {},
+  "cash": {},
+  "earningsPerShare": {},
+  "htmlUrl": "http://www.sec.gov/Archives/edgar/data/908311/000119312514091628/0001193125-14-091628-index.htm"
+}

@@ -1,0 +1,37 @@
+{
+  "symbol": "dxpe",
+  "name": "DXP Enterprises, Inc.",
+  "ipoYear": null,
+  "sector": "Capital Goods",
+  "industry": "Industrial Machinery/Components",
+  "exchange": "nasdaq",
+  "category": "WHOLESALE-INDUSTRIAL MACHINERY &amp;amp; EQUIPMENT",
+  "address": {
+    "street1": "7272 PINEMONT DRIVE",
+    "city": "HOUSTON",
+    "state": "TX",
+    "zip": "77040"
+  },
+  "profit": {
+    "2009": -42412000,
+    "2010": 19381000,
+    "2011": 31437000,
+    "2012": 50985000,
+    "2013": 60237000
+  },
+  "cash": {
+    "2010": 770000,
+    "2011": 1507000,
+    "2012": 10455000,
+    "2013": 5469000
+  },
+  "earningsPerShare": {
+    "2009": -3.24,
+    "2010": 1.4,
+    "2011": 2.19,
+    "2012": 3.54,
+    "2013": 4.17
+  },
+  "htmlUrl": "http://www.sec.gov/Archives/edgar/data/1020710/000102071014000008/0001020710-14-000008-index.htm",
+  "xmlUrl": "http://www.sec.gov/Archives/edgar/data/1020710/000102071014000008/dxpe-20131231.xml"
+}

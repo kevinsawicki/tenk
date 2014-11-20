@@ -1,0 +1,36 @@
+{
+  "symbol": "cnsl",
+  "name": "Consolidated Communications Holdings, Inc.",
+  "ipoYear": 2005,
+  "sector": "Public Utilities",
+  "industry": "Telecommunications Equipment",
+  "exchange": "nasdaq",
+  "category": "TELEPHONE COMMUNICATIONS (NO RADIO TELEPHONE)",
+  "address": {
+    "street1": "121 SOUTH 17TH STREET",
+    "city": "MATTOON",
+    "state": "IL",
+    "zip": "61938"
+  },
+  "profit": {
+    "2009": 24905000,
+    "2010": 32595000,
+    "2011": 26410000,
+    "2012": 5640000,
+    "2013": 30811000
+  },
+  "cash": {
+    "2009": 42758000,
+    "2010": 67654000,
+    "2011": 105704000,
+    "2012": 17854000,
+    "2013": 5551000
+  },
+  "earningsPerShare": {
+    "2009": 0.84,
+    "2010": 1.09,
+    "2011": 0.88
+  },
+  "htmlUrl": "http://www.sec.gov/Archives/edgar/data/1304421/000110465914016384/0001104659-14-016384-index.htm",
+  "xmlUrl": "http://www.sec.gov/Archives/edgar/data/1304421/000110465914016384/cnsl-20131231.xml"
+}

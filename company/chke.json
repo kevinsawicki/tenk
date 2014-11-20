@@ -1,0 +1,39 @@
+{
+  "symbol": "chke",
+  "name": "Cherokee Inc.",
+  "ipoYear": null,
+  "sector": "Consumer Non-Durables",
+  "industry": "Apparel",
+  "exchange": "nasdaq",
+  "category": "WOMEN&amp;#39;S, MISSES&amp;#39;, AND JUNIORS OUTERWEAR",
+  "address": {
+    "street1": "5990 SEPULVEDA BLVD",
+    "city": "SHERMAN OAKS",
+    "state": "CA",
+    "zip": "91411"
+  },
+  "profit": {
+    "2010": 12571000,
+    "2011": 7719000,
+    "2012": 7510000,
+    "2013": 6833000,
+    "2014": 6074000
+  },
+  "cash": {
+    "2009": 13652000,
+    "2010": 9419000,
+    "2011": 9587000,
+    "2012": 7421000,
+    "2013": 2424000,
+    "2014": 3634000
+  },
+  "earningsPerShare": {
+    "2010": 1.43,
+    "2011": 0.87,
+    "2012": 0.89,
+    "2013": 0.81,
+    "2014": 0.72
+  },
+  "htmlUrl": "http://www.sec.gov/Archives/edgar/data/844161/000104746914003903/0001047469-14-003903-index.htm",
+  "xmlUrl": "http://www.sec.gov/Archives/edgar/data/844161/000104746914003903/chke-20140131.xml"
+}

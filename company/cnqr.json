@@ -1,0 +1,41 @@
+{
+  "symbol": "cnqr",
+  "name": "Concur Technologies, Inc.",
+  "ipoYear": 1998,
+  "sector": "Technology",
+  "industry": "Computer Software: Prepackaged Software",
+  "exchange": "nasdaq",
+  "category": "SERVICES-PREPACKAGED SOFTWARE",
+  "address": {
+    "street1": "601 108TH AVE NE, SUITE 1000",
+    "city": "BELLEVUE",
+    "state": "WA",
+    "zip": "98004"
+  },
+  "profit": {
+    "2009": 25197000,
+    "2010": 20144000,
+    "2011": -10743000,
+    "2012": -7006000,
+    "2013": -24394000,
+    "2014": -118295000
+  },
+  "cash": {
+    "2009": 119185000,
+    "2010": 329098000,
+    "2011": 370157000,
+    "2012": 302274000,
+    "2013": 301696000,
+    "2014": 502992000
+  },
+  "earningsPerShare": {
+    "2009": 0.52,
+    "2010": 0.4,
+    "2011": -0.2,
+    "2012": -0.13,
+    "2013": -0.44,
+    "2014": -2.09
+  },
+  "htmlUrl": "http://www.sec.gov/Archives/edgar/data/1066026/000106602614000019/0001066026-14-000019-index.htm",
+  "xmlUrl": "http://www.sec.gov/Archives/edgar/data/1066026/000106602614000019/cnqr-20140930.xml"
+}

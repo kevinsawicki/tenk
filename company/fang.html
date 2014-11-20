@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <link rel="stylesheet" href="http://netdna.bootstrapcdn.com/bootstrap/3.1.1/css/bootstrap.min.css">
+    <link href='http://fonts.googleapis.com/css?family=Cutive|Oxygen' rel='stylesheet' type='text/css'>
+    <link rel="stylesheet" href="./styles.css">
+    <script src="https://code.jquery.com/jquery-2.1.1.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.1/js/bootstrap.min.js"></script>
+
+    <title>Diamondback Energy, Inc.</title>
+  </head>
+  <body>
+    <nav class="navbar navbar-static-top" role="navigation">
+      <div class="container">
+        <div class="navbar-header">
+          <a class="navbar-brand" href="http://tenk.us">
+            <div class="navbar-icon"></div>
+            tenk.us
+          </a>
+        </div>
+        <ul class="nav navbar-nav navbar-right">
+          <li><a href="https://github.com/kevinsawicki/tenk/issues/new">Report Issue</a></li>
+        </ul>
+      </div>
+    </nav>
+
+    <div class="container">
+      <div class="btn-group pull-right">
+        <button type="button" class="btn btn-default dropdown-toggle" data-toggle="dropdown" aria-expanded="false">
+          Links <span class="caret"></span>
+        </button>
+        <ul class="dropdown-menu" role="menu">
+          <li><a href="http://www.sec.gov/Archives/edgar/data/1539838/000153983814000007/0001539838-14-000007-index.htm">Official Report</a></li>
+          <li><a href="http://www.sec.gov/Archives/edgar/data/1539838/000153983814000007/fang-20131231.xml">XML Version</a></li>
+          <li><a href="./fang.json">JSON Data</a></li>
+        </ul>
+      </div>
+
+      <h1 class="company-heading">Diamondback Energy, Inc.</h1>
+      <p class="company-sector">Energy</p>
+      <p class="company-industry">Oil &amp; Gas Production</p>
+      <p class="company-exchange">Trades as fang on the nasdaq</p>
+
+      <div class="row">
+
+        <div class="col-md-4 col-lg-4">
+          <h2 class="graph-heading">Profits</h2>
+          <SVG class="money-graph" viewBox="0 0 500 350" xmlns="http://www.w3.org/2000/svg"><G><G class="x axis" transform="translate(0,300)"><G class="tick" style="opacity: 1;" transform="translate(61,0)"><LINE y2="6" x2="0"/><TEXT dy=".71em" style="text-anchor: middle;" y="9" x="0">2010</TEXT></G><G class="tick" style="opacity: 1;" transform="translate(170,0)"><LINE y2="6" x2="0"/><TEXT dy=".71em" style="text-anchor: middle;" y="9" x="0">2011</TEXT></G><G class="tick" style="opacity: 1;" transform="translate(279,0)"><LINE y2="6" x2="0"/><TEXT dy=".71em" style="text-anchor: middle;" y="9" x="0">2012</TEXT></G><G class="tick" style="opacity: 1;" transform="translate(388,0)"><LINE y2="6" x2="0"/><TEXT dy=".71em" style="text-anchor: middle;" y="9" x="0">2013</TEXT></G><PATH class="domain" d="M0,6V0H450V6"/></G><G class="y axis" transform="translate(450,0)"><G class="tick" style="opacity: 1;" transform="translate(0,300)"><LINE x2="6" y2="0"/><TEXT dy=".32em" style="text-anchor: start;" x="9" y="0">$0</TEXT></G><G class="tick" style="opacity: 1;" transform="translate(0,272.52092989173246)"><LINE x2="6" y2="0"/><TEXT dy=".32em" style="text-anchor: start;" x="9" y="0">$5M</TEXT></G><G class="tick" style="opacity: 1;" transform="translate(0,245.04185978346493)"><LINE x2="6" y2="0"/><TEXT dy=".32em" style="text-anchor: start;" x="9" y="0">$10M</TEXT></G><G class="tick" style="opacity: 1;" transform="translate(0,217.5627896751974)"><LINE x2="6" y2="0"/><TEXT dy=".32em" style="text-anchor: start;" x="9" y="0">$15M</TEXT></G><G class="tick" style="opacity: 1;" transform="translate(0,190.08371956692983)"><LINE x2="6" y2="0"/><TEXT dy=".32em" style="text-anchor: start;" x="9" y="0">$20M</TEXT></G><G class="tick" style="opacity: 1;" transform="translate(0,162.60464945866232)"><LINE x2="6" y2="0"/><TEXT dy=".32em" style="text-anchor: start;" x="9" y="0">$25M</TEXT></G><G class="tick" style="opacity: 1;" transform="translate(0,135.1255793503948)"><LINE x2="6" y2="0"/><TEXT dy=".32em" style="text-anchor: start;" x="9" y="0">$30M</TEXT></G><G class="tick" style="opacity: 1;" transform="translate(0,107.64650924212724)"><LINE x2="6" y2="0"/><TEXT dy=".32em" style="text-anchor: start;" x="9" y="0">$35M</TEXT></G><G class="tick" style="opacity: 1;" transform="translate(0,80.16743913385972)"><LINE x2="6" y2="0"/><TEXT dy=".32em" style="text-anchor: start;" x="9" y="0">$40M</TEXT></G><G class="tick" style="opacity: 1;" transform="translate(0,52.688369025592166)"><LINE x2="6" y2="0"/><TEXT dy=".32em" style="text-anchor: start;" x="9" y="0">$45M</TEXT></G><G class="tick" style="opacity: 1;" transform="translate(0,25.20929891732464)"><LINE x2="6" y2="0"/><TEXT dy=".32em" style="text-anchor: start;" x="9" y="0">$50M</TEXT></G><PATH class="domain" d="M6,0H0V300H6"/></G><RECT class="bar profit" x="12" width="98" y="254.76395478777" height="45.23604521223001"/><RECT class="bar profit" x="121" width="98" y="302.12138421235824" height="-2.1213842123582367"/><RECT class="bar profit" x="230" width="98" y="500.7126238848078" height="-200.71262388480778"/><RECT class="bar profit" x="339" width="98" y="0" height="300"/></G></SVG>
+        </div>
+
+        <div class="col-md-4 col-lg-4">
+          <h2 class="graph-heading">Cash</h2>
+          <SVG class="money-graph" viewBox="0 0 500 350" xmlns="http://www.w3.org/2000/svg"><G><G class="x axis" transform="translate(0,300)"><G class="tick" style="opacity: 1;" transform="translate(48.5,0)"><LINE y2="6" x2="0"/><TEXT dy=".71em" style="text-anchor: middle;" y="9" x="0">2009</TEXT></G><G class="tick" style="opacity: 1;" transform="translate(136.5,0)"><LINE y2="6" x2="0"/><TEXT dy=".71em" style="text-anchor: middle;" y="9" x="0">2010</TEXT></G><G class="tick" style="opacity: 1;" transform="translate(224.5,0)"><LINE y2="6" x2="0"/><TEXT dy=".71em" style="text-anchor: middle;" y="9" x="0">2011</TEXT></G><G class="tick" style="opacity: 1;" transform="translate(312.5,0)"><LINE y2="6" x2="0"/><TEXT dy=".71em" style="text-anchor: middle;" y="9" x="0">2012</TEXT></G><G class="tick" style="opacity: 1;" transform="translate(400.5,0)"><LINE y2="6" x2="0"/><TEXT dy=".71em" style="text-anchor: middle;" y="9" x="0">2013</TEXT></G><PATH class="domain" d="M0,6V0H450V6"/></G><G class="y axis" transform="translate(450,0)"><G class="tick" style="opacity: 1;" transform="translate(0,300)"><LINE x2="6" y2="0"/><TEXT dy=".32em" style="text-anchor: start;" x="9" y="0">$0</TEXT></G><G class="tick" style="opacity: 1;" transform="translate(0,277.23651263373546)"><LINE x2="6" y2="0"/><TEXT dy=".32em" style="text-anchor: start;" x="9" y="0">$2M</TEXT></G><G class="tick" style="opacity: 1;" transform="translate(0,254.47302526747097)"><LINE x2="6" y2="0"/><TEXT dy=".32em" style="text-anchor: start;" x="9" y="0">$4M</TEXT></G><G class="tick" style="opacity: 1;" transform="translate(0,231.70953790120646)"><LINE x2="6" y2="0"/><TEXT dy=".32em" style="text-anchor: start;" x="9" y="0">$6M</TEXT></G><G class="tick" style="opacity: 1;" transform="translate(0,208.94605053494197)"><LINE x2="6" y2="0"/><TEXT dy=".32em" style="text-anchor: start;" x="9" y="0">$8M</TEXT></G><G class="tick" style="opacity: 1;" transform="translate(0,186.18256316867746)"><LINE x2="6" y2="0"/><TEXT dy=".32em" style="text-anchor: start;" x="9" y="0">$10M</TEXT></G><G class="tick" style="opacity: 1;" transform="translate(0,163.41907580241292)"><LINE x2="6" y2="0"/><TEXT dy=".32em" style="text-anchor: start;" x="9" y="0">$12M</TEXT></G><G class="tick" style="opacity: 1;" transform="translate(0,140.6555884361484)"><LINE x2="6" y2="0"/><TEXT dy=".32em" style="text-anchor: start;" x="9" y="0">$14M</TEXT></G><G class="tick" style="opacity: 1;" transform="translate(0,117.89210106988392)"><LINE x2="6" y2="0"/><TEXT dy=".32em" style="text-anchor: start;" x="9" y="0">$16M</TEXT></G><G class="tick" style="opacity: 1;" transform="translate(0,95.1286137036194)"><LINE x2="6" y2="0"/><TEXT dy=".32em" style="text-anchor: start;" x="9" y="0">$18M</TEXT></G><G class="tick" style="opacity: 1;" transform="translate(0,72.36512633735487)"><LINE x2="6" y2="0"/><TEXT dy=".32em" style="text-anchor: start;" x="9" y="0">$20M</TEXT></G><G class="tick" style="opacity: 1;" transform="translate(0,49.60163897109038)"><LINE x2="6" y2="0"/><TEXT dy=".32em" style="text-anchor: start;" x="9" y="0">$22M</TEXT></G><G class="tick" style="opacity: 1;" transform="translate(0,26.838151604825853)"><LINE x2="6" y2="0"/><TEXT dy=".32em" style="text-anchor: start;" x="9" y="0">$24M</TEXT></G><G class="tick" style="opacity: 1;" transform="translate(0,4.074664238561332)"><LINE x2="6" y2="0"/><TEXT dy=".32em" style="text-anchor: start;" x="9" y="0">$26M</TEXT></G><PATH class="domain" d="M6,0H0V300H6"/></G><RECT class="bar cash" x="9" width="79" y="272.3423628499886" height="27.657637150011396"/><RECT class="bar cash" x="97" width="79" y="253.11859776917825" height="46.88140223082175"/><RECT class="bar cash" x="185" width="79" y="220.79444570908262" height="79.20555429091738"/><RECT class="bar cash" x="273" width="79" y="0" height="300"/><RECT class="bar cash" x="361" width="79" y="122.95697700887776" height="177.04302299112226"/></G></SVG>
+        </div>
+
+        <div class="col-md-4 col-lg-4">
+          <h2 class="graph-heading">Earnings Per Share</h2>
+          <SVG class="money-graph" viewBox="0 0 500 350" xmlns="http://www.w3.org/2000/svg"><G><G class="x axis" transform="translate(0,300)"><G class="tick" style="opacity: 1;" transform="translate(225,0)"><LINE y2="6" x2="0"/><TEXT dy=".71em" style="text-anchor: middle;" y="9" x="0">2013</TEXT></G><PATH class="domain" d="M0,6V0H450V6"/></G><G class="y axis" transform="translate(450,0)"><G class="tick" style="opacity: 1;" transform="translate(0,300)"><LINE x2="6" y2="0"/><TEXT dy=".32em" style="text-anchor: start;" x="9" y="0">$0</TEXT></G><G class="tick" style="opacity: 1;" transform="translate(0,276.92307692307696)"><LINE x2="6" y2="0"/><TEXT dy=".32em" style="text-anchor: start;" x="9" y="0">$0.1</TEXT></G><G class="tick" style="opacity: 1;" transform="translate(0,253.84615384615384)"><LINE x2="6" y2="0"/><TEXT dy=".32em" style="text-anchor: start;" x="9" y="0">$0.2</TEXT></G><G class="tick" style="opacity: 1;" transform="translate(0,230.76923076923077)"><LINE x2="6" y2="0"/><TEXT dy=".32em" style="text-anchor: start;" x="9" y="0">$0.3</TEXT></G><G class="tick" style="opacity: 1;" transform="translate(0,207.69230769230768)"><LINE x2="6" y2="0"/><TEXT dy=".32em" style="text-anchor: start;" x="9" y="0">$0.4</TEXT></G><G class="tick" style="opacity: 1;" transform="translate(0,184.6153846153846)"><LINE x2="6" y2="0"/><TEXT dy=".32em" style="text-anchor: start;" x="9" y="0">$0.5</TEXT></G><G class="tick" style="opacity: 1;" transform="translate(0,161.53846153846158)"><LINE x2="6" y2="0"/><TEXT dy=".32em" style="text-anchor: start;" x="9" y="0">$0.6</TEXT></G><G class="tick" style="opacity: 1;" transform="translate(0,138.46153846153848)"><LINE x2="6" y2="0"/><TEXT dy=".32em" style="text-anchor: start;" x="9" y="0">$0.7</TEXT></G><G class="tick" style="opacity: 1;" transform="translate(0,115.38461538461537)"><LINE x2="6" y2="0"/><TEXT dy=".32em" style="text-anchor: start;" x="9" y="0">$0.8</TEXT></G><G class="tick" style="opacity: 1;" transform="translate(0,92.3076923076923)"><LINE x2="6" y2="0"/><TEXT dy=".32em" style="text-anchor: start;" x="9" y="0">$0.9</TEXT></G><G class="tick" style="opacity: 1;" transform="translate(0,69.23076923076925)"><LINE x2="6" y2="0"/><TEXT dy=".32em" style="text-anchor: start;" x="9" y="0">$1</TEXT></G><G class="tick" style="opacity: 1;" transform="translate(0,46.15384615384615)"><LINE x2="6" y2="0"/><TEXT dy=".32em" style="text-anchor: start;" x="9" y="0">$1.1</TEXT></G><G class="tick" style="opacity: 1;" transform="translate(0,23.076923076923094)"><LINE x2="6" y2="0"/><TEXT dy=".32em" style="text-anchor: start;" x="9" y="0">$1.2</TEXT></G><G class="tick" style="opacity: 1;" transform="translate(0,0)"><LINE x2="6" y2="0"/><TEXT dy=".32em" style="text-anchor: start;" x="9" y="0">$1.3</TEXT></G><PATH class="domain" d="M6,0H0V300H6"/></G><RECT class="bar eps" x="41" width="368" y="0" height="300"/></G></SVG>
+        </div>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-md-4 col-lg-4">
+          <address>
+            500 WEST TEXAS<br>
+            MIDLAND, TX 79701
+          </address>
+        </div>
+
+        <div class="col-md-4 col-lg-4"><img class="google-map" src="https://maps.googleapis.com/maps/api/staticmap?key=AIzaSyCCqr8B1aob1jObVpkEHyg0aLFTd3t337k&markers=500%20WEST%20TEXAS%20MIDLAND%20TX%2079701&scale=2&size=350x300&zoom=8"></div>
+
+      </div>
+
+    </div>
+  </body>
+</html>

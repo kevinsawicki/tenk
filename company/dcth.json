@@ -1,0 +1,36 @@
+{
+  "symbol": "dcth",
+  "name": "Delcath Systems, Inc.",
+  "ipoYear": 2000,
+  "sector": "Health Care",
+  "industry": "Medical/Dental Instruments",
+  "exchange": "nasdaq",
+  "category": "SURGICAL &amp;amp; MEDICAL INSTRUMENTS &amp;amp; APPARATUS",
+  "address": {
+    "street1": "1301 AVENUE OF THE AMERICAS",
+    "city": "NEW YORK",
+    "state": "NY",
+    "zip": "10019"
+  },
+  "profit": {
+    "2009": -22057000,
+    "2010": -46684000,
+    "2011": -30885000,
+    "2012": -51868000,
+    "2013": -30324000
+  },
+  "cash": {
+    "2009": 35486000,
+    "2010": 45621000,
+    "2011": 25777000,
+    "2012": 23726000,
+    "2013": 31249000
+  },
+  "earningsPerShare": {
+    "2011": -0.68,
+    "2012": -0.85,
+    "2013": -0.3
+  },
+  "htmlUrl": "http://www.sec.gov/Archives/edgar/data/872912/000114036114012399/0001140361-14-012399-index.htm",
+  "xmlUrl": "http://www.sec.gov/Archives/edgar/data/872912/000114036114012399/dcth-20131231.xml"
+}

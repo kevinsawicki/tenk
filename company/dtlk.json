@@ -1,0 +1,38 @@
+{
+  "symbol": "dtlk",
+  "name": "Datalink Corporation",
+  "ipoYear": 1999,
+  "sector": "Technology",
+  "industry": "EDP Services",
+  "exchange": "nasdaq",
+  "category": "SERVICES-COMPUTER INTEGRATED SYSTEMS DESIGN",
+  "address": {
+    "street1": "8170 UPLAND CIRCLE",
+    "city": "CHANHASSEN",
+    "state": "MN",
+    "zip": "55317"
+  },
+  "profit": {
+    "2009": -555000,
+    "2010": 2302000,
+    "2011": 9845000,
+    "2012": 10535000,
+    "2013": 10045000
+  },
+  "cash": {
+    "2009": 12901000,
+    "2010": 8988000,
+    "2011": 18947000,
+    "2012": 10315000,
+    "2013": 24871000
+  },
+  "earningsPerShare": {
+    "2009": -0.04,
+    "2010": 0.18,
+    "2011": 0.62,
+    "2012": 0.62,
+    "2013": 0.53
+  },
+  "htmlUrl": "http://www.sec.gov/Archives/edgar/data/1056923/000104746914002509/0001047469-14-002509-index.htm",
+  "xmlUrl": "http://www.sec.gov/Archives/edgar/data/1056923/000104746914002509/dtlk-20131231.xml"
+}

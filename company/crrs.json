@@ -1,0 +1,36 @@
+{
+  "symbol": "crrs",
+  "name": "Corporate Resource Services, Inc.",
+  "ipoYear": null,
+  "sector": "Technology",
+  "industry": "Professional Services",
+  "exchange": "nasdaq",
+  "category": "SERVICES-HELP SUPPLY SERVICES",
+  "address": {
+    "street1": "160 BROADWAY, 13TH FLOOR",
+    "city": "NEW YORK",
+    "state": "NY",
+    "zip": "10038"
+  },
+  "profit": {
+    "2010": -1662000,
+    "2011": 114000,
+    "2012": -1737000,
+    "2014": 2776000
+  },
+  "cash": {
+    "2009": 30000,
+    "2010": 254000,
+    "2011": 110000,
+    "2012": 154000,
+    "2013": 15000,
+    "2014": 32000
+  },
+  "earningsPerShare": {
+    "2011": 0,
+    "2012": -0.01,
+    "2014": 0.02
+  },
+  "htmlUrl": "http://www.sec.gov/Archives/edgar/data/943110/000144530514002720/0001445305-14-002720-index.htm",
+  "xmlUrl": "http://www.sec.gov/Archives/edgar/data/943110/000144530514002720/crrs-20140103.xml"
+}

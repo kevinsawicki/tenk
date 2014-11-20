@@ -1,0 +1,36 @@
+{
+  "symbol": "cytk",
+  "name": "Cytokinetics, Incorporated",
+  "ipoYear": 2004,
+  "sector": "Health Care",
+  "industry": "Major Pharmaceuticals",
+  "exchange": "nasdaq",
+  "category": "PHARMACEUTICAL PREPARATIONS",
+  "address": {
+    "street1": "280 EAST GRAND AVENUE",
+    "city": "SOUTH SAN FRANCISCO",
+    "state": "CA",
+    "zip": "94080"
+  },
+  "profit": {
+    "2009": 24544000,
+    "2010": -49287000,
+    "2011": -47860000,
+    "2012": -40370000,
+    "2013": -33717000
+  },
+  "cash": {
+    "2009": 25561000,
+    "2010": 17514000,
+    "2011": 18833000,
+    "2012": 14907000,
+    "2013": 20158000
+  },
+  "earningsPerShare": {
+    "2009": 0.43,
+    "2010": -0.77,
+    "2011": -0.72
+  },
+  "htmlUrl": "http://www.sec.gov/Archives/edgar/data/1061983/000119312514089045/0001193125-14-089045-index.htm",
+  "xmlUrl": "http://www.sec.gov/Archives/edgar/data/1061983/000119312514089045/cytk-20131231.xml"
+}

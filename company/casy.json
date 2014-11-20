@@ -1,0 +1,41 @@
+{
+  "symbol": "casy",
+  "name": "Caseys General Stores, Inc.",
+  "ipoYear": 1983,
+  "sector": "Consumer Durables",
+  "industry": "Automotive Aftermarket",
+  "exchange": "nasdaq",
+  "category": "RETAIL-AUTO DEALERS &amp;amp; GASOLINE STATIONS",
+  "address": {
+    "street1": "P.O. BOX 3001",
+    "city": "ANKENY",
+    "state": "IA",
+    "zip": "50021"
+  },
+  "profit": {
+    "2009": 85690000,
+    "2010": 116962000,
+    "2011": 94623000,
+    "2012": 116791000,
+    "2013": 110625000,
+    "2014": 134514000
+  },
+  "cash": {
+    "2009": 145695000,
+    "2010": 151676000,
+    "2011": 59572000,
+    "2012": 55919000,
+    "2013": 41271000,
+    "2014": 121641000
+  },
+  "earningsPerShare": {
+    "2009": 1.69,
+    "2010": 2.3,
+    "2011": 2.24,
+    "2012": 3.07,
+    "2013": 2.89,
+    "2014": 3.5
+  },
+  "htmlUrl": "http://www.sec.gov/Archives/edgar/data/726958/000119312514253245/0001193125-14-253245-index.htm",
+  "xmlUrl": "http://www.sec.gov/Archives/edgar/data/726958/000119312514253245/casy-20140430.xml"
+}

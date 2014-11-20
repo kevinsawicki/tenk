@@ -1,0 +1,29 @@
+{
+  "symbol": "cob",
+  "name": "CommunityOne Bancorp",
+  "ipoYear": null,
+  "sector": "Finance",
+  "industry": "Major Banks",
+  "exchange": "nasdaq",
+  "category": "NATIONAL COMMERCIAL BANKS",
+  "address": {
+    "street1": "1017 E. MOREHEAD STREET",
+    "city": "CHARLOTTE",
+    "state": "NC",
+    "zip": "28204"
+  },
+  "profit": {
+    "2011": -137314000,
+    "2012": -40005000,
+    "2013": -1483000
+  },
+  "cash": {
+    "2010": 160594000,
+    "2011": 553416000,
+    "2012": 239610000,
+    "2013": 67430000
+  },
+  "earningsPerShare": {},
+  "htmlUrl": "http://www.sec.gov/Archives/edgar/data/764811/000076481114000012/0000764811-14-000012-index.htm",
+  "xmlUrl": "http://www.sec.gov/Archives/edgar/data/764811/000076481114000012/cob-20131231.xml"
+}

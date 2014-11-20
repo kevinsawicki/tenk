@@ -1,0 +1,38 @@
+{
+  "symbol": "evbs",
+  "name": "Eastern Virginia Bankshares, Inc.",
+  "ipoYear": null,
+  "sector": "Finance",
+  "industry": "Major Banks",
+  "exchange": "nasdaq",
+  "category": "STATE COMMERCIAL BANKS",
+  "address": {
+    "street1": "P O BOX 1455",
+    "city": "TAPPAHANNOCK",
+    "state": "VA",
+    "zip": "22560"
+  },
+  "profit": {
+    "2009": -8804000,
+    "2010": -10759000,
+    "2011": 1777000,
+    "2012": 3452000,
+    "2013": -2632000
+  },
+  "cash": {
+    "2009": 28688000,
+    "2010": 22831000,
+    "2011": 24566000,
+    "2012": 46599000,
+    "2013": 19346000
+  },
+  "earningsPerShare": {
+    "2009": -1.73,
+    "2010": -2.05,
+    "2011": 0.05,
+    "2012": 0.32,
+    "2013": -0.45
+  },
+  "htmlUrl": "http://www.sec.gov/Archives/edgar/data/1047170/000114420414019389/0001144204-14-019389-index.htm",
+  "xmlUrl": "http://www.sec.gov/Archives/edgar/data/1047170/000114420414019389/evbs-20131231.xml"
+}

@@ -1,0 +1,38 @@
+{
+  "symbol": "cavm",
+  "name": "Cavium, Inc.",
+  "ipoYear": 2007,
+  "sector": "Technology",
+  "industry": "Semiconductors",
+  "exchange": "nasdaq",
+  "category": "SEMICONDUCTORS &amp;amp; RELATED DEVICES",
+  "address": {
+    "street1": "2315 NORTH FIRST STREET",
+    "city": "SAN JOSE",
+    "state": "CA",
+    "zip": "95131"
+  },
+  "profit": {
+    "2009": -21394000,
+    "2010": 37124000,
+    "2011": 33000,
+    "2012": -112632000,
+    "2013": -2965000
+  },
+  "cash": {
+    "2009": 58918000,
+    "2010": 90673000,
+    "2011": 63225000,
+    "2012": 76784000,
+    "2013": 127763000
+  },
+  "earningsPerShare": {
+    "2009": -0.52,
+    "2010": 0.83,
+    "2011": 0,
+    "2012": -2.26,
+    "2013": -0.06
+  },
+  "htmlUrl": "http://www.sec.gov/Archives/edgar/data/1175609/000156459014000327/0001564590-14-000327-index.htm",
+  "xmlUrl": "http://www.sec.gov/Archives/edgar/data/1175609/000156459014000327/cavm-20131231.xml"
+}

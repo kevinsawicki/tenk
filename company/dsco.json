@@ -1,0 +1,33 @@
+{
+  "symbol": "dsco",
+  "name": "Discovery Laboratories, Inc.",
+  "ipoYear": null,
+  "sector": "Health Care",
+  "industry": "Biotechnology: Biological Products (No Diagnostic Substances)",
+  "exchange": "nasdaq",
+  "category": "BIOLOGICAL PRODUCTS (NO DIAGNOSTIC SUBSTANCES)",
+  "address": {
+    "street1": "2600 KELLY ROAD",
+    "city": "WARRINGTON",
+    "state": "PA",
+    "zip": "18976"
+  },
+  "profit": {
+    "2010": -19175000,
+    "2011": -20965000,
+    "2012": -37315000,
+    "2013": -45215000
+  },
+  "cash": {
+    "2009": 15741000,
+    "2010": 10211000,
+    "2011": 10189000,
+    "2012": 26892000,
+    "2013": 86283000
+  },
+  "earningsPerShare": {
+    "2013": -0.82
+  },
+  "htmlUrl": "http://www.sec.gov/Archives/edgar/data/946486/000114036114013062/0001140361-14-013062-index.htm",
+  "xmlUrl": "http://www.sec.gov/Archives/edgar/data/946486/000114036114013062/dsco-20130331.xml"
+}

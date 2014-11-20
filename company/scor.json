@@ -1,0 +1,37 @@
+{
+  "symbol": "scor",
+  "name": "comScore, Inc.",
+  "ipoYear": 2007,
+  "sector": "Miscellaneous",
+  "industry": "Business Services",
+  "exchange": "nasdaq",
+  "category": "SERVICES-BUSINESS SERVICES, NEC",
+  "address": {
+    "street1": "11950 DEMOCRACY DRIVE",
+    "city": "RESTON",
+    "state": "VA",
+    "zip": "20190"
+  },
+  "profit": {
+    "2009": 3969000,
+    "2010": -1576000,
+    "2011": -15790000,
+    "2012": -11789000,
+    "2013": -2333000
+  },
+  "cash": {
+    "2009": 58284000,
+    "2010": 33736000,
+    "2011": 38071000,
+    "2012": 61764000,
+    "2013": 67795000
+  },
+  "earningsPerShare": {
+    "2009": 0.13,
+    "2010": -0.05,
+    "2011": -0.49,
+    "2012": -0.35,
+    "2013": -0.07
+  },
+  "htmlUrl": "http://www.sec.gov/Archives/edgar/data/1158172/000115817214000015/0001158172-14-000015-index.htm"
+}

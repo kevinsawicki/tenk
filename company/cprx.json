@@ -1,0 +1,32 @@
+{
+  "symbol": "cprx",
+  "name": "Catalyst Pharmaceutical Partners, Inc.",
+  "ipoYear": 2006,
+  "sector": "Health Care",
+  "industry": "Major Pharmaceuticals",
+  "exchange": "nasdaq",
+  "category": "PHARMACEUTICAL PREPARATIONS",
+  "address": {
+    "street1": "355 ALHAMBRA CIRCLE",
+    "city": "CORAL GABLES",
+    "state": "FL",
+    "zip": "33134"
+  },
+  "profit": {
+    "2009": -7241928,
+    "2010": -4006323,
+    "2011": -6391062,
+    "2012": -4076386,
+    "2013": -12154596
+  },
+  "cash": {
+    "2009": 7779277,
+    "2010": 5475158,
+    "2011": 6029067,
+    "2012": 1409939,
+    "2013": 2215958
+  },
+  "earningsPerShare": {},
+  "htmlUrl": "http://www.sec.gov/Archives/edgar/data/1369568/000119312514104658/0001193125-14-104658-index.htm",
+  "xmlUrl": "http://www.sec.gov/Archives/edgar/data/1369568/000119312514104658/cprx-20131231.xml"
+}

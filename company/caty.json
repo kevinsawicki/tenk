@@ -1,0 +1,38 @@
+{
+  "symbol": "caty",
+  "name": "Cathay General Bancorp",
+  "ipoYear": null,
+  "sector": "Finance",
+  "industry": "Major Banks",
+  "exchange": "nasdaq",
+  "category": "STATE COMMERCIAL BANKS",
+  "address": {
+    "street1": "777 N BROADWAY",
+    "city": "LOS ANGELES",
+    "state": "CA",
+    "zip": "90012"
+  },
+  "profit": {
+    "2009": -67390000,
+    "2010": 11565000,
+    "2011": 100150000,
+    "2012": 117438000,
+    "2013": 123143000
+  },
+  "cash": {
+    "2009": 100124000,
+    "2010": 87347000,
+    "2011": 117888000,
+    "2012": 144909000,
+    "2013": 153747000
+  },
+  "earningsPerShare": {
+    "2009": -1.59,
+    "2010": -0.06,
+    "2011": 1.06,
+    "2012": 1.28,
+    "2013": 1.44
+  },
+  "htmlUrl": "http://www.sec.gov/Archives/edgar/data/861842/000143774914003147/0001437749-14-003147-index.htm",
+  "xmlUrl": "http://www.sec.gov/Archives/edgar/data/861842/000143774914003147/caty-20131231.xml"
+}

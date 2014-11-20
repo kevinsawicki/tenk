@@ -1,0 +1,35 @@
+{
+  "symbol": "dgly",
+  "name": "Digital Ally, Inc.",
+  "ipoYear": null,
+  "sector": "Technology",
+  "industry": "Radio And Television Broadcasting And Communications Equipment",
+  "exchange": "nasdaq",
+  "category": "RADIO &amp;amp; TV BROADCASTING &amp;amp; COMMUNICATIONS EQUIPMENT",
+  "address": {
+    "street1": "9705 LOIRET BLVD.",
+    "city": "LENEXA",
+    "state": "KS",
+    "zip": "66219"
+  },
+  "profit": {
+    "2010": 6544525,
+    "2011": -3962246,
+    "2012": -1970989,
+    "2013": -2497940
+  },
+  "cash": {
+    "2010": 623475,
+    "2011": 2270393,
+    "2012": 703172,
+    "2013": 454978
+  },
+  "earningsPerShare": {
+    "2010": -0.4,
+    "2011": -1.96,
+    "2012": -0.97,
+    "2013": -1.17
+  },
+  "htmlUrl": "http://www.sec.gov/Archives/edgar/data/1342958/000149315214000847/0001493152-14-000847-index.htm",
+  "xmlUrl": "http://www.sec.gov/Archives/edgar/data/1342958/000149315214000847/dgly-20131231.xml"
+}

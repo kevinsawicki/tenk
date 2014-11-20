@@ -1,0 +1,38 @@
+{
+  "symbol": "ehth",
+  "name": "eHealth, Inc.",
+  "ipoYear": 2006,
+  "sector": "Finance",
+  "industry": "Specialty Insurers",
+  "exchange": "nasdaq",
+  "category": "INSURANCE AGENTS BROKERS &amp;amp; SERVICES",
+  "address": {
+    "street1": "440 EAST MIDDLEFIELD ROAD",
+    "city": "MOUNTAIN VIEW",
+    "state": "CA",
+    "zip": "94043"
+  },
+  "profit": {
+    "2009": 15347000,
+    "2010": 17482000,
+    "2011": 6724000,
+    "2012": 7082000,
+    "2013": 1723000
+  },
+  "cash": {
+    "2009": 131339000,
+    "2010": 128074000,
+    "2011": 123607000,
+    "2012": 140849000,
+    "2013": 107055000
+  },
+  "earningsPerShare": {
+    "2009": 0.63,
+    "2010": 0.76,
+    "2011": 0.32,
+    "2012": 0.36,
+    "2013": 0.09
+  },
+  "htmlUrl": "http://www.sec.gov/Archives/edgar/data/1333493/000133349314000029/0001333493-14-000029-index.htm",
+  "xmlUrl": "http://www.sec.gov/Archives/edgar/data/1333493/000133349314000029/ehth-20131231.xml"
+}

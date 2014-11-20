@@ -1,0 +1,38 @@
+{
+  "symbol": "cvti",
+  "name": "Covenant Transportation Group, Inc.",
+  "ipoYear": 1994,
+  "sector": "Transportation",
+  "industry": "Trucking Freight/Courier Services",
+  "exchange": "nasdaq",
+  "category": "TRUCKING (NO LOCAL)",
+  "address": {
+    "street1": "400 BIRMINGHAM HIGHWAY",
+    "city": "CHATTANOOGA",
+    "state": "TN",
+    "zip": "37419"
+  },
+  "profit": {
+    "2009": -25030000,
+    "2010": 3289000,
+    "2011": -14267000,
+    "2012": 6065000,
+    "2013": 5244000
+  },
+  "cash": {
+    "2009": 12221000,
+    "2010": 9361000,
+    "2011": 3895000,
+    "2012": 6846000,
+    "2013": 9263000
+  },
+  "earningsPerShare": {
+    "2009": -1.77,
+    "2010": 0.23,
+    "2011": -0.97,
+    "2012": 0.41,
+    "2013": 0.35
+  },
+  "htmlUrl": "http://www.sec.gov/Archives/edgar/data/928658/000100888614000033/0001008886-14-000033-index.htm",
+  "xmlUrl": "http://www.sec.gov/Archives/edgar/data/928658/000100888614000033/cvti-20131231.xml"
+}

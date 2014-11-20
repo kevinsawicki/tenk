@@ -1,0 +1,38 @@
+{
+  "symbol": "crox",
+  "name": "Crocs, Inc.",
+  "ipoYear": 2006,
+  "sector": "Consumer Non-Durables",
+  "industry": "Shoe Manufacturing",
+  "exchange": "nasdaq",
+  "category": "RUBBER &amp;amp; PLASTICS FOOTWEAR",
+  "address": {
+    "street1": "6328 MONARCH PARK PLACE",
+    "city": "NIWOT",
+    "state": "CO",
+    "zip": "80503"
+  },
+  "profit": {
+    "2009": -42078000,
+    "2010": 67726000,
+    "2011": 112788000,
+    "2012": 131343000,
+    "2013": 10420000
+  },
+  "cash": {
+    "2009": 77343000,
+    "2010": 145583000,
+    "2011": 257587000,
+    "2012": 294348000,
+    "2013": 317144000
+  },
+  "earningsPerShare": {
+    "2009": -0.49,
+    "2010": 0.78,
+    "2011": 1.27,
+    "2012": 1.46,
+    "2013": 0.12
+  },
+  "htmlUrl": "http://www.sec.gov/Archives/edgar/data/1334036/000104746914001323/0001047469-14-001323-index.htm",
+  "xmlUrl": "http://www.sec.gov/Archives/edgar/data/1334036/000104746914001323/crox-20131231.xml"
+}

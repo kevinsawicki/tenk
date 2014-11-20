@@ -1,0 +1,31 @@
+{
+  "symbol": "cemp",
+  "name": "Cempra, Inc.",
+  "ipoYear": 2012,
+  "sector": "Health Care",
+  "industry": "Major Pharmaceuticals",
+  "exchange": "nasdaq",
+  "category": "PHARMACEUTICAL PREPARATIONS",
+  "address": {
+    "street1": "6320 QUADRANGLE DRIVE",
+    "city": "CHAPEL HILL",
+    "state": "NC",
+    "zip": "27517-8149"
+  },
+  "profit": {
+    "2010": -22913187,
+    "2011": -21220779,
+    "2012": -24226789,
+    "2013": -45034706
+  },
+  "cash": {
+    "2009": 17264264,
+    "2010": 20047997,
+    "2011": 15602264,
+    "2012": 70108754,
+    "2013": 96502918
+  },
+  "earningsPerShare": {},
+  "htmlUrl": "http://www.sec.gov/Archives/edgar/data/1461993/000156459014000446/0001564590-14-000446-index.htm",
+  "xmlUrl": "http://www.sec.gov/Archives/edgar/data/1461993/000156459014000446/cemp-20131231.xml"
+}

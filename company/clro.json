@@ -1,0 +1,36 @@
+{
+  "symbol": "clro",
+  "name": "ClearOne, Inc.",
+  "ipoYear": null,
+  "sector": "Public Utilities",
+  "industry": "Telecommunications Equipment",
+  "exchange": "nasdaq",
+  "category": "TELEPHONE &amp;amp; TELEGRAPH APPARATUS",
+  "address": {
+    "street1": "5225 WILEY POST WAY",
+    "city": "SALT LAKE CITY",
+    "state": "UT",
+    "zip": "84116"
+  },
+  "profit": {
+    "2010": 2374000,
+    "2011": 6929000,
+    "2012": 26647000,
+    "2013": 5179000
+  },
+  "cash": {
+    "2009": 9494000,
+    "2010": 11431000,
+    "2011": 16683000,
+    "2012": 55509000,
+    "2013": 17192000
+  },
+  "earningsPerShare": {
+    "2010": 0.27,
+    "2011": 0.77,
+    "2012": 2.93,
+    "2013": 0.57
+  },
+  "htmlUrl": "http://www.sec.gov/Archives/edgar/data/840715/000084071514000014/0000840715-14-000014-index.htm",
+  "xmlUrl": "http://www.sec.gov/Archives/edgar/data/840715/000084071514000014/clro-20131231.xml"
+}

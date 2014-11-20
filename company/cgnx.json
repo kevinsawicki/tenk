@@ -1,0 +1,38 @@
+{
+  "symbol": "cgnx",
+  "name": "Cognex Corporation",
+  "ipoYear": 1989,
+  "sector": "Capital Goods",
+  "industry": "Industrial Machinery/Components",
+  "exchange": "nasdaq",
+  "category": "INDUSTRIAL INSTRUMENTS FOR MEASUREMENT, DISPLAY, AND CONTROL",
+  "address": {
+    "street1": "ONE VISION DR",
+    "city": "NATICK",
+    "state": "MA",
+    "zip": "01760"
+  },
+  "profit": {
+    "2009": -4869000,
+    "2010": 61381000,
+    "2011": 69869000,
+    "2012": 68098000,
+    "2013": 73573000
+  },
+  "cash": {
+    "2009": 119831000,
+    "2010": 33203000,
+    "2011": 38103000,
+    "2012": 45160000,
+    "2013": 40644000
+  },
+  "earningsPerShare": {
+    "2009": -0.12,
+    "2010": 1.54,
+    "2011": 0.83,
+    "2012": 0.79,
+    "2013": 0.85
+  },
+  "htmlUrl": "http://www.sec.gov/Archives/edgar/data/851205/000119312514051054/0001193125-14-051054-index.htm",
+  "xmlUrl": "http://www.sec.gov/Archives/edgar/data/851205/000119312514051054/cgnx-20131231.xml"
+}

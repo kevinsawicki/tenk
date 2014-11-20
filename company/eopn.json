@@ -1,0 +1,35 @@
+{
+  "symbol": "eopn",
+  "name": "E2open, Inc.",
+  "ipoYear": 2012,
+  "sector": "Technology",
+  "industry": "Computer Software: Prepackaged Software",
+  "exchange": "nasdaq",
+  "category": "SERVICES-PREPACKAGED SOFTWARE",
+  "address": {
+    "street1": "4100 EAST THIRD AVENUE, SUITE 400",
+    "city": "FOSTER CITY",
+    "state": "CA",
+    "zip": "94404"
+  },
+  "profit": {
+    "2011": 6643000,
+    "2012": -225000,
+    "2013": -709000,
+    "2014": -25072000
+  },
+  "cash": {
+    "2010": 9530000,
+    "2011": 10060000,
+    "2012": 10219000,
+    "2013": 20262000,
+    "2014": 42723000
+  },
+  "earningsPerShare": {
+    "2012": -0.04,
+    "2013": -0.04,
+    "2014": -0.95
+  },
+  "htmlUrl": "http://www.sec.gov/Archives/edgar/data/1540400/000119312514180553/0001193125-14-180553-index.htm",
+  "xmlUrl": "http://www.sec.gov/Archives/edgar/data/1540400/000119312514180553/eopn-20140228.xml"
+}

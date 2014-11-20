@@ -1,0 +1,38 @@
+{
+  "symbol": "cbpo",
+  "name": "China Biologic Products, Inc.",
+  "ipoYear": null,
+  "sector": "Health Care",
+  "industry": "Biotechnology: Biological Products (No Diagnostic Substances)",
+  "exchange": "nasdaq",
+  "category": "BIOLOGICAL PRODUCTS (NO DIAGNOSTIC SUBSTANCES)",
+  "address": {
+    "street1": "NO.14 EAST HUSHAN ROAD",
+    "city": "TAI'AN CITY, SHANDONG",
+    "state": "F4",
+    "zip": "271000"
+  },
+  "profit": {
+    "2009": 2208126,
+    "2010": 31542883,
+    "2011": 18181710,
+    "2012": 45222189,
+    "2013": 54601551
+  },
+  "cash": {
+    "2009": 53843951,
+    "2010": 64941368,
+    "2011": 89411835,
+    "2012": 129609317,
+    "2013": 144138487
+  },
+  "earningsPerShare": {
+    "2009": 0.1,
+    "2010": 1.34,
+    "2011": 0.73,
+    "2012": 1.73,
+    "2013": 2.05
+  },
+  "htmlUrl": "http://www.sec.gov/Archives/edgar/data/1369868/000114420414015131/0001144204-14-015131-index.htm",
+  "xmlUrl": "http://www.sec.gov/Archives/edgar/data/1369868/000114420414015131/cbpo-20131231.xml"
+}

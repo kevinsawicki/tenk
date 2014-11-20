@@ -1,0 +1,38 @@
+{
+  "symbol": "csfl",
+  "name": "CenterState Banks, Inc.",
+  "ipoYear": null,
+  "sector": "Finance",
+  "industry": "Major Banks",
+  "exchange": "nasdaq",
+  "category": "NATIONAL COMMERCIAL BANKS",
+  "address": {
+    "street1": "1101 FIRST ST. S.",
+    "city": "WINTER HAVEN",
+    "state": "FL",
+    "zip": "33880"
+  },
+  "profit": {
+    "2009": -6217000,
+    "2010": -5938000,
+    "2011": 7909000,
+    "2012": 9905000,
+    "2013": 12243000
+  },
+  "cash": {
+    "2009": 192407000,
+    "2010": 177515000,
+    "2011": 151095000,
+    "2012": 136748000,
+    "2013": 174889000
+  },
+  "earningsPerShare": {
+    "2009": -0.47,
+    "2010": -0.22,
+    "2011": 0.26,
+    "2012": 0.33,
+    "2013": 0.41
+  },
+  "htmlUrl": "http://www.sec.gov/Archives/edgar/data/1102266/000119312514084059/0001193125-14-084059-index.htm",
+  "xmlUrl": "http://www.sec.gov/Archives/edgar/data/1102266/000119312514084059/csfl-20131231.xml"
+}

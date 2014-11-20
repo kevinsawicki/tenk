@@ -1,0 +1,39 @@
+{
+  "symbol": "conn",
+  "name": "Conn&#39;s, Inc.",
+  "ipoYear": 2003,
+  "sector": "Consumer Services",
+  "industry": "Consumer Electronics/Video Chains",
+  "exchange": "nasdaq",
+  "category": "RETAIL-RADIO TV &amp;amp; CONSUMER ELECTRONICS STORES",
+  "address": {
+    "street1": "4055 TECHNOLOGY FOREST BLVD, SUITE 210",
+    "city": "THE WOODLANDS",
+    "state": "TX",
+    "zip": "77381"
+  },
+  "profit": {
+    "2010": 4304000,
+    "2011": -1072000,
+    "2012": -3723000,
+    "2013": 52612000,
+    "2014": 93449000
+  },
+  "cash": {
+    "2009": 11909000,
+    "2010": 12247000,
+    "2011": 10977000,
+    "2012": 6265000,
+    "2013": 3849000,
+    "2014": 5727000
+  },
+  "earningsPerShare": {
+    "2010": 0.17,
+    "2011": -0.04,
+    "2012": 0,
+    "2013": 0,
+    "2014": 0
+  },
+  "htmlUrl": "http://www.sec.gov/Archives/edgar/data/1223389/000122338914000006/0001223389-14-000006-index.htm",
+  "xmlUrl": "http://www.sec.gov/Archives/edgar/data/1223389/000122338914000006/conn-20131231.xml"
+}

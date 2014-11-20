@@ -120,6 +120,10 @@ body {
   text-align: center;
 }
 
+.overview-heading {
+  font-family: 'Oxygen', serif;
+}
+
 .bar.profit {
   fill: #FFBA00;
 }

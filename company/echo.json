@@ -1,0 +1,38 @@
+{
+  "symbol": "echo",
+  "name": "Echo Global Logistics, Inc.",
+  "ipoYear": 2009,
+  "sector": "Transportation",
+  "industry": "Oil Refining/Marketing",
+  "exchange": "nasdaq",
+  "category": "ARRANGEMENT OF TRANSPORTATION OF FREIGHT &amp;amp; CARGO",
+  "address": {
+    "street1": "600 WEST CHICAGO AVENUE",
+    "city": "CHICAGO",
+    "state": "IL",
+    "zip": "60610"
+  },
+  "profit": {
+    "2009": 5195984,
+    "2010": 8404638,
+    "2011": 12048172,
+    "2012": 12321414,
+    "2013": 14202614
+  },
+  "cash": {
+    "2009": 47803704,
+    "2010": 43218164,
+    "2011": 47007309,
+    "2012": 41780984,
+    "2013": 52506560
+  },
+  "earningsPerShare": {
+    "2009": 0.3,
+    "2010": 0.38,
+    "2011": 0.54,
+    "2012": 0.55,
+    "2013": 0.62
+  },
+  "htmlUrl": "http://www.sec.gov/Archives/edgar/data/1426945/000142694514000003/0001426945-14-000003-index.htm",
+  "xmlUrl": "http://www.sec.gov/Archives/edgar/data/1426945/000142694514000003/echo-20131231.xml"
+}

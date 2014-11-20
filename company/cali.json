@@ -1,0 +1,31 @@
+{
+  "symbol": "cali",
+  "name": "China Auto Logistics Inc.",
+  "ipoYear": null,
+  "sector": "Consumer Services",
+  "industry": "Motor Vehicles",
+  "exchange": "nasdaq",
+  "category": "WHOLESALE-MOTOR VEHICLES &amp;amp; MOTOR VEHICLE PARTS &amp;amp; SUPPLIES",
+  "address": {
+    "street1": "FLOOR 1 FTZ INTERNATIONAL AUTO MALL",
+    "city": "TIANJIN",
+    "state": "F4",
+    "zip": "300461"
+  },
+  "profit": {
+    "2010": 8006640,
+    "2011": 8032615,
+    "2012": 2567087,
+    "2013": 524260
+  },
+  "cash": {
+    "2009": 2255058,
+    "2010": 17733502,
+    "2011": 8184793,
+    "2012": 8888749,
+    "2013": 15041505
+  },
+  "earningsPerShare": {},
+  "htmlUrl": "http://www.sec.gov/Archives/edgar/data/1355042/000121390014002282/0001213900-14-002282-index.htm",
+  "xmlUrl": "http://www.sec.gov/Archives/edgar/data/1355042/000121390014002282/cali-20131231.xml"
+}

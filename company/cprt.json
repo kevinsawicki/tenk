@@ -1,0 +1,41 @@
+{
+  "symbol": "cprt",
+  "name": "Copart, Inc.",
+  "ipoYear": 1994,
+  "sector": "Consumer Durables",
+  "industry": "Automotive Aftermarket",
+  "exchange": "nasdaq",
+  "category": "RETAIL-AUTO DEALERS &amp;amp; GASOLINE STATIONS",
+  "address": {
+    "street1": "14185 DALLAS PARKWAY",
+    "city": "DALLAS",
+    "state": "TX",
+    "zip": "75254"
+  },
+  "profit": {
+    "2009": 141103000,
+    "2010": 151627000,
+    "2011": 166375000,
+    "2012": 182119000,
+    "2013": 180025000,
+    "2014": 178687000
+  },
+  "cash": {
+    "2009": 162691000,
+    "2010": 268188000,
+    "2011": 74009000,
+    "2012": 140112000,
+    "2013": 63631000,
+    "2014": 158668000
+  },
+  "earningsPerShare": {
+    "2009": 1.69,
+    "2010": 0.9,
+    "2011": 1.1,
+    "2012": 1.42,
+    "2013": 1.44,
+    "2014": 1.42
+  },
+  "htmlUrl": "http://www.sec.gov/Archives/edgar/data/900075/000114544314001196/0001145443-14-001196-index.htm",
+  "xmlUrl": "http://www.sec.gov/Archives/edgar/data/900075/000114544314001196/cprt-20140731.xml"
+}

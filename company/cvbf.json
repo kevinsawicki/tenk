@@ -1,0 +1,38 @@
+{
+  "symbol": "cvbf",
+  "name": "CVB Financial Corporation",
+  "ipoYear": null,
+  "sector": "Finance",
+  "industry": "Major Banks",
+  "exchange": "nasdaq",
+  "category": "STATE COMMERCIAL BANKS",
+  "address": {
+    "street1": "701 N HAVEN AVE STE 300",
+    "city": "ONTARIO",
+    "state": "CA",
+    "zip": "91764"
+  },
+  "profit": {
+    "2009": 65419000,
+    "2010": 62935000,
+    "2011": 81733000,
+    "2012": 77280000,
+    "2013": 95608000
+  },
+  "cash": {
+    "2009": 103254000,
+    "2010": 404275000,
+    "2011": 345343000,
+    "2012": 98431000,
+    "2013": 94693000
+  },
+  "earningsPerShare": {
+    "2009": 0.56,
+    "2010": 0.59,
+    "2011": 0.77,
+    "2012": 0.74,
+    "2013": 0.91
+  },
+  "htmlUrl": "http://www.sec.gov/Archives/edgar/data/354647/000119312514080427/0001193125-14-080427-index.htm",
+  "xmlUrl": "http://www.sec.gov/Archives/edgar/data/354647/000119312514080427/cvbf-20131231.xml"
+}

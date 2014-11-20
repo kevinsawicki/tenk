@@ -1,0 +1,38 @@
+{
+  "symbol": "dtsi",
+  "name": "DTS, Inc.",
+  "ipoYear": 2003,
+  "sector": "Miscellaneous",
+  "industry": "Multi-Sector Companies",
+  "exchange": "nasdaq",
+  "category": "PATENT OWNERS &amp;amp; LESSORS",
+  "address": {
+    "street1": "5220 LAS VIRGENES ROAD",
+    "city": "CALABASAS",
+    "state": "CA",
+    "zip": "91302"
+  },
+  "profit": {
+    "2009": 10602000,
+    "2010": 16041000,
+    "2011": 18269000,
+    "2012": -15898000,
+    "2013": 15755000
+  },
+  "cash": {
+    "2009": 42222000,
+    "2010": 41744000,
+    "2011": 46944000,
+    "2012": 57831000,
+    "2013": 66025000
+  },
+  "earningsPerShare": {
+    "2009": 0.62,
+    "2010": 0.94,
+    "2011": 1.08,
+    "2012": -0.91,
+    "2013": 0.87
+  },
+  "htmlUrl": "http://www.sec.gov/Archives/edgar/data/1226308/000104746914002677/0001047469-14-002677-index.htm",
+  "xmlUrl": "http://www.sec.gov/Archives/edgar/data/1226308/000104746914002677/dtsi-20131231.xml"
+}

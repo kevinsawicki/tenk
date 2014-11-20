@@ -1,0 +1,29 @@
+{
+  "symbol": "cdti",
+  "name": "Clean Diesel Technologies, Inc.",
+  "ipoYear": null,
+  "sector": "Capital Goods",
+  "industry": "Pollution Control Equipment",
+  "exchange": "nasdaq",
+  "category": "INDUSTRIAL &amp;amp; COMMERCIAL FANS &amp;amp; BLOWERS &amp;amp; AIR PURIFYING EQUIP",
+  "address": {
+    "street1": "1621 FISKE PLACE",
+    "city": "OXNARD",
+    "state": "CA",
+    "zip": "93033"
+  },
+  "profit": {
+    "2010": -8306000,
+    "2011": -7311000,
+    "2012": -9660000,
+    "2013": -7098000
+  },
+  "cash": {
+    "2009": 2336000,
+    "2010": 5007000,
+    "2011": 3471000
+  },
+  "earningsPerShare": {},
+  "htmlUrl": "http://www.sec.gov/Archives/edgar/data/949428/000151316214000192/0001513162-14-000192-index.htm",
+  "xmlUrl": "http://www.sec.gov/Archives/edgar/data/949428/000151316214000192/cdti-20131231.xml"
+}

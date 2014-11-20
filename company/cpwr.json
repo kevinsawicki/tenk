@@ -1,0 +1,40 @@
+{
+  "symbol": "cpwr",
+  "name": "Compuware Corporation",
+  "ipoYear": 1992,
+  "sector": "Technology",
+  "industry": "Computer Software: Prepackaged Software",
+  "exchange": "nasdaq",
+  "category": "SERVICES-PREPACKAGED SOFTWARE",
+  "address": {
+    "street1": "ONE CAMPUS MARTIUS",
+    "city": "DETROIT",
+    "state": "MI",
+    "zip": "48226-5099"
+  },
+  "profit": {
+    "2009": 139647000,
+    "2010": 140806000,
+    "2011": 107441000,
+    "2012": 88371000,
+    "2013": -17251000,
+    "2014": 71583000
+  },
+  "cash": {
+    "2009": 278112000,
+    "2010": 149897000,
+    "2011": 180244000,
+    "2012": 99180000,
+    "2013": 89873000,
+    "2014": 300059000
+  },
+  "earningsPerShare": {
+    "2009": 0.56,
+    "2010": 0.61,
+    "2011": 0.49,
+    "2012": 0.4,
+    "2013": -0.08,
+    "2014": 0.33
+  },
+  "htmlUrl": "http://www.sec.gov/Archives/edgar/data/859014/000114036114029679/0001140361-14-029679-index.htm"
+}

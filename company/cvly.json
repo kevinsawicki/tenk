@@ -1,0 +1,38 @@
+{
+  "symbol": "cvly",
+  "name": "Codorus Valley Bancorp, Inc",
+  "ipoYear": null,
+  "sector": "Finance",
+  "industry": "Savings Institutions",
+  "exchange": "nasdaq",
+  "category": "SAVINGS INSTITUTION, FEDERALLY CHARTERED",
+  "address": {
+    "street1": "CODORUS VALLEY CORPORATE CENTER",
+    "city": "YORK",
+    "state": "PA",
+    "zip": "17403"
+  },
+  "profit": {
+    "2009": 3434000,
+    "2010": 6208000,
+    "2011": 6779000,
+    "2012": 9394000,
+    "2013": 10566000
+  },
+  "cash": {
+    "2009": 26179000,
+    "2010": 43269000,
+    "2011": 32195000,
+    "2012": 49757000,
+    "2013": 15062000
+  },
+  "earningsPerShare": {
+    "2009": 0.61,
+    "2010": 1.22,
+    "2011": 1.16,
+    "2012": 1.93,
+    "2013": 2.17
+  },
+  "htmlUrl": "http://www.sec.gov/Archives/edgar/data/806279/000089710114000375/0000897101-14-000375-index.htm",
+  "xmlUrl": "http://www.sec.gov/Archives/edgar/data/806279/000089710114000375/cvly-20131231.xml"
+}

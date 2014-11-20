@@ -1,0 +1,36 @@
+{
+  "symbol": "crws",
+  "name": "Crown Crafts, Inc.",
+  "ipoYear": null,
+  "sector": "Basic Industries",
+  "industry": "Textiles",
+  "exchange": "nasdaq",
+  "category": "BROADWOVEN FABRIC MILLS, COTTON",
+  "address": {
+    "street1": "916 SOUTH BURNSIDE AVENUE",
+    "city": "GONZALES",
+    "state": "LA",
+    "zip": "70737"
+  },
+  "profit": {
+    "2011": 4306000,
+    "2012": 5039000,
+    "2013": 5111000,
+    "2014": 5771000
+  },
+  "cash": {
+    "2010": 75000,
+    "2011": 205000,
+    "2012": 214000,
+    "2013": 340000,
+    "2014": 560000
+  },
+  "earningsPerShare": {
+    "2011": 0.45,
+    "2012": 0.52,
+    "2013": 0.52,
+    "2014": 0.59
+  },
+  "htmlUrl": "http://www.sec.gov/Archives/edgar/data/25895/000143774914011423/0001437749-14-011423-index.htm",
+  "xmlUrl": "http://www.sec.gov/Archives/edgar/data/25895/000143774914011423/crws-20140330.xml"
+}

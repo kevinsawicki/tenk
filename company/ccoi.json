@@ -1,0 +1,36 @@
+{
+  "symbol": "ccoi",
+  "name": "Cogent Communications Holdings, Inc.",
+  "ipoYear": null,
+  "sector": "Technology",
+  "industry": "Computer Software: Prepackaged Software",
+  "exchange": "nasdaq",
+  "category": "SERVICES-PREPACKAGED SOFTWARE",
+  "address": {
+    "street1": "1015 31ST STREET",
+    "city": "WASHINGTON",
+    "state": "DC",
+    "zip": "20007"
+  },
+  "profit": {
+    "2009": -17151000,
+    "2010": 669000,
+    "2011": 7542000,
+    "2012": -4251000,
+    "2013": 56689000
+  },
+  "cash": {
+    "2009": 55929000,
+    "2010": 56283000,
+    "2011": 238207000,
+    "2012": 247285000,
+    "2013": 304866000
+  },
+  "earningsPerShare": {
+    "2011": 0.17,
+    "2012": -0.09,
+    "2013": 1.22
+  },
+  "htmlUrl": "http://www.sec.gov/Archives/edgar/data/1158324/000104746914001543/0001047469-14-001543-index.htm",
+  "xmlUrl": "http://www.sec.gov/Archives/edgar/data/1158324/000104746914001543/ccoi-20131231.xml"
+}

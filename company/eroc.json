@@ -1,0 +1,32 @@
+{
+  "symbol": "eroc",
+  "name": "Eagle Rock Energy Partners, L.P.",
+  "ipoYear": 2006,
+  "sector": "Energy",
+  "industry": "Oil & Gas Production",
+  "exchange": "nasdaq",
+  "category": "CRUDE PETROLEUM &amp;amp; NATURAL GAS",
+  "address": {
+    "street1": "THE WEDGE TOWER",
+    "city": "HOUSTON",
+    "state": "TX",
+    "zip": "77002"
+  },
+  "profit": {
+    "2009": -47067000,
+    "2010": 734000,
+    "2011": 73132000,
+    "2012": -150602000,
+    "2013": -277979000
+  },
+  "cash": {
+    "2009": 4049000,
+    "2010": 43000,
+    "2011": 877000,
+    "2012": 25000,
+    "2013": 76000
+  },
+  "earningsPerShare": {},
+  "htmlUrl": "http://www.sec.gov/Archives/edgar/data/1364541/000136454114000028/0001364541-14-000028-index.htm",
+  "xmlUrl": "http://www.sec.gov/Archives/edgar/data/1364541/000136454114000028/eroc-20131231.xml"
+}

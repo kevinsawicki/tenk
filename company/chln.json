@@ -1,0 +1,38 @@
+{
+  "symbol": "chln",
+  "name": "China Housing & Land Development, Inc.",
+  "ipoYear": null,
+  "sector": "Basic Industries",
+  "industry": "Homebuilding",
+  "exchange": "nasdaq",
+  "category": "GEN BUILDING CONTRACTORS - RESIDENTIAL BUILDINGS",
+  "address": {
+    "street1": "6 YOUYI DONG LU, HAN YUAN 4 LOU",
+    "city": "XI'AN, SHAANXI PROVINCE",
+    "state": "F4",
+    "zip": "710054"
+  },
+  "profit": {
+    "2009": 2469810,
+    "2010": -28919757,
+    "2011": 12368982,
+    "2012": 20210771,
+    "2013": 11754697
+  },
+  "cash": {
+    "2009": 36863216,
+    "2010": 46904161,
+    "2011": 22014953,
+    "2012": 6121448,
+    "2013": 21320071
+  },
+  "earningsPerShare": {
+    "2009": 0.08,
+    "2010": -0.88,
+    "2011": 0.36,
+    "2012": 0.58,
+    "2013": 0.33
+  },
+  "htmlUrl": "http://www.sec.gov/Archives/edgar/data/1303330/000114420414017400/0001144204-14-017400-index.htm",
+  "xmlUrl": "http://www.sec.gov/Archives/edgar/data/1303330/000114420414017400/chln-20131231.xml"
+}

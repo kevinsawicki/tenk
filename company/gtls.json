@@ -1,0 +1,38 @@
+{
+  "symbol": "gtls",
+  "name": "Chart Industries, Inc.",
+  "ipoYear": 2006,
+  "sector": "Capital Goods",
+  "industry": "Metal Fabrications",
+  "exchange": "nasdaq",
+  "category": "FABRICATED PLATE WORK (BOILER SHOPS)",
+  "address": {
+    "street1": "ONE INFINITY CORPORATE CENTRE DRIVE",
+    "city": "GARFIELD HEIGHTS",
+    "state": "OH",
+    "zip": "44125-5370"
+  },
+  "profit": {
+    "2009": 61011000,
+    "2010": 20160000,
+    "2011": 44076000,
+    "2012": 71295000,
+    "2013": 83176000
+  },
+  "cash": {
+    "2009": 211168000,
+    "2010": 165112000,
+    "2011": 256861000,
+    "2012": 141498000,
+    "2013": 137345000
+  },
+  "earningsPerShare": {
+    "2009": 2.14,
+    "2010": 0.71,
+    "2011": 1.51,
+    "2012": 2.39,
+    "2013": 2.75
+  },
+  "htmlUrl": "http://www.sec.gov/Archives/edgar/data/892553/000089255314000010/0000892553-14-000010-index.htm",
+  "xmlUrl": "http://www.sec.gov/Archives/edgar/data/892553/000089255314000010/gtls-20131231.xml"
+}

@@ -1,0 +1,38 @@
+{
+  "symbol": "cetv",
+  "name": "Central European Media Enterprises Ltd.",
+  "ipoYear": 1994,
+  "sector": "Consumer Services",
+  "industry": "Broadcasting",
+  "exchange": "nasdaq",
+  "category": "TELEVISION BROADCASTING STATIONS",
+  "address": {
+    "street1": "C/O CME MEDIA SERVICES LIMITED",
+    "city": "PRAGUE 5",
+    "state": "2N",
+    "zip": "152 00"
+  },
+  "profit": {
+    "2009": -97157000,
+    "2010": 100175000,
+    "2011": -174611000,
+    "2012": -535680000,
+    "2013": -277651000
+  },
+  "cash": {
+    "2009": 445954000,
+    "2010": 244050000,
+    "2011": 186386000,
+    "2012": 140393000,
+    "2013": 104996000
+  },
+  "earningsPerShare": {
+    "2009": -1.79,
+    "2010": 1.57,
+    "2011": -2.71,
+    "2012": -6.96,
+    "2013": -2.21
+  },
+  "htmlUrl": "http://www.sec.gov/Archives/edgar/data/925645/000092564514000006/0000925645-14-000006-index.htm",
+  "xmlUrl": "http://www.sec.gov/Archives/edgar/data/925645/000092564514000006/cetv-20131231.xml"
+}

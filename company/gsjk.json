@@ -1,0 +1,32 @@
+{
+  "symbol": "gsjk",
+  "name": "Compressco Partners, L.P.",
+  "ipoYear": 2011,
+  "sector": "Energy",
+  "industry": "Oilfield Services/Equipment",
+  "exchange": "nasdaq",
+  "category": "OIL, GAS FIELD SERVICES, NBC",
+  "address": {
+    "street1": "3809 S. FARM-TO-MARKET 1788",
+    "city": "MIDLAND",
+    "state": "TX",
+    "zip": "79706"
+  },
+  "profit": {
+    "2009": 6539000,
+    "2010": 1617000,
+    "2011": 7257000,
+    "2012": 16331000,
+    "2013": 17567000
+  },
+  "cash": {
+    "2009": 4578000,
+    "2010": 6629000,
+    "2011": 17476000,
+    "2012": 12966000,
+    "2013": 9477000
+  },
+  "earningsPerShare": {},
+  "htmlUrl": "http://www.sec.gov/Archives/edgar/data/1449488/000144948814000023/0001449488-14-000023-index.htm",
+  "xmlUrl": "http://www.sec.gov/Archives/edgar/data/1449488/000144948814000023/gsjk-20131231.xml"
+}

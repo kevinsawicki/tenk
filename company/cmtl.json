@@ -1,0 +1,41 @@
+{
+  "symbol": "cmtl",
+  "name": "Comtech Telecommunications Corp.",
+  "ipoYear": null,
+  "sector": "Technology",
+  "industry": "Radio And Television Broadcasting And Communications Equipment",
+  "exchange": "nasdaq",
+  "category": "RADIO &amp;amp; TV BROADCASTING &amp;amp; COMMUNICATIONS EQUIPMENT",
+  "address": {
+    "street1": "68 SOUTH SERVICE ROAD",
+    "city": "MELVILLE",
+    "state": "NY",
+    "zip": "11747"
+  },
+  "profit": {
+    "2009": 47525000,
+    "2010": 60630000,
+    "2011": 67895000,
+    "2012": 32416000,
+    "2013": 17808000,
+    "2014": 25151000
+  },
+  "cash": {
+    "2009": 485450000,
+    "2010": 607594000,
+    "2011": 558804000,
+    "2012": 367894000,
+    "2013": 356642000,
+    "2014": 154500000
+  },
+  "earningsPerShare": {
+    "2009": 1.81,
+    "2010": 2.14,
+    "2011": 2.53,
+    "2012": 1.62,
+    "2013": 1.05,
+    "2014": 1.58
+  },
+  "htmlUrl": "http://www.sec.gov/Archives/edgar/data/23197/000002319714000024/0000023197-14-000024-index.htm",
+  "xmlUrl": "http://www.sec.gov/Archives/edgar/data/23197/000002319714000024/cmtl-20140731.xml"
+}

@@ -1,0 +1,31 @@
+{
+  "symbol": "comm",
+  "name": "CommScope Holding Company, Inc.",
+  "ipoYear": 2013,
+  "sector": "Technology",
+  "industry": "Radio And Television Broadcasting And Communications Equipment",
+  "exchange": "nasdaq",
+  "category": "RADIO &amp;amp; TV BROADCASTING &amp;amp; COMMUNICATIONS EQUIPMENT",
+  "address": {
+    "street1": "1100 COMMSCOPE PLACE, SE",
+    "city": "HICKORY",
+    "state": "NC",
+    "zip": "28602"
+  },
+  "profit": {
+    "2012": 5353000,
+    "2013": 19396000
+  },
+  "cash": {
+    "2010": 706066000,
+    "2011": 713490000,
+    "2012": 264375000,
+    "2013": 264375000
+  },
+  "earningsPerShare": {
+    "2012": 0.03,
+    "2013": 0.12
+  },
+  "htmlUrl": "http://www.sec.gov/Archives/edgar/data/1517228/000119312514060685/0001193125-14-060685-index.htm",
+  "xmlUrl": "http://www.sec.gov/Archives/edgar/data/1517228/000119312514060685/comm-20131231.xml"
+}

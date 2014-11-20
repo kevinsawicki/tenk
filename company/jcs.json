@@ -1,0 +1,38 @@
+{
+  "symbol": "jcs",
+  "name": "Communications Systems, Inc.",
+  "ipoYear": null,
+  "sector": "Public Utilities",
+  "industry": "Telecommunications Equipment",
+  "exchange": "nasdaq",
+  "category": "TELEPHONE &amp;amp; TELEGRAPH APPARATUS",
+  "address": {
+    "street1": "10900 RED CIRCLE DRIVE",
+    "city": "MINNETONKA",
+    "state": "MN",
+    "zip": "55343"
+  },
+  "profit": {
+    "2009": 6043645,
+    "2010": 9715433,
+    "2011": 9797866,
+    "2012": 2238114,
+    "2013": -957888
+  },
+  "cash": {
+    "2009": 21293448,
+    "2010": 16787558,
+    "2011": 22515710,
+    "2012": 17869712,
+    "2013": 20059120
+  },
+  "earningsPerShare": {
+    "2009": 0.72,
+    "2010": 1.16,
+    "2011": 1.16,
+    "2012": 0.26,
+    "2013": -0.11
+  },
+  "htmlUrl": "http://www.sec.gov/Archives/edgar/data/22701/000089710114000329/0000897101-14-000329-index.htm",
+  "xmlUrl": "http://www.sec.gov/Archives/edgar/data/22701/000089710114000329/jcs-20131231.xml"
+}

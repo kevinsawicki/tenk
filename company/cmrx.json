@@ -1,0 +1,29 @@
+{
+  "symbol": "cmrx",
+  "name": "Chimerix, Inc.",
+  "ipoYear": 2013,
+  "sector": "Health Care",
+  "industry": "Major Pharmaceuticals",
+  "exchange": "nasdaq",
+  "category": "PHARMACEUTICAL PREPARATIONS",
+  "address": {
+    "street1": "2505 MERIDIAN PARKWAY, SUITE 340",
+    "city": "DURHAM",
+    "state": "NC",
+    "zip": "27713"
+  },
+  "profit": {
+    "2011": -35154000,
+    "2012": -8763000,
+    "2013": -70553000
+  },
+  "cash": {
+    "2010": 3306000,
+    "2011": 13607000,
+    "2012": 19906000,
+    "2013": 109976000
+  },
+  "earningsPerShare": {},
+  "htmlUrl": "http://www.sec.gov/Archives/edgar/data/1117480/000114420414014110/0001144204-14-014110-index.htm",
+  "xmlUrl": "http://www.sec.gov/Archives/edgar/data/1117480/000114420414014110/cmrx-20131231.xml"
+}

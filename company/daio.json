@@ -1,0 +1,36 @@
+{
+  "symbol": "daio",
+  "name": "Data I/O Corporation",
+  "ipoYear": 1981,
+  "sector": "Capital Goods",
+  "industry": "Electrical Products",
+  "exchange": "nasdaq",
+  "category": "INSTRUMENTS FOR MEAS &amp;amp; TESTING OF ELECTRICITY &amp;amp; ELEC SIGNALS",
+  "address": {
+    "street1": "6464 185TH AVE NE, SUITE 101",
+    "city": "REDMOND",
+    "state": "WA",
+    "zip": "98052"
+  },
+  "profit": {
+    "2010": 3012000,
+    "2011": 1063000,
+    "2012": -6429000,
+    "2013": -2576000
+  },
+  "cash": {
+    "2009": 15642000,
+    "2010": 18942000,
+    "2011": 18120000,
+    "2012": 10528000,
+    "2013": 10426000
+  },
+  "earningsPerShare": {
+    "2010": 0.33,
+    "2011": 0.12,
+    "2012": -0.8,
+    "2013": -0.33
+  },
+  "htmlUrl": "http://www.sec.gov/Archives/edgar/data/351998/000035199814000005/0000351998-14-000005-index.htm",
+  "xmlUrl": "http://www.sec.gov/Archives/edgar/data/351998/000035199814000005/daio-20131231.xml"
+}

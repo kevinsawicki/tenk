@@ -1,0 +1,32 @@
+{
+  "symbol": "cycc",
+  "name": "Cyclacel Pharmaceuticals, Inc.",
+  "ipoYear": null,
+  "sector": "Health Care",
+  "industry": "Major Pharmaceuticals",
+  "exchange": "nasdaq",
+  "category": "PHARMACEUTICAL PREPARATIONS",
+  "address": {
+    "street1": "200 CONNELL DRIVE",
+    "city": "BERKELEY HEIGHTS",
+    "state": "NJ",
+    "zip": "07922"
+  },
+  "profit": {
+    "2009": -19570000,
+    "2010": -16021000,
+    "2011": -15243000,
+    "2012": -13186000,
+    "2013": -10153000
+  },
+  "cash": {
+    "2009": 11493000,
+    "2010": 29495000,
+    "2011": 24449000,
+    "2012": 16412000,
+    "2013": 31146000
+  },
+  "earningsPerShare": {},
+  "htmlUrl": "http://www.sec.gov/Archives/edgar/data/1130166/000157104914000943/0001571049-14-000943-index.htm",
+  "xmlUrl": "http://www.sec.gov/Archives/edgar/data/1130166/000157104914000943/cycc-20131231.xml"
+}

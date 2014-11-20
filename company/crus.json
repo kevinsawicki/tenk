@@ -1,0 +1,39 @@
+{
+  "symbol": "crus",
+  "name": "Cirrus Logic, Inc.",
+  "ipoYear": 1989,
+  "sector": "Technology",
+  "industry": "Semiconductors",
+  "exchange": "nasdaq",
+  "category": "SEMICONDUCTORS &amp;amp; RELATED DEVICES",
+  "address": {
+    "street1": "800 WEST 6TH STREET",
+    "city": "AUSTIN",
+    "state": "TX",
+    "zip": "78701"
+  },
+  "profit": {
+    "2010": 38398000,
+    "2011": 203503000,
+    "2012": 87983000,
+    "2013": 136598000,
+    "2014": 108111000
+  },
+  "cash": {
+    "2009": 31504000,
+    "2010": 16109000,
+    "2011": 37039000,
+    "2012": 65997000,
+    "2013": 66402000,
+    "2014": 31850000
+  },
+  "earningsPerShare": {
+    "2010": 0.59,
+    "2011": 3,
+    "2012": 1.35,
+    "2013": 2.12,
+    "2014": 1.72
+  },
+  "htmlUrl": "http://www.sec.gov/Archives/edgar/data/772406/000119312514215076/0001193125-14-215076-index.htm",
+  "xmlUrl": "http://www.sec.gov/Archives/edgar/data/772406/000119312514215076/crus-20140329.xml"
+}

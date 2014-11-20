@@ -1,0 +1,19 @@
+{
+  "symbol": "cldn",
+  "name": "Celladon Corporation",
+  "ipoYear": 2014,
+  "sector": "Health Care",
+  "industry": "Biotechnology: Biological Products (No Diagnostic Substances)",
+  "exchange": "nasdaq",
+  "category": "BIOLOGICAL PRODUCTS (NO DIAGNOSTIC SUBSTANCES)",
+  "address": {
+    "street1": "11988 EL CAMINO REAL",
+    "city": "SAN DIEGO",
+    "state": "CA",
+    "zip": "92130"
+  },
+  "profit": {},
+  "cash": {},
+  "earningsPerShare": {},
+  "htmlUrl": "http://www.sec.gov/Archives/edgar/data/1305253/000119312514123912/0001193125-14-123912-index.htm"
+}

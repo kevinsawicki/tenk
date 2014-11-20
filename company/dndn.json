@@ -1,0 +1,32 @@
+{
+  "symbol": "dndn",
+  "name": "Dendreon Corporation",
+  "ipoYear": 2000,
+  "sector": "Health Care",
+  "industry": "Major Pharmaceuticals",
+  "exchange": "nasdaq",
+  "category": "PHARMACEUTICAL PREPARATIONS",
+  "address": {
+    "street1": "1301 2ND AVE.",
+    "city": "SEATTLE",
+    "state": "WA",
+    "zip": "98101"
+  },
+  "profit": {
+    "2009": -220161000,
+    "2010": -439480000,
+    "2011": -337806000,
+    "2012": -393610000,
+    "2013": -296804000
+  },
+  "cash": {
+    "2009": 409829000,
+    "2010": 132995000,
+    "2011": 427100000,
+    "2012": 188408000,
+    "2013": 92530000
+  },
+  "earningsPerShare": {},
+  "htmlUrl": "http://www.sec.gov/Archives/edgar/data/1107332/000119312514079705/0001193125-14-079705-index.htm",
+  "xmlUrl": "http://www.sec.gov/Archives/edgar/data/1107332/000119312514079705/dndn-20131231.xml"
+}

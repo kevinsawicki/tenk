@@ -1,0 +1,38 @@
+{
+  "symbol": "dwsn",
+  "name": "Dawson Geophysical Company",
+  "ipoYear": 1981,
+  "sector": "Energy",
+  "industry": "Oil & Gas Production",
+  "exchange": "nasdaq",
+  "category": "OIL AND GAS FIELD EXPLORATION SERVICES",
+  "address": {
+    "street1": "508 WEST WALL",
+    "city": "MIDLAND",
+    "state": "TX",
+    "zip": "79701"
+  },
+  "profit": {
+    "2009": 10222000,
+    "2010": -9352000,
+    "2011": -3246000,
+    "2012": 11113000,
+    "2013": 10480000
+  },
+  "cash": {
+    "2009": 36792000,
+    "2010": 29675000,
+    "2011": 26077000,
+    "2012": 57373000,
+    "2013": 52405000
+  },
+  "earningsPerShare": {
+    "2009": 1.31,
+    "2010": -1.2,
+    "2011": -0.42,
+    "2012": 1.4,
+    "2013": 1.31
+  },
+  "htmlUrl": "http://www.sec.gov/Archives/edgar/data/351231/000119312513469963/0001193125-13-469963-index.htm",
+  "xmlUrl": "http://www.sec.gov/Archives/edgar/data/351231/000119312513469963/dwsn-20130930.xml"
+}

@@ -1,0 +1,37 @@
+{
+  "symbol": "eei",
+  "name": "Ecology and Environment, Inc.",
+  "ipoYear": 1987,
+  "sector": "Consumer Services",
+  "industry": "Military/Government/Technical",
+  "exchange": "nasdaq",
+  "category": "SERVICES-ENGINEERING SERVICES",
+  "address": {
+    "street1": "368 PLEASANTVIEW DR",
+    "city": "LANCASTER",
+    "state": "NY",
+    "zip": "14086"
+  },
+  "profit": {
+    "2010": 4257607,
+    "2011": 6960263,
+    "2012": 773579,
+    "2013": -2130434,
+    "2014": -1382656
+  },
+  "cash": {
+    "2009": 16764885,
+    "2010": 14347194,
+    "2011": 8529842,
+    "2012": 10467770,
+    "2013": 9444660,
+    "2014": 6889243
+  },
+  "earningsPerShare": {
+    "2011": 1.65,
+    "2012": 0.18,
+    "2013": -0.5
+  },
+  "htmlUrl": "http://www.sec.gov/Archives/edgar/data/809933/000114036114039392/0001140361-14-039392-index.htm",
+  "xmlUrl": "http://www.sec.gov/Archives/edgar/data/809933/000114036114039392/eei-20140731.xml"
+}

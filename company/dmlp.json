@@ -1,0 +1,32 @@
+{
+  "symbol": "dmlp",
+  "name": "Dorchester Minerals, L.P.",
+  "ipoYear": null,
+  "sector": "Energy",
+  "industry": "Oil & Gas Production",
+  "exchange": "nasdaq",
+  "category": "CRUDE PETROLEUM &amp;amp; NATURAL GAS",
+  "address": {
+    "street1": "3838 OAK LAWN AVENUE",
+    "city": "DALLAS",
+    "state": "TX",
+    "zip": "75219-4541"
+  },
+  "profit": {
+    "2009": 21681000,
+    "2010": 34883000,
+    "2011": 42215000,
+    "2012": 38022000,
+    "2013": 43576000
+  },
+  "cash": {
+    "2009": 10124000,
+    "2010": 11253000,
+    "2011": 14238000,
+    "2012": 13792000,
+    "2013": 15175000
+  },
+  "earningsPerShare": {},
+  "htmlUrl": "http://www.sec.gov/Archives/edgar/data/1172358/000143774914002522/0001437749-14-002522-index.htm",
+  "xmlUrl": "http://www.sec.gov/Archives/edgar/data/1172358/000143774914002522/dmlp-20131231.xml"
+}

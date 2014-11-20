@@ -1,0 +1,31 @@
+{
+  "symbol": "clsn",
+  "name": "Celsion Corporation",
+  "ipoYear": null,
+  "sector": "Health Care",
+  "industry": "Major Pharmaceuticals",
+  "exchange": "nasdaq",
+  "category": "PHARMACEUTICAL PREPARATIONS",
+  "address": {
+    "street1": "997 LENOX DRIVE",
+    "city": "LAWRENCEVILLE",
+    "state": "NJ",
+    "zip": "08648"
+  },
+  "profit": {
+    "2010": -18818435,
+    "2011": -23222678,
+    "2012": -26568382,
+    "2013": -8251358
+  },
+  "cash": {
+    "2009": 6923476,
+    "2010": 1138916,
+    "2011": 20145854,
+    "2012": 14991488,
+    "2013": 5718504
+  },
+  "earningsPerShare": {},
+  "htmlUrl": "http://www.sec.gov/Archives/edgar/data/749647/000143774914004012/0001437749-14-004012-index.htm",
+  "xmlUrl": "http://www.sec.gov/Archives/edgar/data/749647/000143774914004012/clsn-20131231.xml"
+}

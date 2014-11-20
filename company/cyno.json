@@ -1,0 +1,38 @@
+{
+  "symbol": "cyno",
+  "name": "Cynosure, Inc.",
+  "ipoYear": 2005,
+  "sector": "Health Care",
+  "industry": "Biotechnology: Electromedical & Electrotherapeutic Apparatus",
+  "exchange": "nasdaq",
+  "category": "ELECTROMEDICAL &amp;amp; ELECTROTHERAPEUTIC APPARATUS",
+  "address": {
+    "street1": "5 CARLISLE ROAD",
+    "city": "WESTFORD",
+    "state": "MA",
+    "zip": "01886"
+  },
+  "profit": {
+    "2009": -22758000,
+    "2010": -5546000,
+    "2011": -2905000,
+    "2012": 10961000,
+    "2013": -1647000
+  },
+  "cash": {
+    "2009": 44797000,
+    "2010": 27434000,
+    "2011": 35694000,
+    "2012": 86057000,
+    "2013": 93655000
+  },
+  "earningsPerShare": {
+    "2009": -1.79,
+    "2010": -0.44,
+    "2011": -0.23,
+    "2012": 0.83,
+    "2013": -0.09
+  },
+  "htmlUrl": "http://www.sec.gov/Archives/edgar/data/885306/000119312514102572/0001193125-14-102572-index.htm",
+  "xmlUrl": "http://www.sec.gov/Archives/edgar/data/885306/000119312514102572/cyno-20131231.xml"
+}

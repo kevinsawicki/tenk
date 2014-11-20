@@ -1,0 +1,29 @@
+{
+  "symbol": "clir",
+  "name": "ClearSign Combustion Corporation",
+  "ipoYear": 2012,
+  "sector": "Capital Goods",
+  "industry": "Industrial Machinery/Components",
+  "exchange": "nasdaq",
+  "category": "INDUSTRIAL INSTRUMENTS FOR MEASUREMENT, DISPLAY, AND CONTROL",
+  "address": {
+    "street1": "12870 INTERURBAN AVENUE SOUTH",
+    "city": "SEATTLE",
+    "state": "WA",
+    "zip": "98168"
+  },
+  "profit": {
+    "2011": -2976000,
+    "2012": -4189000,
+    "2013": -5285000
+  },
+  "cash": {
+    "2010": 0,
+    "2011": 930000,
+    "2012": 8027000,
+    "2013": 2688000
+  },
+  "earningsPerShare": {},
+  "htmlUrl": "http://www.sec.gov/Archives/edgar/data/1434524/000114420414014814/0001144204-14-014814-index.htm",
+  "xmlUrl": "http://www.sec.gov/Archives/edgar/data/1434524/000114420414014814/clir-20131231.xml"
+}

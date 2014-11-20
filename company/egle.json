@@ -1,0 +1,37 @@
+{
+  "symbol": "egle",
+  "name": "Eagle Bulk Shipping Inc.",
+  "ipoYear": null,
+  "sector": "Transportation",
+  "industry": "Marine Transportation",
+  "exchange": "nasdaq",
+  "category": "DEEP SEA FOREIGN TRANSPORTATION OF FREIGHT",
+  "address": {
+    "street1": "477 MADISON AVENUE",
+    "city": "NEW YORK",
+    "state": "NY",
+    "zip": "10022"
+  },
+  "profit": {
+    "2009": 33287271,
+    "2010": 26844650,
+    "2011": -14819749,
+    "2012": -102800903,
+    "2013": -70521383
+  },
+  "cash": {
+    "2009": 71344773,
+    "2010": 129121680,
+    "2011": 25075203,
+    "2012": 18119968,
+    "2013": 19682724
+  },
+  "earningsPerShare": {
+    "2009": 0.6,
+    "2010": 1.73,
+    "2011": -0.95,
+    "2012": -6.3,
+    "2013": -4.15
+  },
+  "htmlUrl": "http://www.sec.gov/Archives/edgar/data/1322439/000091957414002800/0000919574-14-002800-index.htm"
+}

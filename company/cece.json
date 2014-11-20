@@ -1,0 +1,36 @@
+{
+  "symbol": "cece",
+  "name": "CECO Environmental Corp.",
+  "ipoYear": null,
+  "sector": "Capital Goods",
+  "industry": "Pollution Control Equipment",
+  "exchange": "nasdaq",
+  "category": "INDUSTRIAL &amp;amp; COMMERCIAL FANS &amp;amp; BLOWERS &amp;amp; AIR PURIFYING EQUIP",
+  "address": {
+    "street1": "4625 RED BANK ROAD, SUITE 200",
+    "city": "CINCINNATI",
+    "state": "OH",
+    "zip": "45227"
+  },
+  "profit": {
+    "2010": 2105000,
+    "2011": 8272000,
+    "2012": 10850000,
+    "2013": 6557000
+  },
+  "cash": {
+    "2009": 1393000,
+    "2010": 5792000,
+    "2011": 12724000,
+    "2012": 22994000,
+    "2013": 22661000
+  },
+  "earningsPerShare": {
+    "2010": 0.15,
+    "2011": 0.58,
+    "2012": 0.73,
+    "2013": 0.33
+  },
+  "htmlUrl": "http://www.sec.gov/Archives/edgar/data/3197/000119312514098407/0001193125-14-098407-index.htm",
+  "xmlUrl": "http://www.sec.gov/Archives/edgar/data/3197/000119312514098407/cece-20131231.xml"
+}

@@ -1,0 +1,31 @@
+{
+  "symbol": "crai",
+  "name": "CRA International,Inc.",
+  "ipoYear": 1998,
+  "sector": "Miscellaneous",
+  "industry": "Other Consumer Services",
+  "exchange": "nasdaq",
+  "category": "SERVICES-LEGAL SERVICES",
+  "address": {
+    "street1": "200 CLARENDON STREET",
+    "city": "BOSTON",
+    "state": "MA",
+    "zip": "02116"
+  },
+  "profit": {
+    "2009": 6308000,
+    "2010": -700000,
+    "2011": 100000,
+    "2012": 200000,
+    "2013": 11370000
+  },
+  "cash": {
+    "2009": 82806000,
+    "2010": 87505000,
+    "2011": 61587000,
+    "2012": 55451000,
+    "2013": 51251000
+  },
+  "earningsPerShare": {},
+  "htmlUrl": "http://www.sec.gov/Archives/edgar/data/1053706/000110465914030775/0001104659-14-030775-index.htm"
+}

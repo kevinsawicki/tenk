@@ -1,0 +1,39 @@
+{
+  "symbol": "ccur",
+  "name": "Concurrent Computer Corporation",
+  "ipoYear": null,
+  "sector": "Technology",
+  "industry": "Computer Manufacturing",
+  "exchange": "nasdaq",
+  "category": "ELECTRONIC COMPUTERS",
+  "address": {
+    "street1": "4375 RIVER GREEN PARKWAY",
+    "city": "DULUTH",
+    "state": "GA",
+    "zip": "30097"
+  },
+  "profit": {
+    "2010": -1014000,
+    "2011": -3255000,
+    "2012": -2887000,
+    "2013": 4248000,
+    "2014": 18505000
+  },
+  "cash": {
+    "2009": 29110000,
+    "2010": 31364000,
+    "2011": 27814000,
+    "2012": 29613000,
+    "2013": 27927000,
+    "2014": 28074000
+  },
+  "earningsPerShare": {
+    "2010": -0.12,
+    "2011": -0.39,
+    "2012": -0.34,
+    "2013": 0.49,
+    "2014": 2.08
+  },
+  "htmlUrl": "http://www.sec.gov/Archives/edgar/data/749038/000114036114034313/0001140361-14-034313-index.htm",
+  "xmlUrl": "http://www.sec.gov/Archives/edgar/data/749038/000114036114034313/ccur-20140630.xml"
+}

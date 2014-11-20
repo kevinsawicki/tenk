@@ -1,0 +1,32 @@
+{
+  "symbol": "cbli",
+  "name": "Cleveland BioLabs, Inc.",
+  "ipoYear": 2006,
+  "sector": "Health Care",
+  "industry": "Biotechnology: Commercial Physical & Biological Resarch",
+  "exchange": "nasdaq",
+  "category": "SERVICES-COMMERCIAL PHYSICAL &amp;amp; BIOLOGICAL RESEARCH",
+  "address": {
+    "street1": "73 HIGH STREET",
+    "city": "BUFFALO",
+    "state": "NY",
+    "zip": "14203"
+  },
+  "profit": {
+    "2009": -12826409,
+    "2010": -26366045,
+    "2011": -4013670,
+    "2012": -18234142,
+    "2013": -17262877
+  },
+  "cash": {
+    "2009": 963100,
+    "2010": 10918537,
+    "2011": 22872589,
+    "2012": 25652083,
+    "2013": 10048466
+  },
+  "earningsPerShare": {},
+  "htmlUrl": "http://www.sec.gov/Archives/edgar/data/1318641/000119312514102607/0001193125-14-102607-index.htm",
+  "xmlUrl": "http://www.sec.gov/Archives/edgar/data/1318641/000119312514102607/cbli-20131231.xml"
+}

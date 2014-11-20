@@ -1,0 +1,38 @@
+{
+  "symbol": "cmls",
+  "name": "Cumulus Media Inc.",
+  "ipoYear": 1998,
+  "sector": "Consumer Services",
+  "industry": "Broadcasting",
+  "exchange": "nasdaq",
+  "category": "RADIO BROADCASTING STATIONS",
+  "address": {
+    "street1": "3280 PEACHTREE ROAD N.W.",
+    "city": "ATLANTA",
+    "state": "GA",
+    "zip": "30305"
+  },
+  "profit": {
+    "2009": -126702000,
+    "2010": 29402000,
+    "2011": 63860000,
+    "2012": -32729000,
+    "2013": 176083000
+  },
+  "cash": {
+    "2009": 16224000,
+    "2010": 12814000,
+    "2011": 30592000,
+    "2012": 88050000,
+    "2013": 32792000
+  },
+  "earningsPerShare": {
+    "2009": -3.13,
+    "2010": 0.7,
+    "2011": 0.8,
+    "2012": -0.33,
+    "2013": 0.76
+  },
+  "htmlUrl": "http://www.sec.gov/Archives/edgar/data/1058623/000105862314000014/0001058623-14-000014-index.htm",
+  "xmlUrl": "http://www.sec.gov/Archives/edgar/data/1058623/000105862314000014/cmls-20131231.xml"
+}

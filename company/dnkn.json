@@ -1,0 +1,37 @@
+{
+  "symbol": "dnkn",
+  "name": "Dunkin&#39; Brands Group, Inc.",
+  "ipoYear": 2011,
+  "sector": "Consumer Services",
+  "industry": "Restaurants",
+  "exchange": "nasdaq",
+  "category": "RETAIL-EATING &amp;amp; DRINKING PLACES",
+  "address": {
+    "street1": "130 ROYALL STREET",
+    "city": "CANTON",
+    "state": "MA",
+    "zip": "02021"
+  },
+  "profit": {
+    "2009": 35008000,
+    "2010": 26861000,
+    "2011": 34442000,
+    "2012": 108308000,
+    "2013": 146903000
+  },
+  "cash": {
+    "2009": 53210000,
+    "2010": 134100000,
+    "2011": 246715000,
+    "2012": 252618000,
+    "2013": 256933000
+  },
+  "earningsPerShare": {
+    "2010": -2.04,
+    "2011": -1.41,
+    "2012": 0.94,
+    "2013": 1.38
+  },
+  "htmlUrl": "http://www.sec.gov/Archives/edgar/data/1357204/000135720414000017/0001357204-14-000017-index.htm",
+  "xmlUrl": "http://www.sec.gov/Archives/edgar/data/1357204/000135720414000017/dnkn-20131228.xml"
+}

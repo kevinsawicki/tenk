@@ -1,0 +1,30 @@
+{
+  "symbol": "cccr",
+  "name": "China Commercial Credit, Inc.",
+  "ipoYear": 2013,
+  "sector": "Finance",
+  "industry": "Major Banks",
+  "exchange": "nasdaq",
+  "category": "NATIONAL COMMERCIAL BANKS",
+  "address": {
+    "street1": "No. 1688 Yunli Road, Tongli",
+    "city": "People's Republic of China",
+    "state": "F4",
+    "zip": "215200"
+  },
+  "profit": {
+    "2012": 8312469,
+    "2013": 7704970
+  },
+  "cash": {
+    "2011": 3549644,
+    "2012": 1588061,
+    "2013": 9405865
+  },
+  "earningsPerShare": {
+    "2012": 1.044,
+    "2013": 0.808
+  },
+  "htmlUrl": "http://www.sec.gov/Archives/edgar/data/1556266/000121390014001919/0001213900-14-001919-index.htm",
+  "xmlUrl": "http://www.sec.gov/Archives/edgar/data/1556266/000121390014001919/cccr-20131231.xml"
+}

@@ -1,0 +1,36 @@
+{
+  "symbol": "cnty",
+  "name": "Century Casinos, Inc.",
+  "ipoYear": null,
+  "sector": "Consumer Services",
+  "industry": "Hotels/Resorts",
+  "exchange": "nasdaq",
+  "category": "HOTELS &amp;amp; MOTELS",
+  "address": {
+    "street1": "455 E. PIKES PEAK AVE",
+    "city": "COLORADO SPRINGS",
+    "state": "CO",
+    "zip": "80903"
+  },
+  "profit": {
+    "2010": 1022000,
+    "2011": 3021000,
+    "2012": 4091000,
+    "2013": 6181000
+  },
+  "cash": {
+    "2009": 36992000,
+    "2010": 21461000,
+    "2011": 25192000,
+    "2012": 24747000,
+    "2013": 27348000
+  },
+  "earningsPerShare": {
+    "2010": 0.04,
+    "2011": 0.13,
+    "2012": 0.17,
+    "2013": 0.26
+  },
+  "htmlUrl": "http://www.sec.gov/Archives/edgar/data/911147/000091114714000005/0000911147-14-000005-index.htm",
+  "xmlUrl": "http://www.sec.gov/Archives/edgar/data/911147/000091114714000005/cnty-20131231.xml"
+}

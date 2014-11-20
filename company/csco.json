@@ -1,0 +1,41 @@
+{
+  "symbol": "csco",
+  "name": "Cisco Systems, Inc.",
+  "ipoYear": 1990,
+  "sector": "Technology",
+  "industry": "Computer Communications Equipment",
+  "exchange": "nasdaq",
+  "category": "COMPUTER COMMUNICATIONS EQUIPMENT",
+  "address": {
+    "street1": "170 WEST TASMAN DR",
+    "city": "SAN JOSE",
+    "state": "CA",
+    "zip": "95134-1706"
+  },
+  "profit": {
+    "2009": 6134000000,
+    "2010": 7767000000,
+    "2011": 6490000000,
+    "2012": 8041000000,
+    "2013": 9983000000,
+    "2014": 7853000000
+  },
+  "cash": {
+    "2009": 5718000000,
+    "2010": 4581000000,
+    "2011": 7662000000,
+    "2012": 9799000000,
+    "2013": 7925000000,
+    "2014": 6726000000
+  },
+  "earningsPerShare": {
+    "2009": 1.05,
+    "2010": 1.36,
+    "2011": 1.17,
+    "2012": 1.5,
+    "2013": 1.87,
+    "2014": 1.5
+  },
+  "htmlUrl": "http://www.sec.gov/Archives/edgar/data/858877/000085887714000029/0000858877-14-000029-index.htm",
+  "xmlUrl": "http://www.sec.gov/Archives/edgar/data/858877/000085887714000029/csco-20140726.xml"
+}

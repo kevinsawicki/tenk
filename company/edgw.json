@@ -1,0 +1,38 @@
+{
+  "symbol": "edgw",
+  "name": "Edgewater Technology, Inc.",
+  "ipoYear": null,
+  "sector": "Technology",
+  "industry": "Computer Software: Programming, Data Processing",
+  "exchange": "nasdaq",
+  "category": "SERVICES-COMPUTER PROGRAMMING, DATA PROCESSING, ETC.",
+  "address": {
+    "street1": "200 HARVARD MILL SQUARE",
+    "city": "WAKEFIELD",
+    "state": "MA",
+    "zip": "01880"
+  },
+  "profit": {
+    "2009": -3839000,
+    "2010": -23572000,
+    "2011": 344000,
+    "2012": 1447000,
+    "2013": 34708000
+  },
+  "cash": {
+    "2009": 5889000,
+    "2010": 10903000,
+    "2011": 10333000,
+    "2012": 16651000,
+    "2013": 20321000
+  },
+  "earningsPerShare": {
+    "2009": -0.32,
+    "2010": -1.93,
+    "2011": 0.03,
+    "2012": 0.13,
+    "2013": 3.21
+  },
+  "htmlUrl": "http://www.sec.gov/Archives/edgar/data/1017968/000119312514091264/0001193125-14-091264-index.htm",
+  "xmlUrl": "http://www.sec.gov/Archives/edgar/data/1017968/000119312514091264/edgw-20131231.xml"
+}

@@ -1,0 +1,33 @@
+{
+  "symbol": "fang",
+  "name": "Diamondback Energy, Inc.",
+  "ipoYear": 2012,
+  "sector": "Energy",
+  "industry": "Oil & Gas Production",
+  "exchange": "nasdaq",
+  "category": "CRUDE PETROLEUM &amp;amp; NATURAL GAS",
+  "address": {
+    "street1": "500 WEST TEXAS",
+    "city": "MIDLAND",
+    "state": "TX",
+    "zip": "79701"
+  },
+  "profit": {
+    "2010": 8231000,
+    "2011": -386000,
+    "2012": -36521000,
+    "2013": 54587000
+  },
+  "cash": {
+    "2009": 2430000,
+    "2010": 4119000,
+    "2011": 6959000,
+    "2012": 26358000,
+    "2013": 15555000
+  },
+  "earningsPerShare": {
+    "2013": 1.3
+  },
+  "htmlUrl": "http://www.sec.gov/Archives/edgar/data/1539838/000153983814000007/0001539838-14-000007-index.htm",
+  "xmlUrl": "http://www.sec.gov/Archives/edgar/data/1539838/000153983814000007/fang-20131231.xml"
+}

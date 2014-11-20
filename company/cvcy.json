@@ -1,0 +1,38 @@
+{
+  "symbol": "cvcy",
+  "name": "Central Valley Community Bancorp",
+  "ipoYear": null,
+  "sector": "Finance",
+  "industry": "Major Banks",
+  "exchange": "nasdaq",
+  "category": "STATE COMMERCIAL BANKS",
+  "address": {
+    "street1": "7100 N. FINANCIAL DRIVE, #101",
+    "city": "FRESNO",
+    "state": "CA",
+    "zip": "93720"
+  },
+  "profit": {
+    "2009": 2588000,
+    "2010": 3279000,
+    "2011": 6477000,
+    "2012": 7520000,
+    "2013": 8250000
+  },
+  "cash": {
+    "2009": 48680000,
+    "2010": 100999000,
+    "2011": 44804000,
+    "2012": 52956000,
+    "2013": 112052000
+  },
+  "earningsPerShare": {
+    "2009": 0.29,
+    "2010": 0.31,
+    "2011": 0.63,
+    "2012": 0.75,
+    "2013": 0.77
+  },
+  "htmlUrl": "http://www.sec.gov/Archives/edgar/data/1127371/000112737114000018/0001127371-14-000018-index.htm",
+  "xmlUrl": "http://www.sec.gov/Archives/edgar/data/1127371/000112737114000018/cvcy-20131231.xml"
+}

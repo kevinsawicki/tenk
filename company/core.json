@@ -1,0 +1,38 @@
+{
+  "symbol": "core",
+  "name": "Core-Mark Holding Company, Inc.",
+  "ipoYear": null,
+  "sector": "Consumer Non-Durables",
+  "industry": "Food Distributors",
+  "exchange": "nasdaq",
+  "category": "WHOLESALE-GROCERIES &amp;amp; GENERAL LINE",
+  "address": {
+    "street1": "395 OYSTER POINT BLVD.",
+    "city": "SOUTH SAN FRANCISCO",
+    "state": "CA",
+    "zip": "94080"
+  },
+  "profit": {
+    "2009": 47300000,
+    "2010": 17700000,
+    "2011": 26200000,
+    "2012": 33900000,
+    "2013": 41600000
+  },
+  "cash": {
+    "2009": 17700000,
+    "2010": 16100000,
+    "2011": 15200000,
+    "2012": 19100000,
+    "2013": 11000000
+  },
+  "earningsPerShare": {
+    "2009": 4.53,
+    "2010": 1.64,
+    "2011": 2.3,
+    "2012": 2.96,
+    "2013": 3.62
+  },
+  "htmlUrl": "http://www.sec.gov/Archives/edgar/data/1318084/000131808414000016/0001318084-14-000016-index.htm",
+  "xmlUrl": "http://www.sec.gov/Archives/edgar/data/1318084/000131808414000016/core-20131231.xml"
+}

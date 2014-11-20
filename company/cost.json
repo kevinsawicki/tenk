@@ -1,0 +1,41 @@
+{
+  "symbol": "cost",
+  "name": "Costco Wholesale Corporation",
+  "ipoYear": null,
+  "sector": "Consumer Services",
+  "industry": "Department/Specialty Retail Stores",
+  "exchange": "nasdaq",
+  "category": "RETAIL-VARIETY STORES",
+  "address": {
+    "street1": "999 LAKE DRIVE",
+    "city": "ISSAQUAH",
+    "state": "WA",
+    "zip": "98027-"
+  },
+  "profit": {
+    "2009": 1086000000,
+    "2010": 1303000000,
+    "2011": 1462000000,
+    "2012": 1709000000,
+    "2013": 2039000000,
+    "2014": 2058000000
+  },
+  "cash": {
+    "2009": 3157000000,
+    "2010": 3214000000,
+    "2011": 4009000000,
+    "2012": 3528000000,
+    "2013": 4644000000,
+    "2014": 5738000000
+  },
+  "earningsPerShare": {
+    "2009": 2.5,
+    "2010": 2.97,
+    "2011": 3.35,
+    "2012": 3.94,
+    "2013": 4.68,
+    "2014": 4.69
+  },
+  "htmlUrl": "http://www.sec.gov/Archives/edgar/data/909832/000090983214000021/0000909832-14-000021-index.htm",
+  "xmlUrl": "http://www.sec.gov/Archives/edgar/data/909832/000090983214000021/cost-20140831.xml"
+}

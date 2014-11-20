@@ -1,0 +1,31 @@
+{
+  "symbol": "clvs",
+  "name": "Clovis Oncology, Inc.",
+  "ipoYear": 2011,
+  "sector": "Health Care",
+  "industry": "Major Pharmaceuticals",
+  "exchange": "nasdaq",
+  "category": "PHARMACEUTICAL PREPARATIONS",
+  "address": {
+    "street1": "2525 28TH STREET",
+    "city": "BOULDER",
+    "state": "CO",
+    "zip": "80301"
+  },
+  "profit": {
+    "2010": -37830000,
+    "2011": -55570000,
+    "2012": -73983000,
+    "2013": -84532000
+  },
+  "cash": {
+    "2009": 57311000,
+    "2010": 10508000,
+    "2011": 138236000,
+    "2012": 144097000,
+    "2013": 323228000
+  },
+  "earningsPerShare": {},
+  "htmlUrl": "http://www.sec.gov/Archives/edgar/data/1466301/000119312514076654/0001193125-14-076654-index.htm",
+  "xmlUrl": "http://www.sec.gov/Archives/edgar/data/1466301/000119312514076654/clvs-20131231.xml"
+}

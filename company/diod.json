@@ -1,0 +1,38 @@
+{
+  "symbol": "diod",
+  "name": "Diodes Incorporated",
+  "ipoYear": null,
+  "sector": "Technology",
+  "industry": "Semiconductors",
+  "exchange": "nasdaq",
+  "category": "SEMICONDUCTORS &amp;amp; RELATED DEVICES",
+  "address": {
+    "street1": "4949 HEDGCOXE ROAD",
+    "city": "PLANO",
+    "state": "TX",
+    "zip": "75024"
+  },
+  "profit": {
+    "2009": 7513000,
+    "2010": 76733000,
+    "2011": 50737000,
+    "2012": 24152000,
+    "2013": 26532000
+  },
+  "cash": {
+    "2009": 241953000,
+    "2010": 270901000,
+    "2011": 129510000,
+    "2012": 157121000,
+    "2013": 196635000
+  },
+  "earningsPerShare": {
+    "2009": 0.18,
+    "2010": 1.74,
+    "2011": 1.12,
+    "2012": 0.53,
+    "2013": 0.57
+  },
+  "htmlUrl": "http://www.sec.gov/Archives/edgar/data/29002/000119312514073365/0001193125-14-073365-index.htm",
+  "xmlUrl": "http://www.sec.gov/Archives/edgar/data/29002/000119312514073365/diod-20131231.xml"
+}

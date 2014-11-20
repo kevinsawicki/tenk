@@ -1,0 +1,30 @@
+{
+  "symbol": "chev",
+  "name": "Cheviot Financial Corp",
+  "ipoYear": 2004,
+  "sector": "Finance",
+  "industry": "Savings Institutions",
+  "exchange": "nasdaq",
+  "category": "SAVINGS INSTITUTION, FEDERALLY CHARTERED",
+  "address": {
+    "street1": "3723 GLENMORE AVENUE",
+    "city": "CHEVIOT",
+    "state": "OH",
+    "zip": "45211"
+  },
+  "profit": {
+    "2009": 1101000,
+    "2010": 1978000,
+    "2011": 3366000,
+    "2012": 3355000,
+    "2013": 1432000
+  },
+  "cash": {
+    "2009": 11283000,
+    "2010": 18149000,
+    "2011": 45140000
+  },
+  "earningsPerShare": {},
+  "htmlUrl": "http://www.sec.gov/Archives/edgar/data/1528843/000118811214000653/0001188112-14-000653-index.htm",
+  "xmlUrl": "http://www.sec.gov/Archives/edgar/data/1528843/000118811214000653/chev-20131231.xml"
+}

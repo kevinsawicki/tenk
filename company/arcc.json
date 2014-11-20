@@ -1,0 +1,16 @@
+{
+  "symbol": "arcc",
+  "name": "Ares Capital Corporation",
+  "ipoYear": 2004,
+  "exchange": "nasdaq",
+  "address": {
+    "street1": "245 PARK AVENUE, 44TH FLOOR",
+    "city": "NEW YORK",
+    "state": "NY",
+    "zip": "10167"
+  },
+  "profit": {},
+  "cash": {},
+  "earningsPerShare": {},
+  "htmlUrl": "http://www.sec.gov/Archives/edgar/data/1287750/000104746914001349/0001047469-14-001349-index.htm"
+}

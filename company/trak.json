@@ -1,0 +1,32 @@
+{
+  "symbol": "trak",
+  "name": "Dealertrack Technologies, Inc.",
+  "ipoYear": 2005,
+  "sector": "Technology",
+  "industry": "EDP Services",
+  "exchange": "nasdaq",
+  "category": "SERVICES-COMPUTER INTEGRATED SYSTEMS DESIGN",
+  "address": {
+    "street1": "1111 MARCUS AVENUE",
+    "city": "LAKE SUCCESS",
+    "state": "NY",
+    "zip": "11042"
+  },
+  "profit": {
+    "2009": -4334000,
+    "2010": -27833000,
+    "2011": 65135000,
+    "2012": 20454000,
+    "2013": 5894000
+  },
+  "cash": {
+    "2009": 197509000,
+    "2010": 192563000,
+    "2011": 78709000,
+    "2012": 143811000,
+    "2013": 122373000
+  },
+  "earningsPerShare": {},
+  "htmlUrl": "http://www.sec.gov/Archives/edgar/data/1333513/000114420414011060/0001144204-14-011060-index.htm",
+  "xmlUrl": "http://www.sec.gov/Archives/edgar/data/1333513/000114420414011060/trak-20131231.xml"
+}

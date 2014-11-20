@@ -1,0 +1,38 @@
+{
+  "symbol": "dtv",
+  "name": "DIRECTV",
+  "ipoYear": null,
+  "sector": "Consumer Services",
+  "industry": "Telecommunications Equipment",
+  "exchange": "nasdaq",
+  "category": "COMMUNICATION SERVICES, NEC",
+  "address": {
+    "street1": "2260 E. IMPERIAL HIGHWAY",
+    "city": "EL SEGUNDO",
+    "state": "CA",
+    "zip": "90245"
+  },
+  "profit": {
+    "2009": 942000000,
+    "2010": 2198000000,
+    "2011": 86000000,
+    "2012": 109000000,
+    "2013": 37000000
+  },
+  "cash": {
+    "2009": 2605000000,
+    "2010": 1502000000,
+    "2011": 873000000,
+    "2012": 1902000000,
+    "2013": 2180000000
+  },
+  "earningsPerShare": {
+    "2009": 0.96,
+    "2010": 2.31,
+    "2011": 0.12,
+    "2012": 0.17,
+    "2013": 0.07
+  },
+  "htmlUrl": "http://www.sec.gov/Archives/edgar/data/1465112/000104746914005938/0001047469-14-005938-index.htm",
+  "xmlUrl": "http://www.sec.gov/Archives/edgar/data/1465112/000104746914005938/dtv-20131231.xml"
+}

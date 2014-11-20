@@ -1,0 +1,38 @@
+{
+  "symbol": "disca",
+  "name": "Discovery Communications, Inc.",
+  "ipoYear": null,
+  "sector": "Consumer Services",
+  "industry": "Television Services",
+  "exchange": "nasdaq",
+  "category": "CABLE &amp;amp; OTHER PAY TELEVISION SERVICES",
+  "address": {
+    "street1": "1 DISCOVERY PLACE",
+    "city": "SILVER SPRING",
+    "state": "MD",
+    "zip": "20910"
+  },
+  "profit": {
+    "2009": 549000000,
+    "2010": 653000000,
+    "2011": 1132000000,
+    "2012": 943000000,
+    "2013": 1075000000
+  },
+  "cash": {
+    "2009": 623000000,
+    "2010": 466000000,
+    "2011": 1048000000,
+    "2012": 1201000000,
+    "2013": 408000000
+  },
+  "earningsPerShare": {
+    "2009": 1.28,
+    "2010": 1.53,
+    "2011": 2.82,
+    "2012": 2.51,
+    "2013": 3.01
+  },
+  "htmlUrl": "http://www.sec.gov/Archives/edgar/data/1437107/000143710714000016/0001437107-14-000016-index.htm",
+  "xmlUrl": "http://www.sec.gov/Archives/edgar/data/1437107/000143710714000016/disca-20131231.xml"
+}

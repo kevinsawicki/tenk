@@ -1,0 +1,36 @@
+{
+  "symbol": "ctrx",
+  "name": "Catamaran Corporation",
+  "ipoYear": null,
+  "sector": "Finance",
+  "industry": "Specialty Insurers",
+  "exchange": "nasdaq",
+  "category": "INSURANCE AGENTS BROKERS &amp;amp; SERVICES",
+  "address": {
+    "street1": "1600 MCCONNOR PARKWAY",
+    "city": "SCHAUMBURG",
+    "state": "IL",
+    "zip": "60173-6801"
+  },
+  "profit": {
+    "2010": 64735000,
+    "2011": 91786000,
+    "2012": 116658000,
+    "2013": 262170000
+  },
+  "cash": {
+    "2009": 304370000,
+    "2010": 321284000,
+    "2011": 341382000,
+    "2012": 370776000,
+    "2013": 387241000
+  },
+  "earningsPerShare": {
+    "2010": 0.53,
+    "2011": 0.74,
+    "2012": 0.7,
+    "2013": 1.27
+  },
+  "htmlUrl": "http://www.sec.gov/Archives/edgar/data/1363851/000136385114000006/0001363851-14-000006-index.htm",
+  "xmlUrl": "http://www.sec.gov/Archives/edgar/data/1363851/000136385114000006/ctrx-20131231.xml"
+}

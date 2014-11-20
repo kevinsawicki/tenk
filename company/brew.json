@@ -1,0 +1,31 @@
+{
+  "symbol": "brew",
+  "name": "Craft Brew Alliance, Inc.",
+  "ipoYear": null,
+  "sector": "Consumer Non-Durables",
+  "industry": "Beverages (Production/Distribution)",
+  "exchange": "nasdaq",
+  "category": "MALT BEVERAGES",
+  "address": {
+    "street1": "929 NORTH RUSSELL",
+    "city": "PORTLAND",
+    "state": "OR",
+    "zip": "97227"
+  },
+  "profit": {
+    "2010": 1686000,
+    "2011": 9651000,
+    "2012": 2526000,
+    "2013": 1959000
+  },
+  "cash": {
+    "2009": 11000,
+    "2010": 164000,
+    "2011": 795000,
+    "2012": 5013000,
+    "2013": 2726000
+  },
+  "earningsPerShare": {},
+  "htmlUrl": "http://www.sec.gov/Archives/edgar/data/892222/000114036114011454/0001140361-14-011454-index.htm",
+  "xmlUrl": "http://www.sec.gov/Archives/edgar/data/892222/000114036114011454/brew-20131231.xml"
+}

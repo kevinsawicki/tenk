@@ -1,0 +1,38 @@
+{
+  "symbol": "efii",
+  "name": "Electronics for Imaging, Inc.",
+  "ipoYear": 1992,
+  "sector": "Technology",
+  "industry": "Computer Communications Equipment",
+  "exchange": "nasdaq",
+  "category": "COMPUTER COMMUNICATIONS EQUIPMENT",
+  "address": {
+    "street1": "303 VELOCITY WAY",
+    "city": "FOSTER CITY",
+    "state": "CA",
+    "zip": "94404"
+  },
+  "profit": {
+    "2009": -2171000,
+    "2010": 7487000,
+    "2011": 27465000,
+    "2012": 83269000,
+    "2013": 109107000
+  },
+  "cash": {
+    "2009": 106067000,
+    "2010": 126363000,
+    "2011": 120058000,
+    "2012": 283996000,
+    "2013": 177084000
+  },
+  "earningsPerShare": {
+    "2009": -0.04,
+    "2010": 0.16,
+    "2011": 0.59,
+    "2012": 1.79,
+    "2013": 2.34
+  },
+  "htmlUrl": "http://www.sec.gov/Archives/edgar/data/867374/000119312514059246/0001193125-14-059246-index.htm",
+  "xmlUrl": "http://www.sec.gov/Archives/edgar/data/867374/000119312514059246/efii-20131231.xml"
+}

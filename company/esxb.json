@@ -1,0 +1,32 @@
+{
+  "symbol": "esxb",
+  "name": "Community Bankers Trust Corporation.",
+  "ipoYear": null,
+  "sector": "Finance",
+  "industry": "Major Banks",
+  "exchange": "nasdaq",
+  "category": "STATE COMMERCIAL BANKS",
+  "address": {
+    "street1": "9954 MAYLAND DRIVE",
+    "city": "RICHMOND",
+    "state": "VA",
+    "zip": "23233"
+  },
+  "profit": {
+    "2011": 1444000,
+    "2012": 5582000,
+    "2013": 5906000
+  },
+  "cash": {
+    "2011": 521000,
+    "2012": 838000,
+    "2013": 323000
+  },
+  "earningsPerShare": {
+    "2011": 0.02,
+    "2012": 0.21,
+    "2013": 0.22
+  },
+  "htmlUrl": "http://www.sec.gov/Archives/edgar/data/1323648/000119312514099492/0001193125-14-099492-index.htm",
+  "xmlUrl": "http://www.sec.gov/Archives/edgar/data/1323648/000119312514099492/esxb-20131231.xml"
+}

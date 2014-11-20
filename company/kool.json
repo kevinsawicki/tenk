@@ -1,0 +1,32 @@
+{
+  "symbol": "kool",
+  "name": "Cesca Therapeutics Inc.",
+  "ipoYear": null,
+  "sector": "Capital Goods",
+  "industry": "Medical Specialities",
+  "exchange": "nasdaq",
+  "category": "LABORATORY APPARATUS &amp;amp; FURNITURE",
+  "address": {
+    "street1": "2711 CITRUS ROAD",
+    "city": "RANCHO CORDOVA",
+    "state": "CA",
+    "zip": "95742"
+  },
+  "profit": {
+    "2010": -5193000,
+    "2011": -2567000,
+    "2012": -4986000,
+    "2013": -3086000,
+    "2014": -8631000
+  },
+  "cash": {
+    "2009": 6655000,
+    "2010": 10731000,
+    "2011": 12309000,
+    "2012": 7879000,
+    "2013": 6884000,
+    "2014": 14811000
+  },
+  "earningsPerShare": {},
+  "htmlUrl": "http://www.sec.gov/Archives/edgar/data/811212/000114036114039244/0001140361-14-039244-index.htm"
+}

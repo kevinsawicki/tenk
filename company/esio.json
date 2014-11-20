@@ -1,0 +1,32 @@
+{
+  "symbol": "esio",
+  "name": "Electro Scientific Industries, Inc.",
+  "ipoYear": null,
+  "sector": "Miscellaneous",
+  "industry": "Industrial Machinery/Components",
+  "exchange": "nasdaq",
+  "category": "MISCELLANEOUS ELECTRICAL MACHINERY, EQUIPMENT &amp;amp; SUPPLIES",
+  "address": {
+    "street1": "13900 NW SCIENCE PARK DR",
+    "city": "PORTLAND",
+    "state": "OR",
+    "zip": "97229"
+  },
+  "profit": {
+    "2010": -11984000,
+    "2011": 7934000,
+    "2012": 4904000
+  },
+  "cash": {
+    "2009": 153538000,
+    "2010": 39335000,
+    "2011": 116412000,
+    "2012": 69780000
+  },
+  "earningsPerShare": {
+    "2010": -0.44,
+    "2011": 0.28,
+    "2012": 0.17
+  },
+  "htmlUrl": "http://www.sec.gov/Archives/edgar/data/726514/000072651414000058/0000726514-14-000058-index.htm"
+}

@@ -1,0 +1,39 @@
+{
+  "symbol": "clct",
+  "name": "Collectors Universe, Inc.",
+  "ipoYear": 1999,
+  "sector": "Miscellaneous",
+  "industry": "Business Services",
+  "exchange": "nasdaq",
+  "category": "SERVICES-BUSINESS SERVICES, NEC",
+  "address": {
+    "street1": "1921 E. ALTON AVENUE",
+    "city": "SANTA ANA",
+    "state": "CA",
+    "zip": "92705"
+  },
+  "profit": {
+    "2010": 16698000,
+    "2011": 5119000,
+    "2012": 6749000,
+    "2013": 5730000,
+    "2014": 7359000
+  },
+  "cash": {
+    "2009": 23870000,
+    "2010": 20321000,
+    "2011": 21926000,
+    "2012": 21214000,
+    "2013": 18711000,
+    "2014": 19909000
+  },
+  "earningsPerShare": {
+    "2010": 2.24,
+    "2011": 0.67,
+    "2012": 0.85,
+    "2013": 0.71,
+    "2014": 0.9
+  },
+  "htmlUrl": "http://www.sec.gov/Archives/edgar/data/1089143/000143774914016275/0001437749-14-016275-index.htm",
+  "xmlUrl": "http://www.sec.gov/Archives/edgar/data/1089143/000143774914016275/clct-20140630.xml"
+}

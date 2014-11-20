@@ -1,0 +1,36 @@
+{
+  "symbol": "cjjd",
+  "name": "China Jo-Jo Drugstores, Inc.",
+  "ipoYear": null,
+  "sector": "Health Care",
+  "industry": "Other Pharmaceuticals",
+  "exchange": "nasdaq",
+  "category": "MEDICINAL CHEMICALS &amp;amp; BOTANICAL PRODUCTS",
+  "address": {
+    "street1": "1ST FLOOR, YUZHENG PLAZA",
+    "city": "ZHEJIANG PROVINCE",
+    "state": "F4",
+    "zip": "310008"
+  },
+  "profit": {
+    "2011": 8432458,
+    "2012": 8141626,
+    "2013": -14333731,
+    "2014": -25356136
+  },
+  "cash": {
+    "2010": 801593,
+    "2011": 6489905,
+    "2012": 3833216,
+    "2013": 4524094,
+    "2014": 4445276
+  },
+  "earningsPerShare": {
+    "2011": 0.64,
+    "2012": 0.6,
+    "2013": 1.06,
+    "2014": 1.83
+  },
+  "htmlUrl": "http://www.sec.gov/Archives/edgar/data/1413263/000121390014004536/0001213900-14-004536-index.htm",
+  "xmlUrl": "http://www.sec.gov/Archives/edgar/data/1413263/000121390014004536/cjjd-20140331.xml"
+}

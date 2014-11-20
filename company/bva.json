@@ -1,0 +1,27 @@
+{
+  "symbol": "bva",
+  "name": "Cordia Bancorp Inc.",
+  "ipoYear": null,
+  "exchange": "nasdaq",
+  "category": "STATE COMMERCIAL BANKS",
+  "address": {
+    "street1": "11730 HULL STREET ROAD",
+    "city": "MIDLOTHIAN",
+    "state": "VA",
+    "zip": "23112"
+  },
+  "profit": {
+    "2012": -544000,
+    "2013": 696000
+  },
+  "cash": {
+    "2011": 27417000,
+    "2012": 11981000,
+    "2013": 13984000
+  },
+  "earningsPerShare": {
+    "2012": -0.32,
+    "2013": 0.27
+  },
+  "htmlUrl": "http://www.sec.gov/Archives/edgar/data/1466292/000114420414025828/0001144204-14-025828-index.htm"
+}

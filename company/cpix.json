@@ -1,0 +1,38 @@
+{
+  "symbol": "cpix",
+  "name": "Cumberland Pharmaceuticals Inc.",
+  "ipoYear": 2009,
+  "sector": "Health Care",
+  "industry": "Major Pharmaceuticals",
+  "exchange": "nasdaq",
+  "category": "PHARMACEUTICAL PREPARATIONS",
+  "address": {
+    "street1": "2525 WEST END AVENUE",
+    "city": "NASHVILLE,",
+    "state": "TN",
+    "zip": "37203"
+  },
+  "profit": {
+    "2009": 3091415,
+    "2010": 2456680,
+    "2011": 5657856,
+    "2012": 5842492,
+    "2013": -2104614
+  },
+  "cash": {
+    "2009": 78701682,
+    "2010": 65893970,
+    "2011": 70599146,
+    "2012": 54349381,
+    "2013": 40869457
+  },
+  "earningsPerShare": {
+    "2009": 0.22,
+    "2010": 0.12,
+    "2011": 0.28,
+    "2012": 0.3,
+    "2013": -0.11
+  },
+  "htmlUrl": "http://www.sec.gov/Archives/edgar/data/1087294/000108729414000010/0001087294-14-000010-index.htm",
+  "xmlUrl": "http://www.sec.gov/Archives/edgar/data/1087294/000108729414000010/cpix-20131231.xml"
+}

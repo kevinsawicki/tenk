@@ -1,0 +1,39 @@
+{
+  "symbol": "daeg",
+  "name": "Daegis Inc",
+  "ipoYear": null,
+  "sector": "Technology",
+  "industry": "Computer Software: Prepackaged Software",
+  "exchange": "nasdaq",
+  "category": "SERVICES-PREPACKAGED SOFTWARE",
+  "address": {
+    "street1": "1420 ROCKY RIDGE DRIVE",
+    "city": "ROSEVILLE",
+    "state": "CA",
+    "zip": "95661"
+  },
+  "profit": {
+    "2010": 124000,
+    "2011": -16665000,
+    "2012": -16662000,
+    "2013": 532000,
+    "2014": -1558000
+  },
+  "cash": {
+    "2009": 6147000,
+    "2010": 3055000,
+    "2011": 4577000,
+    "2012": 4752000,
+    "2013": 5459000,
+    "2014": 7178000
+  },
+  "earningsPerShare": {
+    "2010": 0.01,
+    "2011": -1.23,
+    "2012": -1.16,
+    "2013": 0.01,
+    "2014": -0.1
+  },
+  "htmlUrl": "http://www.sec.gov/Archives/edgar/data/880562/000120677414001994/0001206774-14-001994-index.htm",
+  "xmlUrl": "http://www.sec.gov/Archives/edgar/data/880562/000120677414001994/daeg-20140430.xml"
+}

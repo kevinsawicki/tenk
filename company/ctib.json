@@ -1,0 +1,36 @@
+{
+  "symbol": "ctib",
+  "name": "CTI Industries Corporation",
+  "ipoYear": 1997,
+  "sector": "Basic Industries",
+  "industry": "Specialty Chemicals",
+  "exchange": "nasdaq",
+  "category": "FABRICATED RUBBER PRODUCTS, NEC",
+  "address": {
+    "street1": "22160 N PEPPER RD",
+    "city": "BARRINGTON",
+    "state": "IL",
+    "zip": "60010"
+  },
+  "profit": {
+    "2010": 1827518,
+    "2011": 483910,
+    "2012": 101749,
+    "2013": 375509
+  },
+  "cash": {
+    "2009": 870446,
+    "2010": 761874,
+    "2011": 338523,
+    "2012": 351064,
+    "2013": 666616
+  },
+  "earningsPerShare": {
+    "2010": 0.61,
+    "2011": 0.15,
+    "2012": 0.03,
+    "2013": 0.12
+  },
+  "htmlUrl": "http://www.sec.gov/Archives/edgar/data/1042187/000114420414019635/0001144204-14-019635-index.htm",
+  "xmlUrl": "http://www.sec.gov/Archives/edgar/data/1042187/000114420414019635/ctib-20131231.xml"
+}

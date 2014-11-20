@@ -1,0 +1,39 @@
+{
+  "symbol": "elrc",
+  "name": "Electro Rent Corporation",
+  "ipoYear": null,
+  "sector": "Technology",
+  "industry": "Diversified Commercial Services",
+  "exchange": "nasdaq",
+  "category": "SERVICES-EQUIPMENT RENTAL &amp;amp; LEASING, NEC",
+  "address": {
+    "street1": "6060 SEPULVEDA BLVD",
+    "city": "VAN NUYS",
+    "state": "CA",
+    "zip": "91411-2512"
+  },
+  "profit": {
+    "2010": 11597000,
+    "2011": 23756000,
+    "2012": 25772000,
+    "2013": 22754000,
+    "2014": 20408000
+  },
+  "cash": {
+    "2009": 22215000,
+    "2010": 32906000,
+    "2011": 41441000,
+    "2012": 9290000,
+    "2013": 10402000,
+    "2014": 5946000
+  },
+  "earningsPerShare": {
+    "2010": 0.48,
+    "2011": 0.99,
+    "2012": 1.07,
+    "2013": 0.94,
+    "2014": 0.84
+  },
+  "htmlUrl": "http://www.sec.gov/Archives/edgar/data/32166/000003216614000022/0000032166-14-000022-index.htm",
+  "xmlUrl": "http://www.sec.gov/Archives/edgar/data/32166/000003216614000022/elrc-20140531.xml"
+}

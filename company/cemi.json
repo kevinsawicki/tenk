@@ -1,0 +1,36 @@
+{
+  "symbol": "cemi",
+  "name": "Chembio Diagnostics, Inc.",
+  "ipoYear": null,
+  "sector": "Health Care",
+  "industry": "Major Pharmaceuticals",
+  "exchange": "nasdaq",
+  "category": "PHARMACEUTICAL PREPARATIONS",
+  "address": {
+    "street1": "3661 HORSEBLOCK ROAD",
+    "city": "MEDFORD",
+    "state": "NY",
+    "zip": "11763"
+  },
+  "profit": {
+    "2010": 2513344,
+    "2011": 6208791,
+    "2012": 941281,
+    "2013": 530818
+  },
+  "cash": {
+    "2009": 1068235,
+    "2010": 2136351,
+    "2011": 3010954,
+    "2012": 2951859,
+    "2013": 9650275
+  },
+  "earningsPerShare": {
+    "2010": 0.04,
+    "2011": 0.79,
+    "2012": 0.12,
+    "2013": 0.06
+  },
+  "htmlUrl": "http://www.sec.gov/Archives/edgar/data/1092662/000109266214000018/0001092662-14-000018-index.htm",
+  "xmlUrl": "http://www.sec.gov/Archives/edgar/data/1092662/000109266214000018/cemi-20131231.xml"
+}

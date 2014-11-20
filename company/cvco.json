@@ -1,0 +1,39 @@
+{
+  "symbol": "cvco",
+  "name": "Cavco Industries, Inc.",
+  "ipoYear": null,
+  "sector": "Basic Industries",
+  "industry": "Homebuilding",
+  "exchange": "nasdaq",
+  "category": "MOBILE HOMES",
+  "address": {
+    "street1": "1001 N. CENTRAL AVE",
+    "city": "PHOENIX",
+    "state": "AZ",
+    "zip": "85004"
+  },
+  "profit": {
+    "2010": -3371000,
+    "2011": 2831000,
+    "2012": 15237000,
+    "2013": 4963000,
+    "2014": 16238000
+  },
+  "cash": {
+    "2009": 70557000,
+    "2010": 74988000,
+    "2011": 76513000,
+    "2012": 41094000,
+    "2013": 47823000,
+    "2014": 72949000
+  },
+  "earningsPerShare": {
+    "2010": -0.52,
+    "2011": 0.43,
+    "2012": 2.22,
+    "2013": 0.71,
+    "2014": 1.97
+  },
+  "htmlUrl": "http://www.sec.gov/Archives/edgar/data/278166/000027816614000019/0000278166-14-000019-index.htm",
+  "xmlUrl": "http://www.sec.gov/Archives/edgar/data/278166/000027816614000019/cvco-20140329.xml"
+}

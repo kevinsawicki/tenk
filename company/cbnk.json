@@ -1,0 +1,38 @@
+{
+  "symbol": "cbnk",
+  "name": "Chicopee Bancorp, Inc.",
+  "ipoYear": null,
+  "sector": "Finance",
+  "industry": "Banks",
+  "exchange": "nasdaq",
+  "category": "SAVINGS INSTITUTIONS, NOT FEDERALLY CHARTERED",
+  "address": {
+    "street1": "70 CENTER STREET",
+    "city": "CHICOPEE",
+    "state": "MA",
+    "zip": "01013"
+  },
+  "profit": {
+    "2009": -1596000,
+    "2010": 465000,
+    "2011": 1100000,
+    "2012": 2465000,
+    "2013": 2553000
+  },
+  "cash": {
+    "2009": 20075000,
+    "2010": 35873000,
+    "2011": 61122000,
+    "2012": 39608000,
+    "2013": 18915000
+  },
+  "earningsPerShare": {
+    "2009": -0.28,
+    "2010": 0.08,
+    "2011": 0.21,
+    "2012": 0.49,
+    "2013": 0.51
+  },
+  "htmlUrl": "http://www.sec.gov/Archives/edgar/data/1355786/000135578614000012/0001355786-14-000012-index.htm",
+  "xmlUrl": "http://www.sec.gov/Archives/edgar/data/1355786/000135578614000012/cbnk-20131231.xml"
+}

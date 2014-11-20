@@ -1,0 +1,32 @@
+{
+  "symbol": "cldx",
+  "name": "Celldex Therapeutics, Inc.",
+  "ipoYear": null,
+  "sector": "Health Care",
+  "industry": "Biotechnology: In Vitro & In Vivo Diagnostic Substances",
+  "exchange": "nasdaq",
+  "category": "IN VITRO &amp;amp; IN VIVO DIAGNOSTIC SUBSTANCES",
+  "address": {
+    "street1": "53 FRONTAGE ROAD",
+    "city": "HAMPTON",
+    "state": "NJ",
+    "zip": "08827"
+  },
+  "profit": {
+    "2009": -36525000,
+    "2010": -2533000,
+    "2011": -44799000,
+    "2012": -59123000,
+    "2013": -81550000
+  },
+  "cash": {
+    "2009": 57002000,
+    "2010": 21287000,
+    "2011": 11899000,
+    "2012": 24897000,
+    "2013": 169402000
+  },
+  "earningsPerShare": {},
+  "htmlUrl": "http://www.sec.gov/Archives/edgar/data/744218/000104746914001653/0001047469-14-001653-index.htm",
+  "xmlUrl": "http://www.sec.gov/Archives/edgar/data/744218/000104746914001653/cldx-20131231.xml"
+}

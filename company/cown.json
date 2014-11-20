@@ -1,0 +1,32 @@
+{
+  "symbol": "cown",
+  "name": "Cowen Group, Inc.",
+  "ipoYear": null,
+  "sector": "Finance",
+  "industry": "Investment Bankers/Brokers/Service",
+  "exchange": "nasdaq",
+  "category": "SECURITY BROKERS, DEALERS &amp;amp; FLOTATION COMPANIES",
+  "address": {
+    "street1": "599 LEXINGTON AVENUE, 20TH FLOOR",
+    "city": "NEW YORK",
+    "state": "NY",
+    "zip": "10022"
+  },
+  "profit": {
+    "2009": -55287000,
+    "2010": -45417000,
+    "2011": -108010000,
+    "2012": -23885000,
+    "2013": 4647000
+  },
+  "cash": {
+    "2009": 147367000,
+    "2010": 36354000,
+    "2011": 128875000,
+    "2012": 83538000,
+    "2013": 54720000
+  },
+  "earningsPerShare": {},
+  "htmlUrl": "http://www.sec.gov/Archives/edgar/data/1466538/000146653814000008/0001466538-14-000008-index.htm",
+  "xmlUrl": "http://www.sec.gov/Archives/edgar/data/1466538/000146653814000008/cown-20131231.xml"
+}

@@ -1,0 +1,39 @@
+{
+  "symbol": "crvl",
+  "name": "CorVel Corp.",
+  "ipoYear": null,
+  "sector": "Finance",
+  "industry": "Specialty Insurers",
+  "exchange": "nasdaq",
+  "category": "INSURANCE AGENTS BROKERS &amp;amp; SERVICES",
+  "address": {
+    "street1": "2010 MAIN STREE",
+    "city": "IRVINE",
+    "state": "CA",
+    "zip": "92614"
+  },
+  "profit": {
+    "2010": 26096000,
+    "2011": 24663000,
+    "2012": 26552000,
+    "2013": 26730000,
+    "2014": 34392000
+  },
+  "cash": {
+    "2009": 13217000,
+    "2010": 10242000,
+    "2011": 12269000,
+    "2012": 6597000,
+    "2013": 19822000,
+    "2014": 34866000
+  },
+  "earningsPerShare": {
+    "2010": 2.09,
+    "2011": 2.09,
+    "2012": 1.16,
+    "2013": 1.2,
+    "2014": 1.63
+  },
+  "htmlUrl": "http://www.sec.gov/Archives/edgar/data/874866/000119312514234829/0001193125-14-234829-index.htm",
+  "xmlUrl": "http://www.sec.gov/Archives/edgar/data/874866/000119312514234829/crvl-20140331.xml"
+}

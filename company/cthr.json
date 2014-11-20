@@ -1,0 +1,36 @@
+{
+  "symbol": "cthr",
+  "name": "Charles & Colvard Ltd",
+  "ipoYear": 1997,
+  "sector": "Consumer Durables",
+  "industry": "Consumer Specialties",
+  "exchange": "nasdaq",
+  "category": "JEWELRY, SILVERWARE &amp;amp; PLATED WARE",
+  "address": {
+    "street1": "170 SOUTHPORT DRIVE",
+    "city": "MORRISVILLE",
+    "state": "NC",
+    "zip": "27560"
+  },
+  "profit": {
+    "2010": 1556884,
+    "2011": 1568132,
+    "2012": 4377654,
+    "2013": -1291098
+  },
+  "cash": {
+    "2009": 7405685,
+    "2010": 7736044,
+    "2011": 6701701,
+    "2012": 11860842,
+    "2013": 2573405
+  },
+  "earningsPerShare": {
+    "2010": 0.08,
+    "2011": 0.08,
+    "2012": 0.22,
+    "2013": -0.06
+  },
+  "htmlUrl": "http://www.sec.gov/Archives/edgar/data/1015155/000114036114014335/0001140361-14-014335-index.htm",
+  "xmlUrl": "http://www.sec.gov/Archives/edgar/data/1015155/000114036114014335/cthr-20131231.xml"
+}

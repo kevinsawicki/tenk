@@ -1,0 +1,38 @@
+{
+  "symbol": "cmcsa",
+  "name": "Comcast Corporation",
+  "ipoYear": null,
+  "sector": "Consumer Services",
+  "industry": "Television Services",
+  "exchange": "nasdaq",
+  "category": "CABLE &amp;amp; OTHER PAY TELEVISION SERVICES",
+  "address": {
+    "street1": "1500 MARKET STREET",
+    "city": "PHILADELPHIA",
+    "state": "PA",
+    "zip": "19102"
+  },
+  "profit": {
+    "2009": 3638000000,
+    "2010": 3635000000,
+    "2011": 4160000000,
+    "2012": 6203000000,
+    "2013": 6816000000
+  },
+  "cash": {
+    "2009": 671000000,
+    "2010": 5984000000,
+    "2011": 1620000000,
+    "2012": 10951000000,
+    "2013": 1718000000
+  },
+  "earningsPerShare": {
+    "2009": 1.27,
+    "2010": 1.29,
+    "2011": 1.51,
+    "2012": 2.32,
+    "2013": 2.6
+  },
+  "htmlUrl": "http://www.sec.gov/Archives/edgar/data/1166691/000119312514047522/0001193125-14-047522-index.htm",
+  "xmlUrl": "http://www.sec.gov/Archives/edgar/data/1166691/000119312514047522/cmcsa-20131231.xml"
+}

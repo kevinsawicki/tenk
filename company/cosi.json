@@ -1,0 +1,29 @@
+{
+  "symbol": "cosi",
+  "name": "Cosi, Inc.",
+  "ipoYear": 2002,
+  "sector": "Consumer Services",
+  "industry": "Restaurants",
+  "exchange": "nasdaq",
+  "category": "RETAIL-EATING PLACES",
+  "address": {
+    "street1": "COSI INC",
+    "city": "DEERFIELD",
+    "state": "IL",
+    "zip": "60015"
+  },
+  "profit": {
+    "2009": -11104000,
+    "2010": -3141000,
+    "2012": -6539000,
+    "2013": -11444000
+  },
+  "cash": {
+    "2009": 4079000,
+    "2010": 10307000,
+    "2012": 15417000,
+    "2013": 6021000
+  },
+  "earningsPerShare": {},
+  "htmlUrl": "http://www.sec.gov/Archives/edgar/data/1171014/000114036114035023/0001140361-14-035023-index.htm"
+}

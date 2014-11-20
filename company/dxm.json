@@ -1,0 +1,29 @@
+{
+  "symbol": "dxm",
+  "name": "Dex Media, Inc.",
+  "ipoYear": null,
+  "sector": "Consumer Services",
+  "industry": "Advertising",
+  "exchange": "nasdaq",
+  "category": "SERVICES-ADVERTISING",
+  "address": {
+    "street1": "2200 WEST AIRFIELD DRIVE",
+    "city": "D/FW AIRPORT",
+    "state": "TX",
+    "zip": "75261"
+  },
+  "profit": {
+    "2011": -519000000,
+    "2012": 41000000,
+    "2013": -819000000
+  },
+  "cash": {
+    "2010": 128000000,
+    "2011": 258000000,
+    "2012": 172000000,
+    "2013": 156000000
+  },
+  "earningsPerShare": {},
+  "htmlUrl": "http://www.sec.gov/Archives/edgar/data/1556739/000155673914000004/0001556739-14-000004-index.htm",
+  "xmlUrl": "http://www.sec.gov/Archives/edgar/data/1556739/000155673914000004/dxm-20131231.xml"
+}

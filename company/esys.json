@@ -1,0 +1,36 @@
+{
+  "symbol": "esys",
+  "name": "Elecsys Corporation",
+  "ipoYear": null,
+  "sector": "Capital Goods",
+  "industry": "Industrial Machinery/Components",
+  "exchange": "nasdaq",
+  "category": "ELECTRONIC COMPONENTS, NEC",
+  "address": {
+    "street1": "846 N. MART-WAY COURT",
+    "city": "OLATHE",
+    "state": "KS",
+    "zip": "66061"
+  },
+  "profit": {
+    "2011": 872000,
+    "2012": 1219000,
+    "2013": 1683000,
+    "2014": 2467000
+  },
+  "cash": {
+    "2010": 493000,
+    "2011": 460000,
+    "2012": 136000,
+    "2013": 1464000,
+    "2014": 1398000
+  },
+  "earningsPerShare": {
+    "2011": 0.23,
+    "2012": 0.32,
+    "2013": 0.43,
+    "2014": 0.64
+  },
+  "htmlUrl": "http://www.sec.gov/Archives/edgar/data/914398/000117184314003243/0001171843-14-003243-index.htm",
+  "xmlUrl": "http://www.sec.gov/Archives/edgar/data/914398/000117184314003243/esys-20140430.xml"
+}

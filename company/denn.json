@@ -1,0 +1,38 @@
+{
+  "symbol": "denn",
+  "name": "Denny&#39;s Corporation",
+  "ipoYear": null,
+  "sector": "Consumer Services",
+  "industry": "Restaurants",
+  "exchange": "nasdaq",
+  "category": "RETAIL-EATING PLACES",
+  "address": {
+    "street1": "203 E MAIN ST",
+    "city": "SPARTANBURG",
+    "state": "SC",
+    "zip": "29319"
+  },
+  "profit": {
+    "2009": 41554000,
+    "2010": 22713000,
+    "2011": 112287000,
+    "2012": 22309000,
+    "2013": 24572000
+  },
+  "cash": {
+    "2009": 26525000,
+    "2010": 29074000,
+    "2011": 13740000,
+    "2012": 13565000,
+    "2013": 2943000
+  },
+  "earningsPerShare": {
+    "2009": 0.43,
+    "2010": 0.23,
+    "2011": 1.15,
+    "2012": 0.23,
+    "2013": 0.27
+  },
+  "htmlUrl": "http://www.sec.gov/Archives/edgar/data/852772/000085277214000020/0000852772-14-000020-index.htm",
+  "xmlUrl": "http://www.sec.gov/Archives/edgar/data/852772/000085277214000020/denn-20131225.xml"
+}

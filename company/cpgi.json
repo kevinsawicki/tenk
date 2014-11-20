@@ -1,0 +1,31 @@
+{
+  "symbol": "cpgi",
+  "name": "China Shengda Packaging Group, Inc.",
+  "ipoYear": 2010,
+  "sector": "Consumer Durables",
+  "industry": "Containers/Packaging",
+  "exchange": "nasdaq",
+  "category": "PAPERBOARD CONTAINERS &amp;amp; BOXES",
+  "address": {
+    "street1": "NO. 2 BEITANG ROAD, XIAOSHAN ECONOMIC &amp;",
+    "city": "HANGZHOU, ZHEJIANG PROVINCE",
+    "state": "F4",
+    "zip": "311215"
+  },
+  "profit": {
+    "2010": 19337929,
+    "2011": 9651716,
+    "2012": 5575019,
+    "2013": 2743946
+  },
+  "cash": {
+    "2009": 12695444,
+    "2010": 35581323,
+    "2011": 19294089,
+    "2012": 11903937,
+    "2013": 6569495
+  },
+  "earningsPerShare": {},
+  "htmlUrl": "http://www.sec.gov/Archives/edgar/data/1421561/000106299314001690/0001062993-14-001690-index.htm",
+  "xmlUrl": "http://www.sec.gov/Archives/edgar/data/1421561/000106299314001690/cpgi-20131231.xml"
+}

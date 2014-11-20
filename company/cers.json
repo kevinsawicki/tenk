@@ -1,0 +1,38 @@
+{
+  "symbol": "cers",
+  "name": "Cerus Corporation",
+  "ipoYear": 1997,
+  "sector": "Health Care",
+  "industry": "Medical/Dental Instruments",
+  "exchange": "nasdaq",
+  "category": "SURGICAL &amp;amp; MEDICAL INSTRUMENTS &amp;amp; APPARATUS",
+  "address": {
+    "street1": "2550 STANWELL DRIVE",
+    "city": "CONCORD",
+    "state": "CA",
+    "zip": "94520"
+  },
+  "profit": {
+    "2009": -24135000,
+    "2010": -16911000,
+    "2011": -16982000,
+    "2012": -15917000,
+    "2013": -43337000
+  },
+  "cash": {
+    "2009": 17287000,
+    "2010": 28948000,
+    "2011": 25497000,
+    "2012": 26696000,
+    "2013": 29485000
+  },
+  "earningsPerShare": {
+    "2009": -0.69,
+    "2010": -0.42,
+    "2011": -0.35,
+    "2012": -0.29,
+    "2013": -0.64
+  },
+  "htmlUrl": "http://www.sec.gov/Archives/edgar/data/1020214/000119312514089394/0001193125-14-089394-index.htm",
+  "xmlUrl": "http://www.sec.gov/Archives/edgar/data/1020214/000119312514089394/cers-20131231.xml"
+}

@@ -1,0 +1,38 @@
+{
+  "symbol": "cvgi",
+  "name": "Commercial Vehicle Group, Inc.",
+  "ipoYear": 2004,
+  "sector": "Capital Goods",
+  "industry": "Auto Parts:O.E.M.",
+  "exchange": "nasdaq",
+  "category": "MOTOR VEHICLE PARTS &amp;amp; ACCESSORIES",
+  "address": {
+    "street1": "7800 WALTON PARKWAY",
+    "city": "NEW ALBANY",
+    "state": "OH",
+    "zip": "43054"
+  },
+  "profit": {
+    "2009": -81535000,
+    "2010": 6487000,
+    "2011": 18605000,
+    "2012": 50077000,
+    "2013": -12445000
+  },
+  "cash": {
+    "2009": 9524000,
+    "2010": 42591000,
+    "2011": 87955000,
+    "2012": 68369000,
+    "2013": 72695000
+  },
+  "earningsPerShare": {
+    "2009": -3.74,
+    "2010": 0.25,
+    "2011": 0.67,
+    "2012": 1.77,
+    "2013": -0.44
+  },
+  "htmlUrl": "http://www.sec.gov/Archives/edgar/data/1290900/000119312514101909/0001193125-14-101909-index.htm",
+  "xmlUrl": "http://www.sec.gov/Archives/edgar/data/1290900/000119312514101909/cvgi-20131231.xml"
+}

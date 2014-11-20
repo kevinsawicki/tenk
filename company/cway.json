@@ -1,0 +1,27 @@
+{
+  "symbol": "cway",
+  "name": "Coastway Bancorp, Inc.",
+  "ipoYear": 2014,
+  "sector": "Finance",
+  "industry": "Savings Institutions",
+  "exchange": "nasdaq",
+  "category": "SAVINGS INSTITUTION, FEDERALLY CHARTERED",
+  "address": {
+    "street1": "ONE COASTWAY PLAZA",
+    "city": "CRANSTON",
+    "state": "RI",
+    "zip": "02910"
+  },
+  "profit": {
+    "2012": 1148000,
+    "2013": 222000
+  },
+  "cash": {
+    "2011": 5366000,
+    "2012": 7020000,
+    "2013": 51519000
+  },
+  "earningsPerShare": {},
+  "htmlUrl": "http://www.sec.gov/Archives/edgar/data/1585023/000104746914003012/0001047469-14-003012-index.htm",
+  "xmlUrl": "http://www.sec.gov/Archives/edgar/data/1585023/000104746914003012/cway-20131231.xml"
+}

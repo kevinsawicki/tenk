@@ -1,0 +1,37 @@
+{
+  "symbol": "colb",
+  "name": "Columbia Banking System, Inc.",
+  "ipoYear": 1992,
+  "sector": "Finance",
+  "industry": "Major Banks",
+  "exchange": "nasdaq",
+  "category": "STATE COMMERCIAL BANKS",
+  "address": {
+    "street1": "1301 A STREET",
+    "city": "TACOMA",
+    "state": "WA",
+    "zip": "98402"
+  },
+  "profit": {
+    "2009": -3968000,
+    "2010": 30784000,
+    "2011": 48037000,
+    "2012": 46143000,
+    "2013": 60016000
+  },
+  "cash": {
+    "2009": 305074000,
+    "2010": 514130000,
+    "2011": 294289000,
+    "2012": 513926000,
+    "2013": 179561000
+  },
+  "earningsPerShare": {
+    "2009": -0.38,
+    "2010": 0.73,
+    "2011": 1.22,
+    "2012": 1.16,
+    "2013": 1.24
+  },
+  "htmlUrl": "http://www.sec.gov/Archives/edgar/data/887343/000088734314000011/0000887343-14-000011-index.htm"
+}

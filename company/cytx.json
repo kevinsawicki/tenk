@@ -1,0 +1,31 @@
+{
+  "symbol": "cytx",
+  "name": "Cytori Therapeutics Inc",
+  "ipoYear": null,
+  "sector": "Health Care",
+  "industry": "Medical/Dental Instruments",
+  "exchange": "nasdaq",
+  "category": "SURGICAL &amp;amp; MEDICAL INSTRUMENTS &amp;amp; APPARATUS",
+  "address": {
+    "street1": "3020 CALLAN ROAD",
+    "city": "SAN DIEGO",
+    "state": "CA",
+    "zip": "92121"
+  },
+  "profit": {
+    "2009": -23216000,
+    "2010": -27494000,
+    "2011": -32451000,
+    "2012": -32279000,
+    "2013": -26177000
+  },
+  "cash": {
+    "2009": 12854000,
+    "2010": 52668000,
+    "2011": 36922000,
+    "2012": 25717000,
+    "2013": 15506000
+  },
+  "earningsPerShare": {},
+  "htmlUrl": "http://www.sec.gov/Archives/edgar/data/1095981/000109598114000008/0001095981-14-000008-index.htm"
+}

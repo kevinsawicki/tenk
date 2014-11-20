@@ -1,0 +1,35 @@
+{
+  "symbol": "cunb",
+  "name": "CU Bancorp (CA)",
+  "ipoYear": null,
+  "sector": "Finance",
+  "industry": "Major Banks",
+  "exchange": "nasdaq",
+  "category": "NATIONAL COMMERCIAL BANKS",
+  "address": {
+    "street1": "15821 VENTURA BOULEVARD, SUITE 100",
+    "city": "ENCINO",
+    "state": "CA",
+    "zip": "91436"
+  },
+  "profit": {
+    "2010": -2283000,
+    "2011": 1467000,
+    "2012": 1727000,
+    "2013": 9785000
+  },
+  "cash": {
+    "2009": 68631000,
+    "2010": 210646000,
+    "2011": 134230000,
+    "2012": 182896000,
+    "2013": 241287000
+  },
+  "earningsPerShare": {
+    "2010": -0.45,
+    "2011": 0.23,
+    "2012": 0.21,
+    "2013": 0.93
+  },
+  "htmlUrl": "http://www.sec.gov/Archives/edgar/data/1543643/000119312514166717/0001193125-14-166717-index.htm"
+}

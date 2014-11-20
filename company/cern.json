@@ -1,0 +1,38 @@
+{
+  "symbol": "cern",
+  "name": "Cerner Corporation",
+  "ipoYear": 1986,
+  "sector": "Technology",
+  "industry": "EDP Services",
+  "exchange": "nasdaq",
+  "category": "SERVICES-COMPUTER INTEGRATED SYSTEMS DESIGN",
+  "address": {
+    "street1": "2800 ROCKCREEK PKWY",
+    "city": "KANSAS CITY",
+    "state": "MO",
+    "zip": "64117"
+  },
+  "profit": {
+    "2009": 188658000,
+    "2010": 237272000,
+    "2011": 306627000,
+    "2012": 397232000,
+    "2013": 398354000
+  },
+  "cash": {
+    "2009": 270494000,
+    "2010": 214511000,
+    "2011": 243146000,
+    "2012": 317120000,
+    "2013": 202377000
+  },
+  "earningsPerShare": {
+    "2009": 2.34,
+    "2010": 1.44,
+    "2011": 0.91,
+    "2012": 1.16,
+    "2013": 1.16
+  },
+  "htmlUrl": "http://www.sec.gov/Archives/edgar/data/804753/000080475314000006/0000804753-14-000006-index.htm",
+  "xmlUrl": "http://www.sec.gov/Archives/edgar/data/804753/000080475314000006/cern-20131228.xml"
+}

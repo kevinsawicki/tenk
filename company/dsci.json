@@ -1,0 +1,31 @@
+{
+  "symbol": "dsci",
+  "name": "Derma Sciences, Inc.",
+  "ipoYear": null,
+  "sector": "Health Care",
+  "industry": "Medical/Dental Instruments",
+  "exchange": "nasdaq",
+  "category": "SURGICAL &amp;amp; MEDICAL INSTRUMENTS &amp;amp; APPARATUS",
+  "address": {
+    "street1": "214 CARNEGIE CENTER, SUITE 300",
+    "city": "PRINCETON",
+    "state": "NJ",
+    "zip": "08540"
+  },
+  "profit": {
+    "2010": -2448864,
+    "2011": -4340411,
+    "2012": -12070431,
+    "2013": -23964053
+  },
+  "cash": {
+    "2009": 243524,
+    "2010": 404216,
+    "2011": 17110350,
+    "2012": 41616657,
+    "2013": 6501586
+  },
+  "earningsPerShare": {},
+  "htmlUrl": "http://www.sec.gov/Archives/edgar/data/892160/000114420414015526/0001144204-14-015526-index.htm",
+  "xmlUrl": "http://www.sec.gov/Archives/edgar/data/892160/000114420414015526/dsci-20131231.xml"
+}

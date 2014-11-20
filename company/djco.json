@@ -1,0 +1,31 @@
+{
+  "symbol": "djco",
+  "name": "Daily Journal Corp. (S.C.)",
+  "ipoYear": null,
+  "sector": "Consumer Services",
+  "industry": "Newspapers/Magazines",
+  "exchange": "nasdaq",
+  "category": "NEWSPAPERS:  PUBLISHING OR PUBLISHING &amp;amp; PRINTING",
+  "address": {
+    "street1": "915 EAST FIRST STREET",
+    "city": "LOS ANGELES",
+    "state": "CA",
+    "zip": "90012"
+  },
+  "profit": {
+    "2010": 7672000,
+    "2011": 7840000,
+    "2012": 5541000,
+    "2013": 3779000
+  },
+  "cash": {
+    "2009": 1425000,
+    "2010": 3615000,
+    "2011": 3058000,
+    "2012": 985000,
+    "2013": 11338000
+  },
+  "earningsPerShare": {},
+  "htmlUrl": "http://www.sec.gov/Archives/edgar/data/783412/000143774914011800/0001437749-14-011800-index.htm",
+  "xmlUrl": "http://www.sec.gov/Archives/edgar/data/783412/000143774914011800/djco-20130930.xml"
+}

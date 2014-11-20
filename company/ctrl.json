@@ -1,0 +1,33 @@
+{
+  "symbol": "ctrl",
+  "name": "Control4 Corporation",
+  "ipoYear": 2013,
+  "sector": "Capital Goods",
+  "industry": "Electrical Products",
+  "exchange": "nasdaq",
+  "category": "ELECTRONIC COMPONENTS &amp;amp; ACCESSORIES",
+  "address": {
+    "street1": "11734 SOUTH ELECTION ROAD",
+    "city": "SALT LAKE CITY",
+    "state": "UT",
+    "zip": "84020"
+  },
+  "profit": {
+    "2011": -3885000,
+    "2012": -3723000,
+    "2013": 3503000
+  },
+  "cash": {
+    "2010": 6054000,
+    "2011": 18468000,
+    "2012": 18695000,
+    "2013": 84546000
+  },
+  "earningsPerShare": {
+    "2011": -2.02,
+    "2012": -1.58,
+    "2013": 0.33
+  },
+  "htmlUrl": "http://www.sec.gov/Archives/edgar/data/1259515/000104746914001145/0001047469-14-001145-index.htm",
+  "xmlUrl": "http://www.sec.gov/Archives/edgar/data/1259515/000104746914001145/ctrl-20131231.xml"
+}

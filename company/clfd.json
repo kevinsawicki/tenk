@@ -1,0 +1,36 @@
+{
+  "symbol": "clfd",
+  "name": "Clearfield, Inc.",
+  "ipoYear": null,
+  "sector": "Public Utilities",
+  "industry": "Telecommunications Equipment",
+  "exchange": "nasdaq",
+  "category": "TELEPHONE &amp;amp; TELEGRAPH APPARATUS",
+  "address": {
+    "street1": "5480 NATHAN LANE NORTH",
+    "city": "PLYMOUTH",
+    "state": "MN",
+    "zip": "55442"
+  },
+  "profit": {
+    "2010": 1180954,
+    "2011": 6167446,
+    "2012": 7701194,
+    "2013": 4733844
+  },
+  "cash": {
+    "2009": 4731735,
+    "2010": 5285719,
+    "2011": 11281027,
+    "2012": 5678143,
+    "2013": 9807957
+  },
+  "earningsPerShare": {
+    "2010": 0.1,
+    "2011": 0.51,
+    "2012": 0.62,
+    "2013": 0.38
+  },
+  "htmlUrl": "http://www.sec.gov/Archives/edgar/data/796505/000117184313004762/0001171843-13-004762-index.htm",
+  "xmlUrl": "http://www.sec.gov/Archives/edgar/data/796505/000117184313004762/clfd-20130930.xml"
+}
