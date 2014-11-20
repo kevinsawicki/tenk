@@ -187,7 +187,7 @@ downloadSymbol = (company, callback) ->
       cash = _.extend({}, _.pluck(data, 'cash')...)
       earningsPerShare = _.extend({}, _.pluck(data, 'earningsPerShare')...)
 
-      company.category = select("//atom:assigned-sic-desc/text()", document)[0].toString()
+      company.category = select("//atom:assigned-sic-desc/text()", document)[0]?.toString()
       company.address = address
       company.profit = profit
       company.cash = cash
