@@ -7,7 +7,7 @@
     <script src="https://code.jquery.com/jquery-2.1.1.min.js"></script>
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.1/js/bootstrap.min.js"></script>
 
-    <title>{{name}}</title>
+    <title>{{humanizedName}}</title>
   </head>
   <body>
     <nav class="navbar navbar-static-top" role="navigation">
@@ -24,23 +24,24 @@
       </div>
     </nav>
 
-    <div class="container">
-      <div class="btn-group pull-right">
-        <button type="button" class="btn btn-default dropdown-toggle" data-toggle="dropdown" aria-expanded="false">
-          Links <span class="caret"></span>
-        </button>
-        <ul class="dropdown-menu" role="menu">
-          <li><a href="{{htmlUrl}}">Official Report</a></li>
-          <li><a href="{{xmlUrl}}">XML Version</a></li>
-          <li><a href="./{{symbol}}.json">JSON Data</a></li>
-        </ul>
+    <div class="jumbotron">
+      <div class="container">
+        <div class="row">
+          <div class="col-md-12 col-lg-12">
+            <h1 class="company-heading">{{humanizedName}}</h1>
+            <span class="company-sector">{{sector}}</span><br>
+            <span class="company-exchange">{{symbol}} on the {{exchange}}</span>
+            <address>
+              {{address.street1}}<br>
+              {{address.city}}, {{address.state}} {{address.zip}}
+            </address>
+
+          </div>
+        </div>
       </div>
+    </div>
 
-      <h1 class="company-heading">{{humanizedName}}</h1>
-      <p class="company-sector">{{sector}}</p>
-      <p class="company-industry">{{industry}}</p>
-      <p class="company-exchange">Trades as {{symbol}} on the {{exchange}}</p>
-
+    <div class="container">
       <div class="row">
 
         <div class="col-md-4 col-lg-4">
@@ -63,16 +64,17 @@
       <div class="row">
 
         <div class="col-md-4 col-lg-4">
-          <address>
-            {{address.street1}}<br>
-            {{address.city}}, {{address.state}} {{address.zip}}
-          </address>
+          <h3>Links</h3>
+          <ul>
+          <li><a href="{{htmlUrl}}">Official filing on sec.gov</a></li>
+          <li><a href="{{xmlUrl}}">Full XML version</a></li>
+          <li><a href="./{{symbol}}.json">JSON data</a></li>
+          </ul>
         </div>
-
-        <div class="col-md-4 col-lg-4">{{google_map}}</div>
 
       </div>
 
     </div>
-  </body>
+
+      </body>
 </html>
