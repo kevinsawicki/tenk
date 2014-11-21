@@ -1,0 +1,38 @@
+{
+  "symbol": "fnfg",
+  "name": "First Niagara Financial Group Inc.",
+  "ipoYear": null,
+  "sector": "Finance",
+  "industry": "Major Banks",
+  "exchange": "nasdaq",
+  "category": "NATIONAL COMMERCIAL BANKS",
+  "address": {
+    "street1": "726 EXCHANGE STREET",
+    "city": "BUFFALO",
+    "state": "NY",
+    "zip": "14210"
+  },
+  "profit": {
+    "2009": 79377000,
+    "2010": 140353000,
+    "2011": 174000000,
+    "2012": 168000000,
+    "2013": 295000000
+  },
+  "cash": {
+    "2009": 236268000,
+    "2010": 214000000,
+    "2011": 837000000,
+    "2012": 431000000,
+    "2013": 463000000
+  },
+  "earningsPerShare": {
+    "2009": 0.46,
+    "2010": 0.7,
+    "2011": 0.64,
+    "2012": 0.4,
+    "2013": 0.75
+  },
+  "htmlUrl": "http://www.sec.gov/Archives/edgar/data/1051741/000105174114000014/0001051741-14-000014-index.htm",
+  "xmlUrl": "http://www.sec.gov/Archives/edgar/data/1051741/000105174114000014/fnfg-20131231.xml"
+}

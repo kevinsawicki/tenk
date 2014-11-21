@@ -1,0 +1,38 @@
+{
+  "symbol": "ffic",
+  "name": "Flushing Financial Corporation",
+  "ipoYear": null,
+  "sector": "Finance",
+  "industry": "Major Banks",
+  "exchange": "nasdaq",
+  "category": "STATE COMMERCIAL BANKS",
+  "address": {
+    "street1": "1979 MARCUS AVENUE , SUITE E140",
+    "city": "LAKE SUCCESS",
+    "state": "NY",
+    "zip": "11042"
+  },
+  "profit": {
+    "2009": 25561000,
+    "2010": 38835000,
+    "2011": 35348000,
+    "2012": 34331000,
+    "2013": 37752000
+  },
+  "cash": {
+    "2009": 28426000,
+    "2010": 47789000,
+    "2011": 55721000,
+    "2012": 40425000,
+    "2013": 33485000
+  },
+  "earningsPerShare": {
+    "2009": 0.91,
+    "2010": 1.28,
+    "2011": 1.15,
+    "2012": 1.13,
+    "2013": 1.26
+  },
+  "htmlUrl": "http://www.sec.gov/Archives/edgar/data/923139/000117184314001278/0001171843-14-001278-index.htm",
+  "xmlUrl": "http://www.sec.gov/Archives/edgar/data/923139/000117184314001278/ffic-20131231.xml"
+}

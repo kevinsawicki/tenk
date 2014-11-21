@@ -1,0 +1,16 @@
+{
+  "symbol": "gars",
+  "name": "Garrison Capital Inc.",
+  "ipoYear": 2013,
+  "exchange": "nasdaq",
+  "address": {
+    "street1": "1290 AVENUE OF THE AMERICAS",
+    "city": "NEW YORK",
+    "state": "NY",
+    "zip": "10014"
+  },
+  "profit": {},
+  "cash": {},
+  "earningsPerShare": {},
+  "htmlUrl": "http://www.sec.gov/Archives/edgar/data/1509892/000114420414015292/0001144204-14-015292-index.htm"
+}

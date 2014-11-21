@@ -1,0 +1,38 @@
+{
+  "symbol": "icui",
+  "name": "ICU Medical, Inc.",
+  "ipoYear": 1992,
+  "sector": "Health Care",
+  "industry": "Medical/Dental Instruments",
+  "exchange": "nasdaq",
+  "category": "SURGICAL &amp;amp; MEDICAL INSTRUMENTS &amp;amp; APPARATUS",
+  "address": {
+    "street1": "951 CALLE AMANECER",
+    "city": "SAN CLEMENTE",
+    "state": "CA",
+    "zip": "92763-6212"
+  },
+  "profit": {
+    "2009": 24981000,
+    "2010": 29923000,
+    "2011": 44669000,
+    "2012": 41281000,
+    "2013": 40418000
+  },
+  "cash": {
+    "2009": 51248000,
+    "2010": 78850000,
+    "2011": 99590000,
+    "2012": 146900000,
+    "2013": 226022000
+  },
+  "earningsPerShare": {
+    "2009": 1.7,
+    "2010": 2.2,
+    "2011": 3.23,
+    "2012": 2.9,
+    "2013": 2.75
+  },
+  "htmlUrl": "http://www.sec.gov/Archives/edgar/data/883984/000088398414000012/0000883984-14-000012-index.htm",
+  "xmlUrl": "http://www.sec.gov/Archives/edgar/data/883984/000088398414000012/icui-20131231.xml"
+}

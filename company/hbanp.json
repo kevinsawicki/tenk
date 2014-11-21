@@ -1,0 +1,19 @@
+{
+  "symbol": "hbanp",
+  "name": "Huntington Bancshares Incorporated",
+  "ipoYear": null,
+  "sector": "Finance",
+  "industry": "Major Banks",
+  "exchange": "nasdaq",
+  "category": "NATIONAL COMMERCIAL BANKS",
+  "address": {
+    "street1": "HUNTINGTON CTR",
+    "city": "COLUMBUS",
+    "state": "OH",
+    "zip": "43287"
+  },
+  "profit": {},
+  "cash": {},
+  "earningsPerShare": {},
+  "htmlUrl": "http://www.sec.gov/Archives/edgar/data/49196/000119312514054675/0001193125-14-054675-index.htm"
+}

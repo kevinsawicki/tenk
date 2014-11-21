@@ -1,0 +1,32 @@
+{
+  "symbol": "ffin",
+  "name": "First Financial Bankshares, Inc.",
+  "ipoYear": null,
+  "sector": "Finance",
+  "industry": "Major Banks",
+  "exchange": "nasdaq",
+  "category": "STATE COMMERCIAL BANKS",
+  "address": {
+    "street1": "400 PINE STREET",
+    "city": "ABILENE",
+    "state": "TX",
+    "zip": "79601"
+  },
+  "profit": {
+    "2009": 53797000,
+    "2010": 59659000,
+    "2011": 68369000,
+    "2012": 74225000,
+    "2013": 78868000
+  },
+  "cash": {},
+  "earningsPerShare": {
+    "2009": 1.72,
+    "2010": 1.91,
+    "2011": 2.17,
+    "2012": 2.36,
+    "2013": 2.48
+  },
+  "htmlUrl": "http://www.sec.gov/Archives/edgar/data/36029/000119312514062163/0001193125-14-062163-index.htm",
+  "xmlUrl": "http://www.sec.gov/Archives/edgar/data/36029/000119312514062163/ffin-20131231.xml"
+}

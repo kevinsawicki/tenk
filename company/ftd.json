@@ -1,0 +1,19 @@
+{
+  "symbol": "ftd",
+  "name": "FTD Companies, Inc.",
+  "ipoYear": null,
+  "sector": "Consumer Services",
+  "industry": "Other Consumer Services",
+  "exchange": "nasdaq",
+  "category": "SERVICES-BUSINESS SERVICES, NEC",
+  "address": {
+    "street1": "3113 WOODCREEK DRIVE",
+    "city": "DOWNERS GROVE",
+    "state": "IL",
+    "zip": "60515"
+  },
+  "profit": {},
+  "cash": {},
+  "earningsPerShare": {},
+  "htmlUrl": "http://www.sec.gov/Archives/edgar/data/1283157/000095013707013779/0000950137-07-013779-index.htm"
+}

@@ -1,0 +1,19 @@
+{
+  "symbol": "gwgh",
+  "name": "GWG Holdings, Inc",
+  "ipoYear": 2014,
+  "sector": "Finance",
+  "industry": "Life Insurance",
+  "exchange": "nasdaq",
+  "category": "LIFE INSURANCE",
+  "address": {
+    "street1": "220 SOUTH SIXTH STREET",
+    "city": "MINNEAPOLIS",
+    "state": "MN",
+    "zip": "55402"
+  },
+  "profit": {},
+  "cash": {},
+  "earningsPerShare": {},
+  "htmlUrl": "http://www.sec.gov/Archives/edgar/data/1522690/000121390014001557/0001213900-14-001557-index.htm"
+}

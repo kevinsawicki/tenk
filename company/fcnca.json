@@ -1,0 +1,36 @@
+{
+  "symbol": "fcnca",
+  "name": "First Citizens BancShares, Inc.",
+  "ipoYear": null,
+  "sector": "Finance",
+  "industry": "Major Banks",
+  "exchange": "nasdaq",
+  "category": "STATE COMMERCIAL BANKS",
+  "address": {
+    "street1": "4300 SIX FORKS ROAD",
+    "city": "RALEIGH",
+    "state": "NC",
+    "zip": "27609"
+  },
+  "profit": {
+    "2009": 116331000,
+    "2010": 193044000,
+    "2011": 195028000,
+    "2012": 134348000,
+    "2013": 167699000
+  },
+  "cash": {
+    "2009": 480242000,
+    "2010": 460178000,
+    "2011": 590801000,
+    "2012": 639730000,
+    "2013": 533599000
+  },
+  "earningsPerShare": {
+    "2011": 18.8,
+    "2012": 13.11,
+    "2013": 17.43
+  },
+  "htmlUrl": "http://www.sec.gov/Archives/edgar/data/798941/000079894114000011/0000798941-14-000011-index.htm",
+  "xmlUrl": "http://www.sec.gov/Archives/edgar/data/798941/000079894114000011/fcnca-20131231.xml"
+}

@@ -1,0 +1,38 @@
+{
+  "symbol": "iaci",
+  "name": "IAC/InterActiveCorp",
+  "ipoYear": null,
+  "sector": "Consumer Services",
+  "industry": "Other Specialty Stores",
+  "exchange": "nasdaq",
+  "category": "RETAIL-RETAIL STORES, NEC",
+  "address": {
+    "street1": "555 WEST 18TH STREET",
+    "city": "NEW YORK",
+    "state": "NY",
+    "zip": "10011"
+  },
+  "profit": {
+    "2009": -978822000,
+    "2010": 99359000,
+    "2011": 174233000,
+    "2012": 159266000,
+    "2013": 285784000
+  },
+  "cash": {
+    "2009": 1245997000,
+    "2010": 742099000,
+    "2011": 704153000,
+    "2012": 749977000,
+    "2013": 1100444000
+  },
+  "earningsPerShare": {
+    "2009": -7.06,
+    "2010": 0.93,
+    "2011": 2.01,
+    "2012": 1.85,
+    "2013": 3.42
+  },
+  "htmlUrl": "http://www.sec.gov/Archives/edgar/data/891103/000089110314000003/0000891103-14-000003-index.htm",
+  "xmlUrl": "http://www.sec.gov/Archives/edgar/data/891103/000089110314000003/iaci-20131231.xml"
+}

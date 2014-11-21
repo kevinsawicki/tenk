@@ -1,0 +1,28 @@
+{
+  "symbol": "rxdx",
+  "name": "Ignyta, Inc.",
+  "ipoYear": null,
+  "sector": "Health Care",
+  "industry": "Major Pharmaceuticals",
+  "exchange": "nasdaq",
+  "category": "PHARMACEUTICAL PREPARATIONS",
+  "address": {
+    "street1": "11095 FLINTKOTE AVE.",
+    "city": "SAN DIEGO",
+    "state": "CA",
+    "zip": "92121"
+  },
+  "profit": {
+    "2011": -79445,
+    "2012": -1279852,
+    "2013": -14213643
+  },
+  "cash": {
+    "2011": 155881,
+    "2012": 5032307,
+    "2013": 51803716
+  },
+  "earningsPerShare": {},
+  "htmlUrl": "http://www.sec.gov/Archives/edgar/data/1557421/000119312514077280/0001193125-14-077280-index.htm",
+  "xmlUrl": "http://www.sec.gov/Archives/edgar/data/1557421/000119312514077280/rxdx-20131231.xml"
+}

@@ -1,0 +1,32 @@
+{
+  "symbol": "fldm",
+  "name": "Fluidigm Corporation",
+  "ipoYear": 2011,
+  "sector": "Capital Goods",
+  "industry": "Biotechnology: Laboratory Analytical Instruments",
+  "exchange": "nasdaq",
+  "category": "LABORATORY ANALYTICAL INSTRUMENTS",
+  "address": {
+    "street1": "7000 SHORELINE COURT",
+    "city": "SOUTH SAN FRANCISCO",
+    "state": "CA",
+    "zip": "94080"
+  },
+  "profit": {
+    "2009": -19128000,
+    "2010": -16902000,
+    "2011": -22470000,
+    "2012": -19024000,
+    "2013": -16526000
+  },
+  "cash": {
+    "2009": 14602000,
+    "2010": 5723000,
+    "2011": 13553000,
+    "2012": 58649000,
+    "2013": 35261000
+  },
+  "earningsPerShare": {},
+  "htmlUrl": "http://www.sec.gov/Archives/edgar/data/1162194/000116219414000010/0001162194-14-000010-index.htm",
+  "xmlUrl": "http://www.sec.gov/Archives/edgar/data/1162194/000116219414000010/fldm-20131231.xml"
+}

@@ -1,0 +1,38 @@
+{
+  "symbol": "falc",
+  "name": "FalconStor Software, Inc.",
+  "ipoYear": null,
+  "sector": "Technology",
+  "industry": "Computer Software: Prepackaged Software",
+  "exchange": "nasdaq",
+  "category": "SERVICES-PREPACKAGED SOFTWARE",
+  "address": {
+    "street1": "125 BAYLIS ROAD",
+    "city": "MELVILLE",
+    "state": "NY",
+    "zip": "11747"
+  },
+  "profit": {
+    "2009": -3092705,
+    "2010": -35375621,
+    "2011": -23368283,
+    "2012": -14984321,
+    "2013": -10932590
+  },
+  "cash": {
+    "2009": 15752528,
+    "2010": 17842555,
+    "2011": 16257694,
+    "2012": 18651468,
+    "2013": 19288340
+  },
+  "earningsPerShare": {
+    "2009": -0.07,
+    "2010": -0.78,
+    "2011": -0.5,
+    "2012": -0.32,
+    "2013": -0.24
+  },
+  "htmlUrl": "http://www.sec.gov/Archives/edgar/data/922521/000144530514001027/0001445305-14-001027-index.htm",
+  "xmlUrl": "http://www.sec.gov/Archives/edgar/data/922521/000144530514001027/falc-20131231.xml"
+}

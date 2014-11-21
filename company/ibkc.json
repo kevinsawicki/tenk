@@ -1,0 +1,38 @@
+{
+  "symbol": "ibkc",
+  "name": "IBERIABANK Corporation",
+  "ipoYear": null,
+  "sector": "Finance",
+  "industry": "Major Banks",
+  "exchange": "nasdaq",
+  "category": "STATE COMMERCIAL BANKS",
+  "address": {
+    "street1": "200 WEST CONGRESS STREET",
+    "city": "LAFAYETTE",
+    "state": "LA",
+    "zip": "70501"
+  },
+  "profit": {
+    "2009": 158354000,
+    "2010": 48826000,
+    "2011": 53538000,
+    "2012": 76395000,
+    "2013": 65103000
+  },
+  "cash": {
+    "2009": 62025000,
+    "2010": 337778000,
+    "2011": 573296000,
+    "2012": 970977000,
+    "2013": 391396000
+  },
+  "earningsPerShare": {
+    "2009": 8.49,
+    "2010": 1.9,
+    "2011": 1.88,
+    "2012": 2.59,
+    "2013": 2.2
+  },
+  "htmlUrl": "http://www.sec.gov/Archives/edgar/data/933141/000119312514076928/0001193125-14-076928-index.htm",
+  "xmlUrl": "http://www.sec.gov/Archives/edgar/data/933141/000119312514076928/ibkc-20131231.xml"
+}

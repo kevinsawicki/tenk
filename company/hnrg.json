@@ -1,0 +1,36 @@
+{
+  "symbol": "hnrg",
+  "name": "Hallador Energy Company",
+  "ipoYear": null,
+  "sector": "Energy",
+  "industry": "Coal Mining",
+  "exchange": "nasdaq",
+  "category": "BITUMINOUS COAL &amp;amp; LIGNITE MINING",
+  "address": {
+    "street1": "1660 LINCOLN ST STE 2700",
+    "city": "DENVER",
+    "state": "CO",
+    "zip": "80264"
+  },
+  "profit": {
+    "2010": 22375000,
+    "2011": 35809000,
+    "2012": 23807000,
+    "2013": 23154000
+  },
+  "cash": {
+    "2009": 15226000,
+    "2010": 10277000,
+    "2011": 37542000,
+    "2012": 21888000,
+    "2013": 16228000
+  },
+  "earningsPerShare": {
+    "2010": 0.81,
+    "2011": 1.27,
+    "2012": 0.84,
+    "2013": 0.81
+  },
+  "htmlUrl": "http://www.sec.gov/Archives/edgar/data/788965/000078896514000008/0000788965-14-000008-index.htm",
+  "xmlUrl": "http://www.sec.gov/Archives/edgar/data/788965/000078896514000008/hnrg-20131231.xml"
+}

@@ -1,0 +1,19 @@
+{
+  "symbol": "goodn",
+  "name": "Gladstone Commercial Corporation",
+  "ipoYear": null,
+  "sector": "Consumer Services",
+  "industry": "Real Estate",
+  "exchange": "nasdaq",
+  "category": "LESSORS OF REAL PROPERTY, NEC",
+  "address": {
+    "street1": "1521 WESTBRANCH DRIVE",
+    "city": "MCLEAN",
+    "state": "VA",
+    "zip": "22102"
+  },
+  "profit": {},
+  "cash": {},
+  "earningsPerShare": {},
+  "htmlUrl": "http://www.sec.gov/Archives/edgar/data/1234006/000119312514057052/0001193125-14-057052-index.htm"
+}

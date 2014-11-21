@@ -1,0 +1,38 @@
+{
+  "symbol": "exls",
+  "name": "ExlService Holdings, Inc.",
+  "ipoYear": 2006,
+  "sector": "Miscellaneous",
+  "industry": "Business Services",
+  "exchange": "nasdaq",
+  "category": "SERVICES-BUSINESS SERVICES, NEC",
+  "address": {
+    "street1": "280 PARK AVENUE",
+    "city": "NEW YORK",
+    "state": "X1",
+    "zip": "10017"
+  },
+  "profit": {
+    "2009": 15653000,
+    "2010": 26592000,
+    "2011": 34780000,
+    "2012": 41836000,
+    "2013": 48097000
+  },
+  "cash": {
+    "2009": 132215000,
+    "2010": 111182000,
+    "2011": 82393000,
+    "2012": 103037000,
+    "2013": 148065000
+  },
+  "earningsPerShare": {
+    "2009": 0.54,
+    "2010": 0.91,
+    "2011": 1.15,
+    "2012": 1.31,
+    "2013": 1.47
+  },
+  "htmlUrl": "http://www.sec.gov/Archives/edgar/data/1297989/000119312514080551/0001193125-14-080551-index.htm",
+  "xmlUrl": "http://www.sec.gov/Archives/edgar/data/1297989/000119312514080551/exls-20131231.xml"
+}

@@ -1,0 +1,38 @@
+{
+  "symbol": "rail",
+  "name": "Freightcar America, Inc.",
+  "ipoYear": 2005,
+  "sector": "Capital Goods",
+  "industry": "Railroads",
+  "exchange": "nasdaq",
+  "category": "RAILROAD EQUIPMENT",
+  "address": {
+    "street1": "TWO NORTH RIVERSIDE PLAZA",
+    "city": "CHICAGO",
+    "state": "IL",
+    "zip": "60606"
+  },
+  "profit": {
+    "2009": 4940000,
+    "2010": -12771000,
+    "2011": 4935000,
+    "2012": 19095000,
+    "2013": -19295000
+  },
+  "cash": {
+    "2009": 98015000,
+    "2010": 61780000,
+    "2011": 101870000,
+    "2012": 98509000,
+    "2013": 145506000
+  },
+  "earningsPerShare": {
+    "2009": 0.42,
+    "2010": -1.07,
+    "2011": 0.41,
+    "2012": 1.6,
+    "2013": -1.61
+  },
+  "htmlUrl": "http://www.sec.gov/Archives/edgar/data/1320854/000119312514100078/0001193125-14-100078-index.htm",
+  "xmlUrl": "http://www.sec.gov/Archives/edgar/data/1320854/000119312514100078/rail-20131231.xml"
+}

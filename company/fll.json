@@ -1,0 +1,31 @@
+{
+  "symbol": "fll",
+  "name": "Full House Resorts, Inc.",
+  "ipoYear": null,
+  "sector": "Consumer Services",
+  "industry": "Hotels/Resorts",
+  "exchange": "nasdaq",
+  "category": "HOTELS &amp;amp; MOTELS",
+  "address": {
+    "street1": "4670 S. FORT APACHE ROAD",
+    "city": "LAS VEGAS",
+    "state": "NV",
+    "zip": "89147"
+  },
+  "profit": {
+    "2010": 7669247,
+    "2011": 2343000,
+    "2012": 27834000,
+    "2013": -3962000
+  },
+  "cash": {
+    "2009": 9198399,
+    "2010": 13294000,
+    "2011": 14707000,
+    "2012": 20603000,
+    "2013": 14936000
+  },
+  "earningsPerShare": {},
+  "htmlUrl": "http://www.sec.gov/Archives/edgar/data/891482/000157104914000726/0001571049-14-000726-index.htm",
+  "xmlUrl": "http://www.sec.gov/Archives/edgar/data/891482/000157104914000726/fll-20131231.xml"
+}

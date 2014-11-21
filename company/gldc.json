@@ -1,0 +1,39 @@
+{
+  "symbol": "gldc",
+  "name": "Golden Enterprises, Inc.",
+  "ipoYear": null,
+  "sector": "Consumer Non-Durables",
+  "industry": "Packaged Foods",
+  "exchange": "nasdaq",
+  "category": "MISCELLANEOUS FOOD PREPARATIONS &amp;amp; KINDRED PRODUCTS",
+  "address": {
+    "street1": "ONE GOLDEN FLAKE DRIVE",
+    "city": "BIRMINGHAM",
+    "state": "AL",
+    "zip": "35205"
+  },
+  "profit": {
+    "2010": 4209038,
+    "2011": 3014768,
+    "2012": 2207623,
+    "2013": 1134037,
+    "2014": 921829
+  },
+  "cash": {
+    "2009": 1178060,
+    "2010": 1443801,
+    "2011": 2721638,
+    "2012": 1893816,
+    "2013": 757111,
+    "2014": 1160630
+  },
+  "earningsPerShare": {
+    "2010": 0.36,
+    "2011": 0.26,
+    "2012": 0.19,
+    "2013": 0.1,
+    "2014": 0.08
+  },
+  "htmlUrl": "http://www.sec.gov/Archives/edgar/data/42228/000115752314003542/0001157523-14-003542-index.htm",
+  "xmlUrl": "http://www.sec.gov/Archives/edgar/data/42228/000115752314003542/gldc-20140530.xml"
+}

@@ -1,0 +1,28 @@
+{
+  "symbol": "gtwn",
+  "name": "Georgetown Bancorp, Inc.",
+  "ipoYear": null,
+  "sector": "Finance",
+  "industry": "Major Banks",
+  "exchange": "nasdaq",
+  "category": "STATE COMMERCIAL BANKS",
+  "address": {
+    "street1": "2 EAST MAIN STREET",
+    "city": "GEORGETOWN",
+    "state": "MA",
+    "zip": "01833"
+  },
+  "profit": {
+    "2011": 1011000,
+    "2012": 948000,
+    "2013": 735000
+  },
+  "cash": {},
+  "earningsPerShare": {
+    "2011": 0.53,
+    "2012": 0.51,
+    "2013": 0.41
+  },
+  "htmlUrl": "http://www.sec.gov/Archives/edgar/data/1542299/000110465914023999/0001104659-14-023999-index.htm",
+  "xmlUrl": "http://www.sec.gov/Archives/edgar/data/1542299/000110465914023999/gtwn-20131231.xml"
+}

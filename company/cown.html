@@ -7,7 +7,7 @@
     <script src="https://code.jquery.com/jquery-2.1.1.min.js"></script>
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.1/js/bootstrap.min.js"></script>
 
-    <title>Cowen Group, Inc.</title>
+    <title>Cowen Group</title>
   </head>
   <body>
     <nav class="navbar navbar-static-top" role="navigation">
@@ -24,23 +24,24 @@
       </div>
     </nav>
 
-    <div class="container">
-      <div class="btn-group pull-right">
-        <button type="button" class="btn btn-default dropdown-toggle" data-toggle="dropdown" aria-expanded="false">
-          Links <span class="caret"></span>
-        </button>
-        <ul class="dropdown-menu" role="menu">
-          <li><a href="http://www.sec.gov/Archives/edgar/data/1466538/000146653814000008/0001466538-14-000008-index.htm">Official Report</a></li>
-          <li><a href="http://www.sec.gov/Archives/edgar/data/1466538/000146653814000008/cown-20131231.xml">XML Version</a></li>
-          <li><a href="./cown.json">JSON Data</a></li>
-        </ul>
+    <div class="jumbotron">
+      <div class="container">
+        <div class="row">
+          <div class="col-md-12 col-lg-12">
+            <h1 class="company-heading">Cowen Group</h1>
+            <span class="company-sector">Finance</span><br>
+            <span class="company-exchange">cown on the nasdaq</span>
+            <address>
+              599 LEXINGTON AVENUE, 20TH FLOOR<br>
+              NEW YORK, NY 10022
+            </address>
+
+          </div>
+        </div>
       </div>
+    </div>
 
-      <h1 class="company-heading">Cowen Group</h1>
-      <p class="company-sector">Finance</p>
-      <p class="company-industry">Investment Bankers/Brokers/Service</p>
-      <p class="company-exchange">Trades as cown on the nasdaq</p>
-
+    <div class="container">
       <div class="row">
 
         <div class="col-md-4 col-lg-4">
@@ -63,16 +64,17 @@
       <div class="row">
 
         <div class="col-md-4 col-lg-4">
-          <address>
-            599 LEXINGTON AVENUE, 20TH FLOOR<br>
-            NEW YORK, NY 10022
-          </address>
+          <h3>Links</h3>
+          <ul>
+          <li><a href="http://www.sec.gov/Archives/edgar/data/1466538/000146653814000008/0001466538-14-000008-index.htm">Official filing on sec.gov</a></li>
+          <li><a href="http://www.sec.gov/Archives/edgar/data/1466538/000146653814000008/cown-20131231.xml">Full XML version</a></li>
+          <li><a href="./cown.json">JSON data</a></li>
+          </ul>
         </div>
-
-        <div class="col-md-4 col-lg-4"><img class="google-map" src="https://maps.googleapis.com/maps/api/staticmap?key=AIzaSyCCqr8B1aob1jObVpkEHyg0aLFTd3t337k&markers=599%20LEXINGTON%20AVENUE%2C%2020TH%20FLOOR%20NEW%20YORK%20NY%2010022&scale=2&size=350x300&zoom=8"></div>
 
       </div>
 
     </div>
-  </body>
+
+      </body>
 </html>

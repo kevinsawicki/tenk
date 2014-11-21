@@ -1,0 +1,36 @@
+{
+  "symbol": "gfn",
+  "name": "General Finance Corporation",
+  "ipoYear": null,
+  "sector": "Consumer Services",
+  "industry": "Other Specialty Stores",
+  "exchange": "nasdaq",
+  "category": "RETAIL-RETAIL STORES, NEC",
+  "address": {
+    "street1": "39 EAST UNION STREET",
+    "city": "PASADENA",
+    "state": "CA",
+    "zip": "91103"
+  },
+  "profit": {
+    "2011": -15892000,
+    "2012": 2436000,
+    "2013": 3545000,
+    "2014": 3904000
+  },
+  "cash": {
+    "2010": 4786000,
+    "2011": 6574000,
+    "2012": 7085000,
+    "2013": 6278000,
+    "2014": 5846000
+  },
+  "earningsPerShare": {
+    "2011": -0.72,
+    "2012": 0.11,
+    "2013": 0.16,
+    "2014": 0.16
+  },
+  "htmlUrl": "http://www.sec.gov/Archives/edgar/data/1342287/000119312514340160/0001193125-14-340160-index.htm",
+  "xmlUrl": "http://www.sec.gov/Archives/edgar/data/1342287/000119312514340160/gfn-20140630.xml"
+}

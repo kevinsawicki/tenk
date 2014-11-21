@@ -1,0 +1,16 @@
+{
+  "symbol": "fdus",
+  "name": "Fidus Investment Corporation",
+  "ipoYear": 2011,
+  "exchange": "nasdaq",
+  "address": {
+    "street1": "1603 ORRINGTON AVENUE",
+    "city": "EVANSTON",
+    "state": "IL",
+    "zip": "60201"
+  },
+  "profit": {},
+  "cash": {},
+  "earningsPerShare": {},
+  "htmlUrl": "http://www.sec.gov/Archives/edgar/data/1513363/000119312514086785/0001193125-14-086785-index.htm"
+}

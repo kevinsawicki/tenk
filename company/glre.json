@@ -1,0 +1,38 @@
+{
+  "symbol": "glre",
+  "name": "Greenlight Reinsurance, Ltd.",
+  "ipoYear": 2007,
+  "sector": "Finance",
+  "industry": "Property-Casualty Insurers",
+  "exchange": "nasdaq",
+  "category": "FIRE, MARINE &amp;amp; CASUALTY INSURANCE",
+  "address": {
+    "street1": "65 MARKET STREET, SUITE 1207,",
+    "city": "GRAND CAYMAN",
+    "state": "E9",
+    "zip": "KY1-1205"
+  },
+  "profit": {
+    "2009": 209545000,
+    "2010": 90642000,
+    "2011": 6769000,
+    "2012": 14598000,
+    "2013": 225699000
+  },
+  "cash": {
+    "2009": 31717000,
+    "2010": 45540000,
+    "2011": 42284000,
+    "2012": 21890000,
+    "2013": 3722000
+  },
+  "earningsPerShare": {
+    "2009": 5.78,
+    "2010": 2.49,
+    "2011": 0.19,
+    "2012": 0.4,
+    "2013": 6.13
+  },
+  "htmlUrl": "http://www.sec.gov/Archives/edgar/data/1385613/000138561314000017/0001385613-14-000017-index.htm",
+  "xmlUrl": "http://www.sec.gov/Archives/edgar/data/1385613/000138561314000017/glre-20131231.xml"
+}

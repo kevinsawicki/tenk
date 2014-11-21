@@ -1,0 +1,38 @@
+{
+  "symbol": "hmnf",
+  "name": "HMN Financial, Inc.",
+  "ipoYear": null,
+  "sector": "Finance",
+  "industry": "Savings Institutions",
+  "exchange": "nasdaq",
+  "category": "SAVINGS INSTITUTION, FEDERALLY CHARTERED",
+  "address": {
+    "street1": "1016 CIVIC CENTER DRIVE NORTHWEST",
+    "city": "ROCHESTER",
+    "state": "MN",
+    "zip": "55901"
+  },
+  "profit": {
+    "2009": -10796000,
+    "2010": -28978000,
+    "2011": -11555000,
+    "2012": 5321000,
+    "2013": 26670000
+  },
+  "cash": {
+    "2009": 16418000,
+    "2010": 20981000,
+    "2011": 67840000,
+    "2012": 83660000,
+    "2013": 120686000
+  },
+  "earningsPerShare": {
+    "2009": -3.39,
+    "2010": -8.17,
+    "2011": -3.47,
+    "2012": 0.88,
+    "2013": 6.15
+  },
+  "htmlUrl": "http://www.sec.gov/Archives/edgar/data/921183/000143774914003820/0001437749-14-003820-index.htm",
+  "xmlUrl": "http://www.sec.gov/Archives/edgar/data/921183/000143774914003820/hmnf-20131231.xml"
+}

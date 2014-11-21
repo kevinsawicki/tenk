@@ -1,0 +1,31 @@
+{
+  "symbol": "galt",
+  "name": "Galectin Therapeutics Inc.",
+  "ipoYear": null,
+  "sector": "Health Care",
+  "industry": "Major Pharmaceuticals",
+  "exchange": "nasdaq",
+  "category": "PHARMACEUTICAL PREPARATIONS",
+  "address": {
+    "street1": "4960 PEACHTREE INDUSTRIAL BOULEVARD",
+    "city": "NORCROSS",
+    "state": "GA",
+    "zip": "30071"
+  },
+  "profit": {
+    "2010": -5629000,
+    "2011": -10915000,
+    "2012": -9675000,
+    "2013": -12088000
+  },
+  "cash": {
+    "2009": 251000,
+    "2010": 5891000,
+    "2011": 6397000,
+    "2012": 9364000,
+    "2013": 10489000
+  },
+  "earningsPerShare": {},
+  "htmlUrl": "http://www.sec.gov/Archives/edgar/data/1133416/000119312514110529/0001193125-14-110529-index.htm",
+  "xmlUrl": "http://www.sec.gov/Archives/edgar/data/1133416/000119312514110529/galt-20131231.xml"
+}

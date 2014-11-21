@@ -1,0 +1,38 @@
+{
+  "symbol": "gntx",
+  "name": "Gentex Corporation",
+  "ipoYear": null,
+  "sector": "Capital Goods",
+  "industry": "Auto Parts:O.E.M.",
+  "exchange": "nasdaq",
+  "category": "MOTOR VEHICLE PARTS &amp;amp; ACCESSORIES",
+  "address": {
+    "street1": "600 N CENTENNIAL ST",
+    "city": "ZEELAND",
+    "state": "MI",
+    "zip": "49464"
+  },
+  "profit": {
+    "2009": 64637085,
+    "2010": 137733969,
+    "2011": 164668228,
+    "2012": 168586840,
+    "2013": 222929949
+  },
+  "cash": {
+    "2009": 336108446,
+    "2010": 348349773,
+    "2011": 357986774,
+    "2012": 389678664,
+    "2013": 309591724
+  },
+  "earningsPerShare": {
+    "2009": 0.47,
+    "2010": 0.99,
+    "2011": 1.16,
+    "2012": 1.18,
+    "2013": 1.55
+  },
+  "htmlUrl": "http://www.sec.gov/Archives/edgar/data/355811/000035581114000007/0000355811-14-000007-index.htm",
+  "xmlUrl": "http://www.sec.gov/Archives/edgar/data/355811/000035581114000007/gntx-20131231.xml"
+}

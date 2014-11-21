@@ -1,0 +1,38 @@
+{
+  "symbol": "gild",
+  "name": "Gilead Sciences, Inc.",
+  "ipoYear": 1992,
+  "sector": "Health Care",
+  "industry": "Biotechnology: Biological Products (No Diagnostic Substances)",
+  "exchange": "nasdaq",
+  "category": "BIOLOGICAL PRODUCTS (NO DIAGNOSTIC SUBSTANCES)",
+  "address": {
+    "street1": "333 LAKESIDE DR",
+    "city": "FOSTER CITY",
+    "state": "CA",
+    "zip": "94404"
+  },
+  "profit": {
+    "2009": 2635755000,
+    "2010": 2901257000,
+    "2011": 2803637000,
+    "2012": 2591566000,
+    "2013": 3074808000
+  },
+  "cash": {
+    "2009": 1272958000,
+    "2010": 907879000,
+    "2011": 9883777000,
+    "2012": 1803694000,
+    "2013": 2112806000
+  },
+  "earningsPerShare": {
+    "2009": 2.91,
+    "2010": 1.69,
+    "2011": 1.81,
+    "2012": 1.71,
+    "2013": 2.01
+  },
+  "htmlUrl": "http://www.sec.gov/Archives/edgar/data/882095/000088209514000013/0000882095-14-000013-index.htm",
+  "xmlUrl": "http://www.sec.gov/Archives/edgar/data/882095/000088209514000013/gild-20131231.xml"
+}

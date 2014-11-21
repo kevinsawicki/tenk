@@ -1,0 +1,32 @@
+{
+  "symbol": "form",
+  "name": "FormFactor, Inc.",
+  "ipoYear": 2003,
+  "sector": "Technology",
+  "industry": "Semiconductors",
+  "exchange": "nasdaq",
+  "category": "SEMICONDUCTORS &amp;amp; RELATED DEVICES",
+  "address": {
+    "street1": "7005 SOUTHFRONT ROAD",
+    "city": "LIVERMORE",
+    "state": "CA",
+    "zip": "94551"
+  },
+  "profit": {
+    "2009": -155653000,
+    "2010": -188286000,
+    "2011": -65981000,
+    "2012": -35546000,
+    "2013": -57683000
+  },
+  "cash": {
+    "2009": 122043000,
+    "2010": 121207000,
+    "2011": 139049000,
+    "2012": 72243000,
+    "2013": 59196000
+  },
+  "earningsPerShare": {},
+  "htmlUrl": "http://www.sec.gov/Archives/edgar/data/1039399/000103939914000007/0001039399-14-000007-index.htm",
+  "xmlUrl": "http://www.sec.gov/Archives/edgar/data/1039399/000103939914000007/form-20131228.xml"
+}

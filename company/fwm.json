@@ -1,0 +1,29 @@
+{
+  "symbol": "fwm",
+  "name": "Fairway Group Holdings Corp.",
+  "ipoYear": 2013,
+  "sector": "Consumer Services",
+  "industry": "Food Chains",
+  "exchange": "nasdaq",
+  "category": "RETAIL-GROCERY STORES",
+  "address": {
+    "street1": "2284 12TH Avenue",
+    "city": "New York",
+    "state": "NY",
+    "zip": "10027"
+  },
+  "profit": {
+    "2012": -11949000,
+    "2013": -62868000,
+    "2014": -80280000
+  },
+  "cash": {
+    "2011": 58067000,
+    "2012": 30172000,
+    "2013": 21723000,
+    "2014": 58800000
+  },
+  "earningsPerShare": {},
+  "htmlUrl": "http://www.sec.gov/Archives/edgar/data/1555492/000155837014000048/0001558370-14-000048-index.htm",
+  "xmlUrl": "http://www.sec.gov/Archives/edgar/data/1555492/000155837014000048/fwm-20140330.xml"
+}

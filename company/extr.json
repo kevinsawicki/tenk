@@ -1,0 +1,39 @@
+{
+  "symbol": "extr",
+  "name": "Extreme Networks, Inc.",
+  "ipoYear": 1999,
+  "sector": "Technology",
+  "industry": "Computer Communications Equipment",
+  "exchange": "nasdaq",
+  "category": "COMPUTER COMMUNICATIONS EQUIPMENT",
+  "address": {
+    "street1": "145 RIO ROBLES",
+    "city": "SAN JOSE",
+    "state": "CA",
+    "zip": "95134"
+  },
+  "profit": {
+    "2010": 227000,
+    "2011": 2713000,
+    "2012": 15872000,
+    "2013": 9673000,
+    "2014": -57310000
+  },
+  "cash": {
+    "2009": 49233000,
+    "2010": 51944000,
+    "2011": 49972000,
+    "2012": 54596000,
+    "2013": 95803000,
+    "2014": 73190000
+  },
+  "earningsPerShare": {
+    "2010": 0,
+    "2011": 0.03,
+    "2012": 0.17,
+    "2013": 0.1,
+    "2014": -0.6
+  },
+  "htmlUrl": "http://www.sec.gov/Archives/edgar/data/1078271/000107827114000053/0001078271-14-000053-index.htm",
+  "xmlUrl": "http://www.sec.gov/Archives/edgar/data/1078271/000107827114000053/extr-20140630.xml"
+}

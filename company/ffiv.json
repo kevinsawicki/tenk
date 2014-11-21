@@ -1,0 +1,38 @@
+{
+  "symbol": "ffiv",
+  "name": "F5 Networks, Inc.",
+  "ipoYear": 1999,
+  "sector": "Technology",
+  "industry": "Computer Communications Equipment",
+  "exchange": "nasdaq",
+  "category": "COMPUTER COMMUNICATIONS EQUIPMENT",
+  "address": {
+    "street1": "401 ELLIOT AVE WEST",
+    "city": "SEATTLE",
+    "state": "WA",
+    "zip": "98119"
+  },
+  "profit": {
+    "2009": 91535000,
+    "2010": 151153000,
+    "2011": 241397000,
+    "2012": 275186000,
+    "2013": 277314000
+  },
+  "cash": {
+    "2009": 110837000,
+    "2010": 168754000,
+    "2011": 216784000,
+    "2012": 211181000,
+    "2013": 189693000
+  },
+  "earningsPerShare": {
+    "2009": 1.16,
+    "2010": 1.9,
+    "2011": 2.99,
+    "2012": 3.48,
+    "2013": 3.53
+  },
+  "htmlUrl": "http://www.sec.gov/Archives/edgar/data/1048695/000144530513003079/0001445305-13-003079-index.htm",
+  "xmlUrl": "http://www.sec.gov/Archives/edgar/data/1048695/000144530513003079/ffiv-20130930.xml"
+}

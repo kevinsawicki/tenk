@@ -1,0 +1,32 @@
+{
+  "symbol": "fxen",
+  "name": "FX Energy, Inc.",
+  "ipoYear": null,
+  "sector": "Energy",
+  "industry": "Oil & Gas Production",
+  "exchange": "nasdaq",
+  "category": "CRUDE PETROLEUM &amp;amp; NATURAL GAS",
+  "address": {
+    "street1": "3006 HIGHLAND DR",
+    "city": "SALT LAKE CITY",
+    "state": "UT",
+    "zip": "84106"
+  },
+  "profit": {
+    "2009": -530000,
+    "2010": -758000,
+    "2011": -28524000,
+    "2012": 4118000,
+    "2013": -11800000
+  },
+  "cash": {
+    "2009": 4225000,
+    "2010": 19740000,
+    "2011": 50859000,
+    "2012": 33990000,
+    "2013": 11153000
+  },
+  "earningsPerShare": {},
+  "htmlUrl": "http://www.sec.gov/Archives/edgar/data/907649/000103883814000034/0001038838-14-000034-index.htm",
+  "xmlUrl": "http://www.sec.gov/Archives/edgar/data/907649/000103883814000034/fxen-20131231.xml"
+}

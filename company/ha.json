@@ -1,0 +1,38 @@
+{
+  "symbol": "ha",
+  "name": "Hawaiian Holdings, Inc.",
+  "ipoYear": null,
+  "sector": "Transportation",
+  "industry": "Air Freight/Delivery Services",
+  "exchange": "nasdaq",
+  "category": "AIR TRANSPORTATION, SCHEDULED",
+  "address": {
+    "street1": "3375 KOAPAKA STREET",
+    "city": "HONOLULU",
+    "state": "HI",
+    "zip": "96819"
+  },
+  "profit": {
+    "2009": 116720000,
+    "2010": 110255000,
+    "2011": -2649000,
+    "2012": 53237000,
+    "2013": 51854000
+  },
+  "cash": {
+    "2009": 300738000,
+    "2010": 19967000,
+    "2011": 97219000,
+    "2012": 83626000,
+    "2013": 84797000
+  },
+  "earningsPerShare": {
+    "2009": 2.26,
+    "2010": 2.15,
+    "2011": -0.05,
+    "2012": 1.04,
+    "2013": 1
+  },
+  "htmlUrl": "http://www.sec.gov/Archives/edgar/data/1172222/000104746914000752/0001047469-14-000752-index.htm",
+  "xmlUrl": "http://www.sec.gov/Archives/edgar/data/1172222/000104746914000752/ha-20131231.xml"
+}

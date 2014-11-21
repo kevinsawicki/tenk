@@ -1,0 +1,38 @@
+{
+  "symbol": "fdef",
+  "name": "First Defiance Financial Corp.",
+  "ipoYear": null,
+  "sector": "Finance",
+  "industry": "Savings Institutions",
+  "exchange": "nasdaq",
+  "category": "SAVINGS INSTITUTION, FEDERALLY CHARTERED",
+  "address": {
+    "street1": "601 CLINTON ST",
+    "city": "DEFIANCE",
+    "state": "OH",
+    "zip": "43512"
+  },
+  "profit": {
+    "2009": 7194000,
+    "2010": 8108000,
+    "2011": 15534000,
+    "2012": 18664000,
+    "2013": 22235000
+  },
+  "cash": {
+    "2009": 121116000,
+    "2010": 169164000,
+    "2011": 174931000,
+    "2012": 136832000,
+    "2013": 179318000
+  },
+  "earningsPerShare": {
+    "2009": 0.64,
+    "2010": 0.75,
+    "2011": 1.44,
+    "2012": 1.86,
+    "2013": 2.28
+  },
+  "htmlUrl": "http://www.sec.gov/Archives/edgar/data/946647/000114420414012461/0001144204-14-012461-index.htm",
+  "xmlUrl": "http://www.sec.gov/Archives/edgar/data/946647/000114420414012461/fdef-20131231.xml"
+}

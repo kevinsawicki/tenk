@@ -1,0 +1,38 @@
+{
+  "symbol": "icad",
+  "name": "icad inc.",
+  "ipoYear": null,
+  "sector": "Health Care",
+  "industry": "Medical/Dental Instruments",
+  "exchange": "nasdaq",
+  "category": "SURGICAL &amp;amp; MEDICAL INSTRUMENTS &amp;amp; APPARATUS",
+  "address": {
+    "street1": "98 SPIT BROOK ROAD, SUITE 100",
+    "city": "NASHUA",
+    "state": "NH",
+    "zip": "03062"
+  },
+  "profit": {
+    "2009": -1968000,
+    "2010": -6224000,
+    "2011": -37587000,
+    "2012": -9374000,
+    "2013": -7608000
+  },
+  "cash": {
+    "2009": 16248000,
+    "2010": 16269000,
+    "2011": 4576000,
+    "2012": 13948000,
+    "2013": 11880000
+  },
+  "earningsPerShare": {
+    "2009": -0.04,
+    "2010": -0.68,
+    "2011": -3.45,
+    "2012": -0.87,
+    "2013": -0.7
+  },
+  "htmlUrl": "http://www.sec.gov/Archives/edgar/data/749660/000119312514078096/0001193125-14-078096-index.htm",
+  "xmlUrl": "http://www.sec.gov/Archives/edgar/data/749660/000119312514078096/icad-20131231.xml"
+}

@@ -1,0 +1,38 @@
+{
+  "symbol": "flir",
+  "name": "FLIR Systems, Inc.",
+  "ipoYear": 1993,
+  "sector": "Capital Goods",
+  "industry": "Industrial Machinery/Components",
+  "exchange": "nasdaq",
+  "category": "SEARCH, DETECTION, NAVIGATION, GUIDANCE, AERONAUTICAL SYS",
+  "address": {
+    "street1": "27700 SW PARKWAY AVENUE",
+    "city": "WILSONVILLE",
+    "state": "OR",
+    "zip": "97070"
+  },
+  "profit": {
+    "2009": 230213000,
+    "2010": 248126000,
+    "2011": 221474000,
+    "2012": 222398000,
+    "2013": 177015000
+  },
+  "cash": {
+    "2009": 422047000,
+    "2010": 193137000,
+    "2011": 440846000,
+    "2012": 321739000,
+    "2013": 542476000
+  },
+  "earningsPerShare": {
+    "2009": 1.54,
+    "2010": 1.59,
+    "2011": 1.4,
+    "2012": 1.47,
+    "2013": 1.24
+  },
+  "htmlUrl": "http://www.sec.gov/Archives/edgar/data/354908/000035490814000014/0000354908-14-000014-index.htm",
+  "xmlUrl": "http://www.sec.gov/Archives/edgar/data/354908/000035490814000014/flir-20131231.xml"
+}

@@ -1,0 +1,37 @@
+{
+  "symbol": "good",
+  "name": "Gladstone Commercial Corporation",
+  "ipoYear": 2003,
+  "sector": "Consumer Services",
+  "industry": "Real Estate",
+  "exchange": "nasdaq",
+  "category": "LESSORS OF REAL PROPERTY, NEC",
+  "address": {
+    "street1": "1521 WESTBRANCH DRIVE",
+    "city": "MCLEAN",
+    "state": "VA",
+    "zip": "22102"
+  },
+  "profit": {
+    "2009": 4603000,
+    "2010": 4928000,
+    "2011": 5714000,
+    "2012": 3761000,
+    "2013": 1527000
+  },
+  "cash": {
+    "2009": 3097000,
+    "2010": 7062000,
+    "2011": 3329000,
+    "2012": 5546000,
+    "2013": 8546000
+  },
+  "earningsPerShare": {
+    "2010": 0.09,
+    "2011": 0.15,
+    "2012": -0.04,
+    "2013": -0.22
+  },
+  "htmlUrl": "http://www.sec.gov/Archives/edgar/data/1234006/000119312514057052/0001193125-14-057052-index.htm",
+  "xmlUrl": "http://www.sec.gov/Archives/edgar/data/1234006/000119312514057052/good-20131231.xml"
+}

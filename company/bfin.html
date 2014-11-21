@@ -7,7 +7,7 @@
     <script src="https://code.jquery.com/jquery-2.1.1.min.js"></script>
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.1/js/bootstrap.min.js"></script>
 
-    <title>BankFinancial Corporation</title>
+    <title>BankFinancial</title>
   </head>
   <body>
     <nav class="navbar navbar-static-top" role="navigation">
@@ -24,23 +24,24 @@
       </div>
     </nav>
 
-    <div class="container">
-      <div class="btn-group pull-right">
-        <button type="button" class="btn btn-default dropdown-toggle" data-toggle="dropdown" aria-expanded="false">
-          Links <span class="caret"></span>
-        </button>
-        <ul class="dropdown-menu" role="menu">
-          <li><a href="http://www.sec.gov/Archives/edgar/data/1303942/000130394214000008/0001303942-14-000008-index.htm">Official Report</a></li>
-          <li><a href="http://www.sec.gov/Archives/edgar/data/1303942/000130394214000008/bfin-20131231.xml">XML Version</a></li>
-          <li><a href="./bfin.json">JSON Data</a></li>
-        </ul>
+    <div class="jumbotron">
+      <div class="container">
+        <div class="row">
+          <div class="col-md-12 col-lg-12">
+            <h1 class="company-heading">BankFinancial</h1>
+            <span class="company-sector">Finance</span><br>
+            <span class="company-exchange">bfin on the nasdaq</span>
+            <address>
+              15W060 NORTH FRONTAGE ROAD<br>
+              BURR RIDGE, IL 60527
+            </address>
+
+          </div>
+        </div>
       </div>
+    </div>
 
-      <h1 class="company-heading">BankFinancial</h1>
-      <p class="company-sector">Finance</p>
-      <p class="company-industry">Savings Institutions</p>
-      <p class="company-exchange">Trades as bfin on the nasdaq</p>
-
+    <div class="container">
       <div class="row">
 
         <div class="col-md-4 col-lg-4">
@@ -63,16 +64,17 @@
       <div class="row">
 
         <div class="col-md-4 col-lg-4">
-          <address>
-            15W060 NORTH FRONTAGE ROAD<br>
-            BURR RIDGE, IL 60527
-          </address>
+          <h3>Links</h3>
+          <ul>
+          <li><a href="http://www.sec.gov/Archives/edgar/data/1303942/000130394214000008/0001303942-14-000008-index.htm">Official filing on sec.gov</a></li>
+          <li><a href="http://www.sec.gov/Archives/edgar/data/1303942/000130394214000008/bfin-20131231.xml">Full XML version</a></li>
+          <li><a href="./bfin.json">JSON data</a></li>
+          </ul>
         </div>
-
-        <div class="col-md-4 col-lg-4"><img class="google-map" src="https://maps.googleapis.com/maps/api/staticmap?key=AIzaSyCCqr8B1aob1jObVpkEHyg0aLFTd3t337k&markers=15W060%20NORTH%20FRONTAGE%20ROAD%20BURR%20RIDGE%20IL%2060527&scale=2&size=350x300&zoom=8"></div>
 
       </div>
 
     </div>
-  </body>
+
+      </body>
 </html>

@@ -1,0 +1,39 @@
+{
+  "symbol": "giii",
+  "name": "G-III Apparel Group, LTD.",
+  "ipoYear": 1989,
+  "sector": "Consumer Non-Durables",
+  "industry": "Apparel",
+  "exchange": "nasdaq",
+  "category": "APPAREL &amp;amp; OTHER FINISHED PRODS OF FABRICS &amp;amp; SIMILAR MATERIAL",
+  "address": {
+    "street1": "512 SEVENTH AVE",
+    "city": "NEW YORK",
+    "state": "NY",
+    "zip": "10018"
+  },
+  "profit": {
+    "2010": 31718000,
+    "2011": 56682000,
+    "2012": 49620000,
+    "2013": 56875000,
+    "2014": 77360000
+  },
+  "cash": {
+    "2009": 2508000,
+    "2010": 46813000,
+    "2011": 10045000,
+    "2012": 24660000,
+    "2013": 27360000,
+    "2014": 22091000
+  },
+  "earningsPerShare": {
+    "2010": 1.87,
+    "2011": 2.96,
+    "2012": 2.51,
+    "2013": 2.84,
+    "2014": 3.81
+  },
+  "htmlUrl": "http://www.sec.gov/Archives/edgar/data/821002/000157104914000998/0001571049-14-000998-index.htm",
+  "xmlUrl": "http://www.sec.gov/Archives/edgar/data/821002/000157104914000998/giii-20140131.xml"
+}

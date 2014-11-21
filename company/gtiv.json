@@ -1,0 +1,35 @@
+{
+  "symbol": "gtiv",
+  "name": "Gentiva Health Services, Inc.",
+  "ipoYear": null,
+  "sector": "Health Care",
+  "industry": "Medical/Nursing Services",
+  "exchange": "nasdaq",
+  "category": "SERVICES-HOME HEALTH CARE SERVICES",
+  "address": {
+    "street1": "3350 RIVERWOOD PARKWAY",
+    "city": "ATLANTA",
+    "state": "GA",
+    "zip": "30339"
+  },
+  "profit": {
+    "2010": 52155000,
+    "2011": -451062000,
+    "2012": 26796000,
+    "2013": -605061000
+  },
+  "cash": {
+    "2010": 104752000,
+    "2011": 164912000,
+    "2012": 207052000,
+    "2013": 86957000
+  },
+  "earningsPerShare": {
+    "2010": 1.75,
+    "2011": -14.86,
+    "2012": 0.88,
+    "2013": -18.94
+  },
+  "htmlUrl": "http://www.sec.gov/Archives/edgar/data/1096142/000109614214000031/0001096142-14-000031-index.htm",
+  "xmlUrl": "http://www.sec.gov/Archives/edgar/data/1096142/000109614214000031/gtiv-20131231.xml"
+}

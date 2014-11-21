@@ -1,0 +1,38 @@
+{
+  "symbol": "gsbc",
+  "name": "Great Southern Bancorp, Inc.",
+  "ipoYear": 1989,
+  "sector": "Finance",
+  "industry": "Major Banks",
+  "exchange": "nasdaq",
+  "category": "STATE COMMERCIAL BANKS",
+  "address": {
+    "street1": "1451 E BATTLEFIELD",
+    "city": "SPRINGFIELD",
+    "state": "MO",
+    "zip": "65804"
+  },
+  "profit": {
+    "2009": 65047000,
+    "2010": 23865000,
+    "2011": 30269000,
+    "2012": 48706000,
+    "2013": 33729000
+  },
+  "cash": {
+    "2009": 444576000,
+    "2010": 429971000,
+    "2011": 380249000,
+    "2012": 404141000,
+    "2013": 227925000
+  },
+  "earningsPerShare": {
+    "2009": 4.61,
+    "2010": 1.52,
+    "2011": 1.95,
+    "2012": 3.55,
+    "2013": 2.43
+  },
+  "htmlUrl": "http://www.sec.gov/Archives/edgar/data/854560/000092708914000068/0000927089-14-000068-index.htm",
+  "xmlUrl": "http://www.sec.gov/Archives/edgar/data/854560/000092708914000068/gsbc-20131231.xml"
+}

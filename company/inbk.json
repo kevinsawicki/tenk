@@ -1,0 +1,30 @@
+{
+  "symbol": "inbk",
+  "name": "First Internet Bancorp",
+  "ipoYear": null,
+  "sector": "Finance",
+  "industry": "Major Banks",
+  "exchange": "nasdaq",
+  "category": "STATE COMMERCIAL BANKS",
+  "address": {
+    "street1": "8888 KEYSTONE CROSSING",
+    "city": "INDIANAPOLIS",
+    "state": "IN",
+    "zip": "46240"
+  },
+  "profit": {
+    "2012": 5606000,
+    "2013": 4593000
+  },
+  "cash": {
+    "2011": 34778000,
+    "2012": 32513000,
+    "2013": 53690000
+  },
+  "earningsPerShare": {
+    "2012": 1.95,
+    "2013": 1.51
+  },
+  "htmlUrl": "http://www.sec.gov/Archives/edgar/data/1562463/000114420414019240/0001144204-14-019240-index.htm",
+  "xmlUrl": "http://www.sec.gov/Archives/edgar/data/1562463/000114420414019240/inbk-20131231.xml"
+}

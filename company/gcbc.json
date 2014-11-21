@@ -1,0 +1,36 @@
+{
+  "symbol": "gcbc",
+  "name": "Greene County Bancorp, Inc.",
+  "ipoYear": null,
+  "sector": "Finance",
+  "industry": "Banks",
+  "exchange": "nasdaq",
+  "category": "SAVINGS INSTITUTIONS, NOT FEDERALLY CHARTERED",
+  "address": {
+    "street1": "302 MAIN STREET",
+    "city": "CATSKILL",
+    "state": "NY",
+    "zip": "12414"
+  },
+  "profit": {
+    "2011": 5291000,
+    "2012": 5830000,
+    "2013": 6371000,
+    "2014": 6528000
+  },
+  "cash": {
+    "2010": 1616000,
+    "2011": 2324000,
+    "2012": 4247000,
+    "2013": 2114000,
+    "2014": 2817000
+  },
+  "earningsPerShare": {
+    "2011": 1.28,
+    "2012": 1.4,
+    "2013": 1.52,
+    "2014": 1.55
+  },
+  "htmlUrl": "http://www.sec.gov/Archives/edgar/data/1070524/000114036114036535/0001140361-14-036535-index.htm",
+  "xmlUrl": "http://www.sec.gov/Archives/edgar/data/1070524/000114036114036535/gcbc-20140630.xml"
+}

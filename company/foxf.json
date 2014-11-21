@@ -1,0 +1,33 @@
+{
+  "symbol": "foxf",
+  "name": "Fox Factory Holding Corp.",
+  "ipoYear": 2013,
+  "sector": "Consumer Non-Durables",
+  "industry": "Motor Vehicles",
+  "exchange": "nasdaq",
+  "category": "MOTORCYCLES, BICYCLES &amp;amp; PARTS",
+  "address": {
+    "street1": "915 DISC DRIVE",
+    "city": "SCOTTS VALLEY",
+    "state": "CA",
+    "zip": "95066"
+  },
+  "profit": {
+    "2011": 13538000,
+    "2012": 14210000,
+    "2013": 24102000
+  },
+  "cash": {
+    "2010": 502000,
+    "2011": 114000,
+    "2012": 15000,
+    "2013": 1683000
+  },
+  "earningsPerShare": {
+    "2011": 0.45,
+    "2012": 0.44,
+    "2013": 0.7
+  },
+  "htmlUrl": "http://www.sec.gov/Archives/edgar/data/1424929/000119312514093860/0001193125-14-093860-index.htm",
+  "xmlUrl": "http://www.sec.gov/Archives/edgar/data/1424929/000119312514093860/foxf-20131231.xml"
+}

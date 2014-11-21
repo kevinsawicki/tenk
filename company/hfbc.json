@@ -1,0 +1,38 @@
+{
+  "symbol": "hfbc",
+  "name": "HopFed Bancorp, Inc.",
+  "ipoYear": null,
+  "sector": "Finance",
+  "industry": "Major Banks",
+  "exchange": "nasdaq",
+  "category": "STATE COMMERCIAL BANKS",
+  "address": {
+    "street1": "2700 FORT CAMPBELL BLVD",
+    "city": "HOPKINSVILLE",
+    "state": "KY",
+    "zip": "42440"
+  },
+  "profit": {
+    "2009": 944000,
+    "2010": 5485000,
+    "2011": 1889000,
+    "2012": 2840000,
+    "2013": 353000
+  },
+  "cash": {
+    "2009": 41111000,
+    "2010": 60984000,
+    "2011": 48760000,
+    "2012": 37176000,
+    "2013": 55848000
+  },
+  "earningsPerShare": {
+    "2009": 0.25,
+    "2010": 0.96,
+    "2011": 0.25,
+    "2012": 0.38,
+    "2013": 0.5
+  },
+  "htmlUrl": "http://www.sec.gov/Archives/edgar/data/1041550/000119312514100252/0001193125-14-100252-index.htm",
+  "xmlUrl": "http://www.sec.gov/Archives/edgar/data/1041550/000119312514100252/hfbc-20131231.xml"
+}

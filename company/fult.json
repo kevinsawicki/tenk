@@ -1,0 +1,38 @@
+{
+  "symbol": "fult",
+  "name": "Fulton Financial Corporation",
+  "ipoYear": null,
+  "sector": "Finance",
+  "industry": "Major Banks",
+  "exchange": "nasdaq",
+  "category": "NATIONAL COMMERCIAL BANKS",
+  "address": {
+    "street1": "ONE PENN SQ",
+    "city": "LANCASTER",
+    "state": "PA",
+    "zip": "17604"
+  },
+  "profit": {
+    "2009": 73924000,
+    "2010": 128332000,
+    "2011": 145573000,
+    "2012": 159845000,
+    "2013": 161840000
+  },
+  "cash": {
+    "2009": 119000,
+    "2010": 10000,
+    "2011": 59000,
+    "2012": 40000,
+    "2013": 8000
+  },
+  "earningsPerShare": {
+    "2009": 0.31,
+    "2010": 0.59,
+    "2011": 0.73,
+    "2012": 0.8,
+    "2013": 0.84
+  },
+  "htmlUrl": "http://www.sec.gov/Archives/edgar/data/700564/000070056414000012/0000700564-14-000012-index.htm",
+  "xmlUrl": "http://www.sec.gov/Archives/edgar/data/700564/000070056414000012/fult-20131231.xml"
+}

@@ -1,0 +1,36 @@
+{
+  "symbol": "hafc",
+  "name": "Hanmi Financial Corporation",
+  "ipoYear": null,
+  "sector": "Finance",
+  "industry": "Major Banks",
+  "exchange": "nasdaq",
+  "category": "NATIONAL COMMERCIAL BANKS",
+  "address": {
+    "street1": "3660 WILSHIRE BLVD SUITE PH-A",
+    "city": "LOS ANGELES",
+    "state": "CA",
+    "zip": "90010"
+  },
+  "profit": {
+    "2009": -122277000,
+    "2010": -88009000,
+    "2011": 28147000,
+    "2012": 90374000,
+    "2013": 39906000
+  },
+  "cash": {
+    "2011": 31706000,
+    "2012": 24722000,
+    "2013": 13657000
+  },
+  "earningsPerShare": {
+    "2009": -20.56,
+    "2010": -7.46,
+    "2011": 1.38,
+    "2012": 2.87,
+    "2013": 1.26
+  },
+  "htmlUrl": "http://www.sec.gov/Archives/edgar/data/1109242/000119312514102626/0001193125-14-102626-index.htm",
+  "xmlUrl": "http://www.sec.gov/Archives/edgar/data/1109242/000119312514102626/hafc-20131231.xml"
+}

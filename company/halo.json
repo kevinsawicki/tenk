@@ -1,0 +1,32 @@
+{
+  "symbol": "halo",
+  "name": "Halozyme Therapeutics, Inc.",
+  "ipoYear": null,
+  "sector": "Health Care",
+  "industry": "Biotechnology: Biological Products (No Diagnostic Substances)",
+  "exchange": "nasdaq",
+  "category": "BIOLOGICAL PRODUCTS (NO DIAGNOSTIC SUBSTANCES)",
+  "address": {
+    "street1": "11388 SORRENTO VALLEY ROAD",
+    "city": "SAN DIEGO",
+    "state": "CA",
+    "zip": "92121-1345"
+  },
+  "profit": {
+    "2009": -58360523,
+    "2010": -53241650,
+    "2011": -19769851,
+    "2012": -53552002,
+    "2013": -83478551
+  },
+  "cash": {
+    "2009": 67464506,
+    "2010": 82755848,
+    "2011": 52375527,
+    "2012": 99501264,
+    "2013": 27356947
+  },
+  "earningsPerShare": {},
+  "htmlUrl": "http://www.sec.gov/Archives/edgar/data/1159036/000115903614000033/0001159036-14-000033-index.htm",
+  "xmlUrl": "http://www.sec.gov/Archives/edgar/data/1159036/000115903614000033/halo-20131231.xml"
+}

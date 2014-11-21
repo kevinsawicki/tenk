@@ -1,0 +1,16 @@
+{
+  "symbol": "gbdc",
+  "name": "Golub Capital BDC, Inc.",
+  "ipoYear": 2010,
+  "exchange": "nasdaq",
+  "address": {
+    "street1": "150 SOUTH WACKER DRIVE",
+    "city": "CHICAGO",
+    "state": "IL",
+    "zip": "60606"
+  },
+  "profit": {},
+  "cash": {},
+  "earningsPerShare": {},
+  "htmlUrl": "http://www.sec.gov/Archives/edgar/data/1476765/000114420414069568/0001144204-14-069568-index.htm"
+}

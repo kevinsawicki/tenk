@@ -1,0 +1,38 @@
+{
+  "symbol": "ezpw",
+  "name": "EZCORP, Inc.",
+  "ipoYear": 1991,
+  "sector": "Consumer Services",
+  "industry": "Other Specialty Stores",
+  "exchange": "nasdaq",
+  "category": "RETAIL-MISCELLANEOUS RETAIL",
+  "address": {
+    "street1": "1901 CAPITAL PKWY",
+    "city": "AUSTIN",
+    "state": "TX",
+    "zip": "78746"
+  },
+  "profit": {
+    "2009": 68472000,
+    "2010": 97294000,
+    "2011": 122159000,
+    "2012": 143708000,
+    "2013": 34077000
+  },
+  "cash": {
+    "2009": 44764000,
+    "2010": 25854000,
+    "2011": 23969000,
+    "2012": 48477000,
+    "2013": 36317000
+  },
+  "earningsPerShare": {
+    "2009": 1.45,
+    "2010": 1.98,
+    "2011": 2.45,
+    "2012": 2.82,
+    "2013": 0.64
+  },
+  "htmlUrl": "http://www.sec.gov/Archives/edgar/data/876523/000087652313000083/0000876523-13-000083-index.htm",
+  "xmlUrl": "http://www.sec.gov/Archives/edgar/data/876523/000087652313000083/ezpw-20130930.xml"
+}

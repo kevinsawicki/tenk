@@ -1,0 +1,19 @@
+{
+  "symbol": "hcom",
+  "name": "Hawaiian Telcom Holdco, Inc.",
+  "ipoYear": null,
+  "sector": "Consumer Services",
+  "industry": "Telecommunications Equipment",
+  "exchange": "nasdaq",
+  "category": "COMMUNICATION SERVICES, NEC",
+  "address": {
+    "street1": "1177 BISHOP STREET",
+    "city": "HONOLULU",
+    "state": "HI",
+    "zip": "96813"
+  },
+  "profit": {},
+  "cash": {},
+  "earningsPerShare": {},
+  "htmlUrl": "http://www.sec.gov/Archives/edgar/data/1487986/000104746914002259/0001047469-14-002259-index.htm"
+}

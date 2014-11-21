@@ -1,0 +1,19 @@
+{
+  "symbol": "hmhc",
+  "name": "Houghton Mifflin Harcourt Company",
+  "ipoYear": 2013,
+  "sector": "Consumer Services",
+  "industry": "Books",
+  "exchange": "nasdaq",
+  "category": "BOOKS: PUBLISHING OR PUBLISHING AND PRINTING",
+  "address": {
+    "street1": "222 BERKELEY STREET",
+    "city": "BOSTON",
+    "state": "MA",
+    "zip": "02116"
+  },
+  "profit": {},
+  "cash": {},
+  "earningsPerShare": {},
+  "htmlUrl": "http://www.sec.gov/Archives/edgar/data/1580156/000119312514118350/0001193125-14-118350-index.htm"
+}

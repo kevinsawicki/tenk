@@ -1,0 +1,38 @@
+{
+  "symbol": "essa",
+  "name": "ESSA Bancorp, Inc.",
+  "ipoYear": null,
+  "sector": "Finance",
+  "industry": "Banks",
+  "exchange": "nasdaq",
+  "category": "SAVINGS INSTITUTIONS, NOT FEDERALLY CHARTERED",
+  "address": {
+    "street1": "200 PALMER STREET",
+    "city": "STROUDSBURG",
+    "state": "PA",
+    "zip": "18360"
+  },
+  "profit": {
+    "2009": 6556000,
+    "2010": 4512000,
+    "2011": 5258000,
+    "2012": 215000,
+    "2013": 8823000
+  },
+  "cash": {
+    "2009": 18593000,
+    "2010": 10890000,
+    "2011": 41694000,
+    "2012": 15550000,
+    "2013": 26648000
+  },
+  "earningsPerShare": {
+    "2009": 0.47,
+    "2010": 0.36,
+    "2011": 0.46,
+    "2012": 0.02,
+    "2013": 0.76
+  },
+  "htmlUrl": "http://www.sec.gov/Archives/edgar/data/1382230/000119312513474578/0001193125-13-474578-index.htm",
+  "xmlUrl": "http://www.sec.gov/Archives/edgar/data/1382230/000119312513474578/essa-20130930.xml"
+}

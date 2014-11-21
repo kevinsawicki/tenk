@@ -1,0 +1,32 @@
+{
+  "symbol": "inve",
+  "name": "Identiv, Inc.",
+  "ipoYear": null,
+  "sector": "Technology",
+  "industry": "Computer peripheral equipment",
+  "exchange": "nasdaq",
+  "category": "COMPUTER PERIPHERAL EQUIPMENT, NEC",
+  "address": {
+    "street1": "39300 CIVIC CENTER DRIVE",
+    "city": "FREMONT",
+    "state": "CA",
+    "zip": "94538"
+  },
+  "profit": {
+    "2009": -14179000,
+    "2010": -9544000,
+    "2011": -9753000,
+    "2012": -50336000,
+    "2013": -34865000
+  },
+  "cash": {
+    "2009": 4836000,
+    "2010": 10565000,
+    "2011": 16224000,
+    "2012": 6109000,
+    "2013": 5095000
+  },
+  "earningsPerShare": {},
+  "htmlUrl": "http://www.sec.gov/Archives/edgar/data/1036044/000156459014001232/0001564590-14-001232-index.htm",
+  "xmlUrl": "http://www.sec.gov/Archives/edgar/data/1036044/000156459014001232/inve-20131231.xml"
+}

@@ -1,0 +1,38 @@
+{
+  "symbol": "expe",
+  "name": "Expedia, Inc.",
+  "ipoYear": null,
+  "sector": "Consumer Services",
+  "industry": "Transportation Services",
+  "exchange": "nasdaq",
+  "category": "TRANSPORTATION SERVICES",
+  "address": {
+    "street1": "333 108TH AVENUE NE",
+    "city": "BELLEVUE",
+    "state": "WA",
+    "zip": "98004"
+  },
+  "profit": {
+    "2009": 299526000,
+    "2010": 421500000,
+    "2011": 472294000,
+    "2012": 280171000,
+    "2013": 232850000
+  },
+  "cash": {
+    "2009": 611180000,
+    "2010": 621199000,
+    "2011": 689134000,
+    "2012": 1293161000,
+    "2013": 1021033000
+  },
+  "earningsPerShare": {
+    "2009": 2.08,
+    "2010": 2.98,
+    "2011": 3.48,
+    "2012": 2.09,
+    "2013": 1.73
+  },
+  "htmlUrl": "http://www.sec.gov/Archives/edgar/data/1324424/000119312514039090/0001193125-14-039090-index.htm",
+  "xmlUrl": "http://www.sec.gov/Archives/edgar/data/1324424/000119312514039090/expe-20131231.xml"
+}

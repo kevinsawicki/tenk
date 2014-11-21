@@ -1,0 +1,38 @@
+{
+  "symbol": "grpn",
+  "name": "Groupon, Inc.",
+  "ipoYear": 2011,
+  "sector": "Technology",
+  "industry": "Advertising",
+  "exchange": "nasdaq",
+  "category": "SERVICES-ADVERTISING AGENCIES",
+  "address": {
+    "street1": "600 WEST CHICAGO AVENUE, SUITE 830",
+    "city": "CHICAGO",
+    "state": "IL",
+    "zip": "60610"
+  },
+  "profit": {
+    "2009": -1341,
+    "2010": -389640000,
+    "2011": -279427000,
+    "2012": -54773000,
+    "2013": -95393000
+  },
+  "cash": {
+    "2009": 12313000,
+    "2010": 118833000,
+    "2011": 1122935000,
+    "2012": 1209289000,
+    "2013": 1240472000
+  },
+  "earningsPerShare": {
+    "2009": -0.02,
+    "2010": -1.33,
+    "2011": -1.03,
+    "2012": -0.1,
+    "2013": -0.14
+  },
+  "htmlUrl": "http://www.sec.gov/Archives/edgar/data/1490281/000149028114000024/0001490281-14-000024-index.htm",
+  "xmlUrl": "http://www.sec.gov/Archives/edgar/data/1490281/000149028114000024/grpn-20131231.xml"
+}

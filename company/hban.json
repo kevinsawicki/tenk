@@ -1,0 +1,38 @@
+{
+  "symbol": "hban",
+  "name": "Huntington Bancshares Incorporated",
+  "ipoYear": null,
+  "sector": "Finance",
+  "industry": "Major Banks",
+  "exchange": "nasdaq",
+  "category": "NATIONAL COMMERCIAL BANKS",
+  "address": {
+    "street1": "HUNTINGTON CTR",
+    "city": "COLUMBUS",
+    "state": "OH",
+    "zip": "43287"
+  },
+  "profit": {
+    "2009": -3094179000,
+    "2010": 312347000,
+    "2011": 542613000,
+    "2012": 641022000,
+    "2013": 638741000
+  },
+  "cash": {
+    "2009": 1376539000,
+    "2010": 847888000,
+    "2011": 1115968000,
+    "2012": 1262806000,
+    "2013": 1001132000
+  },
+  "earningsPerShare": {
+    "2009": -6.14,
+    "2010": 0.19,
+    "2011": 0.59,
+    "2012": 0.71,
+    "2013": 0.73
+  },
+  "htmlUrl": "http://www.sec.gov/Archives/edgar/data/49196/000119312514054675/0001193125-14-054675-index.htm",
+  "xmlUrl": "http://www.sec.gov/Archives/edgar/data/49196/000119312514054675/hban-20131231.xml"
+}

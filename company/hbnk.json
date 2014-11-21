@@ -1,0 +1,39 @@
+{
+  "symbol": "hbnk",
+  "name": "Hampden Bancorp, Inc.",
+  "ipoYear": null,
+  "sector": "Finance",
+  "industry": "Banks",
+  "exchange": "nasdaq",
+  "category": "SAVINGS INSTITUTIONS, NOT FEDERALLY CHARTERED",
+  "address": {
+    "street1": "19 HARRISON AVENUE",
+    "city": "SPRINGFIELD",
+    "state": "MA",
+    "zip": "01102"
+  },
+  "profit": {
+    "2010": -353000,
+    "2011": 1314000,
+    "2012": 3016000,
+    "2013": 2974000,
+    "2014": 4515000
+  },
+  "cash": {
+    "2009": 10244000,
+    "2010": 6077000,
+    "2011": 7873000,
+    "2012": 3435000,
+    "2013": 1032000,
+    "2014": 4920000
+  },
+  "earningsPerShare": {
+    "2010": -0.05,
+    "2011": 0.21,
+    "2012": 0.52,
+    "2013": 0.55,
+    "2014": 0.85
+  },
+  "htmlUrl": "http://www.sec.gov/Archives/edgar/data/1375320/000137532014000015/0001375320-14-000015-index.htm",
+  "xmlUrl": "http://www.sec.gov/Archives/edgar/data/1375320/000137532014000015/hbnk-20140630.xml"
+}

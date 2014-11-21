@@ -1,0 +1,32 @@
+{
+  "symbol": "htwr",
+  "name": "Heartware International, Inc.",
+  "ipoYear": null,
+  "sector": "Health Care",
+  "industry": "Medical/Dental Instruments",
+  "exchange": "nasdaq",
+  "category": "SURGICAL &amp;amp; MEDICAL INSTRUMENTS &amp;amp; APPARATUS",
+  "address": {
+    "street1": "500 OLD CONNECTICUT PATH",
+    "city": "FRAMINGHAM",
+    "state": "MA",
+    "zip": "01701"
+  },
+  "profit": {
+    "2009": -20909000,
+    "2010": -29397000,
+    "2011": -55055000,
+    "2012": -87718000,
+    "2013": -59311000
+  },
+  "cash": {
+    "2009": 50835000,
+    "2010": 192148000,
+    "2011": 71257000,
+    "2012": 85921000,
+    "2013": 162880000
+  },
+  "earningsPerShare": {},
+  "htmlUrl": "http://www.sec.gov/Archives/edgar/data/1389072/000119312514078781/0001193125-14-078781-index.htm",
+  "xmlUrl": "http://www.sec.gov/Archives/edgar/data/1389072/000119312514078781/htwr-20131231.xml"
+}

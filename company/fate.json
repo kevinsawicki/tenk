@@ -1,0 +1,31 @@
+{
+  "symbol": "fate",
+  "name": "Fate Therapeutics, Inc.",
+  "ipoYear": 2013,
+  "sector": "Health Care",
+  "industry": "Biotechnology: Biological Products (No Diagnostic Substances)",
+  "exchange": "nasdaq",
+  "category": "BIOLOGICAL PRODUCTS (NO DIAGNOSTIC SUBSTANCES)",
+  "address": {
+    "street1": "3535 GENERAL ATOMICS COURT",
+    "city": "SAN DIEGO",
+    "state": "CA",
+    "zip": "92121"
+  },
+  "profit": {
+    "2009": -13334000,
+    "2010": -16222000,
+    "2011": -13427000,
+    "2012": -14239000,
+    "2013": -20894000
+  },
+  "cash": {
+    "2010": 11225000,
+    "2011": 6387000,
+    "2012": 9087000,
+    "2013": 54036000
+  },
+  "earningsPerShare": {},
+  "htmlUrl": "http://www.sec.gov/Archives/edgar/data/1434316/000104746914002516/0001047469-14-002516-index.htm",
+  "xmlUrl": "http://www.sec.gov/Archives/edgar/data/1434316/000104746914002516/fate-20131231.xml"
+}

@@ -1,0 +1,27 @@
+{
+  "symbol": "ipwr",
+  "name": "Ideal Power Inc.",
+  "ipoYear": 2013,
+  "sector": "Energy",
+  "industry": "Industrial Machinery/Components",
+  "exchange": "nasdaq",
+  "category": "ELECTRICAL INDUSTRIAL APPARATUS",
+  "address": {
+    "street1": "5004 BEE CREEK RD.",
+    "city": "SPICEWOOD",
+    "state": "TX",
+    "zip": "78669"
+  },
+  "profit": {
+    "2012": -4647219,
+    "2013": -9551698
+  },
+  "cash": {
+    "2011": 100675,
+    "2012": 1972301,
+    "2013": 14137097
+  },
+  "earningsPerShare": {},
+  "htmlUrl": "http://www.sec.gov/Archives/edgar/data/1507957/000114420414018885/0001144204-14-018885-index.htm",
+  "xmlUrl": "http://www.sec.gov/Archives/edgar/data/1507957/000114420414018885/ipwr-20131231.xml"
+}

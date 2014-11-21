@@ -1,0 +1,38 @@
+{
+  "symbol": "hsii",
+  "name": "Heidrick & Struggles International, Inc.",
+  "ipoYear": 1999,
+  "sector": "Technology",
+  "industry": "Diversified Commercial Services",
+  "exchange": "nasdaq",
+  "category": "SERVICES-EMPLOYMENT AGENCIES",
+  "address": {
+    "street1": "C/O HEIDRICK &amp; STRUGGLES INC",
+    "city": "CHICAGO",
+    "state": "IL",
+    "zip": "60606-6303"
+  },
+  "profit": {
+    "2009": -20908000,
+    "2010": 7493000,
+    "2011": -33722000,
+    "2012": 6240000,
+    "2013": 6347000
+  },
+  "cash": {
+    "2009": 123030000,
+    "2010": 181124000,
+    "2011": 185390000,
+    "2012": 117605000,
+    "2013": 181646000
+  },
+  "earningsPerShare": {
+    "2009": -1.24,
+    "2010": 0.43,
+    "2011": -1.9,
+    "2012": 0.35,
+    "2013": 0.35
+  },
+  "htmlUrl": "http://www.sec.gov/Archives/edgar/data/1066605/000119312514098019/0001193125-14-098019-index.htm",
+  "xmlUrl": "http://www.sec.gov/Archives/edgar/data/1066605/000119312514098019/hsii-20131231.xml"
+}

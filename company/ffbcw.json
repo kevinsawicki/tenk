@@ -1,0 +1,19 @@
+{
+  "symbol": "ffbcw",
+  "name": "First Financial Bancorp.",
+  "ipoYear": null,
+  "sector": "Finance",
+  "industry": "Major Banks",
+  "exchange": "nasdaq",
+  "category": "NATIONAL COMMERCIAL BANKS",
+  "address": {
+    "street1": "255 EAST FIFTH STREET",
+    "city": "CINCINNATI",
+    "state": "OH",
+    "zip": "45202"
+  },
+  "profit": {},
+  "cash": {},
+  "earningsPerShare": {},
+  "htmlUrl": "http://www.sec.gov/Archives/edgar/data/708955/000070895514000019/0000708955-14-000019-index.htm"
+}

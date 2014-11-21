@@ -1,0 +1,29 @@
+{
+  "symbol": "hiiq",
+  "name": "Health Insurance Innovations, Inc.",
+  "ipoYear": 2013,
+  "sector": "Finance",
+  "industry": "Specialty Insurers",
+  "exchange": "nasdaq",
+  "category": "INSURANCE AGENTS BROKERS &amp;amp; SERVICES",
+  "address": {
+    "street1": "15438 N. FLORIDA AVENUE",
+    "city": "TAMPA",
+    "state": "FL",
+    "zip": "33613"
+  },
+  "profit": {
+    "2012": 3349000,
+    "2013": -3355000
+  },
+  "cash": {
+    "2011": 618000,
+    "2012": 750000,
+    "2013": 17054000
+  },
+  "earningsPerShare": {
+    "2013": -0.7
+  },
+  "htmlUrl": "http://www.sec.gov/Archives/edgar/data/1561387/000156459014000991/0001564590-14-000991-index.htm",
+  "xmlUrl": "http://www.sec.gov/Archives/edgar/data/1561387/000156459014000991/hiiq-20131231.xml"
+}

@@ -1,0 +1,38 @@
+{
+  "symbol": "hbnc",
+  "name": "Horizon Bancorp (IN)",
+  "ipoYear": null,
+  "sector": "Finance",
+  "industry": "Major Banks",
+  "exchange": "nasdaq",
+  "category": "NATIONAL COMMERCIAL BANKS",
+  "address": {
+    "street1": "515 FRANKLIN SQUARE",
+    "city": "MICHIGAN CITY",
+    "state": "IN",
+    "zip": "46360"
+  },
+  "profit": {
+    "2009": 9140000,
+    "2010": 10455000,
+    "2011": 12797000,
+    "2012": 19543000,
+    "2013": 19876000
+  },
+  "cash": {
+    "2009": 68702000,
+    "2010": 15683000,
+    "2011": 20447000,
+    "2012": 30735000,
+    "2013": 31721000
+  },
+  "earningsPerShare": {
+    "2009": 1.6,
+    "2010": 1.23,
+    "2011": 1.55,
+    "2012": 2.39,
+    "2013": 2.26
+  },
+  "htmlUrl": "http://www.sec.gov/Archives/edgar/data/706129/000119312514076987/0001193125-14-076987-index.htm",
+  "xmlUrl": "http://www.sec.gov/Archives/edgar/data/706129/000119312514076987/hbnc-20131231.xml"
+}

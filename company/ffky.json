@@ -1,0 +1,38 @@
+{
+  "symbol": "ffky",
+  "name": "First Financial Service Corporation",
+  "ipoYear": null,
+  "sector": "Finance",
+  "industry": "Major Banks",
+  "exchange": "nasdaq",
+  "category": "STATE COMMERCIAL BANKS",
+  "address": {
+    "street1": "2323 RING ROAD",
+    "city": "ELIZABETHTOWN",
+    "state": "KY",
+    "zip": "42701"
+  },
+  "profit": {
+    "2009": -6709000,
+    "2010": -9402000,
+    "2011": -23161000,
+    "2012": -8393000,
+    "2013": 741000
+  },
+  "cash": {
+    "2009": 98533000,
+    "2010": 166176000,
+    "2011": 92236000,
+    "2012": 63103000,
+    "2013": 65988000
+  },
+  "earningsPerShare": {
+    "2009": -1.65,
+    "2010": -2.21,
+    "2011": -5.11,
+    "2012": -1.98,
+    "2013": -0.06
+  },
+  "htmlUrl": "http://www.sec.gov/Archives/edgar/data/854395/000114420414019013/0001144204-14-019013-index.htm",
+  "xmlUrl": "http://www.sec.gov/Archives/edgar/data/854395/000114420414019013/ffky-20131231.xml"
+}

@@ -1,0 +1,32 @@
+{
+  "symbol": "hds",
+  "name": "HD Supply Holdings, Inc.",
+  "ipoYear": 2013,
+  "sector": "Consumer Services",
+  "industry": "Office Equipment/Supplies/Services",
+  "exchange": "nasdaq",
+  "category": "WHOLESALE-DURABLE GOODS",
+  "address": {
+    "street1": "3100 CUMBERLAND BOULEVARD",
+    "city": "ATLANTA",
+    "state": "GA",
+    "zip": "30339"
+  },
+  "profit": {
+    "2012": -543000000,
+    "2013": -1179000000,
+    "2014": -218000000
+  },
+  "cash": {
+    "2011": 249000000,
+    "2012": 12000000,
+    "2013": 91000000,
+    "2014": 115000000
+  },
+  "earningsPerShare": {
+    "2013": -9.03,
+    "2014": -1.31
+  },
+  "htmlUrl": "http://www.sec.gov/Archives/edgar/data/1573097/000104746914004373/0001047469-14-004373-index.htm",
+  "xmlUrl": "http://www.sec.gov/Archives/edgar/data/1573097/000104746914004373/hds-20140202.xml"
+}

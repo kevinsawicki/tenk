@@ -1,0 +1,38 @@
+{
+  "symbol": "gpre",
+  "name": "Green Plains, Inc.",
+  "ipoYear": null,
+  "sector": "Basic Industries",
+  "industry": "Major Chemicals",
+  "exchange": "nasdaq",
+  "category": "INDUSTRIAL ORGANIC CHEMICALS",
+  "address": {
+    "street1": "450 REGENCY PARKWAY",
+    "city": "OMAHA",
+    "state": "NE",
+    "zip": "68114"
+  },
+  "profit": {
+    "2009": 19790000,
+    "2010": 48012000,
+    "2011": 38418000,
+    "2012": 11779000,
+    "2013": 43391000
+  },
+  "cash": {
+    "2009": 89779000,
+    "2010": 233205000,
+    "2011": 174988000,
+    "2012": 254289000,
+    "2013": 272027000
+  },
+  "earningsPerShare": {
+    "2009": 0.79,
+    "2010": 1.55,
+    "2011": 1.09,
+    "2012": 0.39,
+    "2013": 1.44
+  },
+  "htmlUrl": "http://www.sec.gov/Archives/edgar/data/1309402/000130940214000007/0001309402-14-000007-index.htm",
+  "xmlUrl": "http://www.sec.gov/Archives/edgar/data/1309402/000130940214000007/gpre-20131231.xml"
+}

@@ -1,0 +1,32 @@
+{
+  "symbol": "flxs",
+  "name": "Flexsteel Industries, Inc.",
+  "ipoYear": null,
+  "sector": "Consumer Durables",
+  "industry": "Home Furnishings",
+  "exchange": "nasdaq",
+  "category": "HOUSEHOLD FURNITURE",
+  "address": {
+    "street1": "PO BOX 877",
+    "city": "DUBUQUE",
+    "state": "IA",
+    "zip": "52004-0877"
+  },
+  "profit": {
+    "2010": 10801000,
+    "2011": 10417000,
+    "2012": 13068000,
+    "2013": 13151000,
+    "2014": 14990000
+  },
+  "cash": {},
+  "earningsPerShare": {
+    "2010": 1.63,
+    "2011": 1.56,
+    "2012": 1.93,
+    "2013": 1.87,
+    "2014": 2.07
+  },
+  "htmlUrl": "http://www.sec.gov/Archives/edgar/data/37472/000089710114001201/0000897101-14-001201-index.htm",
+  "xmlUrl": "http://www.sec.gov/Archives/edgar/data/37472/000089710114001201/flxs-20140630.xml"
+}

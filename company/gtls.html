@@ -7,7 +7,7 @@
     <script src="https://code.jquery.com/jquery-2.1.1.min.js"></script>
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.1/js/bootstrap.min.js"></script>
 
-    <title>Chart Industries, Inc.</title>
+    <title>Chart Industries</title>
   </head>
   <body>
     <nav class="navbar navbar-static-top" role="navigation">
@@ -24,23 +24,24 @@
       </div>
     </nav>
 
-    <div class="container">
-      <div class="btn-group pull-right">
-        <button type="button" class="btn btn-default dropdown-toggle" data-toggle="dropdown" aria-expanded="false">
-          Links <span class="caret"></span>
-        </button>
-        <ul class="dropdown-menu" role="menu">
-          <li><a href="http://www.sec.gov/Archives/edgar/data/892553/000089255314000010/0000892553-14-000010-index.htm">Official Report</a></li>
-          <li><a href="http://www.sec.gov/Archives/edgar/data/892553/000089255314000010/gtls-20131231.xml">XML Version</a></li>
-          <li><a href="./gtls.json">JSON Data</a></li>
-        </ul>
+    <div class="jumbotron">
+      <div class="container">
+        <div class="row">
+          <div class="col-md-12 col-lg-12">
+            <h1 class="company-heading">Chart Industries</h1>
+            <span class="company-sector">Capital Goods</span><br>
+            <span class="company-exchange">gtls on the nasdaq</span>
+            <address>
+              ONE INFINITY CORPORATE CENTRE DRIVE<br>
+              GARFIELD HEIGHTS, OH 44125-5370
+            </address>
+
+          </div>
+        </div>
       </div>
+    </div>
 
-      <h1 class="company-heading">Chart Industries</h1>
-      <p class="company-sector">Capital Goods</p>
-      <p class="company-industry">Metal Fabrications</p>
-      <p class="company-exchange">Trades as gtls on the nasdaq</p>
-
+    <div class="container">
       <div class="row">
 
         <div class="col-md-4 col-lg-4">
@@ -63,16 +64,17 @@
       <div class="row">
 
         <div class="col-md-4 col-lg-4">
-          <address>
-            ONE INFINITY CORPORATE CENTRE DRIVE<br>
-            GARFIELD HEIGHTS, OH 44125-5370
-          </address>
+          <h3>Links</h3>
+          <ul>
+          <li><a href="http://www.sec.gov/Archives/edgar/data/892553/000089255314000010/0000892553-14-000010-index.htm">Official filing on sec.gov</a></li>
+          <li><a href="http://www.sec.gov/Archives/edgar/data/892553/000089255314000010/gtls-20131231.xml">Full XML version</a></li>
+          <li><a href="./gtls.json">JSON data</a></li>
+          </ul>
         </div>
-
-        <div class="col-md-4 col-lg-4"><img class="google-map" src="https://maps.googleapis.com/maps/api/staticmap?key=AIzaSyCCqr8B1aob1jObVpkEHyg0aLFTd3t337k&markers=ONE%20INFINITY%20CORPORATE%20CENTRE%20DRIVE%20GARFIELD%20HEIGHTS%20OH%2044125-5370&scale=2&size=350x300&zoom=8"></div>
 
       </div>
 
     </div>
-  </body>
+
+      </body>
 </html>

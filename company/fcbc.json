@@ -1,0 +1,38 @@
+{
+  "symbol": "fcbc",
+  "name": "First Community Bancshares, Inc.",
+  "ipoYear": null,
+  "sector": "Finance",
+  "industry": "Major Banks",
+  "exchange": "nasdaq",
+  "category": "STATE COMMERCIAL BANKS",
+  "address": {
+    "street1": "PO BOX 989",
+    "city": "BLUEFIELD",
+    "state": "VA",
+    "zip": "24605"
+  },
+  "profit": {
+    "2009": -38696000,
+    "2010": 21847000,
+    "2011": 20028000,
+    "2012": 28577000,
+    "2013": 23312000
+  },
+  "cash": {
+    "2009": 101341000,
+    "2010": 112189000,
+    "2011": 47294000,
+    "2012": 144847000,
+    "2013": 56567000
+  },
+  "earningsPerShare": {
+    "2009": -2.75,
+    "2010": 1.23,
+    "2011": 1.08,
+    "2012": 1.44,
+    "2013": 1.13
+  },
+  "htmlUrl": "http://www.sec.gov/Archives/edgar/data/859070/000119312514093793/0001193125-14-093793-index.htm",
+  "xmlUrl": "http://www.sec.gov/Archives/edgar/data/859070/000119312514093793/fcbc-20131231.xml"
+}

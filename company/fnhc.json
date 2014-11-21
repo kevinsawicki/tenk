@@ -1,0 +1,36 @@
+{
+  "symbol": "fnhc",
+  "name": "Federated National Holding Company",
+  "ipoYear": null,
+  "sector": "Finance",
+  "industry": "Property-Casualty Insurers",
+  "exchange": "nasdaq",
+  "category": "FIRE, MARINE &amp;amp; CASUALTY INSURANCE",
+  "address": {
+    "street1": "14050 NW 14 STREET",
+    "city": "SUNRISE",
+    "state": "FL",
+    "zip": "33323"
+  },
+  "profit": {
+    "2010": -7996000,
+    "2011": -430000,
+    "2012": 4313000,
+    "2013": 12727000
+  },
+  "cash": {
+    "2009": 28197000,
+    "2010": 16206000,
+    "2011": 15205000,
+    "2012": 21143000,
+    "2013": 41446000
+  },
+  "earningsPerShare": {
+    "2010": -1.01,
+    "2011": -0.05,
+    "2012": 0.53,
+    "2013": 1.5
+  },
+  "htmlUrl": "http://www.sec.gov/Archives/edgar/data/1069996/000114036114012986/0001140361-14-012986-index.htm",
+  "xmlUrl": "http://www.sec.gov/Archives/edgar/data/1069996/000114036114012986/fnhc-20131231.xml"
+}

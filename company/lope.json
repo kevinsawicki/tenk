@@ -1,0 +1,38 @@
+{
+  "symbol": "lope",
+  "name": "Grand Canyon Education, Inc.",
+  "ipoYear": 2008,
+  "sector": "Consumer Services",
+  "industry": "Other Consumer Services",
+  "exchange": "nasdaq",
+  "category": "SERVICES-EDUCATIONAL SERVICES",
+  "address": {
+    "street1": "3300 W. CAMELBACK ROAD",
+    "city": "PHOENIX",
+    "state": "AZ",
+    "zip": "85017"
+  },
+  "profit": {
+    "2009": 27304000,
+    "2010": 35206000,
+    "2011": 50546000,
+    "2012": 69447000,
+    "2013": 88711000
+  },
+  "cash": {
+    "2009": 62571000,
+    "2010": 33637000,
+    "2011": 21189000,
+    "2012": 105111000,
+    "2013": 55824000
+  },
+  "earningsPerShare": {
+    "2009": 0.6,
+    "2010": 0.77,
+    "2011": 1.13,
+    "2012": 1.57,
+    "2013": 1.98
+  },
+  "htmlUrl": "http://www.sec.gov/Archives/edgar/data/1434588/000119312514060686/0001193125-14-060686-index.htm",
+  "xmlUrl": "http://www.sec.gov/Archives/edgar/data/1434588/000119312514060686/lope-20131231.xml"
+}

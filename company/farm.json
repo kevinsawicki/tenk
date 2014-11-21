@@ -1,0 +1,37 @@
+{
+  "symbol": "farm",
+  "name": "Farmer Brothers Company",
+  "ipoYear": null,
+  "sector": "Consumer Non-Durables",
+  "industry": "Packaged Foods",
+  "exchange": "nasdaq",
+  "category": "MISCELLANEOUS FOOD PREPARATIONS &amp;amp; KINDRED PRODUCTS",
+  "address": {
+    "street1": "20333 S NORMANDIE AVE",
+    "city": "TORRANCE",
+    "state": "CA",
+    "zip": "90502"
+  },
+  "profit": {
+    "2010": -1406000,
+    "2011": -52033000,
+    "2012": -26576000,
+    "2013": -8462000,
+    "2014": 12132000
+  },
+  "cash": {
+    "2009": 20038000,
+    "2010": 4149000,
+    "2011": 6081000,
+    "2012": 3906000,
+    "2013": 2678000,
+    "2014": 11993000
+  },
+  "earningsPerShare": {
+    "2012": -1.72,
+    "2013": -0.54,
+    "2014": 0.76
+  },
+  "htmlUrl": "http://www.sec.gov/Archives/edgar/data/34563/000003456314000033/0000034563-14-000033-index.htm",
+  "xmlUrl": "http://www.sec.gov/Archives/edgar/data/34563/000003456314000033/farm-20140630.xml"
+}

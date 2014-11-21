@@ -1,0 +1,35 @@
+{
+  "symbol": "fcap",
+  "name": "First Capital, Inc.",
+  "ipoYear": null,
+  "sector": "Finance",
+  "industry": "Savings Institutions",
+  "exchange": "nasdaq",
+  "category": "SAVINGS INSTITUTION, FEDERALLY CHARTERED",
+  "address": {
+    "street1": "220 FEDERAL DRIVE N W",
+    "city": "CORYDON",
+    "state": "IN",
+    "zip": "47112"
+  },
+  "profit": {
+    "2010": 3865000,
+    "2011": 3972000,
+    "2012": 3922000,
+    "2013": 5074000
+  },
+  "cash": {
+    "2010": 369000,
+    "2011": 278000,
+    "2012": 236000,
+    "2013": 132000
+  },
+  "earningsPerShare": {
+    "2010": 1.39,
+    "2011": 1.43,
+    "2012": 1.41,
+    "2013": 1.82
+  },
+  "htmlUrl": "http://www.sec.gov/Archives/edgar/data/1070296/000119312514118760/0001193125-14-118760-index.htm",
+  "xmlUrl": "http://www.sec.gov/Archives/edgar/data/1070296/000119312514118760/fcap-20131231.xml"
+}

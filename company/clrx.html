@@ -7,7 +7,7 @@
     <script src="https://code.jquery.com/jquery-2.1.1.min.js"></script>
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.1/js/bootstrap.min.js"></script>
 
-    <title>CollabRx, Inc.</title>
+    <title>CollabRx</title>
   </head>
   <body>
     <nav class="navbar navbar-static-top" role="navigation">
@@ -24,23 +24,24 @@
       </div>
     </nav>
 
-    <div class="container">
-      <div class="btn-group pull-right">
-        <button type="button" class="btn btn-default dropdown-toggle" data-toggle="dropdown" aria-expanded="false">
-          Links <span class="caret"></span>
-        </button>
-        <ul class="dropdown-menu" role="menu">
-          <li><a href="http://www.sec.gov/Archives/edgar/data/931059/000114036114027889/0001140361-14-027889-index.htm">Official Report</a></li>
-          <li><a href="">XML Version</a></li>
-          <li><a href="./clrx.json">JSON Data</a></li>
-        </ul>
+    <div class="jumbotron">
+      <div class="container">
+        <div class="row">
+          <div class="col-md-12 col-lg-12">
+            <h1 class="company-heading">CollabRx</h1>
+            <span class="company-sector">Technology</span><br>
+            <span class="company-exchange">clrx on the nasdaq</span>
+            <address>
+              44 MONTGOMERY STREET, SUITE 800<br>
+              SAN FRANCISCO, CA 94104-4811
+            </address>
+
+          </div>
+        </div>
       </div>
+    </div>
 
-      <h1 class="company-heading">CollabRx</h1>
-      <p class="company-sector">Technology</p>
-      <p class="company-industry">EDP Services</p>
-      <p class="company-exchange">Trades as clrx on the nasdaq</p>
-
+    <div class="container">
       <div class="row">
 
         <div class="col-md-4 col-lg-4">
@@ -63,16 +64,17 @@
       <div class="row">
 
         <div class="col-md-4 col-lg-4">
-          <address>
-            44 MONTGOMERY STREET, SUITE 800<br>
-            SAN FRANCISCO, CA 94104-4811
-          </address>
+          <h3>Links</h3>
+          <ul>
+          <li><a href="http://www.sec.gov/Archives/edgar/data/931059/000114036114027889/0001140361-14-027889-index.htm">Official filing on sec.gov</a></li>
+          <li><a href="">Full XML version</a></li>
+          <li><a href="./clrx.json">JSON data</a></li>
+          </ul>
         </div>
-
-        <div class="col-md-4 col-lg-4"><img class="google-map" src="https://maps.googleapis.com/maps/api/staticmap?key=AIzaSyCCqr8B1aob1jObVpkEHyg0aLFTd3t337k&markers=44%20MONTGOMERY%20STREET%2C%20SUITE%20800%20SAN%20FRANCISCO%20CA%2094104-4811&scale=2&size=350x300&zoom=8"></div>
 
       </div>
 
     </div>
-  </body>
+
+      </body>
 </html>

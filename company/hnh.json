@@ -1,0 +1,31 @@
+{
+  "symbol": "hnh",
+  "name": "Handy & Harman Ltd.",
+  "ipoYear": null,
+  "sector": "Capital Goods",
+  "industry": "Industrial Specialties",
+  "exchange": "nasdaq",
+  "category": "COATING, ENGRAVING &amp;amp; ALLIED SERVICES",
+  "address": {
+    "street1": "1133 WESTCHESTER AVENUE",
+    "city": "WHITE PLAINS",
+    "state": "NY",
+    "zip": "10604"
+  },
+  "profit": {
+    "2010": 5090000,
+    "2011": 138775000,
+    "2012": 26481000,
+    "2013": 42029000
+  },
+  "cash": {
+    "2009": 8796000,
+    "2010": 8762000,
+    "2011": 6841000,
+    "2012": 15301000,
+    "2013": 10300000
+  },
+  "earningsPerShare": {},
+  "htmlUrl": "http://www.sec.gov/Archives/edgar/data/106618/000010661814000002/0000106618-14-000002-index.htm",
+  "xmlUrl": "http://www.sec.gov/Archives/edgar/data/106618/000010661814000002/hnh-20131231.xml"
+}

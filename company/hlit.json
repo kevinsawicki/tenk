@@ -1,0 +1,37 @@
+{
+  "symbol": "hlit",
+  "name": "Harmonic Inc.",
+  "ipoYear": 1995,
+  "sector": "Technology",
+  "industry": "Radio And Television Broadcasting And Communications Equipment",
+  "exchange": "nasdaq",
+  "category": "RADIO &amp;amp; TV BROADCASTING &amp;amp; COMMUNICATIONS EQUIPMENT",
+  "address": {
+    "street1": "4300 NORTH FIRST STREET",
+    "city": "SAN JOSE",
+    "state": "CA",
+    "zip": "95134"
+  },
+  "profit": {
+    "2009": -24139000,
+    "2010": -4335000,
+    "2011": 8779000,
+    "2012": -10937000,
+    "2013": 37027000
+  },
+  "cash": {
+    "2009": 152477000,
+    "2010": 96533000,
+    "2011": 90983000,
+    "2012": 96670000,
+    "2013": 90329000
+  },
+  "earningsPerShare": {
+    "2009": -0.25,
+    "2010": -0.04,
+    "2011": 0.08,
+    "2012": -0.09,
+    "2013": 0.35
+  },
+  "htmlUrl": "http://www.sec.gov/Archives/edgar/data/851310/000085131014000014/0000851310-14-000014-index.htm"
+}

@@ -7,7 +7,7 @@
     <script src="https://code.jquery.com/jquery-2.1.1.min.js"></script>
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.1/js/bootstrap.min.js"></script>
 
-    <title>Electro Rent Corporation</title>
+    <title>Electro Rent</title>
   </head>
   <body>
     <nav class="navbar navbar-static-top" role="navigation">
@@ -24,23 +24,24 @@
       </div>
     </nav>
 
-    <div class="container">
-      <div class="btn-group pull-right">
-        <button type="button" class="btn btn-default dropdown-toggle" data-toggle="dropdown" aria-expanded="false">
-          Links <span class="caret"></span>
-        </button>
-        <ul class="dropdown-menu" role="menu">
-          <li><a href="http://www.sec.gov/Archives/edgar/data/32166/000003216614000022/0000032166-14-000022-index.htm">Official Report</a></li>
-          <li><a href="http://www.sec.gov/Archives/edgar/data/32166/000003216614000022/elrc-20140531.xml">XML Version</a></li>
-          <li><a href="./elrc.json">JSON Data</a></li>
-        </ul>
+    <div class="jumbotron">
+      <div class="container">
+        <div class="row">
+          <div class="col-md-12 col-lg-12">
+            <h1 class="company-heading">Electro Rent</h1>
+            <span class="company-sector">Technology</span><br>
+            <span class="company-exchange">elrc on the nasdaq</span>
+            <address>
+              6060 SEPULVEDA BLVD<br>
+              VAN NUYS, CA 91411-2512
+            </address>
+
+          </div>
+        </div>
       </div>
+    </div>
 
-      <h1 class="company-heading">Electro Rent</h1>
-      <p class="company-sector">Technology</p>
-      <p class="company-industry">Diversified Commercial Services</p>
-      <p class="company-exchange">Trades as elrc on the nasdaq</p>
-
+    <div class="container">
       <div class="row">
 
         <div class="col-md-4 col-lg-4">
@@ -63,16 +64,17 @@
       <div class="row">
 
         <div class="col-md-4 col-lg-4">
-          <address>
-            6060 SEPULVEDA BLVD<br>
-            VAN NUYS, CA 91411-2512
-          </address>
+          <h3>Links</h3>
+          <ul>
+          <li><a href="http://www.sec.gov/Archives/edgar/data/32166/000003216614000022/0000032166-14-000022-index.htm">Official filing on sec.gov</a></li>
+          <li><a href="http://www.sec.gov/Archives/edgar/data/32166/000003216614000022/elrc-20140531.xml">Full XML version</a></li>
+          <li><a href="./elrc.json">JSON data</a></li>
+          </ul>
         </div>
-
-        <div class="col-md-4 col-lg-4"><img class="google-map" src="https://maps.googleapis.com/maps/api/staticmap?key=AIzaSyCCqr8B1aob1jObVpkEHyg0aLFTd3t337k&markers=6060%20SEPULVEDA%20BLVD%20VAN%20NUYS%20CA%2091411-2512&scale=2&size=350x300&zoom=8"></div>
 
       </div>
 
     </div>
-  </body>
+
+      </body>
 </html>

@@ -1,0 +1,37 @@
+{
+  "symbol": "idra",
+  "name": "Idera Pharmaceuticals, Inc.",
+  "ipoYear": null,
+  "sector": "Health Care",
+  "industry": "Biotechnology: Biological Products (No Diagnostic Substances)",
+  "exchange": "nasdaq",
+  "category": "BIOLOGICAL PRODUCTS (NO DIAGNOSTIC SUBSTANCES)",
+  "address": {
+    "street1": "167 SIDNEY STREET",
+    "city": "CAMBRIDGE",
+    "state": "MA",
+    "zip": "02139"
+  },
+  "profit": {
+    "2009": 7546000,
+    "2010": -17963000,
+    "2011": -23776000,
+    "2012": -19240000,
+    "2013": -18226000
+  },
+  "cash": {
+    "2009": 25471000,
+    "2010": 17008000,
+    "2011": 24571000,
+    "2012": 10096000,
+    "2013": 26278000
+  },
+  "earningsPerShare": {
+    "2009": 0.32,
+    "2010": -0.71,
+    "2011": -1.03,
+    "2012": -0.81
+  },
+  "htmlUrl": "http://www.sec.gov/Archives/edgar/data/861838/000119312514096678/0001193125-14-096678-index.htm",
+  "xmlUrl": "http://www.sec.gov/Archives/edgar/data/861838/000119312514096678/idra-20131231.xml"
+}

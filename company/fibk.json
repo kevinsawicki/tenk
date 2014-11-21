@@ -1,0 +1,38 @@
+{
+  "symbol": "fibk",
+  "name": "First Interstate BancSystem, Inc.",
+  "ipoYear": 2010,
+  "sector": "Finance",
+  "industry": "Major Banks",
+  "exchange": "nasdaq",
+  "category": "STATE COMMERCIAL BANKS",
+  "address": {
+    "street1": "P O BOX 30918",
+    "city": "BILLINGS",
+    "state": "MT",
+    "zip": "59116-0918"
+  },
+  "profit": {
+    "2009": 53863000,
+    "2010": 37356000,
+    "2011": 44546000,
+    "2012": 58224000,
+    "2013": 86136000
+  },
+  "cash": {
+    "2009": 623482000,
+    "2010": 685618000,
+    "2011": 472447000,
+    "2012": 801332000,
+    "2013": 534827000
+  },
+  "earningsPerShare": {
+    "2009": 1.61,
+    "2010": 0.85,
+    "2011": 0.96,
+    "2012": 1.28,
+    "2013": 1.98
+  },
+  "htmlUrl": "http://www.sec.gov/Archives/edgar/data/860413/000086041314000004/0000860413-14-000004-index.htm",
+  "xmlUrl": "http://www.sec.gov/Archives/edgar/data/860413/000086041314000004/fibk-20131231.xml"
+}

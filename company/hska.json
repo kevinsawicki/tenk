@@ -1,0 +1,38 @@
+{
+  "symbol": "hska",
+  "name": "Heska Corporation",
+  "ipoYear": 1997,
+  "sector": "Health Care",
+  "industry": "Biotechnology: Biological Products (No Diagnostic Substances)",
+  "exchange": "nasdaq",
+  "category": "BIOLOGICAL PRODUCTS (NO DIAGNOSTIC SUBSTANCES)",
+  "address": {
+    "street1": "3760 ROCKY MOUNTAIN AVENUE",
+    "city": "LOVELAND",
+    "state": "CO",
+    "zip": "80538"
+  },
+  "profit": {
+    "2009": 2242000,
+    "2010": 18000,
+    "2011": 2145000,
+    "2012": 1203000,
+    "2013": -1196000
+  },
+  "cash": {
+    "2009": 5400000,
+    "2010": 5492000,
+    "2011": 6332000,
+    "2012": 5784000,
+    "2013": 6016000
+  },
+  "earningsPerShare": {
+    "2009": 0.43,
+    "2010": 0,
+    "2011": 0.41,
+    "2012": 0.23,
+    "2013": -0.21
+  },
+  "htmlUrl": "http://www.sec.gov/Archives/edgar/data/1038133/000103813314000017/0001038133-14-000017-index.htm",
+  "xmlUrl": "http://www.sec.gov/Archives/edgar/data/1038133/000103813314000017/hska-20131231.xml"
+}

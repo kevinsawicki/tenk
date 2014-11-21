@@ -1,0 +1,38 @@
+{
+  "symbol": "grif",
+  "name": "Griffin Land & Nurseries, Inc.",
+  "ipoYear": null,
+  "sector": "Finance",
+  "industry": "Real Estate",
+  "exchange": "nasdaq",
+  "category": "REAL ESTATE",
+  "address": {
+    "street1": "ONE ROCKEFELLER PLAZA",
+    "city": "NEW YORK",
+    "state": "NY",
+    "zip": "10020"
+  },
+  "profit": {
+    "2009": -5513000,
+    "2010": -4487000,
+    "2011": -2474000,
+    "2012": 966000,
+    "2013": -5821000
+  },
+  "cash": {
+    "2009": 9149000,
+    "2010": 9260000,
+    "2011": 7431000,
+    "2012": 10181000,
+    "2013": 14179000
+  },
+  "earningsPerShare": {
+    "2009": -1.09,
+    "2010": -0.88,
+    "2011": -0.48,
+    "2012": 0.19,
+    "2013": -1.13
+  },
+  "htmlUrl": "http://www.sec.gov/Archives/edgar/data/1037390/000104746914000864/0001047469-14-000864-index.htm",
+  "xmlUrl": "http://www.sec.gov/Archives/edgar/data/1037390/000104746914000864/grif-20131130.xml"
+}

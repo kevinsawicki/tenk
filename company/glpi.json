@@ -1,0 +1,33 @@
+{
+  "symbol": "glpi",
+  "name": "Gaming and Leisure Properties, Inc.",
+  "ipoYear": null,
+  "sector": "Consumer Services",
+  "industry": "Real Estate Investment Trusts",
+  "exchange": "nasdaq",
+  "category": "REAL ESTATE INVESTMENT TRUSTS",
+  "address": {
+    "street1": "825 BERKSHIRE BLVD",
+    "city": "WYOMISSING",
+    "state": "PA",
+    "zip": "19610"
+  },
+  "profit": {
+    "2011": 26684000,
+    "2012": 22919000,
+    "2013": 19830000
+  },
+  "cash": {
+    "2010": 18913000,
+    "2011": 17146000,
+    "2012": 14562000,
+    "2013": 285221000
+  },
+  "earningsPerShare": {
+    "2011": 0.24,
+    "2012": 0.21,
+    "2013": 0.18
+  },
+  "htmlUrl": "http://www.sec.gov/Archives/edgar/data/1575965/000104746914002922/0001047469-14-002922-index.htm",
+  "xmlUrl": "http://www.sec.gov/Archives/edgar/data/1575965/000104746914002922/glpi-20131231.xml"
+}

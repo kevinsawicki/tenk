@@ -1,0 +1,22 @@
+{
+  "symbol": "ggacu",
+  "name": "Garnero Group Acquisition Company",
+  "ipoYear": 2014,
+  "sector": "Finance",
+  "industry": "Business Services",
+  "exchange": "nasdaq",
+  "category": "BLANK CHECKS",
+  "address": {
+    "street1": "AV BRIG. FARIA LIMA, 1485-19 ANDAR",
+    "city": "SAO PAULO",
+    "state": "D5",
+    "zip": "XXXXX"
+  },
+  "profit": {},
+  "cash": {
+    "2014": 0
+  },
+  "earningsPerShare": {},
+  "htmlUrl": "http://www.sec.gov/Archives/edgar/data/1603969/000121390014007219/0001213900-14-007219-index.htm",
+  "xmlUrl": "http://www.sec.gov/Archives/edgar/data/1603969/000121390014007219/ggacu-20140630.xml"
+}

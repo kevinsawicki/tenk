@@ -1,0 +1,31 @@
+{
+  "symbol": "idsy",
+  "name": "I.D. Systems, Inc.",
+  "ipoYear": 1999,
+  "sector": "Consumer Durables",
+  "industry": "Telecommunications Equipment",
+  "exchange": "nasdaq",
+  "category": "COMMUNICATIONS EQUIPMENT, NEC",
+  "address": {
+    "street1": "123 TICE BOULEVARD",
+    "city": "WOODCLIFF LAKE",
+    "state": "NJ",
+    "zip": "07677"
+  },
+  "profit": {
+    "2009": -13192000,
+    "2010": -12611000,
+    "2011": -4040000,
+    "2012": -2592000,
+    "2013": -7499000
+  },
+  "cash": {
+    "2009": 19481000,
+    "2010": 14491000,
+    "2011": 8386000,
+    "2012": 1614000,
+    "2013": 6582000
+  },
+  "earningsPerShare": {},
+  "htmlUrl": "http://www.sec.gov/Archives/edgar/data/49615/000114420414026339/0001144204-14-026339-index.htm"
+}

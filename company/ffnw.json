@@ -1,0 +1,38 @@
+{
+  "symbol": "ffnw",
+  "name": "First Financial Northwest, Inc.",
+  "ipoYear": null,
+  "sector": "Finance",
+  "industry": "Banks",
+  "exchange": "nasdaq",
+  "category": "SAVINGS INSTITUTIONS, NOT FEDERALLY CHARTERED",
+  "address": {
+    "street1": "201 WELLS AVENUE SOUTH",
+    "city": "RENTON",
+    "state": "WA",
+    "zip": "98057"
+  },
+  "profit": {
+    "2009": -40708000,
+    "2010": -54136000,
+    "2011": 4242000,
+    "2012": 2713000,
+    "2013": 24465000
+  },
+  "cash": {
+    "2009": 104970000,
+    "2010": 98427000,
+    "2011": 164761000,
+    "2012": 87741000,
+    "2013": 55575000
+  },
+  "earningsPerShare": {
+    "2009": -2.18,
+    "2010": -3.11,
+    "2011": 0.24,
+    "2012": 0.15,
+    "2013": 1.47
+  },
+  "htmlUrl": "http://www.sec.gov/Archives/edgar/data/1401564/000093905714000103/0000939057-14-000103-index.htm",
+  "xmlUrl": "http://www.sec.gov/Archives/edgar/data/1401564/000093905714000103/ffnw-20131231.xml"
+}

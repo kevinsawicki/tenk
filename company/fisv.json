@@ -1,0 +1,38 @@
+{
+  "symbol": "fisv",
+  "name": "Fiserv, Inc.",
+  "ipoYear": 1986,
+  "sector": "Technology",
+  "industry": "EDP Services",
+  "exchange": "nasdaq",
+  "category": "SERVICES-COMPUTER PROCESSING &amp;amp; DATA PREPARATION",
+  "address": {
+    "street1": "255 FISERV DR",
+    "city": "BROOKFIELD",
+    "state": "WI",
+    "zip": "53045"
+  },
+  "profit": {
+    "2009": 476000000,
+    "2010": 496000000,
+    "2011": 472000000,
+    "2012": 611000000,
+    "2013": 648000000
+  },
+  "cash": {
+    "2009": 363000000,
+    "2010": 563000000,
+    "2011": 337000000,
+    "2012": 358000000,
+    "2013": 400000000
+  },
+  "earningsPerShare": {
+    "2009": 3.08,
+    "2010": 3.3,
+    "2011": 1.66,
+    "2012": 2.25,
+    "2013": 2.47
+  },
+  "htmlUrl": "http://www.sec.gov/Archives/edgar/data/798354/000119312514060861/0001193125-14-060861-index.htm",
+  "xmlUrl": "http://www.sec.gov/Archives/edgar/data/798354/000119312514060861/fisv-20131231.xml"
+}

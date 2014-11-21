@@ -1,0 +1,38 @@
+{
+  "symbol": "gknt",
+  "name": "Geeknet, Inc.",
+  "ipoYear": null,
+  "sector": "Consumer Services",
+  "industry": "Other Specialty Stores",
+  "exchange": "nasdaq",
+  "category": "RETAIL-RETAIL STORES, NEC",
+  "address": {
+    "street1": "11216 WAPLES MILL RD.,",
+    "city": "FAIRFAX,",
+    "state": "VA",
+    "zip": "22030"
+  },
+  "profit": {
+    "2009": -14021000,
+    "2010": -4854000,
+    "2011": -1515000,
+    "2012": 13907000,
+    "2013": -234000
+  },
+  "cash": {
+    "2009": 28943000,
+    "2010": 35333000,
+    "2011": 36910000,
+    "2012": 57294000,
+    "2013": 53084000
+  },
+  "earningsPerShare": {
+    "2009": -2.31,
+    "2010": -0.8,
+    "2011": -0.24,
+    "2012": 2.15,
+    "2013": -0.04
+  },
+  "htmlUrl": "http://www.sec.gov/Archives/edgar/data/1096199/000109619914000008/0001096199-14-000008-index.htm",
+  "xmlUrl": "http://www.sec.gov/Archives/edgar/data/1096199/000109619914000008/gknt-20131231.xml"
+}

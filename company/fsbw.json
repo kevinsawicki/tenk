@@ -1,0 +1,32 @@
+{
+  "symbol": "fsbw",
+  "name": "FS Bancorp, Inc.",
+  "ipoYear": 2012,
+  "sector": "Finance",
+  "industry": "Banks",
+  "exchange": "nasdaq",
+  "category": "SAVINGS INSTITUTIONS, NOT FEDERALLY CHARTERED",
+  "address": {
+    "street1": "6920 220TH STREET SW",
+    "city": "MOUNTLAKE TERRACE",
+    "state": "WA",
+    "zip": "98043"
+  },
+  "profit": {
+    "2011": 1545000,
+    "2012": 5295000,
+    "2013": 3920000
+  },
+  "cash": {
+    "2010": 35250000,
+    "2011": 19253000,
+    "2012": 6787000,
+    "2013": 38459000
+  },
+  "earningsPerShare": {
+    "2012": 1.76,
+    "2013": 1.29
+  },
+  "htmlUrl": "http://www.sec.gov/Archives/edgar/data/1530249/000093905714000132/0000939057-14-000132-index.htm",
+  "xmlUrl": "http://www.sec.gov/Archives/edgar/data/1530249/000093905714000132/fsbw-20131231.xml"
+}

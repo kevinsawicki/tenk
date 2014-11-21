@@ -1,0 +1,29 @@
+{
+  "symbol": "fmi",
+  "name": "Foundation Medicine, Inc.",
+  "ipoYear": 2013,
+  "sector": "Health Care",
+  "industry": "Medical Specialities",
+  "exchange": "nasdaq",
+  "category": "SERVICES-MEDICAL LABORATORIES",
+  "address": {
+    "street1": "150 SECOND STREET",
+    "city": "CAMBRIDGE",
+    "state": "MA",
+    "zip": "02141"
+  },
+  "profit": {
+    "2011": -17037000,
+    "2012": -22393000,
+    "2013": -42944000
+  },
+  "cash": {
+    "2010": 1409000,
+    "2011": 10852000,
+    "2012": 54838000,
+    "2013": 124293000
+  },
+  "earningsPerShare": {},
+  "htmlUrl": "http://www.sec.gov/Archives/edgar/data/1488613/000119312514089287/0001193125-14-089287-index.htm",
+  "xmlUrl": "http://www.sec.gov/Archives/edgar/data/1488613/000119312514089287/fmi-20131231.xml"
+}

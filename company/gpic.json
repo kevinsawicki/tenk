@@ -1,0 +1,36 @@
+{
+  "symbol": "gpic",
+  "name": "Gaming Partners International Corporation",
+  "ipoYear": null,
+  "sector": "Consumer Non-Durables",
+  "industry": "Recreational Products/Toys",
+  "exchange": "nasdaq",
+  "category": "GAMES, TOYS &amp;amp; CHILDREN&amp;#39;S VEHICLES (NO DOLLS &amp;amp; BICYCLES)",
+  "address": {
+    "street1": "1700 INDUSTRIAL ROAD",
+    "city": "LAS VEGAS",
+    "state": "NV",
+    "zip": "89102"
+  },
+  "profit": {
+    "2010": 4419000,
+    "2011": 3669000,
+    "2012": 6075000,
+    "2013": 1166000
+  },
+  "cash": {
+    "2009": 3238000,
+    "2010": 11400000,
+    "2011": 9282000,
+    "2012": 14038000,
+    "2013": 14492000
+  },
+  "earningsPerShare": {
+    "2010": 0.54,
+    "2011": 0.45,
+    "2012": 0.75,
+    "2013": 0.15
+  },
+  "htmlUrl": "http://www.sec.gov/Archives/edgar/data/918580/000114420414019185/0001144204-14-019185-index.htm",
+  "xmlUrl": "http://www.sec.gov/Archives/edgar/data/918580/000114420414019185/gpic-20131231.xml"
+}

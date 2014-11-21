@@ -1,0 +1,16 @@
+{
+  "symbol": "glad",
+  "name": "Gladstone Capital Corporation",
+  "ipoYear": 2001,
+  "exchange": "nasdaq",
+  "address": {
+    "street1": "1521 WESTBRANCH DRIVE",
+    "city": "MCLEAN",
+    "state": "VA",
+    "zip": "22102"
+  },
+  "profit": {},
+  "cash": {},
+  "earningsPerShare": {},
+  "htmlUrl": "http://www.sec.gov/Archives/edgar/data/1143513/000119312514409449/0001193125-14-409449-index.htm"
+}

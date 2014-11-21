@@ -1,0 +1,38 @@
+{
+  "symbol": "fmer",
+  "name": "FirstMerit Corporation",
+  "ipoYear": null,
+  "sector": "Finance",
+  "industry": "Major Banks",
+  "exchange": "nasdaq",
+  "category": "NATIONAL COMMERCIAL BANKS",
+  "address": {
+    "street1": "III CASCADE PLAZA",
+    "city": "AKRON",
+    "state": "OH",
+    "zip": "44308"
+  },
+  "profit": {
+    "2009": 82170000,
+    "2010": 102909000,
+    "2011": 119558000,
+    "2012": 134106000,
+    "2013": 183684000
+  },
+  "cash": {
+    "2009": 161033000,
+    "2010": 523113000,
+    "2011": 377319000,
+    "2012": 258014000,
+    "2013": 917822000
+  },
+  "earningsPerShare": {
+    "2009": 0.9,
+    "2010": 1.02,
+    "2011": 1.1,
+    "2012": 1.22,
+    "2013": 1.18
+  },
+  "htmlUrl": "http://www.sec.gov/Archives/edgar/data/354869/000035486914000009/0000354869-14-000009-index.htm",
+  "xmlUrl": "http://www.sec.gov/Archives/edgar/data/354869/000035486914000009/fmer-20131231.xml"
+}

@@ -1,0 +1,36 @@
+{
+  "symbol": "esrx",
+  "name": "Express Scripts Holding Company",
+  "ipoYear": 1992,
+  "sector": "Health Care",
+  "industry": "Medical/Nursing Services",
+  "exchange": "nasdaq",
+  "category": "RETAIL-DRUG STORES AND PROPRIETARY STORES",
+  "address": {
+    "street1": "ONE EXPRESS WAY",
+    "city": "ST. LOUIS",
+    "state": "MO",
+    "zip": "63121"
+  },
+  "profit": {
+    "2010": 1181200000,
+    "2011": 1275800000,
+    "2012": 1312900000,
+    "2013": 1844600000
+  },
+  "cash": {
+    "2009": 1070400000,
+    "2010": 523700000,
+    "2011": 5620100000,
+    "2012": 2793100000,
+    "2013": 1991400000
+  },
+  "earningsPerShare": {
+    "2010": 2.19,
+    "2011": 2.55,
+    "2012": 1.8,
+    "2013": 2.28
+  },
+  "htmlUrl": "http://www.sec.gov/Archives/edgar/data/1532063/000153206314000006/0001532063-14-000006-index.htm",
+  "xmlUrl": "http://www.sec.gov/Archives/edgar/data/1532063/000153206314000006/esrx-20131231.xml"
+}

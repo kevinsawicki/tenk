@@ -1,0 +1,37 @@
+{
+  "symbol": "hmpr",
+  "name": "Hampton Roads Bankshares Inc",
+  "ipoYear": null,
+  "sector": "Finance",
+  "industry": "Major Banks",
+  "exchange": "nasdaq",
+  "category": "NATIONAL COMMERCIAL BANKS",
+  "address": {
+    "street1": "641 LYNNHAVEN PARKWAY",
+    "city": "VIRGINIA BEACH",
+    "state": "VA",
+    "zip": "23452"
+  },
+  "profit": {
+    "2009": -201089000,
+    "2010": -209339000,
+    "2011": -97546000,
+    "2012": -25091000,
+    "2013": 4076000
+  },
+  "cash": {
+    "2009": 200044000,
+    "2010": 460912000,
+    "2011": 138067000,
+    "2012": 101217000,
+    "2013": 62301000
+  },
+  "earningsPerShare": {
+    "2009": -240.8,
+    "2010": -12.85,
+    "2011": -2.87,
+    "2012": -0.29,
+    "2013": 0.02
+  },
+  "htmlUrl": "http://www.sec.gov/Archives/edgar/data/1143155/000156276214000083/0001562762-14-000083-index.htm"
+}

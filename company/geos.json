@@ -1,0 +1,36 @@
+{
+  "symbol": "geos",
+  "name": "Geospace Technologies Corporation",
+  "ipoYear": null,
+  "sector": "Capital Goods",
+  "industry": "Industrial Machinery/Components",
+  "exchange": "nasdaq",
+  "category": "MEASURING &amp;amp; CONTROLLING DEVICES, NEC",
+  "address": {
+    "street1": "7007 PINEMONT DR.",
+    "city": "HOUSTON",
+    "state": "TX",
+    "zip": "77040"
+  },
+  "profit": {
+    "2011": 29711000,
+    "2012": 35118000,
+    "2013": 69557000,
+    "2014": 36911000
+  },
+  "cash": {
+    "2010": 33453000,
+    "2011": 31388000,
+    "2012": 50752000,
+    "2013": 2726000,
+    "2014": 33357000
+  },
+  "earningsPerShare": {
+    "2011": 2.39,
+    "2012": 2.76,
+    "2013": 5.4,
+    "2014": 2.82
+  },
+  "htmlUrl": "http://www.sec.gov/Archives/edgar/data/1001115/000156459014005894/0001564590-14-005894-index.htm",
+  "xmlUrl": "http://www.sec.gov/Archives/edgar/data/1001115/000156459014005894/geos-20140930.xml"
+}

@@ -7,7 +7,7 @@
     <script src="https://code.jquery.com/jquery-2.1.1.min.js"></script>
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.1/js/bootstrap.min.js"></script>
 
-    <title>Coffee Holding Co., Inc.</title>
+    <title>Coffee Holding Co.</title>
   </head>
   <body>
     <nav class="navbar navbar-static-top" role="navigation">
@@ -24,23 +24,24 @@
       </div>
     </nav>
 
-    <div class="container">
-      <div class="btn-group pull-right">
-        <button type="button" class="btn btn-default dropdown-toggle" data-toggle="dropdown" aria-expanded="false">
-          Links <span class="caret"></span>
-        </button>
-        <ul class="dropdown-menu" role="menu">
-          <li><a href="http://www.sec.gov/Archives/edgar/data/1007019/000135448814000335/0001354488-14-000335-index.htm">Official Report</a></li>
-          <li><a href="http://www.sec.gov/Archives/edgar/data/1007019/000135448814000335/jva-20131031.xml">XML Version</a></li>
-          <li><a href="./jva.json">JSON Data</a></li>
-        </ul>
+    <div class="jumbotron">
+      <div class="container">
+        <div class="row">
+          <div class="col-md-12 col-lg-12">
+            <h1 class="company-heading">Coffee Holding Co.</h1>
+            <span class="company-sector">Consumer Non-Durables</span><br>
+            <span class="company-exchange">jva on the nasdaq</span>
+            <address>
+              3475 VICTORY BLVD<br>
+              STATEN ISLAND, NY 10314
+            </address>
+
+          </div>
+        </div>
       </div>
+    </div>
 
-      <h1 class="company-heading">Coffee Holding Co.</h1>
-      <p class="company-sector">Consumer Non-Durables</p>
-      <p class="company-industry">Food Distributors</p>
-      <p class="company-exchange">Trades as jva on the nasdaq</p>
-
+    <div class="container">
       <div class="row">
 
         <div class="col-md-4 col-lg-4">
@@ -63,16 +64,17 @@
       <div class="row">
 
         <div class="col-md-4 col-lg-4">
-          <address>
-            3475 VICTORY BLVD<br>
-            STATEN ISLAND, NY 10314
-          </address>
+          <h3>Links</h3>
+          <ul>
+          <li><a href="http://www.sec.gov/Archives/edgar/data/1007019/000135448814000335/0001354488-14-000335-index.htm">Official filing on sec.gov</a></li>
+          <li><a href="http://www.sec.gov/Archives/edgar/data/1007019/000135448814000335/jva-20131031.xml">Full XML version</a></li>
+          <li><a href="./jva.json">JSON data</a></li>
+          </ul>
         </div>
-
-        <div class="col-md-4 col-lg-4"><img class="google-map" src="https://maps.googleapis.com/maps/api/staticmap?key=AIzaSyCCqr8B1aob1jObVpkEHyg0aLFTd3t337k&markers=3475%20VICTORY%20BLVD%20STATEN%20ISLAND%20NY%2010314&scale=2&size=350x300&zoom=8"></div>
 
       </div>
 
     </div>
-  </body>
+
+      </body>
 </html>

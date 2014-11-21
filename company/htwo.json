@@ -1,0 +1,25 @@
+{
+  "symbol": "htwo",
+  "name": "HF2 Financial Management Inc.",
+  "ipoYear": 2013,
+  "sector": "Finance",
+  "industry": "Business Services",
+  "exchange": "nasdaq",
+  "category": "INVESTMENT ADVICE",
+  "address": {
+    "street1": "999 18TH STREET, SUITE 3000",
+    "city": "DENVER",
+    "state": "CO",
+    "zip": "80202"
+  },
+  "profit": {
+    "2013": -518565
+  },
+  "cash": {
+    "2012": 98990,
+    "2013": 619440
+  },
+  "earningsPerShare": {},
+  "htmlUrl": "http://www.sec.gov/Archives/edgar/data/1562214/000114420414019311/0001144204-14-019311-index.htm",
+  "xmlUrl": "http://www.sec.gov/Archives/edgar/data/1562214/000114420414019311/htwo-20131231.xml"
+}

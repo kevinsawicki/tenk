@@ -1,0 +1,38 @@
+{
+  "symbol": "gifi",
+  "name": "Gulf Island Fabrication, Inc.",
+  "ipoYear": 1997,
+  "sector": "Capital Goods",
+  "industry": "Metal Fabrications",
+  "exchange": "nasdaq",
+  "category": "FABRICATED STRUCTURAL METAL PRODUCTS",
+  "address": {
+    "street1": "GULF ISLAND FABRICATION INC",
+    "city": "HOUMA",
+    "state": "LA",
+    "zip": "70361"
+  },
+  "profit": {
+    "2009": 20804000,
+    "2010": 13093000,
+    "2011": -1804000,
+    "2012": -4091000,
+    "2013": 7232000
+  },
+  "cash": {
+    "2009": 8751000,
+    "2010": 88072000,
+    "2011": 55287000,
+    "2012": 24888000,
+    "2013": 36569000
+  },
+  "earningsPerShare": {
+    "2009": 1.44,
+    "2010": 0.9,
+    "2011": -0.13,
+    "2012": -0.29,
+    "2013": 0.5
+  },
+  "htmlUrl": "http://www.sec.gov/Archives/edgar/data/1031623/000119312514089317/0001193125-14-089317-index.htm",
+  "xmlUrl": "http://www.sec.gov/Archives/edgar/data/1031623/000119312514089317/gifi-20131231.xml"
+}

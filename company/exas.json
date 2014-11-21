@@ -1,0 +1,32 @@
+{
+  "symbol": "exas",
+  "name": "EXACT Sciences Corporation",
+  "ipoYear": 2001,
+  "sector": "Health Care",
+  "industry": "Biotechnology: Commercial Physical & Biological Resarch",
+  "exchange": "nasdaq",
+  "category": "SERVICES-COMMERCIAL PHYSICAL &amp;amp; BIOLOGICAL RESEARCH",
+  "address": {
+    "street1": "441 CHARMANY DRIVE",
+    "city": "MADISON",
+    "state": "WI",
+    "zip": "53719"
+  },
+  "profit": {
+    "2009": -9128000,
+    "2010": -11556000,
+    "2011": -28675000,
+    "2012": -52421000,
+    "2013": -46514000
+  },
+  "cash": {
+    "2009": 21924000,
+    "2010": 78752000,
+    "2011": 35781000,
+    "2012": 13345000,
+    "2013": 12851000
+  },
+  "earningsPerShare": {},
+  "htmlUrl": "http://www.sec.gov/Archives/edgar/data/1124140/000104746914001578/0001047469-14-001578-index.htm",
+  "xmlUrl": "http://www.sec.gov/Archives/edgar/data/1124140/000104746914001578/exas-20131231.xml"
+}

@@ -1,0 +1,39 @@
+{
+  "symbol": "hffc",
+  "name": "HF Financial Corp.",
+  "ipoYear": null,
+  "sector": "Finance",
+  "industry": "Savings Institutions",
+  "exchange": "nasdaq",
+  "category": "SAVINGS INSTITUTION, FEDERALLY CHARTERED",
+  "address": {
+    "street1": "225 SOUTH MAIN AVE",
+    "city": "SIOUX FALLS",
+    "state": "SD",
+    "zip": "57102"
+  },
+  "profit": {
+    "2010": 679000,
+    "2011": 5165000,
+    "2012": 5165000,
+    "2013": 5870000,
+    "2014": 6602000
+  },
+  "cash": {
+    "2009": 20805000,
+    "2010": 55617000,
+    "2011": 55617000,
+    "2012": 50334000,
+    "2013": 21352000,
+    "2014": 24256000
+  },
+  "earningsPerShare": {
+    "2010": 0.1,
+    "2011": 0.1,
+    "2012": 0.74,
+    "2013": 0.83,
+    "2014": 0.94
+  },
+  "htmlUrl": "http://www.sec.gov/Archives/edgar/data/881790/000088179014000025/0000881790-14-000025-index.htm",
+  "xmlUrl": "http://www.sec.gov/Archives/edgar/data/881790/000088179014000025/hffc-20140630.xml"
+}

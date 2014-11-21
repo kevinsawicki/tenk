@@ -1,0 +1,36 @@
+{
+  "symbol": "essx",
+  "name": "Essex Rental Corporation",
+  "ipoYear": null,
+  "exchange": "nasdaq",
+  "category": "SERVICES-MISCELLANEOUS EQUIPMENT RENTAL &amp;amp; LEASING",
+  "address": {
+    "street1": "1110 LAKE COOK ROAD",
+    "city": "BUFFALO GROVE",
+    "state": "IL",
+    "zip": "60089"
+  },
+  "profit": {
+    "2009": 1195806,
+    "2010": -11408486,
+    "2011": -17146900,
+    "2012": -12652955,
+    "2013": -9644597
+  },
+  "cash": {
+    "2009": 199508,
+    "2010": 3474314,
+    "2011": 9030383,
+    "2012": 8389321,
+    "2013": 1348558
+  },
+  "earningsPerShare": {
+    "2009": 0.08,
+    "2010": -0.71,
+    "2011": 0.72,
+    "2012": 0.52,
+    "2013": 0.39
+  },
+  "htmlUrl": "http://www.sec.gov/Archives/edgar/data/1373988/000137398814000022/0001373988-14-000022-index.htm",
+  "xmlUrl": "http://www.sec.gov/Archives/edgar/data/1373988/000137398814000022/essx-20131231.xml"
+}

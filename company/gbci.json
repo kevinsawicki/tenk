@@ -1,0 +1,38 @@
+{
+  "symbol": "gbci",
+  "name": "Glacier Bancorp, Inc.",
+  "ipoYear": null,
+  "sector": "Finance",
+  "industry": "Major Banks",
+  "exchange": "nasdaq",
+  "category": "STATE COMMERCIAL BANKS",
+  "address": {
+    "street1": "49 COMMONS LOOP",
+    "city": "KALISPELL",
+    "state": "MT",
+    "zip": "59901"
+  },
+  "profit": {
+    "2009": 34374000,
+    "2010": 42330000,
+    "2011": 17471000,
+    "2012": 75516000,
+    "2013": 95644000
+  },
+  "cash": {
+    "2009": 210575000,
+    "2010": 105091000,
+    "2011": 128032000,
+    "2012": 187040000,
+    "2013": 155657000
+  },
+  "earningsPerShare": {
+    "2009": 0.56,
+    "2010": 0.61,
+    "2011": 0.24,
+    "2012": 1.05,
+    "2013": 1.31
+  },
+  "htmlUrl": "http://www.sec.gov/Archives/edgar/data/868671/000086867114000004/0000868671-14-000004-index.htm",
+  "xmlUrl": "http://www.sec.gov/Archives/edgar/data/868671/000086867114000004/gbci-20131231.xml"
+}

@@ -1,0 +1,38 @@
+{
+  "symbol": "hsic",
+  "name": "Henry Schein, Inc.",
+  "ipoYear": 1995,
+  "sector": "Health Care",
+  "industry": "Medical Specialities",
+  "exchange": "nasdaq",
+  "category": "WHOLESALE-MEDICAL, DENTAL &amp;amp; HOSPITAL EQUIPMENT &amp;amp; SUPPLIES",
+  "address": {
+    "street1": "135 DURYEA RD",
+    "city": "MELVILLE",
+    "state": "NY",
+    "zip": "11747"
+  },
+  "profit": {
+    "2009": 311153000,
+    "2010": 325789000,
+    "2011": 367661000,
+    "2012": 388076000,
+    "2013": 431554000
+  },
+  "cash": {
+    "2009": 471154000,
+    "2010": 150348000,
+    "2011": 147284000,
+    "2012": 122080000,
+    "2013": 188616000
+  },
+  "earningsPerShare": {
+    "2009": 3.5,
+    "2010": 3.62,
+    "2011": 4.08,
+    "2012": 4.44,
+    "2013": 5.02
+  },
+  "htmlUrl": "http://www.sec.gov/Archives/edgar/data/1000228/000100022814000010/0001000228-14-000010-index.htm",
+  "xmlUrl": "http://www.sec.gov/Archives/edgar/data/1000228/000100022814000010/hsic-20131228.xml"
+}

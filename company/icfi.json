@@ -1,0 +1,38 @@
+{
+  "symbol": "icfi",
+  "name": "ICF International, Inc.",
+  "ipoYear": 2006,
+  "sector": "Consumer Services",
+  "industry": "Professional Services",
+  "exchange": "nasdaq",
+  "category": "SERVICES-MANAGEMENT CONSULTING SERVICES",
+  "address": {
+    "street1": "9300 LEE HIGHWAY",
+    "city": "FAIRFAX",
+    "state": "VA",
+    "zip": "22031"
+  },
+  "profit": {
+    "2009": 22356000,
+    "2010": 27171000,
+    "2011": 34865000,
+    "2012": 38075000,
+    "2013": 39330000
+  },
+  "cash": {
+    "2009": 2353000,
+    "2010": 3301000,
+    "2011": 4097000,
+    "2012": 14725000,
+    "2013": 8953000
+  },
+  "earningsPerShare": {
+    "2009": 1.45,
+    "2010": 1.4,
+    "2011": 1.77,
+    "2012": 1.94,
+    "2013": 1.99
+  },
+  "htmlUrl": "http://www.sec.gov/Archives/edgar/data/1362004/000143774914003105/0001437749-14-003105-index.htm",
+  "xmlUrl": "http://www.sec.gov/Archives/edgar/data/1362004/000143774914003105/icfi-20131231.xml"
+}

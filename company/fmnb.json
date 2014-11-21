@@ -1,0 +1,38 @@
+{
+  "symbol": "fmnb",
+  "name": "Farmers National Banc Corp.",
+  "ipoYear": null,
+  "sector": "Finance",
+  "industry": "Major Banks",
+  "exchange": "nasdaq",
+  "category": "STATE COMMERCIAL BANKS",
+  "address": {
+    "street1": "20 S BROAD STREET",
+    "city": "CANFIELD",
+    "state": "OH",
+    "zip": "44406"
+  },
+  "profit": {
+    "2009": 5842000,
+    "2010": 8991000,
+    "2011": 9218000,
+    "2012": 9932000,
+    "2013": 7780000
+  },
+  "cash": {
+    "2009": 51160000,
+    "2010": 691000,
+    "2011": 5743000,
+    "2012": 3826000,
+    "2013": 1849000
+  },
+  "earningsPerShare": {
+    "2009": 0.44,
+    "2010": 0.66,
+    "2011": 0.5,
+    "2012": 0.53,
+    "2013": 0.41
+  },
+  "htmlUrl": "http://www.sec.gov/Archives/edgar/data/709337/000156459014000731/0001564590-14-000731-index.htm",
+  "xmlUrl": "http://www.sec.gov/Archives/edgar/data/709337/000156459014000731/fmnb-20131231.xml"
+}

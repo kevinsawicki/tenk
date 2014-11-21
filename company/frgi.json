@@ -1,0 +1,24 @@
+{
+  "symbol": "frgi",
+  "name": "Fiesta Restaurant Group, Inc.",
+  "ipoYear": null,
+  "sector": "Consumer Services",
+  "industry": "Restaurants",
+  "exchange": "nasdaq",
+  "category": "RETAIL-EATING PLACES",
+  "address": {
+    "street1": "14800 LANDMARK BOULEVARD, SUITE 500",
+    "city": "ADDISON",
+    "state": "TX",
+    "zip": "75254"
+  },
+  "profit": {
+    "2011": 9541000,
+    "2012": 8267000,
+    "2013": 9257000
+  },
+  "cash": {},
+  "earningsPerShare": {},
+  "htmlUrl": "http://www.sec.gov/Archives/edgar/data/1534992/000153499214000011/0001534992-14-000011-index.htm",
+  "xmlUrl": "http://www.sec.gov/Archives/edgar/data/1534992/000153499214000011/frgi-20131229.xml"
+}

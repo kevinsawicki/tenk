@@ -1,0 +1,35 @@
+{
+  "symbol": "hlss",
+  "name": "Home Loan Servicing Solutions, Ltd.",
+  "ipoYear": 2012,
+  "sector": "Finance",
+  "industry": "Finance: Consumer Services",
+  "exchange": "nasdaq",
+  "category": "MORTGAGE BANKERS &amp;amp; LOAN CORRESPONDENTS",
+  "address": {
+    "street1": "C/O JAMES LAUTER",
+    "city": "ATLANTA",
+    "state": "GA",
+    "zip": "30319"
+  },
+  "profit": {
+    "2010": -18000,
+    "2011": -273000,
+    "2012": 19617000,
+    "2013": 117657000
+  },
+  "cash": {
+    "2010": 300000,
+    "2011": 283000,
+    "2012": 76048000,
+    "2013": 87896000
+  },
+  "earningsPerShare": {
+    "2010": -13.18,
+    "2011": -13.66,
+    "2012": 1.14,
+    "2013": 1.83
+  },
+  "htmlUrl": "http://www.sec.gov/Archives/edgar/data/1513161/000119312514312395/0001193125-14-312395-index.htm",
+  "xmlUrl": "http://www.sec.gov/Archives/edgar/data/1513161/000119312514312395/hlss-20131231.xml"
+}

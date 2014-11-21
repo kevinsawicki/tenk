@@ -1,0 +1,38 @@
+{
+  "symbol": "zinc",
+  "name": "Horsehead Holding Corp.",
+  "ipoYear": 2007,
+  "sector": "Capital Goods",
+  "industry": "Metal Fabrications",
+  "exchange": "nasdaq",
+  "category": "PRIMARY SMELTING &amp;amp; REFINING OF NONFERROUS METALS",
+  "address": {
+    "street1": "4955 STEUBENVILLE PIKE",
+    "city": "PITTSBURGH",
+    "state": "PA",
+    "zip": "15205"
+  },
+  "profit": {
+    "2009": -27471000,
+    "2010": 24770000,
+    "2011": 4912000,
+    "2012": 1614000,
+    "2013": -13959000
+  },
+  "cash": {
+    "2009": 95480000,
+    "2010": 109557000,
+    "2011": 188500000,
+    "2012": 244119000,
+    "2013": 136327000
+  },
+  "earningsPerShare": {
+    "2009": -0.73,
+    "2010": 0.57,
+    "2011": 0.49,
+    "2012": -0.69,
+    "2013": -0.31
+  },
+  "htmlUrl": "http://www.sec.gov/Archives/edgar/data/1385544/000138554414000003/0001385544-14-000003-index.htm",
+  "xmlUrl": "http://www.sec.gov/Archives/edgar/data/1385544/000138554414000003/zinc-20131231.xml"
+}

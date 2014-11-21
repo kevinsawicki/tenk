@@ -1,0 +1,36 @@
+{
+  "symbol": "hcci",
+  "name": "Heritage-Crystal Clean, Inc.",
+  "ipoYear": 2008,
+  "sector": "Basic Industries",
+  "industry": "Miscellaneous",
+  "exchange": "nasdaq",
+  "category": "SANITARY SERVICES",
+  "address": {
+    "street1": "2175 POINT BOULEVARD",
+    "city": "ELGIN",
+    "state": "IL",
+    "zip": "60123"
+  },
+  "profit": {
+    "2010": 3271000,
+    "2011": 1474000,
+    "2012": 2254000,
+    "2013": 4545000
+  },
+  "cash": {
+    "2009": 327000,
+    "2010": 21757000,
+    "2011": 2186000,
+    "2012": 47766000,
+    "2013": 22632000
+  },
+  "earningsPerShare": {
+    "2010": 0.26,
+    "2011": 0.1,
+    "2012": 0.13,
+    "2013": 0.25
+  },
+  "htmlUrl": "http://www.sec.gov/Archives/edgar/data/1403431/000140343114000009/0001403431-14-000009-index.htm",
+  "xmlUrl": "http://www.sec.gov/Archives/edgar/data/1403431/000140343114000009/hcci-20131228.xml"
+}

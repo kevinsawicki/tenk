@@ -1,0 +1,38 @@
+{
+  "symbol": "igte",
+  "name": "iGATE Corporation",
+  "ipoYear": null,
+  "sector": "Technology",
+  "industry": "EDP Services",
+  "exchange": "nasdaq",
+  "category": "SERVICES-COMPUTER PROGRAMMING SERVICES",
+  "address": {
+    "street1": "1000 COMMERCE DRIVE",
+    "city": "PITTSBURGH",
+    "state": "PA",
+    "zip": "15275"
+  },
+  "profit": {
+    "2009": 28575000,
+    "2010": 51755000,
+    "2011": 51468000,
+    "2012": 95833000,
+    "2013": 129772000
+  },
+  "cash": {
+    "2009": 29565000,
+    "2010": 67924000,
+    "2011": 75440000,
+    "2012": 95155000,
+    "2013": 204836000
+  },
+  "earningsPerShare": {
+    "2009": 0.52,
+    "2010": 0.92,
+    "2011": 0.39,
+    "2012": 0.87,
+    "2013": 1.25
+  },
+  "htmlUrl": "http://www.sec.gov/Archives/edgar/data/1024732/000119312514048080/0001193125-14-048080-index.htm",
+  "xmlUrl": "http://www.sec.gov/Archives/edgar/data/1024732/000119312514048080/igte-20131231.xml"
+}

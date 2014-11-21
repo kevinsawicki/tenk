@@ -1,0 +1,36 @@
+{
+  "symbol": "hero",
+  "name": "Hercules Offshore, Inc.",
+  "ipoYear": 2005,
+  "sector": "Energy",
+  "industry": "Oil & Gas Production",
+  "exchange": "nasdaq",
+  "category": "DRILLING OIL &amp;amp; GAS WELLS",
+  "address": {
+    "street1": "9 GREENWAY PLAZA,",
+    "city": "HOUSTON",
+    "state": "TX",
+    "zip": "77046"
+  },
+  "profit": {
+    "2009": -91734000,
+    "2010": -134594000,
+    "2011": -76128000,
+    "2012": -127004000,
+    "2013": -68078000
+  },
+  "cash": {
+    "2009": 140828000,
+    "2010": 136666000,
+    "2011": 134351000,
+    "2012": 259193000,
+    "2013": 198406000
+  },
+  "earningsPerShare": {
+    "2009": -0.94,
+    "2010": -1.17,
+    "2011": -0.58
+  },
+  "htmlUrl": "http://www.sec.gov/Archives/edgar/data/1330849/000133084914000017/0001330849-14-000017-index.htm",
+  "xmlUrl": "http://www.sec.gov/Archives/edgar/data/1330849/000133084914000017/hero-20131231.xml"
+}

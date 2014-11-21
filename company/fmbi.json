@@ -1,0 +1,38 @@
+{
+  "symbol": "fmbi",
+  "name": "First Midwest Bancorp, Inc.",
+  "ipoYear": null,
+  "sector": "Finance",
+  "industry": "Major Banks",
+  "exchange": "nasdaq",
+  "category": "NATIONAL COMMERCIAL BANKS",
+  "address": {
+    "street1": "ONE PIERCE PLACE",
+    "city": "ITASCA",
+    "state": "IL",
+    "zip": "60143"
+  },
+  "profit": {
+    "2009": -35551000,
+    "2010": -19717000,
+    "2011": 25437000,
+    "2012": -20748000,
+    "2013": 78199000
+  },
+  "cash": {
+    "2009": 127379000,
+    "2010": 585776000,
+    "2011": 641530000,
+    "2012": 716266000,
+    "2013": 587241000
+  },
+  "earningsPerShare": {
+    "2009": -0.71,
+    "2010": -0.27,
+    "2011": 0.35,
+    "2012": -0.28,
+    "2013": 1.06
+  },
+  "htmlUrl": "http://www.sec.gov/Archives/edgar/data/702325/000104746914001679/0001047469-14-001679-index.htm",
+  "xmlUrl": "http://www.sec.gov/Archives/edgar/data/702325/000104746914001679/fmbi-20131231.xml"
+}

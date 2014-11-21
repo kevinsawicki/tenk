@@ -1,0 +1,36 @@
+{
+  "symbol": "hpj",
+  "name": "Highpower International Inc",
+  "ipoYear": null,
+  "sector": "Miscellaneous",
+  "industry": "Industrial Machinery/Components",
+  "exchange": "nasdaq",
+  "category": "MISCELLANEOUS ELECTRICAL MACHINERY, EQUIPMENT &amp;amp; SUPPLIES",
+  "address": {
+    "street1": "LUOSHAN INDUSTRIAL ZONE",
+    "city": "GUANGDONG",
+    "state": "F4",
+    "zip": "518111"
+  },
+  "profit": {
+    "2010": 5954144,
+    "2011": -2453999,
+    "2012": 1717022,
+    "2013": 1451218
+  },
+  "cash": {
+    "2009": 2967586,
+    "2010": 8490629,
+    "2011": 5175623,
+    "2012": 6627334,
+    "2013": 7973459
+  },
+  "earningsPerShare": {
+    "2010": 0.44,
+    "2011": -0.18,
+    "2012": 0.13,
+    "2013": 0.11
+  },
+  "htmlUrl": "http://www.sec.gov/Archives/edgar/data/1368308/000114420414019162/0001144204-14-019162-index.htm",
+  "xmlUrl": "http://www.sec.gov/Archives/edgar/data/1368308/000114420414019162/hpj-20131231.xml"
+}

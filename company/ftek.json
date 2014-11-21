@@ -1,0 +1,38 @@
+{
+  "symbol": "ftek",
+  "name": "Fuel Tech, Inc.",
+  "ipoYear": null,
+  "sector": "Capital Goods",
+  "industry": "Pollution Control Equipment",
+  "exchange": "nasdaq",
+  "category": "INDUSTRIAL &amp;amp; COMMERCIAL FANS &amp;amp; BLOWERS &amp;amp; AIR PURIFYING EQUIP",
+  "address": {
+    "street1": "27601 BELLA VISTA PARKWAY",
+    "city": "WARRENVILLE",
+    "state": "IL",
+    "zip": "60555"
+  },
+  "profit": {
+    "2009": -2306000,
+    "2010": 1753000,
+    "2011": 6148000,
+    "2012": 2776000,
+    "2013": 5101000
+  },
+  "cash": {
+    "2009": 20965000,
+    "2010": 30524000,
+    "2011": 28229000,
+    "2012": 24453000,
+    "2013": 27738000
+  },
+  "earningsPerShare": {
+    "2009": -0.1,
+    "2010": 0.07,
+    "2011": 0.26,
+    "2012": 0.12,
+    "2013": 0.23
+  },
+  "htmlUrl": "http://www.sec.gov/Archives/edgar/data/846913/000084691314000014/0000846913-14-000014-index.htm",
+  "xmlUrl": "http://www.sec.gov/Archives/edgar/data/846913/000084691314000014/ftek-20131231.xml"
+}
