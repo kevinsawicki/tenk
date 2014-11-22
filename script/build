@@ -1,9 +1,11 @@
 #!/usr/bin/env coffee
 
+async      = require 'async'
 fs         = require 'fs-plus'
 Handlebars = require 'handlebars'
 Humanize   = require 'humanize-plus'
 path       = require 'path'
+Progress   = require 'progress'
 
 Handlebars.registerHelper 'cash_graph',   require '../src/cash-graph'
 Handlebars.registerHelper 'cash_map',     require '../src/cash-map'
@@ -14,18 +16,33 @@ Handlebars.registerHelper 'profit_graph', require '../src/profit-graph'
 Handlebars.registerHelper 'profit_map',   require '../src/profit-map'
 
 companyTemplate = Handlebars.compile(fs.readFileSync(path.resolve(__dirname, '..', 'company', 'company.hbs'), 'utf8'))
+companyJsonFiles = fs.listSync(path.resolve(__dirname, '..', 'company'), ['.json'])
 
 companies = []
 
-buildPage = (symbolPath) ->
-  symbol = path.basename(symbolPath, path.extname(symbolPath))
-  company = JSON.parse(fs.readFileSync(symbolPath, 'utf8'))
-  company.humanizedCash = Humanize.compactInteger(company.cash?[2013] ? 0, 1)
-  company.humanizedName = company.name.replace(/,?\s+(inc\.?|company|corp(oration)?)$/i, '')
-  companies.push(company)
-  fs.writeFileSync(path.resolve(__dirname, '..', 'company', "#{symbol}.html"), companyTemplate(company))
+progress = new Progress('Buildings page :current/:total [:bar] :percent :eta seconds remaining', {
+  incomplete: ' '
+  width: 20
+  total: companyJsonFiles.length + 1
+})
 
-fs.listSync(path.resolve(__dirname, '..', 'company'), ['.json']).forEach(buildPage)
+buildPage = (symbolPath, callback) ->
+  fs.readFile symbolPath, (error, contents) ->
+    return callback(error) if error?
+
+    symbol = path.basename(symbolPath, path.extname(symbolPath))
+    company = JSON.parse(contents)
+    company.humanizedCash = Humanize.compactInteger(company.cash?[2013] ? 0, 1)
+    company.humanizedName = company.name.replace(/,?\s+(inc\.?|company|corp(oration)?)$/i, '')
+    companies.push(company)
+
+    fs.writeFile path.resolve(__dirname, '..', 'company', "#{symbol}.html"), companyTemplate(company), (error) ->
+      progress.tick(1)
+      callback(error)
+
+queue = async.queue(buildPage)
+queue.push(companyJsonFile) for companyJsonFile in companyJsonFiles
+queue.concurrency = 100
 
 indexTemplate = Handlebars.compile(fs.readFileSync(path.resolve(__dirname, '..', 'index.hbs'), 'utf8'))
 
@@ -84,3 +101,4 @@ indexTemplateData = {
 }
 
 fs.writeFileSync(path.resolve(__dirname, '..', "index.html"), indexTemplate(indexTemplateData))
+progress.tick(1)
