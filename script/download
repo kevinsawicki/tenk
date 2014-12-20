@@ -6,7 +6,6 @@ fs         = require 'fs-plus'
 Document   = require('xmldom').DOMParser
 Handlebars = require 'handlebars'
 path       = require 'path'
-Progress   = require 'progress'
 request    = require 'request'
 url        = require 'url'
 xpath      = require 'xpath'
@@ -130,6 +129,8 @@ getAddress = (select, document) ->
 downloadTenK = ({pageUrl, symbol}, callback) ->
   request pageUrl, (error, response, body='') ->
     reportName = body.match(new RegExp("\"([^\"]*#{symbol.toLowerCase()}-\\d+\\.xml)\"", 'i'))?[1]
+    # Fall back to any XML file with format of letters followed by a - followed numbers
+    reportName ?= body.match(new RegExp("\"([^\"]*[a-zA-Z]+-\\d+\\.xml)\"", 'i'))?[1]
     return callback(null, {}) unless reportName
 
     xmlUrl = url.resolve(pageUrl, reportName)
@@ -174,10 +175,11 @@ downloadSymbol = (company, callback) ->
     if hrefs.length is 0
       return callback(new Error("No 10-K submissions for #{company.symbol}"))
 
+    hrefs = hrefs.map (href) -> href.toString()
     address = getAddress(select, document)
 
-    urlsToDownload = hrefs.map (htmlUrl) ->
-      pageUrl: url.resolve(htmlUrl.toString(), '.')
+    urlsToDownload = hrefs.map (pageUrl) ->
+      pageUrl: pageUrl
       symbol: company.symbol
 
     async.map urlsToDownload.reverse(), downloadTenK, (error, data) ->
@@ -209,27 +211,10 @@ if process.argv[2]
 else
   companies = companies.filter ({symbol}) -> not fs.isFileSync(path.resolve(__dirname, '..', 'company', "#{symbol}.json"))
 
-progress = new Progress('Downloading 10-K reports :current/:total [:bar] :percent :eta seconds remaining', {
-  incomplete: ' '
-  width: 20
-  total: companies.length
-})
-
-errors = []
-logErrors = ->
-  errors.forEach ({company, error}) ->
-    console.error("#{company.symbol} failed: #{error.message}")
-  errors = []
-process.on 'SIGINT', ->
-  logErrors()
-  process.exit()
-
 queue = async.queue (company, callback) ->
   downloadSymbol company, (error) ->
-    progress.tick(1)
-    errors.push({company, error}) if error
+    console.error(error.message) if error?
     callback(error)
 
 queue.push(company) for company in companies
 queue.concurrency = 25
-queue.drain = logErrors
