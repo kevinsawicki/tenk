@@ -1,0 +1,37 @@
+{
+  "symbol": "icon",
+  "name": "Iconix Brand Group, Inc.",
+  "ipoYear": null,
+  "sector": "Consumer Non-Durables",
+  "industry": "Shoe Manufacturing",
+  "exchange": "nasdaq",
+  "category": "FOOTWEAR, (NO RUBBER)",
+  "address": {
+    "street1": "1450 BROADWAY, 4TH FL",
+    "city": "NEW YORK",
+    "state": "NY",
+    "zip": "10018"
+  },
+  "profit": {
+    "2009": 75111000,
+    "2010": 98847000,
+    "2011": 126105000,
+    "2012": 109408000,
+    "2013": 128048000
+  },
+  "cash": {
+    "2009": 195381000,
+    "2010": 118635000,
+    "2011": 167717000,
+    "2012": 238672000,
+    "2013": 278789000
+  },
+  "earningsPerShare": {
+    "2009": 1.14,
+    "2010": 1.37,
+    "2011": 1.72,
+    "2012": 1.57,
+    "2013": 2.28
+  },
+  "htmlUrl": "http://www.sec.gov/Archives/edgar/data/857737/000119312514172968/0001193125-14-172968-index.htm"
+}
