@@ -1,0 +1,12 @@
+#!/usr/bin/env coffee
+
+fs   = require 'fs-plus'
+path = require 'path'
+
+year = 2013
+
+fs.listSync(path.resolve(__dirname, '..', 'company'), ['.json']).forEach (jsonPath) ->
+  company = JSON.parse(fs.readFileSync(jsonPath))
+
+  unless company.profits?[year]?
+    console.log "#{company.symbol} is missing #{year} profits"
