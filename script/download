@@ -186,6 +186,8 @@ downloadSymbol = (company, callback) ->
       return callback(error) if error?
 
       profit = _.extend({}, _.pluck(data, 'profit')...)
+      if Object.keys(profit).length is 0
+        return callback(new Error("No profits for #{company.symbol}"))
       cash = _.extend({}, _.pluck(data, 'cash')...)
       earningsPerShare = _.extend({}, _.pluck(data, 'earningsPerShare')...)
 
