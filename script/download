@@ -10,6 +10,7 @@ request    = require 'request'
 url        = require 'url'
 xpath      = require 'xpath'
 
+debug = false
 currentYear = new Date().getFullYear()
 
 isInLastFiveYears = (year) ->
@@ -127,6 +128,7 @@ getAddress = (select, document) ->
   address
 
 downloadTenK = ({pageUrl, symbol}, callback) ->
+  console.log ">> Downloading 10-K page" if debug
   request pageUrl, (error, response, body='') ->
     reportName = body.match(new RegExp("\"([^\"]*#{symbol.toLowerCase()}-\\d+\\.xml)\"", 'i'))?[1]
     # Fall back to any XML file with format of letters followed by a - followed numbers
@@ -134,6 +136,7 @@ downloadTenK = ({pageUrl, symbol}, callback) ->
     return callback(null, {}) unless reportName
 
     xmlUrl = url.resolve(pageUrl, reportName)
+    console.log ">> Downloading 10-K filing" if debug
     request xmlUrl, (error, response, body) ->
       return callback(error) if error?
       if response.statusCode isnt 200
@@ -147,6 +150,7 @@ downloadTenK = ({pageUrl, symbol}, callback) ->
       callback(null, {cash, earningsPerShare, profit, xmlUrl})
 
 getTenKFeed = (symbol, callback) ->
+  console.log ">> Fetching 10-K feed" if debug
   options =
     uri: "http://www.sec.gov/cgi-bin/browse-edgar"
     qs:
@@ -183,6 +187,7 @@ downloadSymbol = (company, callback) ->
       symbol: company.symbol
 
     async.map urlsToDownload.reverse(), downloadTenK, (error, data) ->
+      console.log ">> Parsing downloaded filings" if debug
       return callback(error) if error?
 
       profit = _.extend({}, _.pluck(data, 'profit')...)
@@ -205,7 +210,9 @@ writeCompany = (company, callback) ->
   companyJson = JSON.stringify(company, null, 2)
   fs.writeFile(companyPath, companyJson, callback)
 
+symbols = JSON.parse(fs.readFileSync('symbols.json'))
 companies = JSON.parse(fs.readFileSync('companies.json'))
+companies = companies.filter ({symbol}) -> symbols.indexOf(symbol.toUpperCase()) isnt -1
 companies.forEach (company) -> company.symbol = company.symbol.toLowerCase()
 
 if process.argv[2]
@@ -214,9 +221,11 @@ else
   companies = companies.filter ({symbol}) -> not fs.isFileSync(path.resolve(__dirname, '..', 'company', "#{symbol}.json"))
 
 queue = async.queue (company, callback) ->
+  console.log "Processing #{company.name} (#{company.symbol})"
   downloadSymbol company, (error) ->
     console.error(error.message) if error?
+    console.log "Finished #{company.name} (#{company.symbol})"
     callback(error)
 
 queue.push(company) for company in companies
-queue.concurrency = 25
+queue.concurrency = 5

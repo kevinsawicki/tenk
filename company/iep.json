@@ -1,0 +1,32 @@
+{
+  "symbol": "iep",
+  "name": "Icahn Enterprises L.P.",
+  "ipoYear": null,
+  "sector": "Energy",
+  "industry": "Integrated oil Companies",
+  "exchange": "nasdaq",
+  "category": "PETROLEUM REFINING",
+  "address": {
+    "street1": "767 FIFTH AVENUE",
+    "city": "NEW YORK",
+    "state": "NY",
+    "zip": "10153"
+  },
+  "profit": {
+    "2009": 253000000,
+    "2010": 199000000,
+    "2011": 750000000,
+    "2012": 396000000,
+    "2013": 1025000000
+  },
+  "cash": {
+    "2009": 2256000000,
+    "2010": 2988000000,
+    "2011": 2328000000,
+    "2012": 3108000000,
+    "2013": 3262000000
+  },
+  "earningsPerShare": {},
+  "htmlUrl": "http://www.sec.gov/Archives/edgar/data/813762/000081376214000053/0000813762-14-000053-index.htm",
+  "xmlUrl": "http://www.sec.gov/Archives/edgar/data/813762/000081376214000053/iep-20131231.xml"
+}

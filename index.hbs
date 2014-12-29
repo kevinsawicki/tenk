@@ -3,7 +3,7 @@
   <head>
     <link rel="stylesheet" href="http://netdna.bootstrapcdn.com/bootstrap/3.1.1/css/bootstrap.min.css">
     <link href='http://fonts.googleapis.com/css?family=Play|Oxygen' rel='stylesheet' type='text/css'>
-    <link rel="stylesheet" href="company/styles.css">
+    <link rel="stylesheet" href="styles.css">
     <script src="https://code.jquery.com/jquery-2.1.1.min.js"></script>
     <script src="./index.js"></script>
 
@@ -19,126 +19,70 @@
           </a>
         </div>
 
-        <ul class="nav navbar-nav">
-          <li><a href="#profits">Profits</a></li>
-          <li><a href="#cash">Cash</a></li>
-          <li><a href="#eps">Earnings Per Share</a></li>
-        </ul>
-
         <ul class="nav navbar-nav navbar-right">
           <li><a href="https://github.com/kevinsawicki/tenk/issues/new">Report Issue</a></li>
         </ul>
       </div>
     </nav>
 
-    <div class="jumbotron">
-      <div class="container">
-        <div class="row">
-          <div class="col-md-8 col-lg-8">
-            <h2>Profits, cash, and earnings per share</h2>
-            <p>
-              {{companies}} companies that trade on the NASDAQ and New York Stock Exchange
-              filed a 10-K report with the U.S Securities &amp; Exchange Commision last year.
-            </p>
-            <p>
-              This is a look at how that breaks down by industry and state.
-            </p>
+    <div class="container">
+      {{#each companies}}
+
+        <div class="jumbotron">
+          <div class="container">
+            <div class="row">
+              <div class="col-md-12 col-lg-12">
+                <h1 class="company-heading">{{humanizedName}}</h1>
+                <span class="company-sector">{{sector}}</span><br>
+                <span class="company-sector">{{industry}}</span><br>
+                <span class="company-exchange">{{symbol}} on the {{exchange}}</span><br>
+                <span class="company-ipo">Initial public offering in {{ipoYear}}</span>
+                <address>
+                  {{address.street1}}<br>
+                  {{address.city}}, {{address.state}} {{address.zip}}
+                </address>
+
+              </div>
+            </div>
           </div>
         </div>
-      </div>
-    </div>
 
-    <div class="container">
-      <div class="row" id="profits">
-        <div class="col-md-10 col-lg-10">
-          <h1>Profits</h1>
+        <div class="container">
+          <div class="row">
+
+            <div class="col-md-4 col-lg-4">
+              <h2 class="graph-heading">Profits</h2>
+              {{profit_graph}}
+            </div>
+
+            <div class="col-md-4 col-lg-4">
+              <h2 class="graph-heading">Cash</h2>
+              {{cash_graph}}
+            </div>
+
+            <div class="col-md-4 col-lg-4">
+              <h2 class="graph-heading">Earnings Per Share</h2>
+              {{eps_graph}}
+            </div>
+
+          </div>
+
+          <div class="row">
+
+            <div class="col-md-4 col-lg-4">
+              <h3>Links</h3>
+              <ul>
+                <li><a href="{{htmlUrl}}">Official filing on sec.gov</a></li>
+                <li><a href="{{xmlUrl}}">Full XML version</a></li>
+                <li><a href="./{{symbol}}.json">JSON data</a></li>
+              </ul>
+            </div>
+
+          </div>
+
         </div>
+      {{/each}}
 
-        <div class="col-md-10 col-lg-10 col-md-offset-1 col-lg-offset-1">
-          {{profit_map}}
-        </div>
-      </div>
-
-      <div claass="row" id="cash">
-        <div class="col-md-10 col-lg-10">
-          <h1>Cash</h1>
-        </div>
-      </div>
-
-      <div class="row">
-        <div class="col-md-10 col-lg-10 col-md-offset-1 col-lg-offset-1">
-          {{cash_map}}
-        </div>
-      </div>
-
-      <div claass="row">
-        <div class="col-md-4 col-lg-4">
-          <h3 class="overview-heading">Top States</h3>
-          <ol>
-            {{#each topCashStates}}
-            <li>{{state}} ${{humanizedCash}}</li>
-            {{/each}}
-          </ol>
-        </div>
-
-        <div class="col-md-4 col-lg-4">
-          <h3 class="overview-heading">Top Companies</h3>
-          <ol>
-            {{#each topCashCompanies}}
-            <li><a href="company/{{symbol}}.html">{{humanizedName}} ${{humanizedCash}}</a></li>
-            {{/each}}
-          </ol>
-        </div>
-
-        <div class="col-md-4 col-lg-4">
-          <h3 class="overview-heading">Top Sectors</h3>
-          <ol>
-            {{#each topCashSectors}}
-            <li>{{name}} ${{humanizedCash}}</li>
-            {{/each}}
-          </ol>
-        </div>
-      </div>
-
-      <div class="row" id="eps">
-        <div class="col-md-10 col-lg-10">
-          <h1>Earnings Per Share</h1>
-        </div>
-      </div>
-
-      <div class="row">
-        <div class="col-md-10 col-lg-10 col-md-offset-1 col-lg-offset-1">
-          {{eps_map}}
-        </div>
-      </div>
-
-      <div class="row">
-        <div class="col-md-10 col-lg-10 col-md-offset-1 col-lg-offset-1">
-          <table class="table table-striped table-bordered">
-            <thead>
-              <tr>
-                <th>State</th>
-                <th>Companies</th>
-                <th>Profits</th>
-                <th>Cash</th>
-                <th>Earnings Per Share</th>
-              </tr>
-            </thead>
-
-            <tbody>
-              {{#each states}}
-                <tr>
-                  <td>{{companies}}</td>
-                  <td>{{state}}</td>
-                  <td>${{humanizedProfit}}</td>
-                  <td>${{humanizedCash}}</td>
-                  <td>${{humanizedEarningsPerShare}}</td>
-                </tr>
-              {{/each}}
-            </tbody>
-          </table>
-        </div>
-      </div>
     </div>
   </body>
 </html>

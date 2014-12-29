@@ -1,6 +1,10 @@
 {
   "symbol": "aapl",
-  "name": "APPLE INC",
+  "name": "Apple Inc.",
+  "ipoYear": 1980,
+  "sector": "Technology",
+  "industry": "Computer Manufacturing",
+  "exchange": "nasdaq",
   "category": "ELECTRONIC COMPUTERS",
   "address": {
     "street1": "ONE INFINITE LOOP",
@@ -13,22 +17,25 @@
     "2010": 14013000000,
     "2011": 25922000000,
     "2012": 41733000000,
-    "2013": 37037000000
+    "2013": 37037000000,
+    "2014": 39510000000
   },
   "cash": {
     "2009": 5263000000,
     "2010": 11261000000,
     "2011": 9815000000,
     "2012": 10746000000,
-    "2013": 14259000000
+    "2013": 14259000000,
+    "2014": 13844000000
   },
   "earningsPerShare": {
     "2009": 9.22,
     "2010": 15.41,
     "2011": 28.05,
-    "2012": 44.64,
-    "2013": 40.03
+    "2012": 6.38,
+    "2013": 5.72,
+    "2014": 6.49
   },
-  "htmlUrl": "http://www.sec.gov/Archives/edgar/data/320193/000119312513416534/0001193125-13-416534-index.htm",
-  "xmlUrl": "http://www.sec.gov/Archives/edgar/data/320193/000119312513416534/aapl-20130928.xml"
+  "htmlUrl": "http://www.sec.gov/Archives/edgar/data/320193/000119312514383437/0001193125-14-383437-index.htm",
+  "xmlUrl": "http://www.sec.gov/Archives/edgar/data/320193/000119312514383437/aapl-20140927.xml"
 }
