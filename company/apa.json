@@ -1,0 +1,38 @@
+{
+  "symbol": "apa",
+  "name": "Apache Corporation",
+  "ipoYear": null,
+  "sector": "Energy",
+  "industry": "Oil & Gas Production",
+  "exchange": "nyse",
+  "category": "CRUDE PETROLEUM &amp;amp; NATURAL GAS",
+  "address": {
+    "street1": "2000 POST OAK BLVD",
+    "city": "HOUSTON",
+    "state": "TX",
+    "zip": "77056-4400"
+  },
+  "profit": {
+    "2009": -292000000,
+    "2010": 3000000000,
+    "2011": 4508000000,
+    "2012": 1925000000,
+    "2013": 2188000000
+  },
+  "cash": {
+    "2009": 2048000000,
+    "2010": 134000000,
+    "2011": 295000000,
+    "2012": 160000000,
+    "2013": 1906000000
+  },
+  "earningsPerShare": {
+    "2009": -0.87,
+    "2010": 8.53,
+    "2011": 11.75,
+    "2012": 4.95,
+    "2013": 5.53
+  },
+  "htmlUrl": "http://www.sec.gov/Archives/edgar/data/6769/000119312514077668/0001193125-14-077668-index.htm",
+  "xmlUrl": "http://www.sec.gov/Archives/edgar/data/6769/000119312514077668/apa-20131231.xml"
+}

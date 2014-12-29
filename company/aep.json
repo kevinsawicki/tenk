@@ -1,0 +1,38 @@
+{
+  "symbol": "aep",
+  "name": "American Electric Power Company, Inc.",
+  "ipoYear": null,
+  "sector": "Public Utilities",
+  "industry": "Electric Utilities: Central",
+  "exchange": "nyse",
+  "category": "ELECTRIC SERVICES",
+  "address": {
+    "street1": "1 RIVERSIDE PLAZA",
+    "city": "COLUMBUS",
+    "state": "OH",
+    "zip": "43215"
+  },
+  "profit": {
+    "2009": 1360000000,
+    "2010": 1214000000,
+    "2011": 1946000000,
+    "2012": 1259000000,
+    "2013": 1480000000
+  },
+  "cash": {
+    "2009": 490000000,
+    "2010": 294000000,
+    "2011": 221000000,
+    "2012": 279000000,
+    "2013": 118000000
+  },
+  "earningsPerShare": {
+    "2009": 2.96,
+    "2010": 2.53,
+    "2011": 4.02,
+    "2012": 2.6,
+    "2013": 3.04
+  },
+  "htmlUrl": "http://www.sec.gov/Archives/edgar/data/4904/000000490414000019/0000004904-14-000019-index.htm",
+  "xmlUrl": "http://www.sec.gov/Archives/edgar/data/4904/000000490414000019/aep-20131231.xml"
+}

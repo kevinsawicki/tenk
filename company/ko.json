@@ -1,0 +1,38 @@
+{
+  "symbol": "ko",
+  "name": "Coca-Cola Company (The)",
+  "ipoYear": null,
+  "sector": "Consumer Non-Durables",
+  "industry": "Beverages (Production/Distribution)",
+  "exchange": "nyse",
+  "category": "BEVERAGES",
+  "address": {
+    "street1": "ONE COCA COLA PLAZA",
+    "city": "ATLANTA",
+    "state": "GA",
+    "zip": "30313"
+  },
+  "profit": {
+    "2009": 6824000000,
+    "2010": 11787000000,
+    "2011": 8584000000,
+    "2012": 9019000000,
+    "2013": 8584000000
+  },
+  "cash": {
+    "2009": 7021000000,
+    "2010": 8517000000,
+    "2011": 12803000000,
+    "2012": 8442000000,
+    "2013": 10414000000
+  },
+  "earningsPerShare": {
+    "2009": 2.95,
+    "2010": 2.55,
+    "2011": 1.88,
+    "2012": 2,
+    "2013": 1.94
+  },
+  "htmlUrl": "http://www.sec.gov/Archives/edgar/data/21344/000002134414000008/0000021344-14-000008-index.htm",
+  "xmlUrl": "http://www.sec.gov/Archives/edgar/data/21344/000002134414000008/ko-20131231.xml"
+}

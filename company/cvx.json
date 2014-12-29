@@ -1,0 +1,38 @@
+{
+  "symbol": "cvx",
+  "name": "Chevron Corporation",
+  "ipoYear": null,
+  "sector": "Energy",
+  "industry": "Integrated oil Companies",
+  "exchange": "nyse",
+  "category": "PETROLEUM REFINING",
+  "address": {
+    "street1": "6001 BOLLINGER CANYON ROAD",
+    "city": "SAN RAMON",
+    "state": "CA",
+    "zip": "94583"
+  },
+  "profit": {
+    "2009": 10483000000,
+    "2010": 19024000000,
+    "2011": 26895000000,
+    "2012": 26179000000,
+    "2013": 21423000000
+  },
+  "cash": {
+    "2009": 8716000000,
+    "2010": 14060000000,
+    "2011": 15864000000,
+    "2012": 20939000000,
+    "2013": 16245000000
+  },
+  "earningsPerShare": {
+    "2009": 5.26,
+    "2010": 9.53,
+    "2011": 13.54,
+    "2012": 13.42,
+    "2013": 11.18
+  },
+  "htmlUrl": "http://www.sec.gov/Archives/edgar/data/93410/000009341014000011/0000093410-14-000011-index.htm",
+  "xmlUrl": "http://www.sec.gov/Archives/edgar/data/93410/000009341014000011/cvx-20131231.xml"
+}

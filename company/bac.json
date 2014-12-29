@@ -1,0 +1,38 @@
+{
+  "symbol": "bac",
+  "name": "Bank of America Corporation",
+  "ipoYear": null,
+  "sector": "Finance",
+  "industry": "Major Banks",
+  "exchange": "nyse",
+  "category": "NATIONAL COMMERCIAL BANKS",
+  "address": {
+    "street1": "BANK OF AMERICA CORPORATE CENTER",
+    "city": "CHARLOTTE",
+    "state": "NC",
+    "zip": "28255"
+  },
+  "profit": {
+    "2009": 6276000000,
+    "2010": -2238000000,
+    "2011": 1446000000,
+    "2012": 4188000000,
+    "2013": 11431000000
+  },
+  "cash": {
+    "2009": 121339000000,
+    "2010": 108427000000,
+    "2011": 120102000000,
+    "2012": 110752000000,
+    "2013": 131322000000
+  },
+  "earningsPerShare": {
+    "2009": -0.29,
+    "2010": -0.37,
+    "2011": 0.01,
+    "2012": 0.26,
+    "2013": 0.94
+  },
+  "htmlUrl": "http://www.sec.gov/Archives/edgar/data/70858/000007085814000012/0000070858-14-000012-index.htm",
+  "xmlUrl": "http://www.sec.gov/Archives/edgar/data/70858/000007085814000012/bac-20131231.xml"
+}

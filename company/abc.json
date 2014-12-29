@@ -1,0 +1,41 @@
+{
+  "symbol": "abc",
+  "name": "AmerisourceBergen Corporation (Holding Co)",
+  "ipoYear": null,
+  "sector": "Health Care",
+  "industry": "Other Pharmaceuticals",
+  "exchange": "nyse",
+  "category": "WHOLESALE-DRUGS PROPRIETARIES &amp;amp; DRUGGISTS&amp;#39; SUNDRIES",
+  "address": {
+    "street1": "1300 MORRIS DRIVE",
+    "city": "CHESTERBROOK",
+    "state": "PA",
+    "zip": "19087-5594"
+  },
+  "profit": {
+    "2009": 503397000,
+    "2010": 636748000,
+    "2011": 706624000,
+    "2012": 718986000,
+    "2013": 433707000,
+    "2014": 276484000
+  },
+  "cash": {
+    "2009": 1009368000,
+    "2010": 1658182000,
+    "2011": 1825990000,
+    "2012": 1066608000,
+    "2013": 1231006000,
+    "2014": 1808513000
+  },
+  "earningsPerShare": {
+    "2009": 1.67,
+    "2010": 2.26,
+    "2011": 2.59,
+    "2012": 2.84,
+    "2013": 1.88,
+    "2014": 1.22
+  },
+  "htmlUrl": "http://www.sec.gov/Archives/edgar/data/1140859/000104746914009555/0001047469-14-009555-index.htm",
+  "xmlUrl": "http://www.sec.gov/Archives/edgar/data/1140859/000104746914009555/abc-20140930.xml"
+}

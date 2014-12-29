@@ -1,0 +1,41 @@
+{
+  "symbol": "cag",
+  "name": "ConAgra Foods, Inc.",
+  "ipoYear": null,
+  "sector": "Consumer Non-Durables",
+  "industry": "Packaged Foods",
+  "exchange": "nyse",
+  "category": "FOOD &amp;amp; KINDRED PRODUCTS",
+  "address": {
+    "street1": "ONE CONAGRA DR",
+    "city": "OMAHA",
+    "state": "NE",
+    "zip": "68102"
+  },
+  "profit": {
+    "2009": 978400000,
+    "2010": 613500000,
+    "2011": 817600000,
+    "2012": 467900000,
+    "2013": 773900000,
+    "2014": 303100000
+  },
+  "cash": {
+    "2009": 243200000,
+    "2010": 953200000,
+    "2011": 972400000,
+    "2012": 103000000,
+    "2013": 183900000,
+    "2014": 183100000
+  },
+  "earningsPerShare": {
+    "2009": 2.16,
+    "2010": 1.38,
+    "2011": 1.9,
+    "2012": 1.13,
+    "2013": 1.88,
+    "2014": 0.72
+  },
+  "htmlUrl": "http://www.sec.gov/Archives/edgar/data/23217/000002321714000009/0000023217-14-000009-index.htm",
+  "xmlUrl": "http://www.sec.gov/Archives/edgar/data/23217/000002321714000009/cag-20140525.xml"
+}

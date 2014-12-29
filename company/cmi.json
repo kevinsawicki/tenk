@@ -1,0 +1,38 @@
+{
+  "symbol": "cmi",
+  "name": "Cummins Inc.",
+  "ipoYear": null,
+  "sector": "Energy",
+  "industry": "Industrial Machinery/Components",
+  "exchange": "nyse",
+  "category": "ENGINES &amp;amp; TURBINES",
+  "address": {
+    "street1": "500 JACKSON ST",
+    "city": "COLUMBUS",
+    "state": "IN",
+    "zip": "47202-3005"
+  },
+  "profit": {
+    "2009": 428000000,
+    "2010": 1040000000,
+    "2011": 1848000000,
+    "2012": 1645000000,
+    "2013": 1483000000
+  },
+  "cash": {
+    "2009": 930000000,
+    "2010": 1023000000,
+    "2011": 1484000000,
+    "2012": 1369000000,
+    "2013": 2699000000
+  },
+  "earningsPerShare": {
+    "2009": 2.17,
+    "2010": 5.29,
+    "2011": 9.58,
+    "2012": 8.69,
+    "2013": 7.93
+  },
+  "htmlUrl": "http://www.sec.gov/Archives/edgar/data/26172/000002617214000008/0000026172-14-000008-index.htm",
+  "xmlUrl": "http://www.sec.gov/Archives/edgar/data/26172/000002617214000008/cmi-20131231.xml"
+}

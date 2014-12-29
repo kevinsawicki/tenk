@@ -1,0 +1,37 @@
+{
+  "symbol": "bmy",
+  "name": "Bristol-Myers Squibb Company",
+  "ipoYear": null,
+  "sector": "Health Care",
+  "industry": "Major Pharmaceuticals",
+  "exchange": "nyse",
+  "category": "PHARMACEUTICAL PREPARATIONS",
+  "address": {
+    "street1": "345 PARK AVE",
+    "city": "NEW YORK",
+    "state": "NY",
+    "zip": "10154"
+  },
+  "profit": {
+    "2009": 10612000000,
+    "2010": 3102000000,
+    "2011": 3709000000,
+    "2012": 1960000000,
+    "2013": 2563000000
+  },
+  "cash": {
+    "2009": 7683000000,
+    "2010": 5033000000,
+    "2011": 5776000000,
+    "2012": 1656000000,
+    "2013": 3586000000
+  },
+  "earningsPerShare": {
+    "2009": 5.35,
+    "2010": 1.8,
+    "2011": 2.18,
+    "2012": 1.17,
+    "2013": 1.56
+  },
+  "htmlUrl": "http://www.sec.gov/Archives/edgar/data/14272/000001427214000165/0000014272-14-000165-index.htm"
+}

@@ -1,0 +1,38 @@
+{
+  "symbol": "t",
+  "name": "AT&T Inc.",
+  "ipoYear": null,
+  "sector": "Public Utilities",
+  "industry": "Telecommunications Equipment",
+  "exchange": "nyse",
+  "category": "TELEPHONE COMMUNICATIONS (NO RADIO TELEPHONE)",
+  "address": {
+    "street1": "208 S. AKARD ST",
+    "city": "DALLAS",
+    "state": "TX",
+    "zip": "75202"
+  },
+  "profit": {
+    "2009": 12138000000,
+    "2010": 19864000000,
+    "2011": 3944000000,
+    "2012": 7264000000,
+    "2013": 18249000000
+  },
+  "cash": {
+    "2009": 3277000000,
+    "2010": 1201000000,
+    "2011": 3045000000,
+    "2012": 4868000000,
+    "2013": 3339000000
+  },
+  "earningsPerShare": {
+    "2009": 2.06,
+    "2010": 3.36,
+    "2011": 0.66,
+    "2012": 1.25,
+    "2013": 3.39
+  },
+  "htmlUrl": "http://www.sec.gov/Archives/edgar/data/732717/000073271714000010/0000732717-14-000010-index.htm",
+  "xmlUrl": "http://www.sec.gov/Archives/edgar/data/732717/000073271714000010/t-20131231.xml"
+}

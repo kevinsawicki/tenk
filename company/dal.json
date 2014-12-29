@@ -1,0 +1,37 @@
+{
+  "symbol": "dal",
+  "name": "Delta Air Lines, Inc.",
+  "ipoYear": null,
+  "sector": "Transportation",
+  "industry": "Air Freight/Delivery Services",
+  "exchange": "nyse",
+  "category": "AIR TRANSPORTATION, SCHEDULED",
+  "address": {
+    "street1": "HARTSFIELD ATLANTA INTL AIRPORT",
+    "city": "ATLANTA",
+    "state": "GA",
+    "zip": "30354-1989"
+  },
+  "profit": {
+    "2009": -1237000000,
+    "2010": 593000000,
+    "2011": 854000000,
+    "2012": 1009000000,
+    "2013": 10540000000
+  },
+  "cash": {
+    "2009": 4607000000,
+    "2010": 2892000000,
+    "2011": 2657000000,
+    "2012": 2416000000,
+    "2013": 2844000000
+  },
+  "earningsPerShare": {
+    "2009": -1.5,
+    "2010": 0.71,
+    "2011": 1.02,
+    "2012": 1.2,
+    "2013": 12.41
+  },
+  "htmlUrl": "http://www.sec.gov/Archives/edgar/data/27904/000119312514172167/0001193125-14-172167-index.htm"
+}

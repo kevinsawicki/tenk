@@ -1,0 +1,34 @@
+{
+  "symbol": "cat",
+  "name": "Caterpillar, Inc.",
+  "ipoYear": null,
+  "sector": "Capital Goods",
+  "industry": "Construction/Ag Equipment/Trucks",
+  "exchange": "nyse",
+  "category": "CONSTRUCTION MACHINERY &amp;amp; EQUIP",
+  "address": {
+    "street1": "100 NE ADAMS ST",
+    "city": "PEORIA",
+    "state": "IL",
+    "zip": "61629"
+  },
+  "profit": {
+    "2009": 895000000,
+    "2010": 2700000000,
+    "2011": 4928000000,
+    "2012": 5681000000,
+    "2013": 3789000000
+  },
+  "cash": {
+    "2009": 4867000000
+  },
+  "earningsPerShare": {
+    "2009": 1.45,
+    "2010": 4.28,
+    "2011": 7.64,
+    "2012": 8.71,
+    "2013": 5.87
+  },
+  "htmlUrl": "http://www.sec.gov/Archives/edgar/data/18230/000001823014000058/0000018230-14-000058-index.htm",
+  "xmlUrl": "http://www.sec.gov/Archives/edgar/data/18230/000001823014000058/cat-20131231.xml"
+}

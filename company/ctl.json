@@ -1,0 +1,38 @@
+{
+  "symbol": "ctl",
+  "name": "CenturyLink, Inc.",
+  "ipoYear": null,
+  "sector": "Public Utilities",
+  "industry": "Telecommunications Equipment",
+  "exchange": "nyse",
+  "category": "TELEPHONE COMMUNICATIONS (NO RADIO TELEPHONE)",
+  "address": {
+    "street1": "P O BOX 4065",
+    "city": "MONROE",
+    "state": "LA",
+    "zip": "71203"
+  },
+  "profit": {
+    "2009": 647000000,
+    "2010": 948000000,
+    "2011": 573000000,
+    "2012": 777000000,
+    "2013": -239000000
+  },
+  "cash": {
+    "2009": 162000000,
+    "2010": 173000000,
+    "2011": 128000000,
+    "2012": 211000000,
+    "2013": 168000000
+  },
+  "earningsPerShare": {
+    "2009": 3.23,
+    "2010": 3.13,
+    "2011": 1.07,
+    "2012": 1.25,
+    "2013": -0.4
+  },
+  "htmlUrl": "http://www.sec.gov/Archives/edgar/data/18926/000144530514000656/0001445305-14-000656-index.htm",
+  "xmlUrl": "http://www.sec.gov/Archives/edgar/data/18926/000144530514000656/ctl-20131231.xml"
+}

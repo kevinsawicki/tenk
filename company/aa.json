@@ -1,0 +1,38 @@
+{
+  "symbol": "aa",
+  "name": "Alcoa Inc.",
+  "ipoYear": null,
+  "sector": "Capital Goods",
+  "industry": "Metal Fabrications",
+  "exchange": "nyse",
+  "category": "ROLLING DRAWING &amp;amp; EXTRUDING OF NONFERROUS METALS",
+  "address": {
+    "street1": "390 PARK AVENUE",
+    "city": "NEW YORK",
+    "state": "NY",
+    "zip": "10022-4608"
+  },
+  "profit": {
+    "2009": -1151000000,
+    "2010": 254000000,
+    "2011": 611000000,
+    "2012": 191000000,
+    "2013": -2285000000
+  },
+  "cash": {
+    "2009": 1481000000,
+    "2010": 1543000000,
+    "2011": 1939000000,
+    "2012": 1861000000,
+    "2013": 1437000000
+  },
+  "earningsPerShare": {
+    "2009": -1.23,
+    "2010": 0.25,
+    "2011": 0.57,
+    "2012": 0.18,
+    "2013": -2.14
+  },
+  "htmlUrl": "http://www.sec.gov/Archives/edgar/data/4281/000119312514051516/0001193125-14-051516-index.htm",
+  "xmlUrl": "http://www.sec.gov/Archives/edgar/data/4281/000119312514051516/aa-20131231.xml"
+}

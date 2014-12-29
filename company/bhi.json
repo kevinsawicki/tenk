@@ -1,0 +1,38 @@
+{
+  "symbol": "bhi",
+  "name": "Baker Hughes Incorporated",
+  "ipoYear": null,
+  "sector": "Energy",
+  "industry": "Metal Fabrications",
+  "exchange": "nyse",
+  "category": "OIL &amp;amp; GAS FILED MACHINERY &amp;amp; EQUIPMENT",
+  "address": {
+    "street1": "2929 ALLEN PARKWAY",
+    "city": "HOUSTON",
+    "state": "TX",
+    "zip": "77019-2118"
+  },
+  "profit": {
+    "2009": 421000000,
+    "2010": 812000000,
+    "2011": 1739000000,
+    "2012": 1311000000,
+    "2013": 1096000000
+  },
+  "cash": {
+    "2009": 1595000000,
+    "2010": 1456000000,
+    "2011": 1050000000,
+    "2012": 1015000000,
+    "2013": 1399000000
+  },
+  "earningsPerShare": {
+    "2009": 1.36,
+    "2010": 2.06,
+    "2011": 3.99,
+    "2012": 2.98,
+    "2013": 2.47
+  },
+  "htmlUrl": "http://www.sec.gov/Archives/edgar/data/808362/000080836214000007/0000808362-14-000007-index.htm",
+  "xmlUrl": "http://www.sec.gov/Archives/edgar/data/808362/000080836214000007/bhi-20131231.xml"
+}

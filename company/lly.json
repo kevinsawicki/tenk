@@ -1,0 +1,38 @@
+{
+  "symbol": "lly",
+  "name": "Eli Lilly and Company",
+  "ipoYear": null,
+  "sector": "Health Care",
+  "industry": "Major Pharmaceuticals",
+  "exchange": "nyse",
+  "category": "PHARMACEUTICAL PREPARATIONS",
+  "address": {
+    "street1": "LILLY CORPORATE CTR",
+    "city": "INDIANAPOLIS",
+    "state": "IN",
+    "zip": "46285"
+  },
+  "profit": {
+    "2009": 4328800000,
+    "2010": 5069500000,
+    "2011": 4347700000,
+    "2012": 4088600000,
+    "2013": 4684800000
+  },
+  "cash": {
+    "2009": 4462900000,
+    "2010": 5993200000,
+    "2011": 5922500000,
+    "2012": 4018800000,
+    "2013": 3830200000
+  },
+  "earningsPerShare": {
+    "2009": 3.94,
+    "2010": 4.58,
+    "2011": 3.9,
+    "2012": 3.67,
+    "2013": 4.33
+  },
+  "htmlUrl": "http://www.sec.gov/Archives/edgar/data/59478/000005947814000078/0000059478-14-000078-index.htm",
+  "xmlUrl": "http://www.sec.gov/Archives/edgar/data/59478/000005947814000078/lly-20131231.xml"
+}

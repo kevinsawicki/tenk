@@ -1,0 +1,30 @@
+{
+  "symbol": "aig",
+  "name": "American International Group, Inc.",
+  "ipoYear": null,
+  "sector": "Finance",
+  "industry": "Property-Casualty Insurers",
+  "exchange": "nyse",
+  "category": "FIRE, MARINE &amp;amp; CASUALTY INSURANCE",
+  "address": {
+    "street1": "175 WATER STREET",
+    "city": "NEW YORK",
+    "state": "NY",
+    "zip": "10038"
+  },
+  "profit": {
+    "2009": -10949000000,
+    "2010": 10058000000,
+    "2011": 20622000000,
+    "2012": 3438000000,
+    "2013": 7754000000
+  },
+  "cash": {},
+  "earningsPerShare": {
+    "2011": 11.01,
+    "2012": 2.04,
+    "2013": 6.16
+  },
+  "htmlUrl": "http://www.sec.gov/Archives/edgar/data/5272/000104746914001096/0001047469-14-001096-index.htm",
+  "xmlUrl": "http://www.sec.gov/Archives/edgar/data/5272/000104746914001096/aig-20131231.xml"
+}

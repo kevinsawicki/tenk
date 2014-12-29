@@ -1,0 +1,38 @@
+{
+  "symbol": "cyh",
+  "name": "Community Health Systems, Inc.",
+  "ipoYear": 2000,
+  "sector": "Health Care",
+  "industry": "Hospital/Nursing Management",
+  "exchange": "nyse",
+  "category": "SERVICES-GENERAL MEDICAL &amp;amp; SURGICAL HOSPITALS, NEC",
+  "address": {
+    "street1": "4000 MERIDIAN BOULEVARD",
+    "city": "FRANKLIN",
+    "state": "TN",
+    "zip": "37067"
+  },
+  "profit": {
+    "2009": 243150000,
+    "2010": 279983000,
+    "2011": 201948000,
+    "2012": 265640000,
+    "2013": 141203000
+  },
+  "cash": {
+    "2009": 344541000,
+    "2010": 299169000,
+    "2011": 129865000,
+    "2012": 387813000,
+    "2013": 373403000
+  },
+  "earningsPerShare": {
+    "2009": 2.68,
+    "2010": 3.05,
+    "2011": 2.24,
+    "2012": 2.98,
+    "2013": 1.52
+  },
+  "htmlUrl": "http://www.sec.gov/Archives/edgar/data/1108109/000119312514070022/0001193125-14-070022-index.htm",
+  "xmlUrl": "http://www.sec.gov/Archives/edgar/data/1108109/000119312514070022/cyh-20131231.xml"
+}

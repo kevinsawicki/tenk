@@ -1,0 +1,41 @@
+{
+  "symbol": "cah",
+  "name": "Cardinal Health, Inc.",
+  "ipoYear": null,
+  "sector": "Health Care",
+  "industry": "Other Pharmaceuticals",
+  "exchange": "nyse",
+  "category": "WHOLESALE-DRUGS PROPRIETARIES &amp;amp; DRUGGISTS&amp;#39; SUNDRIES",
+  "address": {
+    "street1": "7000 CARDINAL PLACE",
+    "city": "DUBLIN",
+    "state": "OH",
+    "zip": "43017"
+  },
+  "profit": {
+    "2009": 1151600000,
+    "2010": 642000000,
+    "2011": 959000000,
+    "2012": 1069000000,
+    "2013": 334000000,
+    "2014": 1166000000
+  },
+  "cash": {
+    "2009": 1221000000,
+    "2010": 2755000000,
+    "2011": 1929000000,
+    "2012": 2274000000,
+    "2013": 1901000000,
+    "2014": 2865000000
+  },
+  "earningsPerShare": {
+    "2009": 3.22,
+    "2010": 1.79,
+    "2011": 2.75,
+    "2012": 3.1,
+    "2013": 0.98,
+    "2014": 3.42
+  },
+  "htmlUrl": "http://www.sec.gov/Archives/edgar/data/721371/000072137114000181/0000721371-14-000181-index.htm",
+  "xmlUrl": "http://www.sec.gov/Archives/edgar/data/721371/000072137114000181/cah-20140630.xml"
+}

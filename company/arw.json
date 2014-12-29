@@ -1,0 +1,38 @@
+{
+  "symbol": "arw",
+  "name": "Arrow Electronics, Inc.",
+  "ipoYear": null,
+  "sector": "Consumer Non-Durables",
+  "industry": "Electronic Components",
+  "exchange": "nyse",
+  "category": "WHOLESALE-ELECTRONIC PARTS &amp;amp; EQUIPMENT, NEC",
+  "address": {
+    "street1": "7459 SOUTH LIMA STREET",
+    "city": "ENGLEWOOD",
+    "state": "CO",
+    "zip": "80112"
+  },
+  "profit": {
+    "2009": 123512000,
+    "2010": 479630000,
+    "2011": 598810000,
+    "2012": 506332000,
+    "2013": 399420000
+  },
+  "cash": {
+    "2009": 1137007000,
+    "2010": 926321000,
+    "2011": 396887000,
+    "2012": 409684000,
+    "2013": 390602000
+  },
+  "earningsPerShare": {
+    "2009": 1.03,
+    "2010": 4.06,
+    "2011": 5.25,
+    "2012": 4.64,
+    "2013": 3.89
+  },
+  "htmlUrl": "http://www.sec.gov/Archives/edgar/data/7536/000152650814000006/0001526508-14-000006-index.htm",
+  "xmlUrl": "http://www.sec.gov/Archives/edgar/data/7536/000152650814000006/arw-20131231.xml"
+}

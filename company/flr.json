@@ -1,0 +1,38 @@
+{
+  "symbol": "flr",
+  "name": "Fluor Corporation",
+  "ipoYear": null,
+  "sector": "Basic Industries",
+  "industry": "Military/Government/Technical",
+  "exchange": "nyse",
+  "category": "HEAVY CONSTRUCTION OTHER THAN BUILDING CONST - CONTRACTORS",
+  "address": {
+    "street1": "6700 LAS COLINAS BLVD",
+    "city": "IRVING",
+    "state": "TX",
+    "zip": "75039"
+  },
+  "profit": {
+    "2009": 684889000,
+    "2010": 357496000,
+    "2011": 593728000,
+    "2012": 456330000,
+    "2013": 667711000
+  },
+  "cash": {
+    "2009": 1687028000,
+    "2010": 2134997000,
+    "2011": 2161411000,
+    "2012": 2154541000,
+    "2013": 488426000
+  },
+  "earningsPerShare": {
+    "2009": 3.79,
+    "2010": 2.01,
+    "2011": 3.44,
+    "2012": 2.73,
+    "2013": 4.11
+  },
+  "htmlUrl": "http://www.sec.gov/Archives/edgar/data/1124198/000104746914000988/0001047469-14-000988-index.htm",
+  "xmlUrl": "http://www.sec.gov/Archives/edgar/data/1124198/000104746914000988/flr-20131231.xml"
+}

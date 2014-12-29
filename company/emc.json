@@ -1,0 +1,38 @@
+{
+  "symbol": "emc",
+  "name": "EMC Corporation",
+  "ipoYear": null,
+  "sector": "Technology",
+  "industry": "Electronic Components",
+  "exchange": "nyse",
+  "category": "COMPUTER STORAGE DEVICES",
+  "address": {
+    "street1": "176 SOUTH STREET",
+    "city": "HOPKINTON",
+    "state": "MA",
+    "zip": "01748-9103"
+  },
+  "profit": {
+    "2009": 1088077000,
+    "2010": 1899995000,
+    "2011": 2461000000,
+    "2012": 2733000000,
+    "2013": 2889000000
+  },
+  "cash": {
+    "2009": 6302499000,
+    "2010": 4078000000,
+    "2011": 4492000000,
+    "2012": 4714000000,
+    "2013": 7891000000
+  },
+  "earningsPerShare": {
+    "2009": 0.54,
+    "2010": 0.92,
+    "2011": 1.2,
+    "2012": 1.31,
+    "2013": 1.39
+  },
+  "htmlUrl": "http://www.sec.gov/Archives/edgar/data/790070/000079007014000040/0000790070-14-000040-index.htm",
+  "xmlUrl": "http://www.sec.gov/Archives/edgar/data/790070/000079007014000040/emc-20131231.xml"
+}

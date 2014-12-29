@@ -1,0 +1,38 @@
+{
+  "symbol": "bax",
+  "name": "Baxter International Inc.",
+  "ipoYear": null,
+  "sector": "Health Care",
+  "industry": "Medical/Dental Instruments",
+  "exchange": "nyse",
+  "category": "SURGICAL &amp;amp; MEDICAL INSTRUMENTS &amp;amp; APPARATUS",
+  "address": {
+    "street1": "ONE BAXTER PKWY",
+    "city": "DEERFIELD",
+    "state": "IL",
+    "zip": "60015"
+  },
+  "profit": {
+    "2009": 2205000000,
+    "2010": 1420000000,
+    "2011": 2224000000,
+    "2012": 2326000000,
+    "2013": 2012000000
+  },
+  "cash": {
+    "2009": 2786000000,
+    "2010": 2685000000,
+    "2011": 2905000000,
+    "2012": 3270000000,
+    "2013": 2733000000
+  },
+  "earningsPerShare": {
+    "2009": 3.63,
+    "2010": 2.41,
+    "2011": 3.91,
+    "2012": 4.22,
+    "2013": 3.7
+  },
+  "htmlUrl": "http://www.sec.gov/Archives/edgar/data/10456/000119312514061654/0001193125-14-061654-index.htm",
+  "xmlUrl": "http://www.sec.gov/Archives/edgar/data/10456/000119312514061654/bax-20131231.xml"
+}

@@ -1,0 +1,39 @@
+{
+  "symbol": "dg",
+  "name": "Dollar General Corporation",
+  "ipoYear": 2009,
+  "sector": "Consumer Services",
+  "industry": "Department/Specialty Retail Stores",
+  "exchange": "nyse",
+  "category": "RETAIL-VARIETY STORES",
+  "address": {
+    "street1": "100 MISSION RIDGE",
+    "city": "GOODLETTSVILLE",
+    "state": "TN",
+    "zip": "37072"
+  },
+  "profit": {
+    "2010": 339442000,
+    "2011": 627857000,
+    "2012": 766685000,
+    "2013": 952662000,
+    "2014": 1025116000
+  },
+  "cash": {
+    "2009": 377995000,
+    "2010": 222076000,
+    "2011": 497446000,
+    "2012": 126126000,
+    "2013": 140809000,
+    "2014": 505566000
+  },
+  "earningsPerShare": {
+    "2010": 1.05,
+    "2011": 1.84,
+    "2012": 2.25,
+    "2013": 2.87,
+    "2014": 3.17
+  },
+  "htmlUrl": "http://www.sec.gov/Archives/edgar/data/29534/000104746914002721/0001047469-14-002721-index.htm",
+  "xmlUrl": "http://www.sec.gov/Archives/edgar/data/29534/000104746914002721/dg-20140131.xml"
+}

@@ -1,0 +1,38 @@
+{
+  "symbol": "chk",
+  "name": "Chesapeake Energy Corporation",
+  "ipoYear": null,
+  "sector": "Energy",
+  "industry": "Oil & Gas Production",
+  "exchange": "nyse",
+  "category": "CRUDE PETROLEUM &amp;amp; NATURAL GAS",
+  "address": {
+    "street1": "6100 N WESTERN AVE",
+    "city": "OKLAHOMA CITY",
+    "state": "OK",
+    "zip": "73118"
+  },
+  "profit": {
+    "2009": -5830000000,
+    "2010": 1774000000,
+    "2011": 1742000000,
+    "2012": -769000000,
+    "2013": 724000000
+  },
+  "cash": {
+    "2009": 307000000,
+    "2010": 102000000,
+    "2011": 351000000,
+    "2012": 287000000,
+    "2013": 837000000
+  },
+  "earningsPerShare": {
+    "2009": -9.57,
+    "2010": 2.63,
+    "2011": 2.47,
+    "2012": -1.46,
+    "2013": 0.73
+  },
+  "htmlUrl": "http://www.sec.gov/Archives/edgar/data/895126/000089512614000104/0000895126-14-000104-index.htm",
+  "xmlUrl": "http://www.sec.gov/Archives/edgar/data/895126/000089512614000104/chk-20131231.xml"
+}

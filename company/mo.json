@@ -1,0 +1,36 @@
+{
+  "symbol": "mo",
+  "name": "Altria Group",
+  "ipoYear": null,
+  "sector": "Consumer Non-Durables",
+  "industry": "Farming/Seeds/Milling",
+  "exchange": "nyse",
+  "category": "CIGARETTES",
+  "address": {
+    "street1": "6601 WEST BROAD STREET",
+    "city": "RICHMOND",
+    "state": "VA",
+    "zip": "23230"
+  },
+  "profit": {
+    "2009": 3206000000,
+    "2010": 3905000000,
+    "2011": 3390000000,
+    "2012": 4180000000,
+    "2013": 4535000000
+  },
+  "cash": {
+    "2009": 1871000000,
+    "2010": 2314000000,
+    "2011": 3270000000,
+    "2012": 2900000000,
+    "2013": 3175000000
+  },
+  "earningsPerShare": {
+    "2009": 1.55,
+    "2010": 1.87,
+    "2011": 1.64,
+    "2012": 2.06
+  },
+  "htmlUrl": "http://www.sec.gov/Archives/edgar/data/764180/000076418014000063/0000764180-14-000063-index.htm"
+}

@@ -1,0 +1,38 @@
+{
+  "symbol": "cl",
+  "name": "Colgate-Palmolive Company",
+  "ipoYear": null,
+  "sector": "Consumer Non-Durables",
+  "industry": "Package Goods/Cosmetics",
+  "exchange": "nyse",
+  "category": "PERFUMES, COSMETICS &amp;amp; OTHER TOILET PREPARATIONS",
+  "address": {
+    "street1": "300 PARK AVE",
+    "city": "NEW YORK",
+    "state": "NY",
+    "zip": "10022"
+  },
+  "profit": {
+    "2009": 2291000000,
+    "2010": 2203000000,
+    "2011": 2431000000,
+    "2012": 2472000000,
+    "2013": 2241000000
+  },
+  "cash": {
+    "2009": 600000000,
+    "2010": 490000000,
+    "2011": 878000000,
+    "2012": 884000000,
+    "2013": 962000000
+  },
+  "earningsPerShare": {
+    "2009": 4.53,
+    "2010": 4.45,
+    "2011": 2.49,
+    "2012": 2.6,
+    "2013": 2.41
+  },
+  "htmlUrl": "http://www.sec.gov/Archives/edgar/data/21665/000154554714000003/0001545547-14-000003-index.htm",
+  "xmlUrl": "http://www.sec.gov/Archives/edgar/data/21665/000154554714000003/cl-20131231.xml"
+}

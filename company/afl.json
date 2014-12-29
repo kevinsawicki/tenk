@@ -1,0 +1,38 @@
+{
+  "symbol": "afl",
+  "name": "Aflac Incorporated",
+  "ipoYear": null,
+  "sector": "Finance",
+  "industry": "Accident &Health Insurance",
+  "exchange": "nyse",
+  "category": "ACCIDENT &amp;amp; HEALTH INSURANCE",
+  "address": {
+    "street1": "1932 WYNNTON RD",
+    "city": "COLUMBUS",
+    "state": "GA",
+    "zip": "31999"
+  },
+  "profit": {
+    "2009": 1497000000,
+    "2010": 2328000000,
+    "2011": 1937000000,
+    "2012": 2866000000,
+    "2013": 3158000000
+  },
+  "cash": {
+    "2009": 2323000000,
+    "2010": 2121000000,
+    "2011": 2249000000,
+    "2012": 2041000000,
+    "2013": 2543000000
+  },
+  "earningsPerShare": {
+    "2009": 3.21,
+    "2010": 4.96,
+    "2011": 4.16,
+    "2012": 6.14,
+    "2013": 6.8
+  },
+  "htmlUrl": "http://www.sec.gov/Archives/edgar/data/4977/000000497714000052/0000004977-14-000052-index.htm",
+  "xmlUrl": "http://www.sec.gov/Archives/edgar/data/4977/000000497714000052/afl-20131231.xml"
+}

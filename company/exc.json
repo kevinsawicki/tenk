@@ -1,0 +1,35 @@
+{
+  "symbol": "exc",
+  "name": "Exelon Corporation",
+  "ipoYear": null,
+  "sector": "Public Utilities",
+  "industry": "Power Generation",
+  "exchange": "nyse",
+  "category": "ELECTRIC &amp;amp; OTHER SERVICES COMBINED",
+  "address": {
+    "street1": "PO BOX 805398",
+    "city": "CHICAGO",
+    "state": "IL",
+    "zip": "60680-5398"
+  },
+  "profit": {
+    "2009": 2707000000,
+    "2010": 2563000000,
+    "2011": 2495000000,
+    "2012": 1160000000,
+    "2013": 1719000000
+  },
+  "cash": {
+    "2009": 2010000000,
+    "2010": 1612000000,
+    "2011": 1016000000,
+    "2012": 1486000000,
+    "2013": 1609000000
+  },
+  "earningsPerShare": {
+    "2009": 4.1,
+    "2010": 3.88
+  },
+  "htmlUrl": "http://www.sec.gov/Archives/edgar/data/1109357/000119312514051838/0001193125-14-051838-index.htm",
+  "xmlUrl": "http://www.sec.gov/Archives/edgar/data/9466/000119312514051838/exc-20131231.xml"
+}

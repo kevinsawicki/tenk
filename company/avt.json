@@ -1,0 +1,41 @@
+{
+  "symbol": "avt",
+  "name": "Avnet, Inc.",
+  "ipoYear": null,
+  "sector": "Consumer Non-Durables",
+  "industry": "Electronic Components",
+  "exchange": "nyse",
+  "category": "WHOLESALE-ELECTRONIC PARTS &amp;amp; EQUIPMENT, NEC",
+  "address": {
+    "street1": "2211 SOUTH 47TH STREET",
+    "city": "PHOENIX",
+    "state": "AZ",
+    "zip": "85034"
+  },
+  "profit": {
+    "2009": -1129712000,
+    "2010": 410370000,
+    "2011": 669069000,
+    "2012": 567019000,
+    "2013": 450073000,
+    "2014": 545604000
+  },
+  "cash": {
+    "2009": 943921000,
+    "2010": 1092102000,
+    "2011": 675334000,
+    "2012": 1006864000,
+    "2013": 1009343000,
+    "2014": 928971000
+  },
+  "earningsPerShare": {
+    "2009": -7.49,
+    "2010": 2.71,
+    "2011": 4.39,
+    "2012": 3.85,
+    "2013": 3.26,
+    "2014": 3.95
+  },
+  "htmlUrl": "http://www.sec.gov/Archives/edgar/data/8858/000000885814000012/0000008858-14-000012-index.htm",
+  "xmlUrl": "http://www.sec.gov/Archives/edgar/data/8858/000000885814000012/avt-20140628.xml"
+}

@@ -1,0 +1,38 @@
+{
+  "symbol": "ba",
+  "name": "Boeing Company (The)",
+  "ipoYear": null,
+  "sector": "Capital Goods",
+  "industry": "Aerospace",
+  "exchange": "nyse",
+  "category": "AIRCRAFT",
+  "address": {
+    "street1": "P O BOX 3707 MS 1F 31",
+    "city": "SEATTLE",
+    "state": "WA",
+    "zip": "98124"
+  },
+  "profit": {
+    "2009": 1312000000,
+    "2010": 3307000000,
+    "2011": 4018000000,
+    "2012": 3900000000,
+    "2013": 4585000000
+  },
+  "cash": {
+    "2009": 9215000000,
+    "2010": 5359000000,
+    "2011": 10049000000,
+    "2012": 10341000000,
+    "2013": 9088000000
+  },
+  "earningsPerShare": {
+    "2009": 1.86,
+    "2010": 4.49,
+    "2011": 5.39,
+    "2012": 5.15,
+    "2013": 6.03
+  },
+  "htmlUrl": "http://www.sec.gov/Archives/edgar/data/12927/000001292714000004/0000012927-14-000004-index.htm",
+  "xmlUrl": "http://www.sec.gov/Archives/edgar/data/12927/000001292714000004/ba-20131231.xml"
+}

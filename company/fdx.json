@@ -1,0 +1,41 @@
+{
+  "symbol": "fdx",
+  "name": "FedEx Corporation",
+  "ipoYear": null,
+  "sector": "Transportation",
+  "industry": "Air Freight/Delivery Services",
+  "exchange": "nyse",
+  "category": "AIR COURIER SERVICES",
+  "address": {
+    "street1": "942 SOUTH SHADY GROVE ROAD",
+    "city": "MEMPHIS",
+    "state": "TN",
+    "zip": "38120-"
+  },
+  "profit": {
+    "2009": 98000000,
+    "2010": 1184000000,
+    "2011": 1452000000,
+    "2012": 2032000000,
+    "2013": 1561000000,
+    "2014": 2097000000
+  },
+  "cash": {
+    "2009": 2292000000,
+    "2010": 1952000000,
+    "2011": 2328000000,
+    "2012": 2843000000,
+    "2013": 4917000000,
+    "2014": 2908000000
+  },
+  "earningsPerShare": {
+    "2009": 0.31,
+    "2010": 3.78,
+    "2011": 4.61,
+    "2012": 6.44,
+    "2013": 4.95,
+    "2014": 6.82
+  },
+  "htmlUrl": "http://www.sec.gov/Archives/edgar/data/1048911/000119312514267851/0001193125-14-267851-index.htm",
+  "xmlUrl": "http://www.sec.gov/Archives/edgar/data/1048911/000119312514267851/fdx-20140531.xml"
+}

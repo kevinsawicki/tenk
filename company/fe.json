@@ -1,0 +1,38 @@
+{
+  "symbol": "fe",
+  "name": "FirstEnergy Corporation",
+  "ipoYear": null,
+  "sector": "Public Utilities",
+  "industry": "Electric Utilities: Central",
+  "exchange": "nyse",
+  "category": "ELECTRIC SERVICES",
+  "address": {
+    "street1": "76 SOUTH MAIN ST",
+    "city": "AKRON",
+    "state": "OH",
+    "zip": "44308-1890"
+  },
+  "profit": {
+    "2009": 872000000,
+    "2010": 742000000,
+    "2011": 885000000,
+    "2012": 770000000,
+    "2013": 392000000
+  },
+  "cash": {
+    "2009": 874000000,
+    "2010": 1019000000,
+    "2011": 202000000,
+    "2012": 172000000,
+    "2013": 218000000
+  },
+  "earningsPerShare": {
+    "2009": 2.87,
+    "2010": 2.44,
+    "2011": 2.22,
+    "2012": 1.85,
+    "2013": 0.94
+  },
+  "htmlUrl": "http://www.sec.gov/Archives/edgar/data/1031296/000103129614000010/0001031296-14-000010-index.htm",
+  "xmlUrl": "http://www.sec.gov/Archives/edgar/data/1031296/000103129614000010/fe-20131231.xml"
+}

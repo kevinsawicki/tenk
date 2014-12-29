@@ -1,0 +1,36 @@
+{
+  "symbol": "epd",
+  "name": "Enterprise Products Partners L.P.",
+  "ipoYear": null,
+  "sector": "Public Utilities",
+  "industry": "Natural Gas Distribution",
+  "exchange": "nyse",
+  "category": "NATURAL GAS TRANSMISSION",
+  "address": {
+    "street1": "1100 LOUISIANA 10TH FLOOR",
+    "city": "HOUSTON",
+    "state": "TX",
+    "zip": "77002"
+  },
+  "profit": {
+    "2009": 204100000,
+    "2010": 320800000,
+    "2011": 2046900000,
+    "2012": 2419900000,
+    "2013": 2596900000
+  },
+  "cash": {
+    "2009": 55300000,
+    "2010": 65500000,
+    "2011": 19800000,
+    "2012": 16100000,
+    "2013": 56900000
+  },
+  "earningsPerShare": {
+    "2009": 0.99,
+    "2010": 1.17,
+    "2011": 2.48
+  },
+  "htmlUrl": "http://www.sec.gov/Archives/edgar/data/1061219/000114036114010442/0001140361-14-010442-index.htm",
+  "xmlUrl": "http://www.sec.gov/Archives/edgar/data/1061219/000114036114010442/epd-20131231.xml"
+}

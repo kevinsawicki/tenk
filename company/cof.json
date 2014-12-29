@@ -1,0 +1,32 @@
+{
+  "symbol": "cof",
+  "name": "Capital One Financial Corporation",
+  "ipoYear": 1994,
+  "sector": "Finance",
+  "industry": "Major Banks",
+  "exchange": "nyse",
+  "category": "NATIONAL COMMERCIAL BANKS",
+  "address": {
+    "street1": "1680 CAPITAL ONE DRIVE",
+    "city": "MCLEAN",
+    "state": "VA",
+    "zip": "22102"
+  },
+  "profit": {
+    "2009": 884000000,
+    "2010": 2743000000,
+    "2011": 3147000000,
+    "2012": 3517000000,
+    "2013": 4159000000
+  },
+  "cash": {},
+  "earningsPerShare": {
+    "2009": 0.75,
+    "2010": 6.07,
+    "2011": 6.85,
+    "2012": 6.21,
+    "2013": 7.05
+  },
+  "htmlUrl": "http://www.sec.gov/Archives/edgar/data/927628/000119312514073467/0001193125-14-073467-index.htm",
+  "xmlUrl": "http://www.sec.gov/Archives/edgar/data/927628/000119312514073467/cof-20131231.xml"
+}

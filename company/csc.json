@@ -1,0 +1,41 @@
+{
+  "symbol": "csc",
+  "name": "Computer Sciences Corporation",
+  "ipoYear": null,
+  "sector": "Technology",
+  "industry": "EDP Services",
+  "exchange": "nyse",
+  "category": "SERVICES-COMPUTER INTEGRATED SYSTEMS DESIGN",
+  "address": {
+    "street1": "3170 FAIRVIEW PARK DRIVE",
+    "city": "FALLS CHURCH",
+    "state": "VA",
+    "zip": "22042"
+  },
+  "profit": {
+    "2009": 1115000000,
+    "2010": 817000000,
+    "2011": 740000000,
+    "2012": -4242000000,
+    "2013": 961000000,
+    "2014": 692000000
+  },
+  "cash": {
+    "2009": 2297000000,
+    "2010": 2784000000,
+    "2011": 1837000000,
+    "2012": 1093000000,
+    "2013": 2054000000,
+    "2014": 2443000000
+  },
+  "earningsPerShare": {
+    "2009": 7.37,
+    "2010": 5.36,
+    "2011": 4.79,
+    "2012": -27.37,
+    "2013": 6.22,
+    "2014": 4.56
+  },
+  "htmlUrl": "http://www.sec.gov/Archives/edgar/data/23082/000002308214000039/0000023082-14-000039-index.htm",
+  "xmlUrl": "http://www.sec.gov/Archives/edgar/data/23082/000002308214000039/csc-20140328.xml"
+}

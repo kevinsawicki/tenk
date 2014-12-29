@@ -1,0 +1,38 @@
+{
+  "symbol": "cvs",
+  "name": "CVS Health Corporation",
+  "ipoYear": null,
+  "sector": "Health Care",
+  "industry": "Medical/Nursing Services",
+  "exchange": "nyse",
+  "category": "RETAIL-DRUG STORES AND PROPRIETARY STORES",
+  "address": {
+    "street1": "ONE CVS DR.",
+    "city": "WOONSOCKET",
+    "state": "RI",
+    "zip": "02895"
+  },
+  "profit": {
+    "2009": 3696000000,
+    "2010": 3427000000,
+    "2011": 3462000000,
+    "2012": 3864000000,
+    "2013": 4592000000
+  },
+  "cash": {
+    "2009": 1086000000,
+    "2010": 1427000000,
+    "2011": 1413000000,
+    "2012": 1375000000,
+    "2013": 4089000000
+  },
+  "earningsPerShare": {
+    "2009": 2.58,
+    "2010": 2.51,
+    "2011": 2.59,
+    "2012": 3.04,
+    "2013": 3.77
+  },
+  "htmlUrl": "http://www.sec.gov/Archives/edgar/data/64803/000006480314000008/0000064803-14-000008-index.htm",
+  "xmlUrl": "http://www.sec.gov/Archives/edgar/data/64803/000006480314000008/cvs-20131231.xml"
+}

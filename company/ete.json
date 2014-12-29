@@ -1,0 +1,32 @@
+{
+  "symbol": "ete",
+  "name": "Energy Transfer Equity, L.P.",
+  "ipoYear": 2006,
+  "sector": "Public Utilities",
+  "industry": "Natural Gas Distribution",
+  "exchange": "nyse",
+  "category": "NATURAL GAS TRANSMISSION",
+  "address": {
+    "street1": "3738 OAK LAWN AVENUE",
+    "city": "DALLAS",
+    "state": "TX",
+    "zip": "75219"
+  },
+  "profit": {
+    "2009": 442473000,
+    "2010": 193000000,
+    "2011": 310000000,
+    "2012": 304000000,
+    "2013": 196000000
+  },
+  "cash": {
+    "2009": 0,
+    "2010": 86000000,
+    "2011": 126000000,
+    "2012": 372000000,
+    "2013": 590000000
+  },
+  "earningsPerShare": {},
+  "htmlUrl": "http://www.sec.gov/Archives/edgar/data/1276187/000127618714000009/0001276187-14-000009-index.htm",
+  "xmlUrl": "http://www.sec.gov/Archives/edgar/data/1276187/000127618714000009/ete-20131231.xml"
+}

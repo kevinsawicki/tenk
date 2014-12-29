@@ -1,0 +1,38 @@
+{
+  "symbol": "xom",
+  "name": "Exxon Mobil Corporation",
+  "ipoYear": null,
+  "sector": "Energy",
+  "industry": "Integrated oil Companies",
+  "exchange": "nyse",
+  "category": "PETROLEUM REFINING",
+  "address": {
+    "street1": "5959 LAS COLINAS BLVD",
+    "city": "IRVING",
+    "state": "TX",
+    "zip": "75039-2298"
+  },
+  "profit": {
+    "2009": 19280000000,
+    "2010": 30460000000,
+    "2011": 41060000000,
+    "2012": 44880000000,
+    "2013": 32580000000
+  },
+  "cash": {
+    "2009": 10693000000,
+    "2010": 7825000000,
+    "2011": 12664000000,
+    "2012": 9582000000,
+    "2013": 4644000000
+  },
+  "earningsPerShare": {
+    "2009": 3.99,
+    "2010": 6.24,
+    "2011": 8.43,
+    "2012": 9.7,
+    "2013": 7.37
+  },
+  "htmlUrl": "http://www.sec.gov/Archives/edgar/data/34088/000003408814000012/0000034088-14-000012-index.htm",
+  "xmlUrl": "http://www.sec.gov/Archives/edgar/data/34088/000003408814000012/xom-20131231.xml"
+}

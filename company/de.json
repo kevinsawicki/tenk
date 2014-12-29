@@ -1,0 +1,41 @@
+{
+  "symbol": "de",
+  "name": "Deere & Company",
+  "ipoYear": null,
+  "sector": "Capital Goods",
+  "industry": "Industrial Machinery/Components",
+  "exchange": "nyse",
+  "category": "FARM MACHINERY &amp;amp; EQUIPMENT",
+  "address": {
+    "street1": "ONE JOHN DEERE PLACE",
+    "city": "MOLINE",
+    "state": "IL",
+    "zip": "61265-8098"
+  },
+  "profit": {
+    "2009": 873500000,
+    "2010": 1865000000,
+    "2011": 2799900000,
+    "2012": 3064700000,
+    "2013": 3537300000,
+    "2014": 3161700000
+  },
+  "cash": {
+    "2009": 3689800000,
+    "2010": 3348300000,
+    "2011": 3187500000,
+    "2012": 3907900000,
+    "2013": 3023300000,
+    "2014": 2569200000
+  },
+  "earningsPerShare": {
+    "2009": 2.07,
+    "2010": 4.4,
+    "2011": 6.71,
+    "2012": 7.72,
+    "2013": 9.18,
+    "2014": 8.71
+  },
+  "htmlUrl": "http://www.sec.gov/Archives/edgar/data/315189/000110465914087794/0001104659-14-087794-index.htm",
+  "xmlUrl": "http://www.sec.gov/Archives/edgar/data/315189/000110465914087794/de-20141031.xml"
+}

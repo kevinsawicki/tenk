@@ -1,0 +1,35 @@
+{
+  "symbol": "axp",
+  "name": "American Express Company",
+  "ipoYear": null,
+  "sector": "Finance",
+  "industry": "Finance: Consumer Services",
+  "exchange": "nyse",
+  "category": "FINANCE SERVICES",
+  "address": {
+    "street1": "200 VESEY STREET",
+    "city": "NEW YORK",
+    "state": "NY",
+    "zip": "10285"
+  },
+  "profit": {
+    "2009": 2130000000,
+    "2010": 4057000000,
+    "2011": 4935000000,
+    "2012": 4482000000,
+    "2013": 5359000000
+  },
+  "cash": {
+    "2009": 4064000000,
+    "2010": 654000000
+  },
+  "earningsPerShare": {
+    "2009": 1.54,
+    "2010": 3.37,
+    "2011": 4.14,
+    "2012": 3.91,
+    "2013": 4.91
+  },
+  "htmlUrl": "http://www.sec.gov/Archives/edgar/data/4962/000119312514066777/0001193125-14-066777-index.htm",
+  "xmlUrl": "http://www.sec.gov/Archives/edgar/data/4962/000119312514066777/axp-20131231.xml"
+}

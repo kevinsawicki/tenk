@@ -1,0 +1,38 @@
+{
+  "symbol": "dhr",
+  "name": "Danaher Corporation",
+  "ipoYear": null,
+  "sector": "Capital Goods",
+  "industry": "Industrial Machinery/Components",
+  "exchange": "nyse",
+  "category": "INDUSTRIAL INSTRUMENTS FOR MEASUREMENT, DISPLAY, AND CONTROL",
+  "address": {
+    "street1": "2200 PENNSYLVANIA AVE. N.W.",
+    "city": "WASHINGTON",
+    "state": "DC",
+    "zip": "20037-1701"
+  },
+  "profit": {
+    "2009": 1151704000,
+    "2010": 1793000000,
+    "2011": 2172300000,
+    "2012": 2392200000,
+    "2013": 2695000000
+  },
+  "cash": {
+    "2009": 1721900000,
+    "2010": 1633000000,
+    "2011": 537000000,
+    "2012": 1678700000,
+    "2013": 3115200000
+  },
+  "earningsPerShare": {
+    "2009": 1.8,
+    "2010": 2.74,
+    "2011": 3.21,
+    "2012": 3.45,
+    "2013": 3.87
+  },
+  "htmlUrl": "http://www.sec.gov/Archives/edgar/data/313616/000031361614000023/0000313616-14-000023-index.htm",
+  "xmlUrl": "http://www.sec.gov/Archives/edgar/data/313616/000031361614000023/dhr-20131231.xml"
+}

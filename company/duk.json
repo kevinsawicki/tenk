@@ -1,0 +1,38 @@
+{
+  "symbol": "duk",
+  "name": "Duke Energy Corporation",
+  "ipoYear": null,
+  "sector": "Public Utilities",
+  "industry": "Power Generation",
+  "exchange": "nyse",
+  "category": "ELECTRIC &amp;amp; OTHER SERVICES COMBINED",
+  "address": {
+    "street1": "550 SOUTH TRYON STREET",
+    "city": "CHARLOTTE",
+    "state": "NC",
+    "zip": "28202"
+  },
+  "profit": {
+    "2009": 1075000000,
+    "2010": 1320000000,
+    "2011": 1706000000,
+    "2012": 1768000000,
+    "2013": 2665000000
+  },
+  "cash": {
+    "2009": 1542000000,
+    "2010": 1670000000,
+    "2011": 2110000000,
+    "2012": 1424000000,
+    "2013": 1501000000
+  },
+  "earningsPerShare": {
+    "2009": 0.83,
+    "2010": 3,
+    "2011": 3.83,
+    "2012": 3.07,
+    "2013": 3.77
+  },
+  "htmlUrl": "http://www.sec.gov/Archives/edgar/data/1326160/000132616014000003/0001326160-14-000003-index.htm",
+  "xmlUrl": "http://www.sec.gov/Archives/edgar/data/17797/000132616014000003/duk-20131231.xml"
+}

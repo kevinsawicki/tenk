@@ -1,0 +1,38 @@
+{
+  "symbol": "cbs",
+  "name": "CBS Corporation",
+  "ipoYear": null,
+  "sector": "Consumer Services",
+  "industry": "Broadcasting",
+  "exchange": "nyse",
+  "category": "TELEVISION BROADCASTING STATIONS",
+  "address": {
+    "street1": "51 WEST 52ND STREET",
+    "city": "NEW YORK",
+    "state": "NY",
+    "zip": "10019"
+  },
+  "profit": {
+    "2009": 227000000,
+    "2010": 822000000,
+    "2011": 1391000000,
+    "2012": 1634000000,
+    "2013": 1873000000
+  },
+  "cash": {
+    "2009": 717000000,
+    "2010": 480000000,
+    "2011": 660000000,
+    "2012": 708000000,
+    "2013": 397000000
+  },
+  "earningsPerShare": {
+    "2009": 0.34,
+    "2010": 1.07,
+    "2011": 1.97,
+    "2012": 2.45,
+    "2013": 3.09
+  },
+  "htmlUrl": "http://www.sec.gov/Archives/edgar/data/813828/000104746914000934/0001047469-14-000934-index.htm",
+  "xmlUrl": "http://www.sec.gov/Archives/edgar/data/813828/000104746914000934/cbs-20131231.xml"
+}

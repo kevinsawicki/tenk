@@ -1,0 +1,41 @@
+{
+  "symbol": "emr",
+  "name": "Emerson Electric Company",
+  "ipoYear": null,
+  "sector": "Energy",
+  "industry": "Consumer Electronics/Appliances",
+  "exchange": "nyse",
+  "category": "ELECTRONIC &amp;amp; OTHER ELECTRICAL EQUIPMENT (NO COMPUTER EQUIP)",
+  "address": {
+    "street1": "8000 W FLORISSANT AVE",
+    "city": "ST LOUIS",
+    "state": "MO",
+    "zip": "63136"
+  },
+  "profit": {
+    "2009": 1724000000,
+    "2010": 2164000000,
+    "2011": 2480000000,
+    "2012": 1968000000,
+    "2013": 2004000000,
+    "2014": 2147000000
+  },
+  "cash": {
+    "2009": 1560000000,
+    "2010": 1592000000,
+    "2011": 2052000000,
+    "2012": 2367000000,
+    "2013": 3275000000,
+    "2014": 3149000000
+  },
+  "earningsPerShare": {
+    "2009": 2.29,
+    "2010": 2.87,
+    "2011": 3.29,
+    "2012": 2.68,
+    "2013": 2.78,
+    "2014": 3.05
+  },
+  "htmlUrl": "http://www.sec.gov/Archives/edgar/data/32604/000003260414000048/0000032604-14-000048-index.htm",
+  "xmlUrl": "http://www.sec.gov/Archives/edgar/data/32604/000003260414000048/emr-20140930.xml"
+}

@@ -1,0 +1,38 @@
+{
+  "symbol": "dd",
+  "name": "E.I. du Pont de Nemours and Company",
+  "ipoYear": null,
+  "sector": "Basic Industries",
+  "industry": "Major Chemicals",
+  "exchange": "nyse",
+  "category": "PLASTIC MATERIAL, SYNTH RESIN/RUBBER, CELLULOS (NO GLASS)",
+  "address": {
+    "street1": "1007 MARKET ST",
+    "city": "WILMINGTON",
+    "state": "DE",
+    "zip": "19898"
+  },
+  "profit": {
+    "2009": 1755000000,
+    "2010": 3031000000,
+    "2011": 3559000000,
+    "2012": 2755000000,
+    "2013": 4848000000
+  },
+  "cash": {
+    "2009": 4021000000,
+    "2010": 4263000000,
+    "2011": 3586000000,
+    "2012": 4284000000,
+    "2013": 8941000000
+  },
+  "earningsPerShare": {
+    "2009": 1.93,
+    "2010": 3.32,
+    "2011": 3.82,
+    "2012": 2.94,
+    "2013": 5.22
+  },
+  "htmlUrl": "http://www.sec.gov/Archives/edgar/data/30554/000003055414000002/0000030554-14-000002-index.htm",
+  "xmlUrl": "http://www.sec.gov/Archives/edgar/data/30554/000003055414000002/dd-20131231.xml"
+}

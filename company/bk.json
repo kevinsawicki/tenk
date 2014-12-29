@@ -1,0 +1,38 @@
+{
+  "symbol": "bk",
+  "name": "Bank Of New York Mellon Corporation (The)",
+  "ipoYear": null,
+  "sector": "Finance",
+  "industry": "Major Banks",
+  "exchange": "nyse",
+  "category": "STATE COMMERCIAL BANKS",
+  "address": {
+    "street1": "ONE WALL STREET, 31ST FLOOR",
+    "city": "NEW YORK",
+    "state": "NY",
+    "zip": "10286"
+  },
+  "profit": {
+    "2009": -1367000000,
+    "2010": 2518000000,
+    "2011": 2516000000,
+    "2012": 2445000000,
+    "2013": 2111000000
+  },
+  "cash": {
+    "2009": 3732000000,
+    "2010": 3675000000,
+    "2011": 4175000000,
+    "2012": 4727000000,
+    "2013": 6460000000
+  },
+  "earningsPerShare": {
+    "2009": -1.16,
+    "2010": 2.06,
+    "2011": 2.03,
+    "2012": 2.04,
+    "2013": 1.75
+  },
+  "htmlUrl": "http://www.sec.gov/Archives/edgar/data/1390777/000144530514000745/0001445305-14-000745-index.htm",
+  "xmlUrl": "http://www.sec.gov/Archives/edgar/data/1390777/000144530514000745/bk-20131231.xml"
+}

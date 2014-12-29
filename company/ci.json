@@ -1,0 +1,38 @@
+{
+  "symbol": "ci",
+  "name": "Cigna Corporation",
+  "ipoYear": null,
+  "sector": "Health Care",
+  "industry": "Medical Specialities",
+  "exchange": "nyse",
+  "category": "HOSPITAL &amp;amp; MEDICAL SERVICE PLANS",
+  "address": {
+    "street1": "900 COTTAGE GROVE ROAD",
+    "city": "BLOOMFIELD",
+    "state": "CT",
+    "zip": "06002"
+  },
+  "profit": {
+    "2009": 1302000000,
+    "2010": 1279000000,
+    "2011": 1260000000,
+    "2012": 1623000000,
+    "2013": 1476000000
+  },
+  "cash": {
+    "2009": 924000000,
+    "2010": 1605000000,
+    "2011": 4690000000,
+    "2012": 2978000000,
+    "2013": 2795000000
+  },
+  "earningsPerShare": {
+    "2009": 4.75,
+    "2010": 4.69,
+    "2011": 4.65,
+    "2012": 5.7,
+    "2013": 5.28
+  },
+  "htmlUrl": "http://www.sec.gov/Archives/edgar/data/701221/000104746914001502/0001047469-14-001502-index.htm",
+  "xmlUrl": "http://www.sec.gov/Archives/edgar/data/701221/000104746914001502/ci-20131231.xml"
+}
