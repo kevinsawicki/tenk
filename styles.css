@@ -16,6 +16,10 @@
   height: 160px;
 }
 
+.container-fluid {
+  padding: 0;
+}
+
 .navbar-icon {
   background-image: url("/dime.png");
   background-position: left top;
