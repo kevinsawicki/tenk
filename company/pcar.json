@@ -1,0 +1,38 @@
+{
+  "symbol": "pcar",
+  "name": "PACCAR Inc.",
+  "ipoYear": null,
+  "sector": "Capital Goods",
+  "industry": "Auto Manufacturing",
+  "exchange": "nasdaq",
+  "category": "MOTOR VEHICLES &amp;amp; PASSENGER CAR BODIES",
+  "address": {
+    "street1": "PACCAR BUILDING",
+    "city": "BELLEVUE",
+    "state": "WA",
+    "zip": "98004"
+  },
+  "profit": {
+    "2009": 111900000,
+    "2010": 457600000,
+    "2011": 1042300000,
+    "2012": 1111600000,
+    "2013": 1171300000
+  },
+  "cash": {
+    "2009": 1912000000,
+    "2010": 2040800000,
+    "2011": 2106700000,
+    "2012": 1272400000,
+    "2013": 1750100000
+  },
+  "earningsPerShare": {
+    "2009": 0.31,
+    "2010": 1.25,
+    "2011": 2.87,
+    "2012": 3.13,
+    "2013": 3.31
+  },
+  "htmlUrl": "http://www.sec.gov/Archives/edgar/data/75362/000119312514073103/0001193125-14-073103-index.htm",
+  "xmlUrl": "http://www.sec.gov/Archives/edgar/data/75362/000119312514073103/pcar-20131231.xml"
+}

@@ -1,0 +1,36 @@
+{
+  "symbol": "krft",
+  "name": "Kraft Foods Group, Inc.",
+  "ipoYear": null,
+  "sector": "Consumer Non-Durables",
+  "industry": "Packaged Foods",
+  "exchange": "nasdaq",
+  "category": "FOOD &amp;amp; KINDRED PRODUCTS",
+  "address": {
+    "street1": "THREE LAKES DRIVE",
+    "city": "NORTHFIELD",
+    "state": "IL",
+    "zip": "60093"
+  },
+  "profit": {
+    "2010": 3534000000,
+    "2011": 1775000000,
+    "2012": 1642000000,
+    "2013": 2715000000
+  },
+  "cash": {
+    "2009": 2000000,
+    "2010": 2000000,
+    "2011": 0,
+    "2012": 1255000000,
+    "2013": 1686000000
+  },
+  "earningsPerShare": {
+    "2010": 5.98,
+    "2011": 3,
+    "2012": 2.77,
+    "2013": 4.55
+  },
+  "htmlUrl": "http://www.sec.gov/Archives/edgar/data/1545158/000154515814000003/0001545158-14-000003-index.htm",
+  "xmlUrl": "http://www.sec.gov/Archives/edgar/data/1545158/000154515814000003/krft-20131228.xml"
+}

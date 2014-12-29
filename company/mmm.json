@@ -1,0 +1,38 @@
+{
+  "symbol": "mmm",
+  "name": "3M Company",
+  "ipoYear": null,
+  "sector": "Health Care",
+  "industry": "Medical/Dental Instruments",
+  "exchange": "nyse",
+  "category": "SURGICAL &amp;amp; MEDICAL INSTRUMENTS &amp;amp; APPARATUS",
+  "address": {
+    "street1": "3M CENTER",
+    "city": "ST PAUL",
+    "state": "MN",
+    "zip": "55144-1000"
+  },
+  "profit": {
+    "2009": 3193000000,
+    "2010": 4085000000,
+    "2011": 4283000000,
+    "2012": 4444000000,
+    "2013": 4659000000
+  },
+  "cash": {
+    "2009": 3040000000,
+    "2010": 3377000000,
+    "2011": 2219000000,
+    "2012": 2883000000,
+    "2013": 2581000000
+  },
+  "earningsPerShare": {
+    "2009": 4.56,
+    "2010": 5.72,
+    "2011": 6.05,
+    "2012": 6.4,
+    "2013": 6.83
+  },
+  "htmlUrl": "http://www.sec.gov/Archives/edgar/data/66740/000110465914009773/0001104659-14-009773-index.htm",
+  "xmlUrl": "http://www.sec.gov/Archives/edgar/data/66740/000110465914009773/mmm-20131231.xml"
+}

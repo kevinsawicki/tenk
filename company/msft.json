@@ -1,0 +1,41 @@
+{
+  "symbol": "msft",
+  "name": "Microsoft Corporation",
+  "ipoYear": 1986,
+  "sector": "Technology",
+  "industry": "Computer Software: Prepackaged Software",
+  "exchange": "nasdaq",
+  "category": "SERVICES-PREPACKAGED SOFTWARE",
+  "address": {
+    "street1": "ONE MICROSOFT WAY",
+    "city": "REDMOND",
+    "state": "WA",
+    "zip": "98052-6399"
+  },
+  "profit": {
+    "2009": 14569000000,
+    "2010": 18760000000,
+    "2011": 23150000000,
+    "2012": 16978000000,
+    "2013": 21863000000,
+    "2014": 22074000000
+  },
+  "cash": {
+    "2009": 6076000000,
+    "2010": 5505000000,
+    "2011": 9610000000,
+    "2012": 6938000000,
+    "2013": 3804000000,
+    "2014": 8669000000
+  },
+  "earningsPerShare": {
+    "2009": 1.63,
+    "2010": 2.13,
+    "2011": 2.73,
+    "2012": 2.02,
+    "2013": 2.61,
+    "2014": 2.66
+  },
+  "htmlUrl": "http://www.sec.gov/Archives/edgar/data/789019/000119312514289961/0001193125-14-289961-index.htm",
+  "xmlUrl": "http://www.sec.gov/Archives/edgar/data/789019/000119312514289961/msft-20140630.xml"
+}

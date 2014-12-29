@@ -1,0 +1,38 @@
+{
+  "symbol": "gt",
+  "name": "The Goodyear Tire & Rubber Company",
+  "ipoYear": null,
+  "sector": "Consumer Durables",
+  "industry": "Automotive Aftermarket",
+  "exchange": "nasdaq",
+  "category": "TIRES AND INNER TUBES",
+  "address": {
+    "street1": "1144 E MARKET ST",
+    "city": "AKRON",
+    "state": "OH",
+    "zip": "44316"
+  },
+  "profit": {
+    "2009": -375000000,
+    "2010": -216000000,
+    "2011": 343000000,
+    "2012": 212000000,
+    "2013": 629000000
+  },
+  "cash": {
+    "2009": 1922000000,
+    "2010": 2005000000,
+    "2011": 2772000000,
+    "2012": 2281000000,
+    "2013": 2996000000
+  },
+  "earningsPerShare": {
+    "2009": -1.55,
+    "2010": -0.89,
+    "2011": 1.32,
+    "2012": 0.75,
+    "2013": 2.44
+  },
+  "htmlUrl": "http://www.sec.gov/Archives/edgar/data/42582/000095012314002054/0000950123-14-002054-index.htm",
+  "xmlUrl": "http://www.sec.gov/Archives/edgar/data/42582/000095012314002054/gt-20131231.xml"
+}

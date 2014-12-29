@@ -1,0 +1,38 @@
+{
+  "symbol": "mdlz",
+  "name": "Mondelez International, Inc.",
+  "ipoYear": null,
+  "sector": "Consumer Non-Durables",
+  "industry": "Packaged Foods",
+  "exchange": "nasdaq",
+  "category": "FOOD &amp;amp; KINDRED PRODUCTS",
+  "address": {
+    "street1": "THREE PARKWAY NORTH",
+    "city": "DEERFIELD",
+    "state": "IL",
+    "zip": "60015"
+  },
+  "profit": {
+    "2009": 3021000000,
+    "2010": 4114000000,
+    "2011": 3554000000,
+    "2012": 3067000000,
+    "2013": 3915000000
+  },
+  "cash": {
+    "2009": 2101000000,
+    "2010": 2481000000,
+    "2011": 1974000000,
+    "2012": 4475000000,
+    "2013": 2664000000
+  },
+  "earningsPerShare": {
+    "2009": 2.04,
+    "2010": 2.4,
+    "2011": 2.01,
+    "2012": 1.73,
+    "2013": 2.21
+  },
+  "htmlUrl": "http://www.sec.gov/Archives/edgar/data/1103982/000119312514079175/0001193125-14-079175-index.htm",
+  "xmlUrl": "http://www.sec.gov/Archives/edgar/data/1103982/000119312514079175/mdlz-20131231.xml"
+}

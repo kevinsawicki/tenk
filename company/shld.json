@@ -1,0 +1,41 @@
+{
+  "symbol": "shld",
+  "name": "Sears Holdings Corporation",
+  "ipoYear": null,
+  "sector": "Consumer Services",
+  "industry": "Department/Specialty Retail Stores",
+  "exchange": "nasdaq",
+  "category": "RETAIL-DEPARTMENT STORES",
+  "address": {
+    "street1": "3333 BEVERLY ROAD",
+    "city": "HOFFMAN ESTATES",
+    "state": "IL",
+    "zip": "60179"
+  },
+  "profit": {
+    "2009": 53000000,
+    "2010": 235000000,
+    "2011": 133000000,
+    "2012": -3140000000,
+    "2013": -930000000,
+    "2014": -1365000000
+  },
+  "cash": {
+    "2009": 1359000000,
+    "2010": 0,
+    "2011": 140000000,
+    "2012": 747000000,
+    "2013": 609000000,
+    "2014": 1028000000
+  },
+  "earningsPerShare": {
+    "2009": 0.42,
+    "2010": 1.99,
+    "2011": 1.19,
+    "2012": -29.4,
+    "2013": -8.78,
+    "2014": -12.87
+  },
+  "htmlUrl": "http://www.sec.gov/Archives/edgar/data/1310067/000131006714000007/0001310067-14-000007-index.htm",
+  "xmlUrl": "http://www.sec.gov/Archives/edgar/data/1310067/000131006714000007/shld-20140201.xml"
+}

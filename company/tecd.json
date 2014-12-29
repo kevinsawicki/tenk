@@ -1,0 +1,41 @@
+{
+  "symbol": "tecd",
+  "name": "Tech Data Corporation",
+  "ipoYear": 1986,
+  "sector": "Technology",
+  "industry": "Retail: Computer Software & Peripheral Equipment",
+  "exchange": "nasdaq",
+  "category": "WHOLESALE-COMPUTER &amp;amp; PERIPHERAL EQUIPMENT &amp;amp; SOFTWARE",
+  "address": {
+    "street1": "5350 TECH DATA DR",
+    "city": "CLEARWATER",
+    "state": "FL",
+    "zip": "33760"
+  },
+  "profit": {
+    "2009": 117278000,
+    "2010": 180155000,
+    "2011": 208372000,
+    "2012": 190750000,
+    "2013": 176255000,
+    "2014": 179932000
+  },
+  "cash": {
+    "2009": 402822000,
+    "2010": 927431000,
+    "2011": 722598000,
+    "2012": 486262000,
+    "2013": 340564000,
+    "2014": 570101000
+  },
+  "earningsPerShare": {
+    "2009": 2.29,
+    "2010": 3.57,
+    "2011": 4.29,
+    "2012": 4.36,
+    "2013": 4.53,
+    "2014": 4.73
+  },
+  "htmlUrl": "http://www.sec.gov/Archives/edgar/data/790703/000079070314000027/0000790703-14-000027-index.htm",
+  "xmlUrl": "http://www.sec.gov/Archives/edgar/data/790703/000079070314000027/tecd-20140131.xml"
+}

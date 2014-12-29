@@ -1,0 +1,40 @@
+{
+  "symbol": "intl",
+  "name": "INTL FCStone Inc.",
+  "ipoYear": null,
+  "sector": "Finance",
+  "industry": "Investment Bankers/Brokers/Service",
+  "exchange": "nasdaq",
+  "address": {
+    "street1": "708 THIRD AVENUE",
+    "city": "NEW YORK",
+    "state": "NY",
+    "zip": "10017"
+  },
+  "profit": {
+    "2009": 27600000,
+    "2010": 5400000,
+    "2011": 34800000,
+    "2012": 12800000,
+    "2013": 19300000,
+    "2014": 19300000
+  },
+  "cash": {
+    "2009": 60500000,
+    "2010": 81900000,
+    "2011": 220600000,
+    "2012": 236300000,
+    "2013": 156100000,
+    "2014": 231300000
+  },
+  "earningsPerShare": {
+    "2009": 3.11,
+    "2010": 0.31,
+    "2011": 1.93,
+    "2012": 0.67,
+    "2013": 1.01,
+    "2014": 1.01
+  },
+  "htmlUrl": "http://www.sec.gov/Archives/edgar/data/913760/000091376014000155/0000913760-14-000155-index.htm",
+  "xmlUrl": "http://www.sec.gov/Archives/edgar/data/913760/000091376014000155/intl-20140930.xml"
+}

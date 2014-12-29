@@ -1,0 +1,33 @@
+{
+  "symbol": "abbv",
+  "name": "AbbVie Inc.",
+  "ipoYear": 2012,
+  "sector": "Health Care",
+  "industry": "Major Pharmaceuticals",
+  "exchange": "nyse",
+  "category": "PHARMACEUTICAL PREPARATIONS",
+  "address": {
+    "street1": "1 NORTH WAUKEGAN ROAD",
+    "city": "NORTH CHICAGO",
+    "state": "IL",
+    "zip": "60064"
+  },
+  "profit": {
+    "2011": 3433000000,
+    "2012": 5275000000,
+    "2013": 4128000000
+  },
+  "cash": {
+    "2010": 10000000,
+    "2011": 27000000,
+    "2012": 5901000000,
+    "2013": 9595000000
+  },
+  "earningsPerShare": {
+    "2011": 2.18,
+    "2012": 3.35,
+    "2013": 2.58
+  },
+  "htmlUrl": "http://www.sec.gov/Archives/edgar/data/1551152/000104746914001154/0001047469-14-001154-index.htm",
+  "xmlUrl": "http://www.sec.gov/Archives/edgar/data/1551152/000104746914001154/abbv-20131231.xml"
+}

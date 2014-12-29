@@ -1,0 +1,39 @@
+{
+  "symbol": "foxa",
+  "name": "Twenty-First Century Fox, Inc.",
+  "ipoYear": null,
+  "sector": "Consumer Services",
+  "industry": "Television Services",
+  "exchange": "nasdaq",
+  "category": "CABLE &amp;amp; OTHER PAY TELEVISION SERVICES",
+  "address": {
+    "street1": "1211 AVENUE OF THE AMERICAS",
+    "city": "NEW YORK",
+    "state": "NY",
+    "zip": "10036"
+  },
+  "profit": {
+    "2009": -3378000000,
+    "2010": 2539000000,
+    "2011": 2739000000,
+    "2012": 1179000000,
+    "2013": 7097000000,
+    "2014": 4514000000
+  },
+  "cash": {
+    "2009": 6540000000,
+    "2010": 8709000000,
+    "2011": 12680000000,
+    "2012": 9626000000,
+    "2013": 6659000000,
+    "2014": 5415000000
+  },
+  "earningsPerShare": {
+    "2009": -1.29,
+    "2010": 0.97,
+    "2011": 1.04,
+    "2012": 0.47
+  },
+  "htmlUrl": "http://www.sec.gov/Archives/edgar/data/1308161/000156459014003642/0001564590-14-003642-index.htm",
+  "xmlUrl": "http://www.sec.gov/Archives/edgar/data/1308161/000156459014003642/fox-20140630.xml"
+}

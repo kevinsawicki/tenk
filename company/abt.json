@@ -1,0 +1,38 @@
+{
+  "symbol": "abt",
+  "name": "Abbott Laboratories",
+  "ipoYear": null,
+  "sector": "Health Care",
+  "industry": "Major Pharmaceuticals",
+  "exchange": "nyse",
+  "category": "PHARMACEUTICAL PREPARATIONS",
+  "address": {
+    "street1": "100 ABBOTT PARK ROAD",
+    "city": "ABBOTT PARK",
+    "state": "IL",
+    "zip": "60064-3500"
+  },
+  "profit": {
+    "2009": 5745838000,
+    "2010": 4626172000,
+    "2011": 4728000000,
+    "2012": 5963000000,
+    "2013": 2576000000
+  },
+  "cash": {
+    "2009": 8809339000,
+    "2010": 3648000000,
+    "2011": 6813000000,
+    "2012": 10802000000,
+    "2013": 3475000000
+  },
+  "earningsPerShare": {
+    "2009": 3.71,
+    "2010": 2.98,
+    "2011": 3.03,
+    "2012": 3.76,
+    "2013": 1.64
+  },
+  "htmlUrl": "http://www.sec.gov/Archives/edgar/data/1800/000104746914001176/0001047469-14-001176-index.htm",
+  "xmlUrl": "http://www.sec.gov/Archives/edgar/data/1800/000104746914001176/abt-20131231.xml"
+}

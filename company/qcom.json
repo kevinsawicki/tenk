@@ -1,0 +1,41 @@
+{
+  "symbol": "qcom",
+  "name": "QUALCOMM Incorporated",
+  "ipoYear": 1991,
+  "sector": "Technology",
+  "industry": "Radio And Television Broadcasting And Communications Equipment",
+  "exchange": "nasdaq",
+  "category": "RADIO &amp;amp; TV BROADCASTING &amp;amp; COMMUNICATIONS EQUIPMENT",
+  "address": {
+    "street1": "5775 MOREHOUSE DR",
+    "city": "SAN DIEGO",
+    "state": "CA",
+    "zip": "92121"
+  },
+  "profit": {
+    "2009": 1592000000,
+    "2010": 3247000000,
+    "2011": 4260000000,
+    "2012": 6109000000,
+    "2013": 6853000000,
+    "2014": 7967000000
+  },
+  "cash": {
+    "2009": 2717000000,
+    "2010": 3547000000,
+    "2011": 5462000000,
+    "2012": 3807000000,
+    "2013": 6142000000,
+    "2014": 7907000000
+  },
+  "earningsPerShare": {
+    "2009": 0.96,
+    "2010": 1.98,
+    "2011": 2.57,
+    "2012": 3.59,
+    "2013": 3.99,
+    "2014": 4.73
+  },
+  "htmlUrl": "http://www.sec.gov/Archives/edgar/data/804328/000123445214000320/0001234452-14-000320-index.htm",
+  "xmlUrl": "http://www.sec.gov/Archives/edgar/data/804328/000123445214000320/qcom-20140928.xml"
+}

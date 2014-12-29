@@ -1,0 +1,41 @@
+{
+  "symbol": "wdc",
+  "name": "Western Digital Corporation",
+  "ipoYear": null,
+  "sector": "Technology",
+  "industry": "Electronic Components",
+  "exchange": "nasdaq",
+  "category": "COMPUTER STORAGE DEVICES",
+  "address": {
+    "street1": "3355 MICHELSON DRIVE",
+    "city": "IRVINE",
+    "state": "CA",
+    "zip": "92612"
+  },
+  "profit": {
+    "2009": 470000000,
+    "2010": 1382000000,
+    "2011": 726000000,
+    "2012": 1612000000,
+    "2013": 980000000,
+    "2014": 1617000000
+  },
+  "cash": {
+    "2009": 1794000000,
+    "2010": 2734000000,
+    "2011": 3490000000,
+    "2012": 3208000000,
+    "2013": 4309000000,
+    "2014": 4804000000
+  },
+  "earningsPerShare": {
+    "2009": 2.12,
+    "2010": 6.06,
+    "2011": 3.14,
+    "2012": 6.69,
+    "2013": 4.07,
+    "2014": 6.88
+  },
+  "htmlUrl": "http://www.sec.gov/Archives/edgar/data/106040/000010604014000015/0000106040-14-000015-index.htm",
+  "xmlUrl": "http://www.sec.gov/Archives/edgar/data/106040/000010604014000015/wdc-20140627.xml"
+}

@@ -1,0 +1,41 @@
+{
+  "symbol": "spls",
+  "name": "Staples, Inc.",
+  "ipoYear": 1989,
+  "sector": "Consumer Services",
+  "industry": "Other Specialty Stores",
+  "exchange": "nasdaq",
+  "category": "RETAIL-MISCELLANEOUS SHOPPING GOODS STORES",
+  "address": {
+    "street1": "500 STAPLES DRIVE",
+    "city": "FRAMINGHAM",
+    "state": "MA",
+    "zip": "01702"
+  },
+  "profit": {
+    "2009": 805264000,
+    "2010": 738671000,
+    "2011": 881948000,
+    "2012": 984656000,
+    "2013": -210706000,
+    "2014": 620069000
+  },
+  "cash": {
+    "2009": 633774000,
+    "2010": 1415819000,
+    "2011": 1461257000,
+    "2012": 1264149000,
+    "2013": 1334302000,
+    "2014": 501105000
+  },
+  "earningsPerShare": {
+    "2009": 1.15,
+    "2010": 1.04,
+    "2011": 1.23,
+    "2012": 1.42,
+    "2013": -0.31,
+    "2014": 0.95
+  },
+  "htmlUrl": "http://www.sec.gov/Archives/edgar/data/791519/000079151914000007/0000791519-14-000007-index.htm",
+  "xmlUrl": "http://www.sec.gov/Archives/edgar/data/791519/000079151914000007/spls-20140201.xml"
+}
