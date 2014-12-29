@@ -20,8 +20,7 @@ readCompany = (symbolPath, callback) ->
 
     symbol = path.basename(symbolPath, path.extname(symbolPath))
     company = JSON.parse(contents)
-    company.humanizedCash = Humanize.compactInteger(company.cash?[2013] ? 0, 1)
-    company.humanizedName = company.name?.replace(/,?\s+(inc\.?|company|corp(oration)?|group)$/i, '')
+    company.humanizedName = company.name?.replace(/,?\s+(inc\.?|company|corp(oration)?|group)\s*$/i, '')
     companies.push(company)
     callback()
 
