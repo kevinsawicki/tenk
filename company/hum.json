@@ -1,0 +1,38 @@
+{
+  "symbol": "hum",
+  "name": "Humana Inc.",
+  "ipoYear": null,
+  "sector": "Health Care",
+  "industry": "Medical Specialities",
+  "exchange": "nyse",
+  "category": "HOSPITAL &amp;amp; MEDICAL SERVICE PLANS",
+  "address": {
+    "street1": "500 W MAIN ST",
+    "city": "LOUISVILLE",
+    "state": "KY",
+    "zip": "40202"
+  },
+  "profit": {
+    "2009": 1040000000,
+    "2010": 1099000000,
+    "2011": 1419000000,
+    "2012": 1222000000,
+    "2013": 1231000000
+  },
+  "cash": {
+    "2009": 1613000000,
+    "2010": 1673000000,
+    "2011": 1377000000,
+    "2012": 1306000000,
+    "2013": 1138000000
+  },
+  "earningsPerShare": {
+    "2009": 6.21,
+    "2010": 6.55,
+    "2011": 8.58,
+    "2012": 7.56,
+    "2013": 7.81
+  },
+  "htmlUrl": "http://www.sec.gov/Archives/edgar/data/49071/000119312514058508/0001193125-14-058508-index.htm",
+  "xmlUrl": "http://www.sec.gov/Archives/edgar/data/49071/000119312514058508/hum-20131231.xml"
+}

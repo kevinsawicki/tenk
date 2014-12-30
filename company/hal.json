@@ -1,0 +1,38 @@
+{
+  "symbol": "hal",
+  "name": "Halliburton Company",
+  "ipoYear": null,
+  "sector": "Energy",
+  "industry": "Oilfield Services/Equipment",
+  "exchange": "nyse",
+  "category": "OIL, GAS FIELD SERVICES, NBC",
+  "address": {
+    "street1": "3000 NORTH SAM HOUSTON PARKWAY EAST",
+    "city": "HOUSTON",
+    "state": "TX",
+    "zip": "77032"
+  },
+  "profit": {
+    "2009": 1145000000,
+    "2010": 1835000000,
+    "2011": 2839000000,
+    "2012": 2635000000,
+    "2013": 2125000000
+  },
+  "cash": {
+    "2009": 2082000000,
+    "2010": 1398000000,
+    "2011": 2698000000,
+    "2012": 2484000000,
+    "2013": 2356000000
+  },
+  "earningsPerShare": {
+    "2009": 1.27,
+    "2010": 2.02,
+    "2011": 3.09,
+    "2012": 2.85,
+    "2013": 2.37
+  },
+  "htmlUrl": "http://www.sec.gov/Archives/edgar/data/45012/000004501214000069/0000045012-14-000069-index.htm",
+  "xmlUrl": "http://www.sec.gov/Archives/edgar/data/45012/000004501214000069/hal-20131231.xml"
+}

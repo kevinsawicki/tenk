@@ -1,0 +1,38 @@
+{
+  "symbol": "fcx",
+  "name": "Freeport-McMoran, Inc.",
+  "ipoYear": null,
+  "sector": "Basic Industries",
+  "industry": "Precious Metals",
+  "exchange": "nyse",
+  "category": "METAL MINING",
+  "address": {
+    "street1": "333 NORTH CENTRAL AVENUE",
+    "city": "PHOENIX",
+    "state": "AZ",
+    "zip": "85004"
+  },
+  "profit": {
+    "2009": 2527000000,
+    "2010": 4273000000,
+    "2011": 4560000000,
+    "2012": 3041000000,
+    "2013": 2658000000
+  },
+  "cash": {
+    "2009": 3738000000,
+    "2010": 4822000000,
+    "2011": 4822000000,
+    "2012": 3705000000,
+    "2013": 1985000000
+  },
+  "earningsPerShare": {
+    "2009": 3.05,
+    "2010": 4.67,
+    "2011": 4.81,
+    "2012": 3.2,
+    "2013": 2.65
+  },
+  "htmlUrl": "http://www.sec.gov/Archives/edgar/data/831259/000083125914000006/0000831259-14-000006-index.htm",
+  "xmlUrl": "http://www.sec.gov/Archives/edgar/data/831259/000083125914000006/fcx-20131231.xml"
+}

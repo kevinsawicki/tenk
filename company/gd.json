@@ -1,0 +1,38 @@
+{
+  "symbol": "gd",
+  "name": "General Dynamics Corporation",
+  "ipoYear": null,
+  "sector": "Capital Goods",
+  "industry": "Marine Transportation",
+  "exchange": "nyse",
+  "category": "SHIP &amp;amp; BOAT BUILDING &amp;amp; REPAIRING",
+  "address": {
+    "street1": "2941 FAIRVIEW PARK DRIVE",
+    "city": "FALLS CHURCH",
+    "state": "VA",
+    "zip": "22042-4513"
+  },
+  "profit": {
+    "2009": 2394000000,
+    "2010": 2624000000,
+    "2011": 2526000000,
+    "2012": -332000000,
+    "2013": 2357000000
+  },
+  "cash": {
+    "2009": 2263000000,
+    "2010": 2613000000,
+    "2011": 2649000000,
+    "2012": 3296000000,
+    "2013": 5301000000
+  },
+  "earningsPerShare": {
+    "2009": 6.21,
+    "2010": 6.88,
+    "2011": 6.94,
+    "2012": -0.94,
+    "2013": 6.72
+  },
+  "htmlUrl": "http://www.sec.gov/Archives/edgar/data/40533/000004053314000002/0000040533-14-000002-index.htm",
+  "xmlUrl": "http://www.sec.gov/Archives/edgar/data/40533/000004053314000002/gd-20131231.xml"
+}

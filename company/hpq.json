@@ -1,0 +1,41 @@
+{
+  "symbol": "hpq",
+  "name": "Hewlett-Packard Company",
+  "ipoYear": null,
+  "sector": "Technology",
+  "industry": "Computer Manufacturing",
+  "exchange": "nyse",
+  "category": "COMPUTER &amp;amp; OFFICE EQUIPMENT",
+  "address": {
+    "street1": "3000 HANOVER ST",
+    "city": "PALO ALTO",
+    "state": "CA",
+    "zip": "94304"
+  },
+  "profit": {
+    "2009": 7660000000,
+    "2010": 8761000000,
+    "2011": 7074000000,
+    "2012": -12650000000,
+    "2013": 5113000000,
+    "2014": 5013000000
+  },
+  "cash": {
+    "2009": 13279000000,
+    "2010": 10929000000,
+    "2011": 8043000000,
+    "2012": 11301000000,
+    "2013": 12163000000,
+    "2014": 15133000000
+  },
+  "earningsPerShare": {
+    "2009": 3.21,
+    "2010": 3.78,
+    "2011": 3.38,
+    "2012": -6.41,
+    "2013": 2.64,
+    "2014": 2.66
+  },
+  "htmlUrl": "http://www.sec.gov/Archives/edgar/data/47217/000104746914009977/0001047469-14-009977-index.htm",
+  "xmlUrl": "http://www.sec.gov/Archives/edgar/data/47217/000104746914009977/hpq-20141031.xml"
+}

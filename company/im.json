@@ -1,0 +1,38 @@
+{
+  "symbol": "im",
+  "name": "Ingram Micro Inc.",
+  "ipoYear": 1996,
+  "sector": "Technology",
+  "industry": "Retail: Computer Software & Peripheral Equipment",
+  "exchange": "nyse",
+  "category": "WHOLESALE-COMPUTER &amp;amp; PERIPHERAL EQUIPMENT &amp;amp; SOFTWARE",
+  "address": {
+    "street1": "1600 E ST ANDREW PLACE",
+    "city": "SANTA ANA",
+    "state": "CA",
+    "zip": "92799"
+  },
+  "profit": {
+    "2009": -394921000,
+    "2010": 318060000,
+    "2011": 244240000,
+    "2012": 305909000,
+    "2013": 310583000
+  },
+  "cash": {
+    "2009": 763495000,
+    "2010": 1155551000,
+    "2011": 891403000,
+    "2012": 595147000,
+    "2013": 674390000
+  },
+  "earningsPerShare": {
+    "2009": -2.37,
+    "2010": 1.98,
+    "2011": 1.57,
+    "2012": 2.03,
+    "2013": 2.03
+  },
+  "htmlUrl": "http://www.sec.gov/Archives/edgar/data/1018003/000101800314000003/0001018003-14-000003-index.htm",
+  "xmlUrl": "http://www.sec.gov/Archives/edgar/data/1018003/000101800314000003/im-20131228.xml"
+}

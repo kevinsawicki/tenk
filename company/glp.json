@@ -1,0 +1,32 @@
+{
+  "symbol": "glp",
+  "name": "Global Partners LP",
+  "ipoYear": 2005,
+  "sector": "Energy",
+  "industry": "Oil Refining/Marketing",
+  "exchange": "nyse",
+  "category": "WHOLESALE-PETROLEUM BULK STATIONS &amp;amp; TERMINALS",
+  "address": {
+    "street1": "P.O. BOX 9161",
+    "city": "WALTHAM",
+    "state": "MA",
+    "zip": "02454"
+  },
+  "profit": {
+    "2009": 34134000,
+    "2010": 27038000,
+    "2011": 18668000,
+    "2012": 46743000,
+    "2013": 42615000
+  },
+  "cash": {
+    "2009": 662000,
+    "2010": 2361000,
+    "2011": 4328000,
+    "2012": 5977000,
+    "2013": 9217000
+  },
+  "earningsPerShare": {},
+  "htmlUrl": "http://www.sec.gov/Archives/edgar/data/1323468/000104746914003264/0001047469-14-003264-index.htm",
+  "xmlUrl": "http://www.sec.gov/Archives/edgar/data/1323468/000104746914003264/glp-20131231.xml"
+}

@@ -1,0 +1,38 @@
+{
+  "symbol": "f",
+  "name": "Ford Motor Company",
+  "ipoYear": null,
+  "sector": "Capital Goods",
+  "industry": "Auto Manufacturing",
+  "exchange": "nyse",
+  "category": "MOTOR VEHICLES &amp;amp; PASSENGER CAR BODIES",
+  "address": {
+    "street1": "ONE AMERICAN ROAD",
+    "city": "DEARBORN",
+    "state": "MI",
+    "zip": "48126"
+  },
+  "profit": {
+    "2009": 2717000000,
+    "2010": 6561000000,
+    "2011": 20213000000,
+    "2012": 5665000000,
+    "2013": 7155000000
+  },
+  "cash": {
+    "2009": 20894000000,
+    "2010": 14805000000,
+    "2011": 17148000000,
+    "2012": 15659000000,
+    "2013": 14468000000
+  },
+  "earningsPerShare": {
+    "2009": 0.91,
+    "2010": 1.9,
+    "2011": 5.33,
+    "2012": 1.48,
+    "2013": 1.82
+  },
+  "htmlUrl": "http://www.sec.gov/Archives/edgar/data/37996/000003799614000010/0000037996-14-000010-index.htm",
+  "xmlUrl": "http://www.sec.gov/Archives/edgar/data/37996/000003799614000010/f-20131231.xml"
+}

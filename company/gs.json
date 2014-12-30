@@ -1,0 +1,37 @@
+{
+  "symbol": "gs",
+  "name": "Goldman Sachs Group, Inc. (The)",
+  "ipoYear": 1999,
+  "sector": "Finance",
+  "industry": "Investment Bankers/Brokers/Service",
+  "exchange": "nyse",
+  "category": "SECURITY BROKERS, DEALERS &amp;amp; FLOTATION COMPANIES",
+  "address": {
+    "street1": "200 WEST STREET",
+    "city": "NEW YORK",
+    "state": "NY",
+    "zip": "10282"
+  },
+  "profit": {
+    "2009": 13385000000,
+    "2010": 8354000000,
+    "2011": 4442000000,
+    "2012": 7475000000,
+    "2013": 8040000000
+  },
+  "cash": {
+    "2010": 39788000000,
+    "2011": 56008000000,
+    "2012": 72669000000,
+    "2013": 61133000000
+  },
+  "earningsPerShare": {
+    "2009": 23.74,
+    "2010": 14.15,
+    "2011": 4.71,
+    "2012": 14.63,
+    "2013": 16.34
+  },
+  "htmlUrl": "http://www.sec.gov/Archives/edgar/data/886982/000119312514073792/0001193125-14-073792-index.htm",
+  "xmlUrl": "http://www.sec.gov/Archives/edgar/data/886982/000119312514073792/gs-20131231.xml"
+}

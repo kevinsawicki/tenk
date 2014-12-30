@@ -1,0 +1,38 @@
+{
+  "symbol": "itw",
+  "name": "Illinois Tool Works Inc.",
+  "ipoYear": null,
+  "sector": "Technology",
+  "industry": "Industrial Machinery/Components",
+  "exchange": "nyse",
+  "category": "GENERAL INDUSTRIAL MACHINERY &amp;amp; EQUIPMENT",
+  "address": {
+    "street1": "3600 WEST LAKE AVE",
+    "city": "GLENVIEW",
+    "state": "IL",
+    "zip": "60026-1215"
+  },
+  "profit": {
+    "2009": 968638000,
+    "2010": 1452000000,
+    "2011": 1775000000,
+    "2012": 2233000000,
+    "2013": 1630000000
+  },
+  "cash": {
+    "2009": 1346000000,
+    "2010": 1186000000,
+    "2011": 1178000000,
+    "2012": 2779000000,
+    "2013": 3618000000
+  },
+  "earningsPerShare": {
+    "2009": 1.94,
+    "2010": 3,
+    "2011": 4.21,
+    "2012": 6.11,
+    "2013": 3.76
+  },
+  "htmlUrl": "http://www.sec.gov/Archives/edgar/data/49826/000004982614000022/0000049826-14-000022-index.htm",
+  "xmlUrl": "http://www.sec.gov/Archives/edgar/data/49826/000004982614000022/itw-20131231.xml"
+}

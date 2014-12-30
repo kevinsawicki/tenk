@@ -1,0 +1,41 @@
+{
+  "symbol": "gis",
+  "name": "General Mills, Inc.",
+  "ipoYear": null,
+  "sector": "Consumer Non-Durables",
+  "industry": "Packaged Foods",
+  "exchange": "nyse",
+  "category": "GRAIN MILL PRODUCTS",
+  "address": {
+    "street1": "NUMBER ONE GENERAL MILLS BLVD",
+    "city": "MINNEAPOLIS",
+    "state": "MN",
+    "zip": "55426"
+  },
+  "profit": {
+    "2009": 1304400000,
+    "2010": 1530500000,
+    "2011": 1798300000,
+    "2012": 1567300000,
+    "2013": 1855200000,
+    "2014": 1824400000
+  },
+  "cash": {
+    "2009": 749800000,
+    "2010": 673200000,
+    "2011": 619600000,
+    "2012": 471200000,
+    "2013": 26900000,
+    "2014": 27200000
+  },
+  "earningsPerShare": {
+    "2009": 1.96,
+    "2010": 2.32,
+    "2011": 2.8,
+    "2012": 2.42,
+    "2013": 2.86,
+    "2014": 2.9
+  },
+  "htmlUrl": "http://www.sec.gov/Archives/edgar/data/40704/000119312514260716/0001193125-14-260716-index.htm",
+  "xmlUrl": "http://www.sec.gov/Archives/edgar/data/40704/000119312514260716/gis-20140525.xml"
+}

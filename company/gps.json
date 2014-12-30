@@ -1,0 +1,41 @@
+{
+  "symbol": "gps",
+  "name": "Gap, Inc. (The)",
+  "ipoYear": null,
+  "sector": "Consumer Services",
+  "industry": "Clothing/Shoe/Accessory Stores",
+  "exchange": "nyse",
+  "category": "RETAIL-FAMILY CLOTHING STORES",
+  "address": {
+    "street1": "TWO FOLSOM STREET",
+    "city": "SAN FRANCISCO",
+    "state": "CA",
+    "zip": "94105"
+  },
+  "profit": {
+    "2009": 967000000,
+    "2010": 1102000000,
+    "2011": 1204000000,
+    "2012": 833000000,
+    "2013": 1135000000,
+    "2014": 1280000000
+  },
+  "cash": {
+    "2009": 1715000000,
+    "2010": 2348000000,
+    "2011": 1561000000,
+    "2012": 1885000000,
+    "2013": 1460000000,
+    "2014": 1510000000
+  },
+  "earningsPerShare": {
+    "2009": 1.35,
+    "2010": 1.59,
+    "2011": 1.89,
+    "2012": 1.57,
+    "2013": 2.35,
+    "2014": 2.78
+  },
+  "htmlUrl": "http://www.sec.gov/Archives/edgar/data/39911/000003991114000045/0000039911-14-000045-index.htm",
+  "xmlUrl": "http://www.sec.gov/Archives/edgar/data/39911/000003991114000045/gps-20140201.xml"
+}

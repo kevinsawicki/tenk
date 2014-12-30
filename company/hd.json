@@ -1,0 +1,41 @@
+{
+  "symbol": "hd",
+  "name": "Home Depot, Inc. (The)",
+  "ipoYear": null,
+  "sector": "Consumer Services",
+  "industry": "RETAIL: Building Materials",
+  "exchange": "nyse",
+  "category": "RETAIL-LUMBER &amp;amp; OTHER BUILDING MATERIALS DEALERS",
+  "address": {
+    "street1": "2455 PACES FERRY ROAD",
+    "city": "ATLANTA",
+    "state": "GA",
+    "zip": "30339-4024"
+  },
+  "profit": {
+    "2009": 2260000000,
+    "2010": 2661000000,
+    "2011": 3338000000,
+    "2012": 3883000000,
+    "2013": 4535000000,
+    "2014": 5385000000
+  },
+  "cash": {
+    "2009": 519000000,
+    "2010": 1421000000,
+    "2011": 545000000,
+    "2012": 1987000000,
+    "2013": 2494000000,
+    "2014": 1929000000
+  },
+  "earningsPerShare": {
+    "2009": 1.34,
+    "2010": 1.58,
+    "2011": 2.03,
+    "2012": 2.49,
+    "2013": 3.03,
+    "2014": 3.78
+  },
+  "htmlUrl": "http://www.sec.gov/Archives/edgar/data/354950/000035495014000008/0000354950-14-000008-index.htm",
+  "xmlUrl": "http://www.sec.gov/Archives/edgar/data/354950/000035495014000008/hd-20140202.xml"
+}

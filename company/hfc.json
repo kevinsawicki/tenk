@@ -1,0 +1,38 @@
+{
+  "symbol": "hfc",
+  "name": "HollyFrontier Corporation",
+  "ipoYear": null,
+  "sector": "Energy",
+  "industry": "Integrated oil Companies",
+  "exchange": "nyse",
+  "category": "PETROLEUM REFINING",
+  "address": {
+    "street1": "2828 N. HARWOOD",
+    "city": "DALLAS",
+    "state": "TX",
+    "zip": "75201"
+  },
+  "profit": {
+    "2009": 19533000,
+    "2010": 103964000,
+    "2011": 1023397000,
+    "2012": 1727172000,
+    "2013": 735842000
+  },
+  "cash": {
+    "2009": 124596000,
+    "2010": 229101000,
+    "2011": 1578904000,
+    "2012": 1757699000,
+    "2013": 940103000
+  },
+  "earningsPerShare": {
+    "2009": 0.2,
+    "2010": 0.98,
+    "2011": 6.46,
+    "2012": 8.41,
+    "2013": 3.66
+  },
+  "htmlUrl": "http://www.sec.gov/Archives/edgar/data/48039/000004803914000017/0000048039-14-000017-index.htm",
+  "xmlUrl": "http://www.sec.gov/Archives/edgar/data/48039/000004803914000017/hfc-20131231.xml"
+}

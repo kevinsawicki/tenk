@@ -1,0 +1,38 @@
+{
+  "symbol": "hes",
+  "name": "Hess Corporation",
+  "ipoYear": null,
+  "sector": "Energy",
+  "industry": "Integrated oil Companies",
+  "exchange": "nyse",
+  "category": "PETROLEUM REFINING",
+  "address": {
+    "street1": "1185 AVENUE OF THE AMERICAS",
+    "city": "NEW YORK",
+    "state": "NY",
+    "zip": "10036"
+  },
+  "profit": {
+    "2009": 740000000,
+    "2010": 2125000000,
+    "2011": 1703000000,
+    "2012": 2025000000,
+    "2013": 5052000000
+  },
+  "cash": {
+    "2009": 1362000000,
+    "2010": 1608000000,
+    "2011": 351000000,
+    "2012": 642000000,
+    "2013": 1814000000
+  },
+  "earningsPerShare": {
+    "2009": 2.28,
+    "2010": 6.52,
+    "2011": 5.05,
+    "2012": 5.98,
+    "2013": 15.01
+  },
+  "htmlUrl": "http://www.sec.gov/Archives/edgar/data/4447/000119312514077565/0001193125-14-077565-index.htm",
+  "xmlUrl": "http://www.sec.gov/Archives/edgar/data/4447/000119312514077565/hes-20131231.xml"
+}

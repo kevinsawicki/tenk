@@ -1,0 +1,38 @@
+{
+  "symbol": "hca",
+  "name": "HCA Holdings, Inc.",
+  "ipoYear": 2011,
+  "sector": "Health Care",
+  "industry": "Hospital/Nursing Management",
+  "exchange": "nyse",
+  "category": "SERVICES-GENERAL MEDICAL &amp;amp; SURGICAL HOSPITALS, NEC",
+  "address": {
+    "street1": "ONE PARK PLZ",
+    "city": "NASHVILLE",
+    "state": "TN",
+    "zip": "37203"
+  },
+  "profit": {
+    "2009": 1054000000,
+    "2010": 1207000000,
+    "2011": 2465000000,
+    "2012": 1605000000,
+    "2013": 1556000000
+  },
+  "cash": {
+    "2009": 312000000,
+    "2010": 411000000,
+    "2011": 373000000,
+    "2012": 705000000,
+    "2013": 414000000
+  },
+  "earningsPerShare": {
+    "2009": 2.48,
+    "2010": 2.83,
+    "2011": 5.17,
+    "2012": 3.65,
+    "2013": 3.5
+  },
+  "htmlUrl": "http://www.sec.gov/Archives/edgar/data/860730/000119312514070000/0001193125-14-070000-index.htm",
+  "xmlUrl": "http://www.sec.gov/Archives/edgar/data/860730/000119312514070000/hca-20131231.xml"
+}

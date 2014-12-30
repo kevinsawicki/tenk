@@ -1,0 +1,32 @@
+{
+  "symbol": "hig",
+  "name": "Hartford Financial Services Group, Inc. (The)",
+  "ipoYear": null,
+  "sector": "Finance",
+  "industry": "Property-Casualty Insurers",
+  "exchange": "nyse",
+  "category": "FIRE, MARINE &amp;amp; CASUALTY INSURANCE",
+  "address": {
+    "street1": "ONE HARTFORD PLAZA",
+    "city": "HARTFORD",
+    "state": "CT",
+    "zip": "06155"
+  },
+  "profit": {
+    "2009": -887000000,
+    "2010": 1636000000,
+    "2011": 712000000,
+    "2012": -38000000,
+    "2013": 176000000
+  },
+  "cash": {},
+  "earningsPerShare": {
+    "2009": -2.93,
+    "2010": 2.6,
+    "2011": 1.51,
+    "2012": -0.18,
+    "2013": 0.37
+  },
+  "htmlUrl": "http://www.sec.gov/Archives/edgar/data/874766/000087476614000007/0000874766-14-000007-index.htm",
+  "xmlUrl": "http://www.sec.gov/Archives/edgar/data/874766/000087476614000007/hig-20131231.xml"
+}
