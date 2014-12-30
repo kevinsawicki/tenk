@@ -6,7 +6,16 @@ path = require 'path'
 year = 2013
 
 fs.listSync(path.resolve(__dirname, '..', 'company'), ['.json']).forEach (jsonPath) ->
-  company = JSON.parse(fs.readFileSync(jsonPath))
+  try
+    company = JSON.parse(fs.readFileSync(jsonPath))
+  catch error
+    return console.error "Reading and parsing #{jsonPath} failed: #{error.message}"
 
   unless company.profit?[year]?
-    console.log "#{company.symbol} is missing #{year} profits"
+    console.error "#{company.name} (#{company.symbol}) is missing #{year} profits"
+
+  unless company.cash?[year]?
+    console.error "#{company.name} (#{company.symbol}) is missing #{year} cash"
+
+  unless company.earningsPerShare?[year]?
+    console.error "#{company.name} (#{company.symbol}) is missing #{year} earnings per share"
