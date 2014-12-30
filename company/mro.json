@@ -1,0 +1,38 @@
+{
+  "symbol": "mro",
+  "name": "Marathon Oil Corporation",
+  "ipoYear": null,
+  "sector": "Energy",
+  "industry": "Oil & Gas Production",
+  "exchange": "nyse",
+  "category": "CRUDE PETROLEUM &amp;amp; NATURAL GAS",
+  "address": {
+    "street1": "P O BOX 3128",
+    "city": "HOUSTON",
+    "state": "TX",
+    "zip": "77253-3128"
+  },
+  "profit": {
+    "2009": 1463000000,
+    "2010": 2568000000,
+    "2011": 2946000000,
+    "2012": 1582000000,
+    "2013": 1753000000
+  },
+  "cash": {
+    "2009": 2057000000,
+    "2010": 3951000000,
+    "2011": 493000000,
+    "2012": 684000000,
+    "2013": 264000000
+  },
+  "earningsPerShare": {
+    "2009": 2.06,
+    "2010": 3.62,
+    "2011": 4.15,
+    "2012": 2.24,
+    "2013": 2.49
+  },
+  "htmlUrl": "http://www.sec.gov/Archives/edgar/data/101778/000010177814000014/0000101778-14-000014-index.htm",
+  "xmlUrl": "http://www.sec.gov/Archives/edgar/data/101778/000010177814000014/mro-20131231.xml"
+}

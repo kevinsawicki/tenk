@@ -1,0 +1,32 @@
+{
+  "symbol": "l",
+  "name": "Loews Corporation",
+  "ipoYear": null,
+  "sector": "Finance",
+  "industry": "Property-Casualty Insurers",
+  "exchange": "nyse",
+  "category": "FIRE, MARINE &amp;amp; CASUALTY INSURANCE",
+  "address": {
+    "street1": "667 MADISON AVE",
+    "city": "NEW YORK",
+    "state": "NY",
+    "zip": "10065-8087"
+  },
+  "profit": {
+    "2009": 564000000,
+    "2010": 1289000000,
+    "2011": 1062000000,
+    "2012": 568000000,
+    "2013": 595000000
+  },
+  "cash": {},
+  "earningsPerShare": {
+    "2009": 1.3,
+    "2010": 3.08,
+    "2011": 2.62,
+    "2012": 1.44,
+    "2013": 1.53
+  },
+  "htmlUrl": "http://www.sec.gov/Archives/edgar/data/60086/000119312514064964/0001193125-14-064964-index.htm",
+  "xmlUrl": "http://www.sec.gov/Archives/edgar/data/60086/000119312514064964/l-20131231.xml"
+}

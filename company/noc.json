@@ -1,0 +1,38 @@
+{
+  "symbol": "noc",
+  "name": "Northrop Grumman Corporation",
+  "ipoYear": null,
+  "sector": "Capital Goods",
+  "industry": "Industrial Machinery/Components",
+  "exchange": "nyse",
+  "category": "SEARCH, DETECTION, NAVIGATION, GUIDANCE, AERONAUTICAL SYS",
+  "address": {
+    "street1": "2980 FAIRVIEW PARK DRIVE",
+    "city": "FALLS CHURCH",
+    "state": "VA",
+    "zip": "22042"
+  },
+  "profit": {
+    "2009": 1686000000,
+    "2010": 2053000000,
+    "2011": 2118000000,
+    "2012": 1978000000,
+    "2013": 1952000000
+  },
+  "cash": {
+    "2009": 3274000000,
+    "2010": 3701000000,
+    "2011": 3002000000,
+    "2012": 3862000000,
+    "2013": 5150000000
+  },
+  "earningsPerShare": {
+    "2009": 5.28,
+    "2010": 6.91,
+    "2011": 7.65,
+    "2012": 7.96,
+    "2013": 8.5
+  },
+  "htmlUrl": "http://www.sec.gov/Archives/edgar/data/1133421/000113342114000006/0001133421-14-000006-index.htm",
+  "xmlUrl": "http://www.sec.gov/Archives/edgar/data/1133421/000113342114000006/noc-20131231.xml"
+}

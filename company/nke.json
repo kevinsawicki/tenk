@@ -1,0 +1,41 @@
+{
+  "symbol": "nke",
+  "name": "Nike, Inc.",
+  "ipoYear": null,
+  "sector": "Consumer Non-Durables",
+  "industry": "Shoe Manufacturing",
+  "exchange": "nyse",
+  "category": "RUBBER &amp;amp; PLASTICS FOOTWEAR",
+  "address": {
+    "street1": "ONE BOWERMAN DR",
+    "city": "BEAVERTON",
+    "state": "OR",
+    "zip": "97005-6453"
+  },
+  "profit": {
+    "2009": 1487000000,
+    "2010": 1907000000,
+    "2011": 2133000000,
+    "2012": 2211000000,
+    "2013": 2472000000,
+    "2014": 2693000000
+  },
+  "cash": {
+    "2009": 2291000000,
+    "2010": 3079000000,
+    "2011": 1877000000,
+    "2012": 2254000000,
+    "2013": 3337000000,
+    "2014": 2220000000
+  },
+  "earningsPerShare": {
+    "2009": 3.07,
+    "2010": 3.93,
+    "2011": 2.24,
+    "2012": 2.42,
+    "2013": -0.01,
+    "2014": 3.05
+  },
+  "htmlUrl": "http://www.sec.gov/Archives/edgar/data/320187/000032018714000097/0000320187-14-000097-index.htm",
+  "xmlUrl": "http://www.sec.gov/Archives/edgar/data/320187/000032018714000097/nke-20140531.xml"
+}

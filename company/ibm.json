@@ -1,0 +1,38 @@
+{
+  "symbol": "ibm",
+  "name": "International Business Machines Corporation",
+  "ipoYear": null,
+  "sector": "Technology",
+  "industry": "Computer Manufacturing",
+  "exchange": "nyse",
+  "category": "COMPUTER &amp;amp; OFFICE EQUIPMENT",
+  "address": {
+    "street1": "1 NEW ORCHARD ROAD",
+    "city": "ARMONK",
+    "state": "NY",
+    "zip": "10504"
+  },
+  "profit": {
+    "2009": 13425000000,
+    "2010": 14833000000,
+    "2011": 15855000000,
+    "2012": 16604000000,
+    "2013": 16483000000
+  },
+  "cash": {
+    "2009": 12183000000,
+    "2010": 10661000000,
+    "2011": 11922000000,
+    "2012": 10412000000,
+    "2013": 10716000000
+  },
+  "earningsPerShare": {
+    "2009": 10.12,
+    "2010": 11.69,
+    "2011": 13.25,
+    "2012": 14.53,
+    "2013": 15.06
+  },
+  "htmlUrl": "http://www.sec.gov/Archives/edgar/data/51143/000104746914001302/0001047469-14-001302-index.htm",
+  "xmlUrl": "http://www.sec.gov/Archives/edgar/data/51143/000104746914001302/ibm-20131231.xml"
+}

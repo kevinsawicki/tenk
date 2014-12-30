@@ -1,0 +1,41 @@
+{
+  "symbol": "jci",
+  "name": "Johnson Controls, Inc.",
+  "ipoYear": null,
+  "sector": "Consumer Durables",
+  "industry": "Industrial Specialties",
+  "exchange": "nyse",
+  "category": "PUBLIC BUILDING AND RELATED FURNITURE",
+  "address": {
+    "street1": "5757 N GREEN BAY AVENUE",
+    "city": "MILWAUKEE",
+    "state": "WI",
+    "zip": "53201"
+  },
+  "profit": {
+    "2009": -338000000,
+    "2010": 1307000000,
+    "2011": 1415000000,
+    "2012": 1184000000,
+    "2013": 1178000000,
+    "2014": 1215000000
+  },
+  "cash": {
+    "2009": 761000000,
+    "2010": 560000000,
+    "2011": 257000000,
+    "2012": 265000000,
+    "2013": 1055000000,
+    "2014": 409000000
+  },
+  "earningsPerShare": {
+    "2009": -0.57,
+    "2010": 1.94,
+    "2011": 2.09,
+    "2012": 1.74,
+    "2013": 1.72,
+    "2014": 1.82
+  },
+  "htmlUrl": "http://www.sec.gov/Archives/edgar/data/53669/000005366914000041/0000053669-14-000041-index.htm",
+  "xmlUrl": "http://www.sec.gov/Archives/edgar/data/53669/000005366914000041/jci-20140930.xml"
+}

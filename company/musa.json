@@ -1,0 +1,33 @@
+{
+  "symbol": "musa",
+  "name": "Murphy USA Inc.",
+  "ipoYear": 2013,
+  "sector": "Consumer Durables",
+  "industry": "Automotive Aftermarket",
+  "exchange": "nyse",
+  "category": "RETAIL-AUTO DEALERS &amp;amp; GASOLINE STATIONS",
+  "address": {
+    "street1": "200 PEACH STREET",
+    "city": "EL DORADO",
+    "state": "AR",
+    "zip": "71730-5836"
+  },
+  "profit": {
+    "2011": 324020000,
+    "2012": 83568000,
+    "2013": 235033000
+  },
+  "cash": {
+    "2010": 56714000,
+    "2011": 36887000,
+    "2012": 57373000,
+    "2013": 294741000
+  },
+  "earningsPerShare": {
+    "2011": 6.93,
+    "2012": 1.79,
+    "2013": 5.03
+  },
+  "htmlUrl": "http://www.sec.gov/Archives/edgar/data/1573516/000157351614000005/0001573516-14-000005-index.htm",
+  "xmlUrl": "http://www.sec.gov/Archives/edgar/data/1573516/000157351614000005/musa-20131231.xml"
+}

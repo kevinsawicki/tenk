@@ -1,0 +1,41 @@
+{
+  "symbol": "mdt",
+  "name": "Medtronic, Inc.",
+  "ipoYear": null,
+  "sector": "Health Care",
+  "industry": "Biotechnology: Electromedical & Electrotherapeutic Apparatus",
+  "exchange": "nyse",
+  "category": "ELECTROMEDICAL &amp;amp; ELECTROTHERAPEUTIC APPARATUS",
+  "address": {
+    "street1": "710 MEDTRONIC PKWY",
+    "city": "MINNEAPOLIS",
+    "state": "MN",
+    "zip": "55432"
+  },
+  "profit": {
+    "2009": 2070000000,
+    "2010": 3099000000,
+    "2011": 3096000000,
+    "2012": 3617000000,
+    "2013": 3467000000,
+    "2014": 3065000000
+  },
+  "cash": {
+    "2009": 1271000000,
+    "2010": 1254000000,
+    "2011": 1317000000,
+    "2012": 1172000000,
+    "2013": 919000000,
+    "2014": 1403000000
+  },
+  "earningsPerShare": {
+    "2009": 1.85,
+    "2010": 2.8,
+    "2011": 2.87,
+    "2012": 3.43,
+    "2013": 3.4,
+    "2014": 3.06
+  },
+  "htmlUrl": "http://www.sec.gov/Archives/edgar/data/64670/000006467014000010/0000064670-14-000010-index.htm",
+  "xmlUrl": "http://www.sec.gov/Archives/edgar/data/64670/000006467014000010/mdt-20140425.xml"
+}

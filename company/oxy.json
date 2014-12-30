@@ -1,0 +1,38 @@
+{
+  "symbol": "oxy",
+  "name": "Occidental Petroleum Corporation",
+  "ipoYear": null,
+  "sector": "Energy",
+  "industry": "Oil & Gas Production",
+  "exchange": "nyse",
+  "category": "CRUDE PETROLEUM &amp;amp; NATURAL GAS",
+  "address": {
+    "street1": "5 GREENWAY PLAZA",
+    "city": "HOUSTON",
+    "state": "TX",
+    "zip": "77046"
+  },
+  "profit": {
+    "2009": 2915000000,
+    "2010": 7151000000,
+    "2011": 6771000000,
+    "2012": 4598000000,
+    "2013": 5903000000
+  },
+  "cash": {
+    "2009": 1224000000,
+    "2010": 2578000000,
+    "2011": 3781000000,
+    "2012": 1592000000,
+    "2013": 3393000000
+  },
+  "earningsPerShare": {
+    "2009": 3.59,
+    "2010": 5.57,
+    "2011": 8.32,
+    "2012": 5.67,
+    "2013": 7.33
+  },
+  "htmlUrl": "http://www.sec.gov/Archives/edgar/data/797468/000079746814000011/0000797468-14-000011-index.htm",
+  "xmlUrl": "http://www.sec.gov/Archives/edgar/data/797468/000079746814000011/oxy-20131231.xml"
+}

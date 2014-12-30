@@ -1,0 +1,41 @@
+{
+  "symbol": "kr",
+  "name": "Kroger Company (The)",
+  "ipoYear": null,
+  "sector": "Consumer Services",
+  "industry": "Food Chains",
+  "exchange": "nyse",
+  "category": "RETAIL-GROCERY STORES",
+  "address": {
+    "street1": "1014 VINE ST",
+    "city": "CINCINNATI",
+    "state": "OH",
+    "zip": "45201"
+  },
+  "profit": {
+    "2009": 1249000000,
+    "2010": 70000000,
+    "2011": 1116000000,
+    "2012": 602000000,
+    "2013": 1497000000,
+    "2014": 1519000000
+  },
+  "cash": {
+    "2009": 263000000,
+    "2010": 424000000,
+    "2011": 825000000,
+    "2012": 188000000,
+    "2013": 238000000,
+    "2014": 401000000
+  },
+  "earningsPerShare": {
+    "2009": 1.91,
+    "2010": 0.11,
+    "2011": 1.75,
+    "2012": 1.01,
+    "2013": 2.78,
+    "2014": 2.93
+  },
+  "htmlUrl": "http://www.sec.gov/Archives/edgar/data/56873/000110465914024819/0001104659-14-024819-index.htm",
+  "xmlUrl": "http://www.sec.gov/Archives/edgar/data/56873/000110465914024819/kr-20140201.xml"
+}

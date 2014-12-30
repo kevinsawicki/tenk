@@ -1,0 +1,38 @@
+{
+  "symbol": "man",
+  "name": "ManpowerGroup",
+  "ipoYear": null,
+  "sector": "Technology",
+  "industry": "Professional Services",
+  "exchange": "nyse",
+  "category": "SERVICES-HELP SUPPLY SERVICES",
+  "address": {
+    "street1": "100 MANPOWER PLACE",
+    "city": "MILWAUKEE",
+    "state": "WI",
+    "zip": "53212"
+  },
+  "profit": {
+    "2009": -9200000,
+    "2010": -263600000,
+    "2011": 251600000,
+    "2012": 197600000,
+    "2013": 288000000
+  },
+  "cash": {
+    "2009": 1014600000,
+    "2010": 772600000,
+    "2011": 580500000,
+    "2012": 648100000,
+    "2013": 737600000
+  },
+  "earningsPerShare": {
+    "2009": -0.12,
+    "2010": -3.26,
+    "2011": 3.08,
+    "2012": 2.49,
+    "2013": 3.69
+  },
+  "htmlUrl": "http://www.sec.gov/Archives/edgar/data/871763/000087176314000011/0000871763-14-000011-index.htm",
+  "xmlUrl": "http://www.sec.gov/Archives/edgar/data/871763/000087176314000011/man-20131231.xml"
+}

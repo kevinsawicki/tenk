@@ -1,0 +1,41 @@
+{
+  "symbol": "low",
+  "name": "Lowe&#39;s Companies, Inc.",
+  "ipoYear": null,
+  "sector": "Consumer Services",
+  "industry": "RETAIL: Building Materials",
+  "exchange": "nyse",
+  "category": "RETAIL-LUMBER &amp;amp; OTHER BUILDING MATERIALS DEALERS",
+  "address": {
+    "street1": "1000 LOWE'S BLVD.",
+    "city": "MOORESVILLE",
+    "state": "NC",
+    "zip": "28117"
+  },
+  "profit": {
+    "2009": 2195000000,
+    "2010": 1783000000,
+    "2011": 2010000000,
+    "2012": 1839000000,
+    "2013": 1959000000,
+    "2014": 2286000000
+  },
+  "cash": {
+    "2009": 245000000,
+    "2010": 632000000,
+    "2011": 652000000,
+    "2012": 1014000000,
+    "2013": 541000000,
+    "2014": 391000000
+  },
+  "earningsPerShare": {
+    "2009": 1.5,
+    "2010": 1.21,
+    "2011": 1.42,
+    "2012": 1.43,
+    "2013": 1.69,
+    "2014": 2.14
+  },
+  "htmlUrl": "http://www.sec.gov/Archives/edgar/data/60667/000006066714000054/0000060667-14-000054-index.htm",
+  "xmlUrl": "http://www.sec.gov/Archives/edgar/data/60667/000006066714000054/low-20140131.xml"
+}

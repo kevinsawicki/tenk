@@ -1,0 +1,41 @@
+{
+  "symbol": "mck",
+  "name": "McKesson Corporation",
+  "ipoYear": null,
+  "sector": "Health Care",
+  "industry": "Other Pharmaceuticals",
+  "exchange": "nyse",
+  "category": "WHOLESALE-DRUGS PROPRIETARIES &amp;amp; DRUGGISTS&amp;#39; SUNDRIES",
+  "address": {
+    "street1": "ONE POST ST",
+    "city": "SAN FRANCISCO",
+    "state": "CA",
+    "zip": "94104"
+  },
+  "profit": {
+    "2009": 823000000,
+    "2010": 1263000000,
+    "2011": 1202000000,
+    "2012": 1403000000,
+    "2013": 1338000000,
+    "2014": 1263000000
+  },
+  "cash": {
+    "2009": 2109000000,
+    "2010": 3731000000,
+    "2011": 3612000000,
+    "2012": 3149000000,
+    "2013": 2456000000,
+    "2014": 4193000000
+  },
+  "earningsPerShare": {
+    "2009": 2.99,
+    "2010": 4.7,
+    "2011": 4.65,
+    "2012": 5.7,
+    "2013": 5.71,
+    "2014": 5.51
+  },
+  "htmlUrl": "http://www.sec.gov/Archives/edgar/data/927653/000144530514002132/0001445305-14-002132-index.htm",
+  "xmlUrl": "http://www.sec.gov/Archives/edgar/data/927653/000144530514002132/mck-20140331.xml"
+}

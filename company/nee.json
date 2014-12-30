@@ -1,0 +1,38 @@
+{
+  "symbol": "nee",
+  "name": "NextEra Energy, Inc.",
+  "ipoYear": null,
+  "sector": "Public Utilities",
+  "industry": "Electric Utilities: Central",
+  "exchange": "nyse",
+  "category": "ELECTRIC SERVICES",
+  "address": {
+    "street1": "700 UNIVERSE BLVD",
+    "city": "JUNO BEACH",
+    "state": "FL",
+    "zip": "33408"
+  },
+  "profit": {
+    "2009": 1615000000,
+    "2010": 1957000000,
+    "2011": 1923000000,
+    "2012": 1911000000,
+    "2013": 1908000000
+  },
+  "cash": {
+    "2009": 238000000,
+    "2010": 302000000,
+    "2011": 377000000,
+    "2012": 329000000,
+    "2013": 438000000
+  },
+  "earningsPerShare": {
+    "2009": 3.99,
+    "2010": 4.77,
+    "2011": 4.62,
+    "2012": 4.59,
+    "2013": 4.5
+  },
+  "htmlUrl": "http://www.sec.gov/Archives/edgar/data/753308/000075330814000025/0000753308-14-000025-index.htm",
+  "xmlUrl": "http://www.sec.gov/Archives/edgar/data/37634/000075330814000025/nee-20131231.xml"
+}

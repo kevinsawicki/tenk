@@ -1,0 +1,36 @@
+{
+  "symbol": "lea",
+  "name": "Lear Corporation",
+  "ipoYear": null,
+  "sector": "Capital Goods",
+  "industry": "Auto Parts:O.E.M.",
+  "exchange": "nyse",
+  "category": "MOTOR VEHICLE PARTS &amp;amp; ACCESSORIES",
+  "address": {
+    "street1": "21557 TELEGRAPH ROAD",
+    "city": "SOUTHFIELD",
+    "state": "MI",
+    "zip": "48033"
+  },
+  "profit": {
+    "2010": 438300000,
+    "2011": 540700000,
+    "2012": 1282800000,
+    "2013": 431400000
+  },
+  "cash": {
+    "2009": 1554000000,
+    "2010": 1654100000,
+    "2011": 1754300000,
+    "2012": 1402200000,
+    "2013": 1137700000
+  },
+  "earningsPerShare": {
+    "2010": 4.3,
+    "2011": 5.21,
+    "2012": 13.04,
+    "2013": 5.07
+  },
+  "htmlUrl": "http://www.sec.gov/Archives/edgar/data/842162/000119312514043696/0001193125-14-043696-index.htm",
+  "xmlUrl": "http://www.sec.gov/Archives/edgar/data/842162/000119312514043696/lea-20131231.xml"
+}

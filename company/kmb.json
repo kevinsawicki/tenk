@@ -1,0 +1,38 @@
+{
+  "symbol": "kmb",
+  "name": "Kimberly-Clark Corporation",
+  "ipoYear": null,
+  "sector": "Consumer Durables",
+  "industry": "Containers/Packaging",
+  "exchange": "nyse",
+  "category": "CONVERTED PAPER &amp;amp; PAPERBOARD PRODS (NO CONTAINERS/BOXES)",
+  "address": {
+    "street1": "351 PHELPS DRIVE",
+    "city": "IRVING",
+    "state": "TX",
+    "zip": "75038"
+  },
+  "profit": {
+    "2009": 1884000000,
+    "2010": 1843000000,
+    "2011": 1591000000,
+    "2012": 1750000000,
+    "2013": 2142000000
+  },
+  "cash": {
+    "2009": 798000000,
+    "2010": 876000000,
+    "2011": 764000000,
+    "2012": 1106000000,
+    "2013": 1054000000
+  },
+  "earningsPerShare": {
+    "2009": 4.53,
+    "2010": 4.47,
+    "2011": 4.02,
+    "2012": 4.45,
+    "2013": 5.58
+  },
+  "htmlUrl": "http://www.sec.gov/Archives/edgar/data/55785/000005578514000015/0000055785-14-000015-index.htm",
+  "xmlUrl": "http://www.sec.gov/Archives/edgar/data/55785/000005578514000015/kmb-20131231.xml"
+}

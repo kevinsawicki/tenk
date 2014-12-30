@@ -1,0 +1,38 @@
+{
+  "symbol": "mrk",
+  "name": "Merck & Company, Inc.",
+  "ipoYear": null,
+  "sector": "Health Care",
+  "industry": "Major Pharmaceuticals",
+  "exchange": "nyse",
+  "category": "PHARMACEUTICAL PREPARATIONS",
+  "address": {
+    "street1": "2000 GALLOPING HILL ROAD",
+    "city": "KENILWORTH",
+    "state": "NJ",
+    "zip": "07033"
+  },
+  "profit": {
+    "2009": 12899000000,
+    "2010": 861000000,
+    "2011": 6272000000,
+    "2012": 6168000000,
+    "2013": 4404000000
+  },
+  "cash": {
+    "2009": 9311000000,
+    "2010": 10900000000,
+    "2011": 13531000000,
+    "2012": 13451000000,
+    "2013": 15621000000
+  },
+  "earningsPerShare": {
+    "2009": 5.67,
+    "2010": 0.28,
+    "2011": 2.04,
+    "2012": 2.03,
+    "2013": 1.49
+  },
+  "htmlUrl": "http://www.sec.gov/Archives/edgar/data/310158/000031015814000009/0000310158-14-000009-index.htm",
+  "xmlUrl": "http://www.sec.gov/Archives/edgar/data/310158/000031015814000009/mrk-20131231.xml"
+}

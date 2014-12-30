@@ -1,0 +1,38 @@
+{
+  "symbol": "mpc",
+  "name": "Marathon Petroleum Corporation",
+  "ipoYear": null,
+  "sector": "Energy",
+  "industry": "Integrated oil Companies",
+  "exchange": "nyse",
+  "category": "PETROLEUM REFINING",
+  "address": {
+    "street1": "539 SOUTH MAIN STREET",
+    "city": "FINDLAY",
+    "state": "OH",
+    "zip": "45840-3229"
+  },
+  "profit": {
+    "2009": 449000000,
+    "2010": 623000000,
+    "2011": 2389000000,
+    "2012": 3389000000,
+    "2013": 2112000000
+  },
+  "cash": {
+    "2009": 128000000,
+    "2010": 118000000,
+    "2011": 3079000000,
+    "2012": 4860000000,
+    "2013": 2292000000
+  },
+  "earningsPerShare": {
+    "2009": 1.26,
+    "2010": 1.75,
+    "2011": 6.7,
+    "2012": 9.95,
+    "2013": 6.69
+  },
+  "htmlUrl": "http://www.sec.gov/Archives/edgar/data/1510295/000151029514000004/0001510295-14-000004-index.htm",
+  "xmlUrl": "http://www.sec.gov/Archives/edgar/data/1510295/000151029514000004/mpc-20131231.xml"
+}

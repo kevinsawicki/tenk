@@ -1,0 +1,41 @@
+{
+  "symbol": "mon",
+  "name": "Monsanto Company",
+  "ipoYear": null,
+  "sector": "Basic Industries",
+  "industry": "Agricultural Chemicals",
+  "exchange": "nyse",
+  "category": "AGRICULTURE CHEMICALS",
+  "address": {
+    "street1": "800 N LINDBERGH BLVD",
+    "city": "ST LOUIS",
+    "state": "MO",
+    "zip": "63167"
+  },
+  "profit": {
+    "2009": 2092000000,
+    "2010": 1096000000,
+    "2011": 1607000000,
+    "2012": 2045000000,
+    "2013": 2482000000,
+    "2014": 2740000000
+  },
+  "cash": {
+    "2009": 1956000000,
+    "2010": 1485000000,
+    "2011": 2572000000,
+    "2012": 3283000000,
+    "2013": 3668000000,
+    "2014": 2367000000
+  },
+  "earningsPerShare": {
+    "2009": 3.82,
+    "2010": 2.02,
+    "2011": 3,
+    "2012": 3.83,
+    "2013": 4.65,
+    "2014": 5.28
+  },
+  "htmlUrl": "http://www.sec.gov/Archives/edgar/data/1110783/000111078314000215/0001110783-14-000215-index.htm",
+  "xmlUrl": "http://www.sec.gov/Archives/edgar/data/1110783/000111078314000215/mon-20140831.xml"
+}

@@ -1,0 +1,38 @@
+{
+  "symbol": "nue",
+  "name": "Nucor Corporation",
+  "ipoYear": null,
+  "sector": "Basic Industries",
+  "industry": "Steel/Iron Ore",
+  "exchange": "nyse",
+  "category": "STEEL WORKS, BLAST FURNACES  ROLLING MILLS (COKE OVENS)",
+  "address": {
+    "street1": "1915 REXFORD RD",
+    "city": "CHARLOTTE",
+    "state": "NC",
+    "zip": "28211"
+  },
+  "profit": {
+    "2009": -293613000,
+    "2010": 134092000,
+    "2011": 778188000,
+    "2012": 504619000,
+    "2013": 488025000
+  },
+  "cash": {
+    "2009": 2016981000,
+    "2010": 1325406000,
+    "2011": 1200645000,
+    "2012": 1052862000,
+    "2013": 1483252000
+  },
+  "earningsPerShare": {
+    "2009": -0.94,
+    "2010": 0.42,
+    "2011": 2.45,
+    "2012": 1.58,
+    "2013": 1.52
+  },
+  "htmlUrl": "http://www.sec.gov/Archives/edgar/data/73309/000119312514077349/0001193125-14-077349-index.htm",
+  "xmlUrl": "http://www.sec.gov/Archives/edgar/data/73309/000119312514077349/nue-20131231.xml"
+}

@@ -1,0 +1,38 @@
+{
+  "symbol": "ip",
+  "name": "International Paper Company",
+  "ipoYear": null,
+  "sector": "Basic Industries",
+  "industry": "Paper",
+  "exchange": "nyse",
+  "category": "PAPER MILLS",
+  "address": {
+    "street1": "6400 POPLAR AVENUE",
+    "city": "MEMPHIS",
+    "state": "TN",
+    "zip": "38197"
+  },
+  "profit": {
+    "2009": 663000000,
+    "2010": 691000000,
+    "2011": 1322000000,
+    "2012": 794000000,
+    "2013": 1395000000
+  },
+  "cash": {
+    "2009": 1892000000,
+    "2010": 2073000000,
+    "2011": 3994000000,
+    "2012": 1302000000,
+    "2013": 1802000000
+  },
+  "earningsPerShare": {
+    "2009": 1.56,
+    "2010": 1.61,
+    "2011": 3.06,
+    "2012": 1.82,
+    "2013": 3.15
+  },
+  "htmlUrl": "http://www.sec.gov/Archives/edgar/data/51434/000005143414000003/0000051434-14-000003-index.htm",
+  "xmlUrl": "http://www.sec.gov/Archives/edgar/data/51434/000005143414000003/ip-20131231.xml"
+}

@@ -1,0 +1,41 @@
+{
+  "symbol": "m",
+  "name": "Macy&#39;s Inc",
+  "ipoYear": null,
+  "sector": "Consumer Services",
+  "industry": "Department/Specialty Retail Stores",
+  "exchange": "nyse",
+  "category": "RETAIL-DEPARTMENT STORES",
+  "address": {
+    "street1": "7 WEST SEVENTH STREET",
+    "city": "CINCINNATI",
+    "state": "OH",
+    "zip": "45202"
+  },
+  "profit": {
+    "2009": -4775000000,
+    "2010": 329000000,
+    "2011": 847000000,
+    "2012": 1256000000,
+    "2013": 1335000000,
+    "2014": 1486000000
+  },
+  "cash": {
+    "2009": 1385000000,
+    "2010": 1686000000,
+    "2011": 1464000000,
+    "2012": 2827000000,
+    "2013": 1836000000,
+    "2014": 2273000000
+  },
+  "earningsPerShare": {
+    "2009": -11.34,
+    "2010": 0.78,
+    "2011": 2,
+    "2012": 2.96,
+    "2013": 3.29,
+    "2014": 3.93
+  },
+  "htmlUrl": "http://www.sec.gov/Archives/edgar/data/794367/000079436714000071/0000794367-14-000071-index.htm",
+  "xmlUrl": "http://www.sec.gov/Archives/edgar/data/794367/000079436714000071/m-20140201.xml"
+}

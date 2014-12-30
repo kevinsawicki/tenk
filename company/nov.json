@@ -1,0 +1,38 @@
+{
+  "symbol": "nov",
+  "name": "National Oilwell Varco, Inc.",
+  "ipoYear": null,
+  "sector": "Energy",
+  "industry": "Metal Fabrications",
+  "exchange": "nyse",
+  "category": "OIL &amp;amp; GAS FILED MACHINERY &amp;amp; EQUIPMENT",
+  "address": {
+    "street1": "7909 PARKWOOD CIRCLE DR",
+    "city": "HOUSTON",
+    "state": "TX",
+    "zip": "77036"
+  },
+  "profit": {
+    "2009": 1469000000,
+    "2010": 1667000000,
+    "2011": 1994000000,
+    "2012": 2491000000,
+    "2013": 2327000000
+  },
+  "cash": {
+    "2009": 2622000000,
+    "2010": 3333000000,
+    "2011": 3535000000,
+    "2012": 3319000000,
+    "2013": 3436000000
+  },
+  "earningsPerShare": {
+    "2009": 3.53,
+    "2010": 3.99,
+    "2011": 4.73,
+    "2012": 5.86,
+    "2013": 5.46
+  },
+  "htmlUrl": "http://www.sec.gov/Archives/edgar/data/1021860/000119312514053283/0001193125-14-053283-index.htm",
+  "xmlUrl": "http://www.sec.gov/Archives/edgar/data/1021860/000119312514053283/nov-20131231.xml"
+}

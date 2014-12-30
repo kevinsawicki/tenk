@@ -1,0 +1,38 @@
+{
+  "symbol": "ms",
+  "name": "Morgan Stanley",
+  "ipoYear": null,
+  "sector": "Finance",
+  "industry": "Investment Bankers/Brokers/Service",
+  "exchange": "nyse",
+  "category": "SECURITY BROKERS, DEALERS &amp;amp; FLOTATION COMPANIES",
+  "address": {
+    "street1": "1585 BROADWAY",
+    "city": "NEW YORK",
+    "state": "NY",
+    "zip": "10036"
+  },
+  "profit": {
+    "2009": 1346000000,
+    "2010": 4703000000,
+    "2011": 4110000000,
+    "2012": 68000000,
+    "2013": 2932000000
+  },
+  "cash": {
+    "2009": 31991000000,
+    "2010": 47615000000,
+    "2011": 47312000000,
+    "2012": 46904000000,
+    "2013": 59883000000
+  },
+  "earningsPerShare": {
+    "2009": -0.77,
+    "2010": 2.64,
+    "2011": 1.25,
+    "2012": -0.02,
+    "2013": 1.39
+  },
+  "htmlUrl": "http://www.sec.gov/Archives/edgar/data/895421/000119312514067354/0001193125-14-067354-index.htm",
+  "xmlUrl": "http://www.sec.gov/Archives/edgar/data/895421/000119312514067354/ms-20131231.xml"
+}

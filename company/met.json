@@ -1,0 +1,38 @@
+{
+  "symbol": "met",
+  "name": "MetLife, Inc.",
+  "ipoYear": 2000,
+  "sector": "Finance",
+  "industry": "Life Insurance",
+  "exchange": "nyse",
+  "category": "LIFE INSURANCE",
+  "address": {
+    "street1": "1095 AVENUE OF AMERICAS",
+    "city": "NEW YORK",
+    "state": "NY",
+    "zip": "10036"
+  },
+  "profit": {
+    "2009": -2246000000,
+    "2010": 2667000000,
+    "2011": 6423000000,
+    "2012": 1324000000,
+    "2013": 3368000000
+  },
+  "cash": {
+    "2009": 10024000000,
+    "2010": 12957000000,
+    "2011": 10461000000,
+    "2012": 15738000000,
+    "2013": 7585000000
+  },
+  "earningsPerShare": {
+    "2009": -2.89,
+    "2010": 2.88,
+    "2011": 5.81,
+    "2012": 1.12,
+    "2013": 2.94
+  },
+  "htmlUrl": "http://www.sec.gov/Archives/edgar/data/1099219/000093783414000011/0000937834-14-000011-index.htm",
+  "xmlUrl": "http://www.sec.gov/Archives/edgar/data/1099219/000093783414000011/met-20131231.xml"
+}

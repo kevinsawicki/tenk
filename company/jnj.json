@@ -1,0 +1,35 @@
+{
+  "symbol": "jnj",
+  "name": "Johnson & Johnson",
+  "ipoYear": null,
+  "sector": "Health Care",
+  "industry": "Major Pharmaceuticals",
+  "exchange": "nyse",
+  "category": "PHARMACEUTICAL PREPARATIONS",
+  "address": {
+    "street1": "ONE JOHNSON &amp; JOHNSON PLZ",
+    "city": "NEW BRUNSWICK",
+    "state": "NJ",
+    "zip": "08933"
+  },
+  "profit": {
+    "2010": 12266000000,
+    "2011": 9672000000,
+    "2012": 10853000000,
+    "2013": 13831000000
+  },
+  "cash": {
+    "2010": 15810000000,
+    "2011": 24542000000,
+    "2012": 14911000000,
+    "2013": 20927000000
+  },
+  "earningsPerShare": {
+    "2010": 4.45,
+    "2011": 3.54,
+    "2012": 3.94,
+    "2013": 4.92
+  },
+  "htmlUrl": "http://www.sec.gov/Archives/edgar/data/200406/000020040614000033/0000200406-14-000033-index.htm",
+  "xmlUrl": "http://www.sec.gov/Archives/edgar/data/200406/000020040614000033/jnj-20131229.xml"
+}

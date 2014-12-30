@@ -1,0 +1,38 @@
+{
+  "symbol": "mcd",
+  "name": "McDonald&#39;s Corporation",
+  "ipoYear": null,
+  "sector": "Consumer Services",
+  "industry": "Restaurants",
+  "exchange": "nyse",
+  "category": "RETAIL-EATING PLACES",
+  "address": {
+    "street1": "ONE MCDONALD'S PLAZA",
+    "city": "OAK BROOK",
+    "state": "IL",
+    "zip": "60523"
+  },
+  "profit": {
+    "2009": 4551000000,
+    "2010": 4946300000,
+    "2011": 5503100000,
+    "2012": 5464800000,
+    "2013": 5585900000
+  },
+  "cash": {
+    "2009": 1796000000,
+    "2010": 2387000000,
+    "2011": 2335700000,
+    "2012": 2336100000,
+    "2013": 2798700000
+  },
+  "earningsPerShare": {
+    "2009": 4.17,
+    "2010": 4.64,
+    "2011": 5.33,
+    "2012": 5.41,
+    "2013": 5.59
+  },
+  "htmlUrl": "http://www.sec.gov/Archives/edgar/data/63908/000006390814000019/0000063908-14-000019-index.htm",
+  "xmlUrl": "http://www.sec.gov/Archives/edgar/data/63908/000006390814000019/mcd-20131231.xml"
+}

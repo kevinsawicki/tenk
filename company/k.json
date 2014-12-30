@@ -1,0 +1,38 @@
+{
+  "symbol": "k",
+  "name": "Kellogg Company",
+  "ipoYear": null,
+  "sector": "Consumer Non-Durables",
+  "industry": "Packaged Foods",
+  "exchange": "nyse",
+  "category": "GRAIN MILL PRODUCTS",
+  "address": {
+    "street1": "ONE KELLOGG SQ",
+    "city": "BATTLE CREEK",
+    "state": "MI",
+    "zip": "49016-3599"
+  },
+  "profit": {
+    "2009": 1148000000,
+    "2010": 1287000000,
+    "2011": 866000000,
+    "2012": 961000000,
+    "2013": 1807000000
+  },
+  "cash": {
+    "2009": 255000000,
+    "2010": 444000000,
+    "2011": 460000000,
+    "2012": 281000000,
+    "2013": 273000000
+  },
+  "earningsPerShare": {
+    "2009": 3.01,
+    "2010": 3.43,
+    "2011": 2.39,
+    "2012": 2.68,
+    "2013": 4.98
+  },
+  "htmlUrl": "http://www.sec.gov/Archives/edgar/data/55067/000119312514065068/0001193125-14-065068-index.htm",
+  "xmlUrl": "http://www.sec.gov/Archives/edgar/data/55067/000119312514065068/k-20131228.xml"
+}

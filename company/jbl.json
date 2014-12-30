@@ -1,0 +1,41 @@
+{
+  "symbol": "jbl",
+  "name": "Jabil Circuit, Inc.",
+  "ipoYear": 1993,
+  "sector": "Technology",
+  "industry": "Electrical Products",
+  "exchange": "nyse",
+  "category": "PRINTED CIRCUIT BOARDS",
+  "address": {
+    "street1": "10560 DR. MARTIN LUTHER KING JR. ST. N.",
+    "city": "ST PETERSBURG",
+    "state": "FL",
+    "zip": "33716"
+  },
+  "profit": {
+    "2009": -1165212000,
+    "2010": 168840000,
+    "2011": 381063000,
+    "2012": 394687000,
+    "2013": 371482000,
+    "2014": 241313000
+  },
+  "cash": {
+    "2009": 876272000,
+    "2010": 744329000,
+    "2011": 888611000,
+    "2012": 1217256000,
+    "2013": 1011373000,
+    "2014": 1000249000
+  },
+  "earningsPerShare": {
+    "2009": -5.63,
+    "2010": 0.79,
+    "2011": 1.78,
+    "2012": 1.91,
+    "2013": 1.83,
+    "2014": 1.19
+  },
+  "htmlUrl": "http://www.sec.gov/Archives/edgar/data/898293/000119312514377410/0001193125-14-377410-index.htm",
+  "xmlUrl": "http://www.sec.gov/Archives/edgar/data/898293/000119312514377410/jbl-20140831.xml"
+}

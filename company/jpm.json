@@ -1,0 +1,32 @@
+{
+  "symbol": "jpm",
+  "name": "J P Morgan Chase & Co",
+  "ipoYear": null,
+  "sector": "Finance",
+  "industry": "Major Banks",
+  "exchange": "nyse",
+  "category": "NATIONAL COMMERCIAL BANKS",
+  "address": {
+    "street1": "270 PARK AVE",
+    "city": "NEW YORK",
+    "state": "NY",
+    "zip": "10017"
+  },
+  "profit": {
+    "2009": 11728000000,
+    "2010": 17370000000,
+    "2011": 18976000000,
+    "2012": 21284000000,
+    "2013": 17923000000
+  },
+  "cash": {},
+  "earningsPerShare": {
+    "2009": 2.27,
+    "2010": 3.98,
+    "2011": 4.5,
+    "2012": 5.22,
+    "2013": 4.39
+  },
+  "htmlUrl": "http://www.sec.gov/Archives/edgar/data/19617/000001961714000289/0000019617-14-000289-index.htm",
+  "xmlUrl": "http://www.sec.gov/Archives/edgar/data/19617/000001961714000289/jpm-20131231.xml"
+}

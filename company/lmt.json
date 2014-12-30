@@ -1,0 +1,38 @@
+{
+  "symbol": "lmt",
+  "name": "Lockheed Martin Corporation",
+  "ipoYear": null,
+  "sector": "Capital Goods",
+  "industry": "Military/Government/Technical",
+  "exchange": "nyse",
+  "category": "GUIDED MISSILES &amp;amp; SPACE VEHICLES &amp;amp; PARTS",
+  "address": {
+    "street1": "6801 ROCKLEDGE DR",
+    "city": "BETHESDA",
+    "state": "MD",
+    "zip": "20817"
+  },
+  "profit": {
+    "2009": 2973000000,
+    "2010": 2878000000,
+    "2011": 2655000000,
+    "2012": 2745000000,
+    "2013": 2981000000
+  },
+  "cash": {
+    "2009": 2391000000,
+    "2010": 2261000000,
+    "2011": 3582000000,
+    "2012": 1898000000,
+    "2013": 2617000000
+  },
+  "earningsPerShare": {
+    "2009": 7.73,
+    "2010": 7.9,
+    "2011": 7.9,
+    "2012": 8.48,
+    "2013": 9.29
+  },
+  "htmlUrl": "http://www.sec.gov/Archives/edgar/data/936468/000119312514055034/0001193125-14-055034-index.htm",
+  "xmlUrl": "http://www.sec.gov/Archives/edgar/data/936468/000119312514055034/lmt-20131231.xml"
+}
