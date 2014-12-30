@@ -16,11 +16,11 @@
 }
 
 .navbar-dot {
-  color: #66BB6A;
+  color: #78909C;
 }
 
 .header {
-  background: #212121;
+  background: #263238;
   color: rgba(255,255,255,0.87);
 }
 
@@ -30,12 +30,12 @@
 }
 
 .company-header {
-  background: #757575;
+  background: #78909C;
   color: rgba(255,255,255,0.87);
 }
 
 .company-ranking {
-  color: #BDBDBD !important;
+  color: rgba(255,255,255,0.7) !important;
 }
 
 .container-fluid {
@@ -56,7 +56,7 @@
 }
 
 body {
-  background: #F5F5F5;
+  background: #ECEFF1;
   font-family: 'Oxygen', 'Helvetica Neue', Helvetica, Arial, sans-serif;
 }
 
