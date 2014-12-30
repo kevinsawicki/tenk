@@ -11,6 +11,14 @@
   background: inherit !important;
 }
 
+.navbar-brand {
+  font-weight: bold;
+}
+
+.navbar-dot {
+  color: #66BB6A;
+}
+
 .header {
   background: #212121;
   color: rgba(255,255,255,0.87);
