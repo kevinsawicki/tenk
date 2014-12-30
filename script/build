@@ -22,7 +22,7 @@ readCompany = (symbolPath, callback) ->
     company = JSON.parse(contents)
     company.humanizedName = company.name.replace(/[\s,]*(inc(\.|orporated)?|company|corp(oration)?|co\.)([\s,]*|$)/gi, '')
     company.humanizedName = company.humanizedName.replace(/\(.*\)/g, '')
-    company.humanizedName = company.humanizedName.replace(/,\s*$/g, '')
+    company.humanizedName = company.humanizedName.replace(/(,|\sand)\s*$/g, '')
     company.humanizedName = company.humanizedName.replace(/^the\s+/gi, '')
     company.humanizedName = company.humanizedName.trim()
     companies.push(company)
