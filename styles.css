@@ -34,6 +34,10 @@
   color: rgba(255,255,255,0.87);
 }
 
+.company-ranking {
+  color: #BDBDBD !important;
+}
+
 .container-fluid {
   padding: 0;
 }

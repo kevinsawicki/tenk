@@ -20,7 +20,11 @@ readCompany = (symbolPath, callback) ->
 
     symbol = path.basename(symbolPath, path.extname(symbolPath))
     company = JSON.parse(contents)
-    company.humanizedName = company.name?.replace(/,?\s+(inc(\.|orporated)?|company|corp(oration)?|group)\s*$/i, '')
+    company.humanizedName = company.name.replace(/[\s,]*(inc(\.|orporated)?|company|corp(oration)?|co\.)([\s,]*|$)/gi, '')
+    company.humanizedName = company.humanizedName.replace(/\(.*\)/g, '')
+    company.humanizedName = company.humanizedName.replace(/,\s*$/g, '')
+    company.humanizedName = company.humanizedName.replace(/^the\s+/gi, '')
+    company.humanizedName = company.humanizedName.trim()
     companies.push(company)
     callback()
 
@@ -28,5 +32,11 @@ queue = async.queue(readCompany)
 queue.push(companyJsonFile) for companyJsonFile in companyJsonFiles
 queue.concurrency = 100
 queue.drain = ->
+  companies.sort (company1, company2) ->
+    if company1.profit[2013]? and company2.profit[2013]?
+      difference = company2.profit[2013] - company1.profit[2013]
+      return difference unless difference is 0
+    company1.name.localeCompare(company2.name)
+  companies.forEach (company, index) -> company.ranking = index + 1
   indexTemplate = Handlebars.compile(fs.readFileSync(path.resolve(__dirname, '..', 'index.hbs'), 'utf8'))
   fs.writeFileSync(path.resolve(__dirname, '..', 'index.html'), indexTemplate({companies}))
