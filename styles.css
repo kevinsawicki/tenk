@@ -1,19 +1,29 @@
 .navbar {
-  background: #DBD7D2;
-  margin-bottom: 0;
+  margin: 0;
 }
 
 .navbar a {
-  color: #222;
+  color: rgba(0,0,0,0.87);
 }
 
 .navbar a:hover {
   color: #000;
+  background: inherit !important;
+}
+
+.header {
+  background: #212121;
+  color: rgba(255,255,255,0.87);
 }
 
 .header-icon {
   width: 160px;
   height: 160px;
+}
+
+.company-header {
+  background: #757575;
+  color: rgba(255,255,255,0.87);
 }
 
 .container-fluid {
@@ -34,7 +44,7 @@
 }
 
 body {
-  background: #F5F1EC;
+  background: #F5F5F5;
   font-family: 'Oxygen', 'Helvetica Neue', Helvetica, Arial, sans-serif;
 }
 
@@ -116,15 +126,15 @@ body {
 }
 
 .bar.profit {
-  fill: #FFBA00;
+  fill: #FFF176;
 }
 
 .bar.cash {
-  fill: #10926E;
+  fill: #81C784;
 }
 
 .bar.eps {
-  fill: #9C805E;
+  fill: #BA68C8;
 }
 
 .axis path,
