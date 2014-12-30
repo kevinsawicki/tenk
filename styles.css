@@ -138,15 +138,15 @@ body {
 }
 
 .bar.profit {
-  fill: #FFF176;
+  fill: #FF9800;
 }
 
 .bar.cash {
-  fill: #81C784;
+  fill: #4CAF50;
 }
 
 .bar.eps {
-  fill: #BA68C8;
+  fill: #00BCD4;
 }
 
 .axis path,
