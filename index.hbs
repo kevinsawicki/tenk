@@ -3,7 +3,7 @@
   <head>
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="stylesheet" href="http://netdna.bootstrapcdn.com/bootstrap/3.1.1/css/bootstrap.min.css">
-    <link href='http://fonts.googleapis.com/css?family=Play|Oxygen' rel='stylesheet' type='text/css'>
+    <link href='http://fonts.googleapis.com/css?family=Play|Oxygen|Kameron' rel='stylesheet' type='text/css'>
     <link rel="stylesheet" href="styles.css">
     <script src="https://code.jquery.com/jquery-2.1.1.min.js"></script>
     <script src="./index.js"></script>
@@ -25,9 +25,9 @@
       </div>
     </nav>
 
-    <div class="container-fluid">
+    <div class="container">
       <div class="jumbotron header">
-        <div class="container-fluid">
+        <div class="container">
           <div class="row">
             <div class="col-md-12 col-lg-12">
               <center><img src="dime.png" class="header-icon"></center>
@@ -40,22 +40,17 @@
 
       {{#each companies}}
 
-        <div class="jumbotron company-header">
-          <div class="container">
-            <div class="row">
-              <div class="col-md-12 col-lg-12">
-                <h1 class="company-ranking pull-right">#{{ranking}}</h1>
-                <h1 class="company-heading">{{humanizedName}}</h1>
-                <span class="company-sector">{{sector}}</span><br>
-                <span class="company-sector">{{industry}}</span><br>
-                <span class="company-exchange">{{symbol}} on the {{exchange}}</span><br>
-                <span class="company-ipo">Initial public offering in {{ipoYear}}</span>
-                <address>
-                  {{address.street1}}<br>
-                  {{address.city}}, {{address.state}}
-                </address>
+        <div class="container company-header">
+          <div class="row">
+            <div class="col-md-12 col-lg-12">
+              <h1 class="company-heading">{{ranking}}. {{humanizedName}}</h1>
+              <span class="company-sector">{{sector}} Sector</span><br>
+              <span class="company-exchange">{{symbol}} on the {{exchange}}</span><br>
+              <address>
+                {{address.street1}}<br>
+                {{address.city}}, {{address.state}}
+              </address>
 
-              </div>
             </div>
           </div>
         </div>

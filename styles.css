@@ -1,13 +1,14 @@
 .navbar {
+  background: #607D8B;
   margin: 0;
 }
 
 .navbar a {
-  color: rgba(0,0,0,0.87);
+  color: rgba(255, 255, 255, 0.87);
 }
 
 .navbar a:hover {
-  color: #000;
+  color: #fff;
   background: inherit !important;
 }
 
@@ -16,12 +17,12 @@
 }
 
 .navbar-dot {
-  color: #78909C;
+  color: #69F0AE;
 }
 
 .header {
-  background: #263238;
-  color: rgba(255,255,255,0.87);
+  color: rgba(0,0,0,0.87);
+  font-family: 'Kameron', serif;
 }
 
 .header-icon {
@@ -30,12 +31,14 @@
 }
 
 .company-header {
-  background: #78909C;
-  color: rgba(255,255,255,0.87);
+  color: rgba(0,0,0,0.87);
 }
 
-.company-ranking {
-  color: rgba(255,255,255,0.7) !important;
+.company-heading {
+  font-family: 'Kameron', serif;
+  padding-bottom: 10px;
+  border-bottom: 1px solid #90A4AE;
+  border-radius: 0;
 }
 
 .container-fluid {
