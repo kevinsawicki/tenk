@@ -1,0 +1,41 @@
+{
+  "symbol": "syy",
+  "name": "Sysco Corporation",
+  "ipoYear": null,
+  "sector": "Consumer Non-Durables",
+  "industry": "Food Distributors",
+  "exchange": "nyse",
+  "category": "WHOLESALE-GROCERIES &amp;amp; RELATED PRODUCTS",
+  "address": {
+    "street1": "1390 ENCLAVE PKWY",
+    "city": "HOUSTON",
+    "state": "TX",
+    "zip": "77077"
+  },
+  "profit": {
+    "2009": 1055948000,
+    "2010": 1179983000,
+    "2011": 1152030000,
+    "2012": 1121585000,
+    "2013": 992427000,
+    "2014": 931533000
+  },
+  "cash": {
+    "2009": 1018651000,
+    "2010": 585443000,
+    "2011": 639765000,
+    "2012": 688867000,
+    "2013": 412285000,
+    "2014": 413046000
+  },
+  "earningsPerShare": {
+    "2009": 1.77,
+    "2010": 1.99,
+    "2011": 1.96,
+    "2012": 1.91,
+    "2013": 1.68,
+    "2014": 1.59
+  },
+  "htmlUrl": "http://www.sec.gov/Archives/edgar/data/96021/000009602114000040/0000096021-14-000040-index.htm",
+  "xmlUrl": "http://www.sec.gov/Archives/edgar/data/96021/000009602114000040/syy-20140628.xml"
+}
