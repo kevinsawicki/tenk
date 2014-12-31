@@ -1,0 +1,38 @@
+{
+  "symbol": "pcg",
+  "name": "Pacific Gas & Electric Co.",
+  "ipoYear": null,
+  "sector": "Public Utilities",
+  "industry": "Power Generation",
+  "exchange": "nyse",
+  "category": "ELECTRIC &amp;amp; OTHER SERVICES COMBINED",
+  "address": {
+    "street1": "77 BEALE STREET",
+    "city": "SAN FRANCISCO",
+    "state": "CA",
+    "zip": "94177"
+  },
+  "profit": {
+    "2009": 1220000000,
+    "2010": 1099000000,
+    "2011": 844000000,
+    "2012": 816000000,
+    "2013": 814000000
+  },
+  "cash": {
+    "2009": 527000000,
+    "2010": 51000000,
+    "2011": 209000000,
+    "2012": 207000000,
+    "2013": 231000000
+  },
+  "earningsPerShare": {
+    "2009": 3.25,
+    "2010": 2.82,
+    "2011": 2.1,
+    "2012": 1.92,
+    "2013": 1.83
+  },
+  "htmlUrl": "http://www.sec.gov/Archives/edgar/data/1004980/000100498014000023/0001004980-14-000023-index.htm",
+  "xmlUrl": "http://www.sec.gov/Archives/edgar/data/75488/000100498014000023/pcg-20131231.xml"
+}

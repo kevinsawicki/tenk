@@ -1,0 +1,29 @@
+{
+  "symbol": "pagp",
+  "name": "Plains Group Holdings, L.P.",
+  "ipoYear": 2013,
+  "sector": "Energy",
+  "industry": "Natural Gas Distribution",
+  "exchange": "nyse",
+  "category": "PIPE LINES (NO NATURAL GAS)",
+  "address": {
+    "street1": "333 CLAY ST",
+    "city": "HOUSTON",
+    "state": "TX",
+    "zip": "77002"
+  },
+  "profit": {
+    "2011": 2000000,
+    "2012": 3000000,
+    "2013": 15000000
+  },
+  "cash": {
+    "2010": 37000000,
+    "2011": 27000000,
+    "2012": 25000000,
+    "2013": 43000000
+  },
+  "earningsPerShare": {},
+  "htmlUrl": "http://www.sec.gov/Archives/edgar/data/1581990/000110465914018845/0001104659-14-018845-index.htm",
+  "xmlUrl": "http://www.sec.gov/Archives/edgar/data/1581990/000110465914018845/pagp-20131231.xml"
+}

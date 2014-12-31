@@ -1,0 +1,32 @@
+{
+  "symbol": "pbf",
+  "name": "PBF Energy Inc.",
+  "ipoYear": 2012,
+  "sector": "Energy",
+  "industry": "Integrated oil Companies",
+  "exchange": "nyse",
+  "category": "PETROLEUM REFINING",
+  "address": {
+    "street1": "1 SYLVAN WAY",
+    "city": "PARSIPPANY",
+    "state": "NJ",
+    "zip": "07054"
+  },
+  "profit": {
+    "2011": 242671000,
+    "2012": 1956000,
+    "2013": 39540000
+  },
+  "cash": {
+    "2010": 155457000,
+    "2011": 50166000,
+    "2012": 285884000,
+    "2013": 76970000
+  },
+  "earningsPerShare": {
+    "2012": 0.08,
+    "2013": 1.22
+  },
+  "htmlUrl": "http://www.sec.gov/Archives/edgar/data/1534504/000153450414000011/0001534504-14-000011-index.htm",
+  "xmlUrl": "http://www.sec.gov/Archives/edgar/data/1534504/000153450414000011/pbf-20131231.xml"
+}

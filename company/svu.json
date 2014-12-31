@@ -1,0 +1,41 @@
+{
+  "symbol": "svu",
+  "name": "SuperValu Inc.",
+  "ipoYear": null,
+  "sector": "Consumer Services",
+  "industry": "Food Chains",
+  "exchange": "nyse",
+  "category": "RETAIL-GROCERY STORES",
+  "address": {
+    "street1": "7075 FLYING CLOUD DRIVE",
+    "city": "EDEN PRAIRIE",
+    "state": "MN",
+    "zip": "55344"
+  },
+  "profit": {
+    "2009": -2855000000,
+    "2010": 393000000,
+    "2011": -1510000000,
+    "2012": -1040000000,
+    "2013": -1466000000,
+    "2014": 182000000
+  },
+  "cash": {
+    "2009": 240000000,
+    "2010": 211000000,
+    "2011": 172000000,
+    "2012": 64000000,
+    "2013": 72000000,
+    "2014": 83000000
+  },
+  "earningsPerShare": {
+    "2009": -13.51,
+    "2010": 1.86,
+    "2011": -7.13,
+    "2012": -4.91,
+    "2013": -6.91,
+    "2014": 0.71
+  },
+  "htmlUrl": "http://www.sec.gov/Archives/edgar/data/95521/000119312514154989/0001193125-14-154989-index.htm",
+  "xmlUrl": "http://www.sec.gov/Archives/edgar/data/95521/000119312514154989/svu-20140222.xml"
+}

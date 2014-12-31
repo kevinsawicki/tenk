@@ -1,0 +1,37 @@
+{
+  "symbol": "pru",
+  "name": "Prudential Financial, Inc.",
+  "ipoYear": 2001,
+  "sector": "Finance",
+  "industry": "Life Insurance",
+  "exchange": "nyse",
+  "category": "LIFE INSURANCE",
+  "address": {
+    "street1": "751 BROAD ST",
+    "city": "NEWARK",
+    "state": "NJ",
+    "zip": "07102"
+  },
+  "profit": {
+    "2009": 3124000000,
+    "2010": 3001000000,
+    "2011": 3632000000,
+    "2012": 520000000,
+    "2013": -667000000
+  },
+  "cash": {
+    "2009": 13164000000,
+    "2010": 12915000000,
+    "2011": 14251000000,
+    "2012": 18100000000,
+    "2013": 11439000000
+  },
+  "earningsPerShare": {
+    "2009": 7.68,
+    "2010": 5.38,
+    "2011": 7.21,
+    "2012": 1.06,
+    "2013": -1.55
+  },
+  "htmlUrl": "http://www.sec.gov/Archives/edgar/data/1137774/000119312514225681/0001193125-14-225681-index.htm"
+}

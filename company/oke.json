@@ -1,0 +1,38 @@
+{
+  "symbol": "oke",
+  "name": "ONEOK, Inc.",
+  "ipoYear": null,
+  "sector": "Public Utilities",
+  "industry": "Oil & Gas Production",
+  "exchange": "nyse",
+  "category": "NATURAL GAS TRANSMISSION &amp;amp; DISTRIBUTION",
+  "address": {
+    "street1": "100 WEST 5TH ST",
+    "city": "TULSA",
+    "state": "OK",
+    "zip": "74103"
+  },
+  "profit": {
+    "2009": 305451000,
+    "2010": 334632000,
+    "2011": 360594000,
+    "2012": 360619000,
+    "2013": 266533000
+  },
+  "cash": {
+    "2009": 30917000,
+    "2010": 30341000,
+    "2011": 65953000,
+    "2012": 583618000,
+    "2013": 149313000
+  },
+  "earningsPerShare": {
+    "2009": 2.9,
+    "2010": 1.57,
+    "2011": 1.72,
+    "2012": 1.75,
+    "2013": 1.29
+  },
+  "htmlUrl": "http://www.sec.gov/Archives/edgar/data/1039684/000103968414000019/0001039684-14-000019-index.htm",
+  "xmlUrl": "http://www.sec.gov/Archives/edgar/data/1039684/000103968414000019/oke-20131231.xml"
+}

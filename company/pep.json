@@ -1,0 +1,38 @@
+{
+  "symbol": "pep",
+  "name": "Pepsico, Inc.",
+  "ipoYear": null,
+  "sector": "Consumer Non-Durables",
+  "industry": "Beverages (Production/Distribution)",
+  "exchange": "nyse",
+  "category": "BEVERAGES",
+  "address": {
+    "street1": "700 ANDERSON HILL RD",
+    "city": "PURCHASE",
+    "state": "NY",
+    "zip": "10577"
+  },
+  "profit": {
+    "2009": 5946000000,
+    "2010": 6320000000,
+    "2011": 6443000000,
+    "2012": 6178000000,
+    "2013": 6740000000
+  },
+  "cash": {
+    "2009": 3943000000,
+    "2010": 5943000000,
+    "2011": 4067000000,
+    "2012": 6297000000,
+    "2013": 9375000000
+  },
+  "earningsPerShare": {
+    "2009": 3.81,
+    "2010": 3.97,
+    "2011": 4.08,
+    "2012": 3.96,
+    "2013": 4.37
+  },
+  "htmlUrl": "http://www.sec.gov/Archives/edgar/data/77476/000007747614000007/0000077476-14-000007-index.htm",
+  "xmlUrl": "http://www.sec.gov/Archives/edgar/data/77476/000007747614000007/pep-20131228.xml"
+}

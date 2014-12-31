@@ -1,0 +1,38 @@
+{
+  "symbol": "rtn",
+  "name": "Raytheon Company",
+  "ipoYear": null,
+  "sector": "Capital Goods",
+  "industry": "Industrial Machinery/Components",
+  "exchange": "nyse",
+  "category": "SEARCH, DETECTION, NAVIGATION, GUIDANCE, AERONAUTICAL SYS",
+  "address": {
+    "street1": "870 WINTER STREET",
+    "city": "WALTHAM",
+    "state": "MA",
+    "zip": "02451-1449"
+  },
+  "profit": {
+    "2009": 1935000000,
+    "2010": 1840000000,
+    "2011": 1866000000,
+    "2012": 1888000000,
+    "2013": 1996000000
+  },
+  "cash": {
+    "2009": 2642000000,
+    "2010": 3638000000,
+    "2011": 4000000000,
+    "2012": 3188000000,
+    "2013": 3296000000
+  },
+  "earningsPerShare": {
+    "2009": 4.96,
+    "2010": 4.94,
+    "2011": 5.3,
+    "2012": 5.67,
+    "2013": 6.17
+  },
+  "htmlUrl": "http://www.sec.gov/Archives/edgar/data/1047122/000104712214000013/0001047122-14-000013-index.htm",
+  "xmlUrl": "http://www.sec.gov/Archives/edgar/data/1047122/000104712214000013/rtn-20131231.xml"
+}

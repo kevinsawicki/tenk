@@ -1,0 +1,38 @@
+{
+  "symbol": "ppg",
+  "name": "PPG Industries, Inc.",
+  "ipoYear": null,
+  "sector": "Basic Industries",
+  "industry": "Paints/Coatings",
+  "exchange": "nyse",
+  "category": "PAINTS, VARNISHES, LACQUERS, ENAMELS &amp;amp; ALLIED PRODUCTS",
+  "address": {
+    "street1": "ONE PPG PL 40 EAST",
+    "city": "PITTSBURGH",
+    "state": "PA",
+    "zip": "15272"
+  },
+  "profit": {
+    "2009": 336000000,
+    "2010": 769000000,
+    "2011": 1095000000,
+    "2012": 941000000,
+    "2013": 3231000000
+  },
+  "cash": {
+    "2009": 1057000000,
+    "2010": 1341000000,
+    "2011": 1457000000,
+    "2012": 1306000000,
+    "2013": 1116000000
+  },
+  "earningsPerShare": {
+    "2009": 2.04,
+    "2010": 4.67,
+    "2011": 6.96,
+    "2012": 6.13,
+    "2013": 22.53
+  },
+  "htmlUrl": "http://www.sec.gov/Archives/edgar/data/79879/000007987914000010/0000079879-14-000010-index.htm",
+  "xmlUrl": "http://www.sec.gov/Archives/edgar/data/79879/000007987914000010/ppg-20131231.xml"
+}

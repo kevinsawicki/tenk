@@ -1,0 +1,38 @@
+{
+  "symbol": "pfe",
+  "name": "Pfizer, Inc.",
+  "ipoYear": null,
+  "sector": "Health Care",
+  "industry": "Major Pharmaceuticals",
+  "exchange": "nyse",
+  "category": "PHARMACEUTICAL PREPARATIONS",
+  "address": {
+    "street1": "235 E 42ND ST",
+    "city": "NEW YORK",
+    "state": "NY",
+    "zip": "10017"
+  },
+  "profit": {
+    "2009": 8635000000,
+    "2010": 8257000000,
+    "2011": 10009000000,
+    "2012": 14570000000,
+    "2013": 22003000000
+  },
+  "cash": {
+    "2009": 1978000000,
+    "2010": 1735000000,
+    "2011": 3182000000,
+    "2012": 10081000000,
+    "2013": 2183000000
+  },
+  "earningsPerShare": {
+    "2009": 1.23,
+    "2010": 1.03,
+    "2011": 1.28,
+    "2012": 1.96,
+    "2013": 3.23
+  },
+  "htmlUrl": "http://www.sec.gov/Archives/edgar/data/78003/000007800314000018/0000078003-14-000018-index.htm",
+  "xmlUrl": "http://www.sec.gov/Archives/edgar/data/78003/000007800314000018/pfe-20131231.xml"
+}

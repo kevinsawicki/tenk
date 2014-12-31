@@ -1,0 +1,38 @@
+{
+  "symbol": "pag",
+  "name": "Penske Automotive Group, Inc.",
+  "ipoYear": null,
+  "sector": "Consumer Durables",
+  "industry": "Automotive Aftermarket",
+  "exchange": "nyse",
+  "category": "RETAIL-AUTO DEALERS &amp;amp; GASOLINE STATIONS",
+  "address": {
+    "street1": "2555 TELEGRAPH RD",
+    "city": "BLOOMFIELD HILLS",
+    "state": "MI",
+    "zip": "48302-0954"
+  },
+  "profit": {
+    "2009": 76461000,
+    "2010": 108281000,
+    "2011": 176900000,
+    "2012": 185500000,
+    "2013": 244200000
+  },
+  "cash": {
+    "2009": 14139000,
+    "2010": 17900000,
+    "2011": 26800000,
+    "2012": 34400000,
+    "2013": 49800000
+  },
+  "earningsPerShare": {
+    "2009": 0.84,
+    "2010": 1.18,
+    "2011": 1.94,
+    "2012": 2.05,
+    "2013": 2.71
+  },
+  "htmlUrl": "http://www.sec.gov/Archives/edgar/data/1019849/000104746914001666/0001047469-14-001666-index.htm",
+  "xmlUrl": "http://www.sec.gov/Archives/edgar/data/1019849/000104746914001666/pag-20131231.xml"
+}

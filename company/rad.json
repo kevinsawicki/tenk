@@ -1,0 +1,41 @@
+{
+  "symbol": "rad",
+  "name": "Rite Aid Corporation",
+  "ipoYear": null,
+  "sector": "Health Care",
+  "industry": "Medical/Nursing Services",
+  "exchange": "nyse",
+  "category": "RETAIL-DRUG STORES AND PROPRIETARY STORES",
+  "address": {
+    "street1": "30 HUNTER LANE",
+    "city": "CAMP HILL OWN",
+    "state": "PA",
+    "zip": "17011"
+  },
+  "profit": {
+    "2009": -2937290000,
+    "2010": -506676000,
+    "2011": -555424000,
+    "2012": -368571000,
+    "2013": 118105000,
+    "2014": 249414000
+  },
+  "cash": {
+    "2009": 152035000,
+    "2010": 103594000,
+    "2011": 91116000,
+    "2012": 162285000,
+    "2013": 129452000,
+    "2014": 146406000
+  },
+  "earningsPerShare": {
+    "2009": -3.49,
+    "2010": -0.59,
+    "2011": -0.64,
+    "2012": -0.43,
+    "2013": 0.12,
+    "2014": 0.23
+  },
+  "htmlUrl": "http://www.sec.gov/Archives/edgar/data/84129/000104746914004077/0001047469-14-004077-index.htm",
+  "xmlUrl": "http://www.sec.gov/Archives/edgar/data/84129/000104746914004077/rad-20140301.xml"
+}

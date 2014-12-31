@@ -1,0 +1,41 @@
+{
+  "symbol": "pg",
+  "name": "Procter & Gamble Company (The)",
+  "ipoYear": null,
+  "sector": "Basic Industries",
+  "industry": "Package Goods/Cosmetics",
+  "exchange": "nyse",
+  "category": "SOAP, DETERGENT, CLEANING PREPARATIONS, PERFUMES, COSMETICS",
+  "address": {
+    "street1": "ONE PROCTER &amp; GAMBLE PLAZA",
+    "city": "CINCINNATI",
+    "state": "OH",
+    "zip": "45202"
+  },
+  "profit": {
+    "2009": 13436000000,
+    "2010": 12736000000,
+    "2011": 11797000000,
+    "2012": 10756000000,
+    "2013": 11312000000,
+    "2014": 11643000000
+  },
+  "cash": {
+    "2009": 4781000000,
+    "2010": 2879000000,
+    "2011": 2768000000,
+    "2012": 4436000000,
+    "2013": 5947000000,
+    "2014": 8558000000
+  },
+  "earningsPerShare": {
+    "2009": 4.49,
+    "2010": 4.32,
+    "2011": 4.12,
+    "2012": 3.82,
+    "2013": 4.04,
+    "2014": 4.19
+  },
+  "htmlUrl": "http://www.sec.gov/Archives/edgar/data/80424/000008042414000057/0000080424-14-000057-index.htm",
+  "xmlUrl": "http://www.sec.gov/Archives/edgar/data/80424/000008042414000057/pg-20140630.xml"
+}

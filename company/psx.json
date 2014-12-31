@@ -1,0 +1,37 @@
+{
+  "symbol": "psx",
+  "name": "Phillips 66",
+  "ipoYear": null,
+  "sector": "Energy",
+  "industry": "Integrated oil Companies",
+  "exchange": "nyse",
+  "category": "PETROLEUM REFINING",
+  "address": {
+    "street1": "3010 BRIARPARK DRIVE",
+    "city": "HOUSTON",
+    "state": "TX",
+    "zip": "77042"
+  },
+  "profit": {
+    "2010": 735000000,
+    "2011": 4775000000,
+    "2012": 4124000000,
+    "2013": 3726000000
+  },
+  "cash": {
+    "2009": 0,
+    "2010": 0,
+    "2011": 0,
+    "2012": 3474000000,
+    "2013": 5400000000,
+    "2014": 450000000
+  },
+  "earningsPerShare": {
+    "2010": 1.17,
+    "2011": 7.61,
+    "2012": 6.55,
+    "2013": 6.07
+  },
+  "htmlUrl": "http://www.sec.gov/Archives/edgar/data/1534701/000153470114000042/0001534701-14-000042-index.htm",
+  "xmlUrl": "http://www.sec.gov/Archives/edgar/data/1534701/000153470114000042/psx-20131231.xml"
+}

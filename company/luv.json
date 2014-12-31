@@ -1,0 +1,38 @@
+{
+  "symbol": "luv",
+  "name": "Southwest Airlines Company",
+  "ipoYear": null,
+  "sector": "Transportation",
+  "industry": "Air Freight/Delivery Services",
+  "exchange": "nyse",
+  "category": "AIR TRANSPORTATION, SCHEDULED",
+  "address": {
+    "street1": "2702 LOVE FIELD DR",
+    "city": "DALLAS",
+    "state": "TX",
+    "zip": "75235"
+  },
+  "profit": {
+    "2009": 99000000,
+    "2010": 459000000,
+    "2011": 178000000,
+    "2012": 421000000,
+    "2013": 754000000
+  },
+  "cash": {
+    "2009": 1114000000,
+    "2010": 1261000000,
+    "2011": 829000000,
+    "2012": 1113000000,
+    "2013": 1355000000
+  },
+  "earningsPerShare": {
+    "2009": 0.13,
+    "2010": 0.62,
+    "2011": 0.23,
+    "2012": 0.56,
+    "2013": 1.06
+  },
+  "htmlUrl": "http://www.sec.gov/Archives/edgar/data/92380/000009238014000010/0000092380-14-000010-index.htm",
+  "xmlUrl": "http://www.sec.gov/Archives/edgar/data/92380/000009238014000010/luv-20131231.xml"
+}

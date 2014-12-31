@@ -1,0 +1,32 @@
+{
+  "symbol": "pgr",
+  "name": "Progressive Corporation (The)",
+  "ipoYear": null,
+  "sector": "Finance",
+  "industry": "Property-Casualty Insurers",
+  "exchange": "nyse",
+  "category": "FIRE, MARINE &amp;amp; CASUALTY INSURANCE",
+  "address": {
+    "street1": "6300 WILSON MILLS RD",
+    "city": "MAYFIELD VILLAGE",
+    "state": "OH",
+    "zip": "44143"
+  },
+  "profit": {
+    "2009": 1057500000,
+    "2010": 1068300000,
+    "2011": 1015500000,
+    "2012": 902300000,
+    "2013": 1165400000
+  },
+  "cash": {},
+  "earningsPerShare": {
+    "2009": 1.59,
+    "2010": 1.62,
+    "2011": 1.61,
+    "2012": 1.5,
+    "2013": 1.95
+  },
+  "htmlUrl": "http://www.sec.gov/Archives/edgar/data/80661/000008066114000010/0000080661-14-000010-index.htm",
+  "xmlUrl": "http://www.sec.gov/Archives/edgar/data/80661/000008066114000010/pgr-20131231.xml"
+}
