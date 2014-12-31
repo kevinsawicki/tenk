@@ -25,6 +25,10 @@ readCompany = (symbolPath, callback) ->
     company.humanizedName = company.humanizedName.replace(/(,|\sand|\s&)\s*$/gi, '')
     company.humanizedName = company.humanizedName.replace(/^the\s+/gi, '')
     company.humanizedName = company.humanizedName.trim()
+    if company.address.street1
+      company.address.humanizedStreet = Humanize.titleCase(company.address.street1.toLowerCase())
+    if company.address.city
+      company.address.humanizedCity = Humanize.titleCase(company.address.city.toLowerCase())
     companies.push(company)
     callback()
 
